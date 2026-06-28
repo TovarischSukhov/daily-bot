@@ -17,6 +17,15 @@ logger = logging.getLogger(__name__)
 SUMMARY_MAX_CHARS = 500
 FETCH_TIMEOUT = 20.0
 _TAG_RE = re.compile(r"<[^>]+>")
+# Some feed servers reject header-less requests (415/403). Send a browser-like
+# UA and an XML Accept so they serve the feed.
+_FEED_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+    ),
+    "Accept": "application/rss+xml, application/atom+xml, application/xml, text/xml, */*",
+}
 # Tracking params to strip so the stored URL matches the canonical one Claude
 # echoes back (and so links are clean). Keep meaningful query params.
 _TRACKING_KEYS = {"fbclid", "gclid", "mc_cid", "mc_eid", "ref", "_hsenc", "_hsmi"}
@@ -64,7 +73,9 @@ def _full_content(entry) -> str | None:
 def fetch_recent_entries(feeds: list[Feed], since: datetime) -> list[Entry]:
     out: list[Entry] = []
     seen_urls: set[str] = set()
-    with httpx.Client(timeout=FETCH_TIMEOUT, follow_redirects=True) as client:
+    with httpx.Client(
+        timeout=FETCH_TIMEOUT, follow_redirects=True, headers=_FEED_HEADERS
+    ) as client:
         for feed in feeds:
             try:
                 resp = client.get(str(feed.url))
