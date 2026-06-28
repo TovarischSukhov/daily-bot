@@ -71,7 +71,7 @@ On schedule:
 4. Cap entries to `MAX_ENTRIES_TO_CLAUDE` (newest first) — see Cost & Token Control
 5. Send the capped entries to Claude in one call with the prompt from `prompts/news.md`, with the profile injected
 6. Claude returns structured JSON: an `overview` string plus a list of items with title, summary, url, topic, `importance`, `content_potential`, `angle`, source
-7. Build the **digest**: items where `importance >= IMPORTANCE_THRESHOLD` (default 3 on a 1–5 scale; env-configurable), grouped by topic, sorted by importance descending within each topic
+7. Build the **digest**: items where `importance >= effective_importance_threshold(n_vetted)` — adaptive (see `QUIET_DAY_MAX` under Constants): show all on quiet days, only the cream on busy days. Grouped by topic, sorted by importance descending within each topic
 8. Build the **content picks**: items where `content_potential >= CONTENT_POTENTIAL_FLOOR`, ranked by `content_potential` descending, top `CONTENT_PICKS` (picks are selected independently of the importance filter — a pick may be below the importance threshold)
 9. Format as a Slack message using Block Kit: Overview → Worth a take (picks) → topic-grouped digest
 10. POST to Slack webhook
@@ -195,7 +195,8 @@ def run(dry_run: bool = False) -> int:
 ### Constants (top of file, overridable via env)
 
 - `LOOKBACK_HOURS = int(os.getenv("LOOKBACK_HOURS", "24"))`
-- `IMPORTANCE_THRESHOLD = int(os.getenv("IMPORTANCE_THRESHOLD", "3"))`
+- `IMPORTANCE_THRESHOLD = int(os.getenv("IMPORTANCE_THRESHOLD", "3"))` — the cream bar applied on busy days
+- `QUIET_DAY_MAX = int(os.getenv("QUIET_DAY_MAX", "5"))` — adaptive gate: if triage vets `<= QUIET_DAY_MAX` items, show all of them (effective threshold 1); above that, fall back to `IMPORTANCE_THRESHOLD`. So quiet days never go empty and busy days stay selective. Triage is the real relevance filter; this only decides how much of its output to surface.
 - `MAX_ITEMS_IN_DIGEST = int(os.getenv("MAX_ITEMS_IN_DIGEST", "15"))` — hard cap to keep Slack message readable
 - `MAX_ENTRIES_TO_CLAUDE = int(os.getenv("MAX_ENTRIES_TO_CLAUDE", "60"))` — hard cap on entries sent to Claude in one call; bounds input-token spend (see Cost & Token Control)
 - `CONTENT_PICKS = int(os.getenv("CONTENT_PICKS", "3"))` — how many "Worth a take" items to surface

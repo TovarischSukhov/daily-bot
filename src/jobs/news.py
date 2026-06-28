@@ -26,7 +26,8 @@ from src.lib.seen import (
 logger = logging.getLogger(__name__)
 
 LOOKBACK_HOURS = int(os.getenv("LOOKBACK_HOURS", "24"))
-IMPORTANCE_THRESHOLD = int(os.getenv("IMPORTANCE_THRESHOLD", "3"))
+IMPORTANCE_THRESHOLD = int(os.getenv("IMPORTANCE_THRESHOLD", "3"))  # busy-day cream bar
+QUIET_DAY_MAX = int(os.getenv("QUIET_DAY_MAX", "5"))  # <= this many vetted → show all
 MAX_ITEMS_IN_DIGEST = int(os.getenv("MAX_ITEMS_IN_DIGEST", "15"))
 MAX_ENTRIES_TO_TRIAGE = int(os.getenv("MAX_ENTRIES_TO_TRIAGE", "400"))
 CONTENT_PICKS = int(os.getenv("CONTENT_PICKS", "3"))
@@ -161,8 +162,14 @@ def deepen(
     return ok, fallback
 
 
-def select(items: list[Item]) -> tuple[list[Item], list[Item]]:
-    filtered = [i for i in items if i.importance >= IMPORTANCE_THRESHOLD]
+def effective_importance_threshold(n_vetted: int) -> int:
+    """Adaptive: on a quiet day (few items survive triage) show everything;
+    on a busy day keep only the cream above IMPORTANCE_THRESHOLD."""
+    return 1 if n_vetted <= QUIET_DAY_MAX else IMPORTANCE_THRESHOLD
+
+
+def select(items: list[Item], importance_threshold: int) -> tuple[list[Item], list[Item]]:
+    filtered = [i for i in items if i.importance >= importance_threshold]
     picks = sorted(
         (i for i in items if i.content_potential >= CONTENT_POTENTIAL_FLOOR),
         key=lambda i: i.content_potential,
@@ -268,16 +275,16 @@ def run(dry_run: bool = False) -> int:
         metrics["entries_dropped_cap"] = dropped_cap
 
         overview, scored = triage(triage_input, profile, format_for_prompt(seen), usage)
+        threshold = effective_importance_threshold(len(scored))
         metrics["triage_selected"] = len(scored)
         metrics["triage_dropped"] = len(triage_input) - len(scored)
-        metrics["selected_importance"] = sum(
-            1 for i in scored if i.importance >= IMPORTANCE_THRESHOLD
-        )
+        metrics["day_mode"] = "quiet" if threshold == 1 else "busy"
+        metrics["importance_threshold_used"] = threshold
         metrics["selected_content"] = sum(
             1 for i in scored if i.content_potential >= CONTENT_POTENTIAL_FLOOR
         )
 
-        filtered, picks = select(scored)
+        filtered, picks = select(scored, threshold)
         if not filtered and not picks:
             log("Nothing above threshold and no content picks; exiting cleanly.")
             _finish(metrics, usage, started)
