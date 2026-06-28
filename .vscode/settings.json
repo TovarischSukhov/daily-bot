@@ -1,0 +1,67 @@
+{
+  // Interpreter — assumes a local .venv
+  "python.defaultInterpreterPath": "${workspaceFolder}/.venv/bin/python",
+
+  // Testing
+  "python.testing.pytestEnabled": true,
+  "python.testing.unittestEnabled": false,
+  "python.testing.pytestArgs": ["tests"],
+
+  // Formatting / linting via Ruff
+  "[python]": {
+    "editor.defaultFormatter": "charliermarsh.ruff",
+    "editor.formatOnSave": true,
+    "editor.codeActionsOnSave": {
+      "source.fixAll.ruff": "explicit",
+      "source.organizeImports.ruff": "explicit"
+    }
+  },
+
+  // Type checking — basic is enough; spec says mypy-clean not required
+  "python.analysis.typeCheckingMode": "basic",
+  "python.analysis.autoImportCompletions": true,
+
+  // Keep the tree clean
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.pytest_cache": true,
+    "**/*.egg-info": true,
+    ".ruff_cache": true
+  },
+
+  // YAML schema help for the workflow file
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": ".github/workflows/*.yml"
+  },
+  "files.associations": { "config/feeds.yml": "yaml" },
+
+  // Per-workspace window color via Peacock — distinguishes THIS project's
+  // window from other VSCode windows. Peacock owns/maintains the derived
+  // colorCustomizations from peacock.color, so it persists across reloads.
+  // Change the shade: Command Palette → "Peacock: Change to a Favorite Color".
+  "peacock.color": "#2D6AA0",
+  "peacock.affectedElements": {
+    "activityBar": true,
+    "statusBar": true,
+    "titleBar": true
+  },
+  "workbench.colorCustomizations": {
+    "activityBar.activeBackground": "#3984c7",
+    "activityBar.background": "#3984c7",
+    "activityBar.foreground": "#e7e7e7",
+    "activityBar.inactiveForeground": "#e7e7e799",
+    "activityBarBadge.background": "#eab4d1",
+    "activityBarBadge.foreground": "#15202b",
+    "commandCenter.border": "#e7e7e799",
+    "sash.hoverBorder": "#3984c7",
+    "statusBar.background": "#2d6aa0",
+    "statusBar.foreground": "#e7e7e7",
+    "statusBarItem.hoverBackground": "#3984c7",
+    "statusBarItem.remoteBackground": "#2d6aa0",
+    "statusBarItem.remoteForeground": "#e7e7e7",
+    "titleBar.activeBackground": "#2d6aa0",
+    "titleBar.activeForeground": "#e7e7e7",
+    "titleBar.inactiveBackground": "#2d6aa099",
+    "titleBar.inactiveForeground": "#e7e7e799"
+  }
+}
