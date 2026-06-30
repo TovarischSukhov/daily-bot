@@ -453,5 +453,47 @@
     "topic": "Ad & Marketing",
     "gist": "Walmart agreed to acquire connected TV ad platform Vibe.co for over $1B, continuing its push to let advertisers use Walmart shopper data to prove that streaming TV ads drive in-store and online purchases.",
     "date": "2026-06-29"
+  },
+  {
+    "url": "https://www.retaildive.com/news/amazon-prime-day-online-us-sales-numbers-grow-2026/823973/",
+    "title": "Amazon’s Prime Day drives online sales in the US up 9.3%",
+    "topic": "Marketplaces",
+    "gist": "U.S. online retail spend grew 9.3% YoY to $26.4 billion during Amazon's Prime Day (June 23–26), with shoppers trading up to more expensive items and BNPL usage jumping 9.5%. The event is now approaching Black Friday-scale spend, with roughly 40% of tracked retailers running deeper promotions than last year.",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/whats-next-for-international-shipping-as-eu-ends-de-minimis-exemption/",
+    "title": "What’s next for international shipping as EU ends de minimis exemption",
+    "topic": "Fulfillment & Ops",
+    "gist": "The EU is eliminating its €150 de minimis exemption on July 1, replacing it with a temporary flat €3 customs duty per declared line item on low-value packages. A five-SKU shipment under €150 will now incur a €15 fee rather than no duty at all.",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://www.retaildive.com/news/consumer-spending-rises-inflation-speeds-up-three-year-high/823861/",
+    "title": "Consumer spending rises as inflation speeds up to three-year high",
+    "topic": "Macro",
+    "gist": "U.S. consumer spending rose 0.7% in May despite PCE inflation hitting 4.1% annually, the fastest pace in three years, while income rose at the same rate. Markets now price an 80% chance the Fed raises rates by year-end, with core inflation expected to stay above target through 2028.",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://www.modernretail.co/technology/electronics-prices-are-starting-to-soar-adding-to-the-stress-consumers-are-facing/",
+    "title": "Electronics prices are starting to soar, adding to the stress consumers are facing",
+    "topic": "Consumer Trends",
+    "gist": "Apple, Microsoft, and Nintendo have all announced significant price increases on laptops, tablets, and game consoles, driven by a memory and storage chip shortage caused by AI data center demand. The MacBook Pro gained $300, Xbox consoles will rise $150–$200 in August, and Nintendo Switch 2 will increase $50 in September.",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://ecommercenews.eu/amazon-launches-ai-assistant-for-german-sellers/",
+    "title": "Amazon launches AI assistant for German sellers",
+    "topic": "Marketplaces",
+    "gist": "Amazon has launched its AI-powered Seller Assistant inside Seller Central in Germany, designed to help sellers find information and make business decisions more efficiently.",
+    "date": "2026-06-30"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/search-consoles-new-ai-data-is-a-start",
+    "title": "Search Console’s New AI Data Is a Start",
+    "topic": "Ad & Marketing",
+    "gist": "Google Search Console has added a 'Generative AI' section showing URL impressions in AI Overviews and AI Mode, but the report has no click-through data, no feature-specific filters, and counts impressions even when users never see the cited URL. Site owners can now also block their content from appearing in Google's AI answers.",
+    "date": "2026-06-30"
   }
 ]
