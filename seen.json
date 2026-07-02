@@ -1,54 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/06/16/sixty-percent-of-u-s-consumers-say-ai-in-brand-messaging-is-a-turnoff-survey-finds/",
-    "title": "Sixty percent of US consumers say ‘AI’ in brand messaging is a turnoff, survey finds",
-    "topic": "Ad & Marketing",
-    "gist": "A WordPress VIP survey of 2,000 respondents found 60% of US consumers are turned off by brands using 'AI' in their messaging, and 86% don't fully trust AI-generated answers — yet AI referrals to brand sites grew for 60% of enterprise respondents over the past year.",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://www.retaildive.com/news/bark-loses-subscribers-q1-sales-declines-earnings/822827/",
-    "title": "‘BarkBox is not a box’: CEO",
-    "topic": "DTC & Brands",
-    "gist": "Bark CEO Matt Meeker admitted the company 'fought the wrong battles' by over-optimizing a subscription personalization model that has become table stakes, as full-year revenue fell 18.5% to $394.8 million and the company pivots toward wholesale, marketplace, and lifestyle experiences.",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/fashion-is-now-the-largest-category-on-whatnot-as-brands-flock-to-the-platform/",
-    "title": "Fashion is now the largest category on Whatnot as brands flock to the platform",
-    "topic": "Marketplaces",
-    "gist": "Whatnot, valued at over $11 billion after a $225M raise, has seen fashion overtake collectibles as its largest category, with 12 million fashion orders per month and 20 million new buyers in the past year. The platform ranked as the second-most-downloaded shopping app on the Apple App Store in April, above Amazon and eBay.",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://digiday.com/sponsored/wtf-is-agentic-commerce-loyalty-promotions/",
-    "title": "WTF is agentic commerce? | How brands can make loyalty and promotions agent-ready",
-    "topic": "Retail",
-    "gist": "A sponsored guide from Talon.One outlines how AI agents are beginning to handle end-to-end shopping journeys, with Bain projecting agentic AI could represent 15–25% of total U.S. e-commerce by 2030. The piece argues brands need to make their loyalty and promotions infrastructure agent-readable to remain competitive.",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/260-sample-sale-sees-foot-traffic-jump-as-luxury-customers-seek-value/",
-    "title": "260 Sample Sale sees foot traffic jump as luxury customers seek value",
-    "topic": "Consumer Trends",
-    "gist": "260 Sample Sale, which runs off-price events for luxury and premium brands like Balmain and Dr. Barbara Sturm, reported a 10% foot traffic increase from 2024 to 2025 and is expanding into home and beauty categories. The growth reflects broad consumer demand for discounted premium goods across income levels.",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://digiday.com/marketing/openai-moves-to-automate-ad-creative/",
-    "title": "OpenAI moves to automate ad creative",
-    "topic": "Ad & Marketing",
-    "gist": "OpenAI is expanding its ad pilot to include AI-powered creative tools that let advertisers automatically generate, modify, optimize, and localize ad creatives, going beyond just ad delivery support. The capability is outlined in an updated Ad Tools Terms document.",
-    "date": "2026-06-17"
-  },
-  {
-    "url": "https://digiday.com/marketing/we-believe-in-america-nike-global-vp-of-soccer-camilo-andrade-on-the-brands-world-cup-strategy/",
-    "title": "‘We believe in America’: Nike global vp of soccer Camilo Andrade on the brand’s World Cup strategy",
-    "topic": "DTC & Brands",
-    "gist": "Nike is centering its World Cup marketing around its 'Sport Offense' strategy under new CEO Elliott Hill, with a campaign featuring soccer legends and celebrities, plus product collaborations with names like Jacquemus. The push reflects a deliberate return to sports and teamwear as the brand's commercial core.",
-    "date": "2026-06-17"
-  },
-  {
     "url": "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/",
     "title": "An Interview with Michael Morton About E-Commerce in the Age of AI",
     "topic": "Retail",
@@ -488,5 +439,61 @@
     "topic": "Ad & Marketing",
     "gist": "Loftie, a wellness startup, tracked that the share of customers discovering it via AI prompt engines like ChatGPT and Gemini doubled from 1.5% to 3% in six months, surfaced through post-purchase surveys. The trend points to GEO (generative engine optimization) measurement becoming a serious priority for DTC brands.",
     "date": "2026-07-01"
+  },
+  {
+    "url": "https://ecommercenews.eu/cost-per-click-increased-by-15-in-1-year/",
+    "title": "Cost-per-click increased by 15% in 1 year",
+    "topic": "Ad & Marketing",
+    "gist": "Google Ads cost-per-click rose 15% (about €0.06) between June 2024 and June 2025 across all campaign types, while return on ad spend dropped by more than 40% over the same period.",
+    "date": "2026-07-02"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/prime-day-results-suggest-shoppers-are-saving-splurges-for-black-friday/",
+    "title": "Prime Day results suggest shoppers are saving splurges for Black Friday",
+    "topic": "Marketplaces",
+    "gist": "Analysis of this year's Prime Day results suggests consumers may be holding back discretionary spending for Black Friday rather than buying during the July event.",
+    "date": "2026-07-02"
+  },
+  {
+    "url": "https://www.glossy.co/beauty/supergoop-cmo-lauren-weinberg-channel-strategy-interview/",
+    "title": "How Supergoop CMO Lauren Weinberg is tackling Amazon and TikTok Shop amid channel mix expansion",
+    "topic": "DTC & Brands",
+    "gist": "Supergoop CMO Lauren Weinberg discusses how the sunscreen brand is navigating channel expansion across Amazon and TikTok Shop while maintaining its brand positioning.",
+    "date": "2026-07-02"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/kroger-is-back-in-growth-mode-with-giant-eagle-acquisition/",
+    "title": "Kroger is back in growth mode with Giant Eagle acquisition",
+    "topic": "Retail",
+    "gist": "Kroger is acquiring regional grocer Giant Eagle for just under $1.7 billion, its first major growth move after its blocked Albertsons merger, as it faces intensifying competition from Walmart, Amazon, and discount grocers.",
+    "date": "2026-07-02"
+  },
+  {
+    "url": "https://www.retaildive.com/news/dicks-sporting-goods-adds-paid-loyalty-program-scorecard-plus/824148/",
+    "title": "Dick’s adds paid loyalty tier for $99 a year",
+    "topic": "Retail",
+    "gist": "Dick's Sporting Goods is launching ScoreCard+, a $99 annual paid loyalty tier offering free shipping, $100 in quarterly rewards, and exclusive discounts, targeting its existing 30 million loyalty members who already drive over 75% of sales.",
+    "date": "2026-07-02"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/fashion-briefing-its-what-the-people-want-bootleg-sports-merchandise-is-pushing-licensed-brands-to-step-up-their-game/",
+    "title": "Fashion Briefing: ‘What the people want’: Bootleg sports merchandise is pushing licensed brands to step up their game",
+    "topic": "Consumer Trends",
+    "gist": "Bootleg sports merchandise featuring unlicensed creative designs surged during the NBA Finals and World Cup, signaling consumer demand for culturally resonant product that official licensed brands are failing to supply.",
+    "date": "2026-07-02"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/new-ecommerce-tools-july-1-2026",
+    "title": "New Ecommerce Tools: July 1, 2026",
+    "topic": "Retail",
+    "gist": "A weekly roundup of new e-commerce tools covering integrations and launches across reviews, AI-generated content, fraud prevention, livestreaming, agentic commerce, and autonomous delivery.",
+    "date": "2026-07-02"
+  },
+  {
+    "url": "https://www.retaildive.com/news/nike-earnings-turnaround-progress-enough-sell-converse/824225/",
+    "title": "Are Nike’s ‘kernels of progress’ enough?",
+    "topic": "DTC & Brands",
+    "gist": "Nike reported Q4 revenues down 1% to $11 billion, with continued double-digit declines in China and Converse, though gross margin improved significantly partly due to a $986 million tariff refund; analysts are divided on whether the turnaround is gaining real traction.",
+    "date": "2026-07-02"
   }
 ]
