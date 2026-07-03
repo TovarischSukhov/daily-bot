@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://stratechery.com/2026/an-interview-with-michael-morton-about-e-commerce-in-the-age-of-ai/",
-    "title": "An Interview with Michael Morton About E-Commerce in the Age of AI",
-    "topic": "Retail",
-    "gist": "Stratechery published a paywalled interview with Michael Morton covering e-commerce and AI, touching on distribution vs. referral models, grocery, and autonomous vehicles. Full content requires a paid subscription.",
-    "date": "2026-06-18"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/faire-opens-its-marketplace-up-to-hotels-offices-and-non-retail-customers/",
-    "title": "Faire opens its marketplace up to hotels, offices and non-retail customers",
-    "topic": "Marketplaces",
-    "gist": "Faire has officially expanded its wholesale marketplace beyond retail resellers to include hotels, offices, and other businesses buying products for their own operational use, after a pilot that drew roughly 5,000 non-resale buyers.",
-    "date": "2026-06-18"
-  },
-  {
-    "url": "https://www.retaildive.com/news/etsy-marketing-campaign-amazon-prime-day-shop-other-jeffs/823118/",
-    "title": "Etsy goes after Prime Day with ‘Shop Other Jeffs’ campaign",
-    "topic": "Marketplaces",
-    "gist": "Etsy launched a 'Shop Other Jeffs' campaign timed to Amazon's Prime Day (June 23–26), spotlighting individual sellers on the platform as a direct counter-positioning to Amazon's scale and anonymity.",
-    "date": "2026-06-18"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/new-ecommerce-tools-june-17-2026",
-    "title": "New Ecommerce Tools: June 17, 2026",
-    "topic": "Retail",
-    "gist": "A weekly roundup of new e-commerce tools covering AI personalization, agentic commerce infrastructure, bot protection, conversational search, LTL freight from Amazon, and payment integrations from Visa/OpenAI and Shopware/PayPal.",
-    "date": "2026-06-18"
-  },
-  {
-    "url": "https://techcrunch.com/2026/06/17/ftc-lawsuit-reveals-how-subscription-scam-networks-evade-app-store-enforcement/",
-    "title": "FTC lawsuit reveals how subscription scam networks evade app store enforcement",
-    "topic": "Retail",
-    "gist": "The FTC sued Genesis Tech, alleging it ran a network of shell companies across Cyprus and Ukraine that generated nearly $700M through scammy auto-renewing subscription apps while evading Apple and Google enforcement mechanisms.",
-    "date": "2026-06-18"
-  },
-  {
     "url": "https://www.modernretail.co/technology/marketplace-briefing-shopify-launches-tools-to-help-merchants-track-sales-and-traffic-from-ai-platforms/",
     "title": "Marketplace Briefing: Shopify launches tools to help merchants track sales and traffic from AI platforms",
     "topic": "Retail",
@@ -495,5 +460,61 @@
     "topic": "DTC & Brands",
     "gist": "Nike reported Q4 revenues down 1% to $11 billion, with continued double-digit declines in China and Converse, though gross margin improved significantly partly due to a $986 million tariff refund; analysts are divided on whether the turnaround is gaining real traction.",
     "date": "2026-07-02"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/back-to-school-season-has-become-a-summer-long-event-thanks-to-an-earlier-prime-day/",
+    "title": "Back-to-school season has become a summer-long event, thanks to an earlier Prime Day",
+    "topic": "Retail",
+    "gist": "Amazon's decision to move Prime Day to late June has effectively made back-to-school shopping a summer-long event, with Target and Walmart following suit and smaller retailers adjusting their strategies to capture deal-seeking parents earlier in the season.",
+    "date": "2026-07-03"
+  },
+  {
+    "url": "https://www.glossy.co/beauty/ulta-beauty-strategies-what-ulta-is-learning-about-gen-alpha-consumers/",
+    "title": "Ulta Beauty Strategies: What Ulta is learning about Gen Alpha consumers",
+    "topic": "Consumer Trends",
+    "gist": "Ulta Beauty is building a dedicated strategy to acquire Gen Alpha (born 2010–2024) consumers by first investing in understanding their motivations and then designing tailored in-store and brand experiences around them.",
+    "date": "2026-07-03"
+  },
+  {
+    "url": "https://www.retaildive.com/news/target-grows-marketplace-forever-21-clarks-beauty-brand-additions/824336/",
+    "title": "Target grows marketplace with Forever 21, Clarks brand additions",
+    "topic": "Marketplaces",
+    "gist": "Target has expanded its invite-only Target Plus marketplace with brands including Forever 21, Clarks, and JanSport, and is using AI agents to screen seller applicants and accelerate category growth like K-beauty.",
+    "date": "2026-07-03"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/marketplace-briefing-how-a-cartoon-frog-wizard-is-helping-clorox-sell-pine-sol-on-tiktok-shop/",
+    "title": "Marketplace Briefing: How a cartoon frog wizard is helping Clorox sell Pine-Sol on TikTok Shop",
+    "topic": "Marketplaces",
+    "gist": "Clorox launched four limited-edition Pine-Sol scents exclusively on TikTok Shop, tied to fictional cartoon characters already embedded in the brand's online identity, and sold out within hours.",
+    "date": "2026-07-03"
+  },
+  {
+    "url": "https://ecommercenews.eu/amazon-tightens-fulfilled-by-merchant-requirements/",
+    "title": "Amazon tightens Fulfilled by Merchant requirements",
+    "topic": "Marketplaces",
+    "gist": "Amazon is enforcing stricter on-time delivery requirements for Fulfilled by Merchant sellers, requiring a 90% or higher on-time delivery rate in Germany and rolling out similar policies in other markets.",
+    "date": "2026-07-03"
+  },
+  {
+    "url": "https://www.retaildive.com/news/reformation-proposed-ipo-filing-notable-numbers-dtc-stores/824261/",
+    "title": "Reformation’s proposed IPO: 4 notable numbers",
+    "topic": "DTC & Brands",
+    "gist": "Reformation's IPO filing shows 75% of new DTC customers acquired through unpaid channels, a 9% marketing-to-revenue ratio, and omnichannel shoppers spending 3.1x more annually than single-channel customers.",
+    "date": "2026-07-03"
+  },
+  {
+    "url": "https://www.retaildive.com/news/stitch-fix-expands-ai-image-generation-personalization/823815/",
+    "title": "Stitch Fix expands AI image generation to improve personalization",
+    "topic": "Retail",
+    "gist": "Stitch Fix has expanded its AI-powered Vision feature to let users generate on-demand images of themselves wearing recommended outfits, building a personalized style library within the app.",
+    "date": "2026-07-03"
+  },
+  {
+    "url": "https://www.modernretail.co/sponsored/marketing-has-a-measurement-problem-that-most-brands-are-ignoring/",
+    "title": "Marketing has a measurement problem that most brands are ignoring",
+    "topic": "Ad & Marketing",
+    "gist": "A commentary from the CEO of measurement firm Measured argues that platform-reported attribution is structurally flawed, with each channel claiming full credit for sales and brands unknowingly spending budget re-acquiring customers who would have converted anyway.",
+    "date": "2026-07-03"
   }
 ]
