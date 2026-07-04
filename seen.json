@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/technology/marketplace-briefing-shopify-launches-tools-to-help-merchants-track-sales-and-traffic-from-ai-platforms/",
-    "title": "Marketplace Briefing: Shopify launches tools to help merchants track sales and traffic from AI platforms",
-    "topic": "Retail",
-    "gist": "Shopify is adding a dashboard that lets merchants track orders and conversions coming from AI shopping channels like ChatGPT, Gemini, and Copilot, and see what questions shoppers ask those tools — plus gaps in product data that hurt visibility.",
-    "date": "2026-06-19"
-  },
-  {
-    "url": "https://www.retaildive.com/news/stockx-debuts-live-shopping-auctions/823066/",
-    "title": "StockX to debut live shopping",
-    "topic": "Marketplaces",
-    "gist": "StockX is launching StockX Live this summer, bringing live auction formats — timed bidding, sudden death, pre-bidding — plus live chat to its marketplace, while simultaneously reopening a permanent retail location in NYC's SoHo.",
-    "date": "2026-06-19"
-  },
-  {
-    "url": "https://www.retaildive.com/news/abercrombie-fitch-co-hollister-target-expanding-us-wholesale/823270/",
-    "title": "Abercrombie & Fitch Co. brings Hollister to Target, expanding US wholesale operation",
-    "topic": "Retail",
-    "gist": "Abercrombie & Fitch Co. is launching a multi-season wholesale partnership with Target, placing Hollister-branded dorm and home goods in most Target stores starting June 28, as part of a broader strategy to grow via wholesale and licensing after years of focusing that effort abroad.",
-    "date": "2026-06-19"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/is-saks-safe-for-brands-again/",
-    "title": "Is Saks safe for brands again?",
-    "topic": "Retail",
-    "gist": "Saks Global received court approval for its post-bankruptcy restructuring, emerging as a smaller operation with under 50 stores — mostly Neiman Marcus locations — and having fully exited the off-price segment.",
-    "date": "2026-06-19"
-  },
-  {
-    "url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-    "title": "I told them forced consent was unlawful. 5 years later it cost Elkjop €1.8M",
-    "topic": "Retail",
-    "gist": "Nordic electronics retailer Elkjop was fined €1.8M by Norway's DPA after a consumer privacy expert's 2021 complaint showed the company's loyalty club required accepting marketing emails as a condition of membership — a textbook case of invalid, forced consent under GDPR.",
-    "date": "2026-06-19"
-  },
-  {
-    "url": "https://www.retaildive.com/news/stitch-fix-sree-sreedhararaj-product-technology-chief/823102/",
-    "title": "Stitch Fix taps Walmart vet as chief product and technology officer",
-    "topic": "Retail",
-    "gist": "Stitch Fix has hired Sree Sreedhararaj, formerly CTO at Ipsy and a Walmart Labs veteran, as its new chief product and technology officer to lead technology, product, data science, and IT as the company pursues an AI-driven turnaround strategy.",
-    "date": "2026-06-19"
-  },
-  {
-    "url": "https://digiday.com/marketing/as-ai-scrutiny-grows-dude-wipes-points-to-supply-chain-savings-and-productivity-gains/",
-    "title": "As AI scrutiny grows, DUDE Wipes points to supply chain savings and productivity gains",
-    "topic": "DTC & Brands",
-    "gist": "DUDE Wipes says it has embedded AI tools across supply chain and operations, providing staff with Claude accounts and regular training, and is restructuring hiring to reduce agency dependency — citing concrete man-hour savings as evidence of ROI.",
-    "date": "2026-06-19"
-  },
-  {
-    "url": "https://www.retaildive.com/news/pinterest-introduces-experimental-ai-app-ask-pinterest/823254/",
-    "title": "Pinterest introduces experimental AI app",
-    "topic": "Ad & Marketing",
-    "gist": "Pinterest launched Ask Pinterest, a limited-access experimental app that handles conversational, multi-step shopping queries using the platform's taste graph and visual data, with the stated goal of testing next-generation AI-powered shopping experiences.",
-    "date": "2026-06-19"
-  },
-  {
     "url": "https://www.modernretail.co/operations/5-things-to-watch-for-this-prime-day/",
     "title": "5 things to watch for this Prime Day",
     "topic": "Marketplaces",
@@ -516,5 +460,26 @@
     "topic": "Ad & Marketing",
     "gist": "A commentary from the CEO of measurement firm Measured argues that platform-reported attribution is structurally flawed, with each channel claiming full credit for sales and brands unknowingly spending budget re-acquiring customers who would have converted anyway.",
     "date": "2026-07-03"
+  },
+  {
+    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
+    "title": "Costco is the anti-Amazon",
+    "topic": "Retail",
+    "gist": "A long-form analysis argues that Costco's model — low SKU count, pallet-level logistics, in-store shopping, and constrained assortment — is more cost-efficient and socially sustainable than Amazon's infinite-assortment, doorstep-delivery approach, with Costco's SG&A at ~10% of sales versus Amazon's ~40% delivery cost on non-AWS revenue. Despite running counter to every 'future of retail' assumption, Costco has grown revenue over 10% annually for five years.",
+    "date": "2026-07-04"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/avoid-all-caps-headlines-says-cro-pro",
+    "title": "Avoid All-Caps Headlines, Says CRO Pro",
+    "topic": "Retail",
+    "gist": "CRO practitioner Nate Lagos describes a 'bottoms-up' testing approach — starting with copy closest to the add-to-cart button — and shares a surprising A/B test result where switching landing page headlines from all-caps to title case produced a 25% conversion lift on a high-traffic page.",
+    "date": "2026-07-04"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/glossy-pop-newsletter-how-meta-leveraged-kylie-jenner-peggy-gou-and-substackers-in-its-first-fashion-campaign/",
+    "title": "Glossy Pop Newsletter: How Meta leveraged Kylie Jenner, Peggy Gou and Substackers in its first fashion campaign",
+    "topic": "Ad & Marketing",
+    "gist": "Meta launched a fashion campaign for its Meta Glasses, positioning the product as an accessories line and working with figures like Kylie Jenner and Peggy Gou to reach fashion consumers and women broadly.",
+    "date": "2026-07-04"
   }
 ]
