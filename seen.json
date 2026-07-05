@@ -481,5 +481,26 @@
     "topic": "Ad & Marketing",
     "gist": "Meta launched a fashion campaign for its Meta Glasses, positioning the product as an accessories line and working with figures like Kylie Jenner and Peggy Gou to reach fashion consumers and women broadly.",
     "date": "2026-07-04"
+  },
+  {
+    "url": "https://github.com/openai/codex/issues/30364",
+    "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+    "topic": "AI & Tech",
+    "gist": "A developer found that GPT-5.5 responses in Codex disproportionately cluster at exactly 516 reasoning tokens, with the pattern sharply worsening in May–June 2026 and correlating with lower overall reasoning-token usage, suggesting a hidden budget cap or throttling behavior specific to that model.",
+    "date": "2026-07-05"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+    "title": "Alibaba reportedly bans employees from using Claude Code",
+    "topic": "AI & Tech",
+    "gist": "Alibaba is banning employees from using Anthropic's Claude Code starting July 10, citing it as high-risk software, and directing staff to its own Qoder tool instead; Anthropic has been tightening access restrictions for Chinese users.",
+    "date": "2026-07-05"
+  },
+  {
+    "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+    "title": "Better Models: Worse Tools",
+    "topic": "AI & Tech",
+    "gist": "Newer Claude models (Opus 4.8, Sonnet 5) are increasingly generating tool calls with invented, schema-violating fields — a regression not seen in older models — likely because post-training is heavily optimized for Claude Code's own forgiving, flat tool schema rather than general-purpose tool schemas.",
+    "date": "2026-07-05"
   }
 ]
