@@ -502,5 +502,47 @@
     "topic": "AI & Tech",
     "gist": "Newer Claude models (Opus 4.8, Sonnet 5) are increasingly generating tool calls with invented, schema-violating fields — a regression not seen in older models — likely because post-training is heavily optimized for Claude Code's own forgiving, flat tool schema rather than general-purpose tool schemas.",
     "date": "2026-07-05"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/commerce-medias-measurement-problem-has-an-in-store-answer/824046/",
+    "title": "Commerce media’s measurement problem has an in-store answer",
+    "topic": "Ad & Marketing",
+    "gist": "Post-transaction media placed on POS terminals and self-checkout kiosks ties ad exposures directly to shopper IDs and transaction records, enabling deterministic closed-loop attribution that solves retail media's incrementality measurement gap. Brands measuring incrementality report 54% less wasted spend and 49% higher new customer acquisition, yet only 15% have strong measurement confidence today.",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/ai-in-retail-is-only-as-good-as-its-data-foundation/824409/",
+    "title": "AI in retail is only as good as its data foundation",
+    "topic": "Retail",
+    "gist": "AI-driven personalization and agentic commerce in retail only work as well as the underlying customer data quality — dirty, duplicate, or incomplete records undermine recommendations, automation, and hyper-personalization. BCG reports a 4,700% YoY traffic increase to US retail sites from GenAI browsers, signaling that retailers must have clean, API-ready data to stay competitive.",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/tariffs-trade-shocks-and-the-end-of-retail-planning-as-we-know-it/824372/",
+    "title": "Tariffs, trade shocks and the end of retail planning as we know it",
+    "topic": "Fulfillment & Ops",
+    "gist": "Tariff volatility is compounding an existing retail planning crisis where buying decisions made 12–18 months out are colliding with unpredictable costs across shipping, freight, customs, and currency — and most planning infrastructure wasn't built to handle it. Over 75% of supply chain executives expect higher disruption in 2026, and IHL Group estimates $1.73 trillion is lost annually from inventory imbalances caused by slow, disconnected planning.",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://digiday.com/marketing/wtf-is-ai-poisoning/",
+    "title": "WTF is AI poisoning?",
+    "topic": "Ad & Marketing",
+    "gist": "Marketers are increasingly aware that AI search responses have become a competitive arena where brands can potentially influence how rivals are perceived, not just how they themselves appear. Users tend to trust AI-generated results as neutral, making AI poisoning — deliberately skewing LLM outputs against competitors — a real brand risk.",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/retailers-like-target-aldi-take-pages-from-collectibles-culture-with-drops-blind-boxes/",
+    "title": "Retailers like Target, Aldi take pages from collectibles culture with drops, blind boxes",
+    "topic": "Retail",
+    "gist": "Major retailers including Target, Trader Joe's, and Aldi are borrowing tactics from collectibles culture — limited drops, blind boxes, and creator collaborations — to drive urgency and excitement across food, apparel, and everyday categories. These mechanics, popularized by toys like Labubu dolls, are now being applied broadly to generate scarcity-driven demand at scale.",
+    "date": "2026-07-06"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/hostinger-reframes-site-free-ecommerce",
+    "title": "Hostinger Reframes Site-Free Ecommerce",
+    "topic": "Retail",
+    "gist": "Hostinger launched a tool that converts a product photo into an AI-generated checkout link with no website required, positioning it as an entry point for selling across social, messaging, and AI channels. The announcement reflects a broader industry shift where ecommerce platforms are decoupling the store from the transaction, as checkout surfaces proliferate across feeds, marketplaces, and AI agents.",
+    "date": "2026-07-06"
   }
 ]
