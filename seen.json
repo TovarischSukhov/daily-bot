@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/operations/5-things-to-watch-for-this-prime-day/",
-    "title": "5 things to watch for this Prime Day",
-    "topic": "Marketplaces",
-    "gist": "Amazon's Prime Day runs June 23–26 this year — moved up from July, making it a four-day event and the unofficial start of summer sales season — against a backdrop of rising gas prices, inflation, but resilient consumer spending.",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://www.modernretail.co/technology/ai-is-now-doing-parts-of-merchants-jobs-managing-products-and-vendors/",
-    "title": "AI is now doing parts of merchants’ jobs, managing products and vendors",
-    "topic": "Retail",
-    "gist": "Retailers are deploying AI agents to automate merchandising tasks including inventory management and vendor negotiations, with startups like Duvo.ai, Relex Solutions, and Gain leading early adoption in the U.S.",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://www.glossy.co/beauty/polite-society-is-leveraging-ulta-beautys-new-tiktok-shop-for-its-largest-ever-affiliate-campaign/",
-    "title": "Polite Society is leveraging Ulta Beauty’s new TikTok Shop for its largest-ever affiliate campaign",
-    "topic": "Marketplaces",
-    "gist": "Makeup brand Polite Society is seeding its hero lip product to over 1,000 TikTok Shop affiliate creators as part of Ulta Beauty's new TikTok Shop launch, using the retailer partnership to drive awareness without celebrity backing.",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/knix-embarks-on-its-biggest-wholesale-expansion-opening-in-350-target-stores/",
-    "title": "Knix embarks on its biggest wholesale expansion, opening in 350 Target stores",
-    "topic": "DTC & Brands",
-    "gist": "DTC intimates brand Knix, which has surpassed $1B in direct sales, is launching a children's sub-brand KT by Knix in over 350 Target stores — its first nationwide wholesale deal, amid 90% YoY wholesale growth.",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://digiday.com/marketing/the-ai-search-boom-is-fueling-content-budgets-before-media-buys/",
-    "title": "The AI search boom is fueling content budgets before media buys",
-    "topic": "Ad & Marketing",
-    "gist": "Most marketers are directing AI search budgets toward content, creators, and tools to earn organic visibility in LLM-generated answers rather than paying for AI search ads, even as WPP forecasts AI search will become the fastest-growing ad channel.",
-    "date": "2026-06-22"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/build-an-ai-flywheel-for-ecommerce",
-    "title": "Build an AI Flywheel for Ecommerce",
-    "topic": "Retail",
-    "gist": "A McKinsey report on European e-commerce argues that AI delivers the most value not through isolated pilots but through interconnected 'flywheels' where personalization, demand signals, inventory, and pricing decisions reinforce each other — and Practical Ecommerce outlines how smaller merchants can start with a simple customer-feedback loop.",
-    "date": "2026-06-22"
-  },
-  {
     "url": "https://www.retaildive.com/news/walmart-vibeco-acquisition-bullish-retail-advertising-business/823672/",
     "title": "Walmart gets bullish on advertising business with Vibe.co acquisition",
     "topic": "Retail",
@@ -544,5 +502,47 @@
     "topic": "Retail",
     "gist": "Hostinger launched a tool that converts a product photo into an AI-generated checkout link with no website required, positioning it as an entry point for selling across social, messaging, and AI channels. The announcement reflects a broader industry shift where ecommerce platforms are decoupling the store from the transaction, as checkout surfaces proliferate across feeds, marketplaces, and AI agents.",
     "date": "2026-07-06"
+  },
+  {
+    "url": "https://digiday.com/marketing/dentsu-strikes-meta-deal-to-build-plumbing-for-mass-influencer-activation/",
+    "title": "Dentsu strikes Meta deal to build plumbing for mass influencer activation",
+    "topic": "Ad & Marketing",
+    "gist": "Dentsu is integrating Meta's Creator Marketplace and Partnership Ads into its internal operating system via API, allowing clients to manage creator selection, social listening, and paid activation in one dashboard.",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/why-forme-launched-a-world-cup-promotion-hedged-on-kalshi/",
+    "title": "Why Forme launched a World Cup promotion hedged on Kalshi",
+    "topic": "DTC & Brands",
+    "gist": "Sportswear brand Forme ran a World Cup promotion offering 100% refunds if the US Men's National Team reached the final, hedged through prediction market platform Kalshi — driving a 4X week-over-week traffic increase despite the team's elimination.",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://modernretail.co.uk/rewriting-the-returns-rulebook-deploying-returns-personalisation-to-improve-cx-and-streamline-operations/",
+    "title": "Rewriting the returns rulebook: Deploying returns personalisation to improve CX and streamline operations",
+    "topic": "Retail",
+    "gist": "UK e-commerce returns cost retailers an estimated £60 billion annually, and over half of Gen Z shoppers now identify as serial returners — up from 15% three years ago — with traditional deterrents like fees losing effectiveness as personalized, AI-driven returns policies emerge as the next frontier.",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://www.retaildive.com/news/ulta-beauty-marketing-chief-kelly-mahoney-brand-building-omnichannel-marketing/824315/",
+    "title": "Ulta’s chief marketer on blending brand building and omnichannel marketing",
+    "topic": "Retail",
+    "gist": "Ulta Beauty CMO Kelly Mahoney outlines how the brand uses its 47-million-member loyalty program, a proprietary 'Beauty Graph,' retail media network UB Media, TikTok Shop, and in-store experiential events to create a connected omnichannel marketing flywheel.",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/californias-new-packaging-laws-are-changing-the-economics-of-plastic/",
+    "title": "California’s new packaging laws are changing the economics of plastic",
+    "topic": "Fulfillment & Ops",
+    "gist": "California's SB 54 requires brands to pay material-specific fees for packaging waste, with higher charges for non-recyclable single-use plastics, forcing brands that sell in the state to reassess their packaging economics.",
+    "date": "2026-07-07"
+  },
+  {
+    "url": "https://digiday.com/marketing/dollar-shave-clubs-bet-ai-makes-agencies-optional-not-obsolete/",
+    "title": "Dollar Shave Club’s bet: AI makes agencies optional, not obsolete",
+    "topic": "Ad & Marketing",
+    "gist": "Dollar Shave Club produces 90% of its advertising in-house and its chief brand officer sees AI as a tool to extend that self-sufficiency further, while still viewing specialist agencies as occasionally useful for a challenger brand.",
+    "date": "2026-07-07"
   }
 ]
