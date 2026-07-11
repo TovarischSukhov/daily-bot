@@ -1,54 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/operations/marketplace-briefing-prime-day-starts-softly-as-consumers-buy-gift-cards-stock-up-on-essentials-hold-out-for-deeper-discounts/",
-    "title": "Marketplace Briefing: Prime Day starts softly as consumers buy gift cards, stock up on essentials, hold out for deeper discounts",
-    "topic": "Marketplaces",
-    "gist": "Prime Day 2025 opened with cautious consumer spending: shoppers are prioritizing essentials and holding back on big-ticket items, waiting to see if discounts deepen.",
-    "date": "2026-06-26"
-  },
-  {
-    "url": "https://www.retaildive.com/news/allbirds-changes-name-smartbird-ai-appoints-new-ceo/823624/",
-    "title": "Allbirds officially changes name, appoints new CEO",
-    "topic": "DTC & Brands",
-    "gist": "Allbirds has rebranded as Smartbird Inc. and is pivoting entirely to AI infrastructure (GPUaaS), after selling its footwear brand and assets to American Exchange Group and WSG Brands; the company never turned a profit and saw net sales fall 20% in 2025.",
-    "date": "2026-06-26"
-  },
-  {
-    "url": "https://www.retaildive.com/news/ulta-stitch-fix-tapestry-retail-omnichannel-ai-age/823707/",
-    "title": "How retailers are thinking about omnichannel in the age of AI",
-    "topic": "Retail",
-    "gist": "Executives from Ulta, Stitch Fix, Boot Barn, and Tapestry described omnichannel retail as increasingly shaped by AI-driven discovery and loyalty programs, with Ulta noting 95% of its sales flow through its 47-million-member loyalty program.",
-    "date": "2026-06-26"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/lowes-makes-it-easier-to-order-decorative-geese-above-ground-pools-and-other-marketplace-items-in-over-1700-stores/",
-    "title": "Lowe’s makes it easier to order decorative geese, above-ground pools and other marketplace items in over 1,700 stores",
-    "topic": "Marketplaces",
-    "gist": "Lowe's integrated its third-party marketplace into the store-associate software used across 1,700+ locations, allowing employees to search and purchase marketplace items for customers in-store with home delivery.",
-    "date": "2026-06-26"
-  },
-  {
-    "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-    "title": "Repositioning retail for the AI era",
-    "topic": "Retail",
-    "gist": "A sponsored piece describes how Macy's is embedding AI into core retail operations — search, personalization, inventory, and software development — framing it as an 'AI-first' operating philosophy rather than a feature layer.",
-    "date": "2026-06-26"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/top-barriers-of-cross-border-shoppers",
-    "title": "Top Barriers of Cross-Border Shoppers",
-    "topic": "Retail",
-    "gist": "A DHL survey of 29,000 shoppers across 29 countries identifies the top reasons international buyers abandon U.S. e-commerce sites: unexpected duties (63%), missing payment methods (62%), high delivery costs (45%), unclear return policies, and lack of trust.",
-    "date": "2026-06-26"
-  },
-  {
-    "url": "https://www.retaildive.com/news/podcast-the-backroom-glp1-weight-loss-era-not-just-selling-clothes/823700/",
-    "title": "The Backroom: The weight-loss era is not just about selling clothes",
-    "topic": "Consumer Trends",
-    "gist": "Growing use of GLP-1 weight-loss drugs is creating 'fit volatility' in apparel — shoppers are cycling through body changes and abandoning or restarting prescriptions, which is complicating merchandising, sizing, and inventory planning for fashion retailers.",
-    "date": "2026-06-26"
-  },
-  {
     "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
     "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
     "topic": "Payments",
@@ -579,5 +530,61 @@
     "topic": "Ad & Marketing",
     "gist": "Unilever scaled its creator program from 10,000 to 300,000 influencers and is now automating discovery, vetting, and content approvals while keeping human judgment at the center of actual relationship management.",
     "date": "2026-07-10"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
+    "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
+    "topic": "Ad & Marketing",
+    "gist": "Phia, a shopping browser extension that finds lowest prices and discount codes, has been accused of 'cookie stuffing' — secretly opening background tabs to override affiliate referral codes from other sources and claim commissions on purchases it didn't drive. The company was suspended from affiliate platform Impact.com; it says the issue has been fixed.",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/brands-won-this-season-of-love-island-usa/",
+    "title": "Brands won this season of ‘Love Island USA’",
+    "topic": "Ad & Marketing",
+    "gist": "Love Island USA's season 8 drew 1.31 billion viewing minutes in its first week (up 69% YoY), and ad sales across the show and its spinoff rose 73% versus last season, with over 1,000 media partners and seven integrated brand sponsors. Brands are increasingly integrating into the show's content rather than running traditional ads.",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+    "title": "New York City to ban deceptive subscription practices",
+    "topic": "Retail",
+    "gist": "New York City is banning deceptive subscription practices starting October 1, requiring easy cancellation and imposing fines of $525 per affected subscription; it is also proposing rules that mandate total upfront price disclosure, including all mandatory fees. The subscription rule could save NYC residents an estimated $162.5 million per year.",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://www.retaildive.com/news/aeropostale-gen-alpha-marketing-mini-series-intern-diaries/824934/",
+    "title": "How Aéropostale entertains Gen Alpha with a creator-led mini-series",
+    "topic": "Ad & Marketing",
+    "gist": "Aéropostale launched a creator-led serialized mini-series ('Intern Diaries') starring TikTok creator Déjà Clark, pulling 3.5 million views on its first two episodes; a tied exclusive app-first collection drop strategy drove 30% YoY customer growth and previously catapulted the brand's app into the App Store top 5. The brand is also linking loyalty programs with J.C. Penney to drive cross-shopping.",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/disable-auto-play-and-infinite-scroll-or-risk-massive-fines-eu-tells-meta/",
+    "title": "Disable autoplay and infinite scroll or risk massive fines, EU tells Meta",
+    "topic": "Ad & Marketing",
+    "gist": "The European Commission has preliminarily found that Meta's features — autoplay, infinite scroll, and highly personalized recommendations — violate the Digital Services Act by creating addictive design without adequate risk assessment, and is ordering changes or fines up to 6% of global turnover.",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/10/eu-threatens-meta-with-fines-over-addictive-features-on-facebook-and-instagram/",
+    "title": "EU threatens Meta with fines over addictive features on Facebook and Instagram",
+    "topic": "Ad & Marketing",
+    "gist": "The EU found Meta in breach of the Digital Services Act over addictive design features including infinite scroll, autoplay, push notifications, and personalized recommendation algorithms, and is demanding Meta disable these features by default and reduce engagement-maximizing algorithmic behavior or face fines of up to 6% of global turnover.",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "topic": "AI & Tech",
+    "gist": "Apple has filed a lawsuit against OpenAI alleging that former Apple employees, including OpenAI's Chief Hardware Officer Tang Tan, systematically stole trade secrets — including hardware specs, prototypes, and proprietary manufacturing techniques — to benefit OpenAI's nascent hardware business.",
+    "date": "2026-07-11"
+  },
+  {
+    "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
+    "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
+    "topic": "AI & Tech",
+    "gist": "Apple's lawsuit against OpenAI details allegations that former Apple executives and engineers at OpenAI used job interviews to extract confidential hardware information, coached departing employees to evade Apple's security protocols, and used Apple's proprietary manufacturing techniques without authorization — with over 400 former Apple employees now at OpenAI.",
+    "date": "2026-07-11"
   }
 ]
