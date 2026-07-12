@@ -586,5 +586,19 @@
     "topic": "AI & Tech",
     "gist": "Apple's lawsuit against OpenAI details allegations that former Apple executives and engineers at OpenAI used job interviews to extract confidential hardware information, coached departing employees to evade Apple's security protocols, and used Apple's proprietary manufacturing techniques without authorization — with over 400 former Apple employees now at OpenAI.",
     "date": "2026-07-11"
+  },
+  {
+    "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+    "topic": "AI & Tech",
+    "gist": "Analysis of CoreWeave and Nebius reveals a circular financing structure where Nvidia invests in both neoclouds, which then buy billions in Nvidia GPUs, while hyperscalers like Microsoft and Meta commit over $120B to these companies partly to shift capex off their balance sheets. Both neoclouds face large funding gaps as capex runs 2:1 ahead of operating cash flow, driving rapidly rising debt loads.",
+    "date": "2026-07-12"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
+    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
+    "topic": "AI & Tech",
+    "gist": "OpenAI is hiring a product manager dedicated to families, caregivers, and older adults, as data shows ChatGPT's 35+ user share rose from 26% to 31% in a year and nearly one in four U.S. parent smartphone users now use the product. The move signals a shift from individual productivity tool toward household-level AI, bringing new trust and safety requirements.",
+    "date": "2026-07-12"
   }
 ]
