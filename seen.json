@@ -1,26 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/06/27/indian-payments-chief-thinks-ai-will-be-heavily-involved-in-next-era-of-digital-payment-growth/",
-    "title": "Indian payments chief thinks AI will be heavily involved in next era of digital payment growth",
-    "topic": "Payments",
-    "gist": "NPCI CEO Dilip Asbe sees AI as the driver for UPI's next growth phase — from reaching new users via voice and multilingual tools to fraud detection and credit access for merchants with digital footprints.",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://techcrunch.com/2026/06/27/instagram-is-testing-more-ways-for-users-to-customize-your-algorithm/",
-    "title": "Instagram is testing more ways to customize ‘Your Algorithm’",
-    "topic": "Ad & Marketing",
-    "gist": "Instagram is testing new ways to surface its 'Your Algorithm' content-tuning feature more prominently, including pull-down menus in the feed and swipe-up prompts on Reels, with the stated goal of making it central to the user experience.",
-    "date": "2026-06-28"
-  },
-  {
-    "url": "https://jayacunzo.com/blog/your-move-chief",
-    "title": "The best response to AI slop and online noise is from Robin Williams",
-    "topic": "AI & Tech",
-    "gist": "The piece uses Robin Williams's Good Will Hunting bench speech as a framework for arguing that lived human experience — not aggregated knowledge — is what gives creative and professional work meaning in an era of AI-generated content.",
-    "date": "2026-06-28"
-  },
-  {
     "url": "https://www.practicalecommerce.com/india-ecommerce-paths-for-foreign-sellers",
     "title": "India Ecommerce Paths for Foreign Sellers",
     "topic": "Marketplaces",
@@ -600,5 +579,33 @@
     "topic": "AI & Tech",
     "gist": "OpenAI is hiring a product manager dedicated to families, caregivers, and older adults, as data shows ChatGPT's 35+ user share rose from 26% to 31% in a year and nearly one in four U.S. parent smartphone users now use the product. The move signals a shift from individual productivity tool toward household-level AI, bringing new trust and safety requirements.",
     "date": "2026-07-12"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/private-label-not-just-a-price-driven-choice-anymore/824417/",
+    "title": "Private label: Not just a price driven choice anymore",
+    "topic": "Retail",
+    "gist": "Private labels have evolved from low-cost generics to quality-competitive products spanning premium, health, and niche categories, with retailers using supply chain control and dynamic pricing to outmargin branded competitors. The article projects further evolution through AI-driven personalization and sustainable practices.",
+    "date": "2026-07-13"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/after-the-click-turning-ai-referred-shoppers-into-loyal-customers/824663/",
+    "title": "After the click: Turning AI-referred shoppers into loyal customers",
+    "topic": "Retail",
+    "gist": "AI-referred shoppers convert 42% better and spend more per visit than other traffic channels, but they arrive with high expectations set by conversational AI — slow sites, poor on-site search, and generic experiences quickly erase that advantage. Retailers are being pushed to match the intent-aware, conversational quality of the AI assistants that sent shoppers their way.",
+    "date": "2026-07-13"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/dtc-brands-are-finding-growth-with-older-customers/",
+    "title": "DTC brands are finding growth with older customers",
+    "topic": "DTC & Brands",
+    "gist": "Several DTC brands, including baby food startup Little Spoon and charcuterie delivery service Boarderie, are discovering that older demographics — grandparents and Baby Boomers — are driving meaningful growth, prompting shifts in marketing, messaging, and product development.",
+    "date": "2026-07-13"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/intent-clusters-guide-ai-product-discovery",
+    "title": "Intent Clusters Guide AI Product Discovery",
+    "topic": "Retail",
+    "gist": "As AI assistants handle longer, more context-rich shopping queries than traditional search, e-commerce marketers can build 'product intent clusters' — networks of scenario-specific content pages linked to a central product detail page — to influence AI-generated recommendations. Generative AI makes it economically viable to produce and maintain the large volume of narrow-use-case pages this strategy requires.",
+    "date": "2026-07-13"
   }
 ]
