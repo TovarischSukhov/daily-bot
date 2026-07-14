@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://www.practicalecommerce.com/india-ecommerce-paths-for-foreign-sellers",
-    "title": "India Ecommerce Paths for Foreign Sellers",
-    "topic": "Marketplaces",
-    "gist": "India's e-commerce market is $125B but heavily regulated for foreign sellers, who must choose between owning a marketplace, partnering with local distributors, selling D2C with significant legal hurdles, or shipping cross-border with high import duties and slow delivery.",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://www.retaildive.com/spons/the-loyalty-metric-no-one-wants-to-explain/823601/",
-    "title": "The loyalty metric no one wants to explain",
-    "topic": "Retail",
-    "gist": "Most loyalty and rewards programs report repeat purchase rates without measuring incrementality — i.e., they cannot prove whether customers returned because of the incentive or would have returned anyway, making many reported 'loyalty' outcomes statistically meaningless.",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://www.retaildive.com/spons/stocky-is-shutting-down-but-thats-not-the-real-story/823354/",
-    "title": "Stocky is shutting down, but that’s not the real story",
-    "topic": "Retail",
-    "gist": "Shopify is shutting down its Stocky inventory app in August, with the article (sponsored by Katana) arguing this reflects that most growing brands already sell across multiple channels and need multi-channel inventory management, not a single-store tool.",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/how-3-brands-are-using-tiktok-shop-to-expand-abroad/",
-    "title": "How 3 brands are using TikTok Shop to expand abroad",
-    "topic": "Marketplaces",
-    "gist": "Three brands — a gaming console maker, a K-beauty brand, and a luxury resale platform — describe using U.S. TikTok Shop momentum as a launchpad for international expansion into the U.K., Europe, and Japan, emphasizing localized creator partnerships and platform-native experimentation.",
-    "date": "2026-06-29"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/streaming-is-the-next-frontier-for-walmart-krogers-ads-businesses/",
-    "title": "Streaming is the next frontier for Walmart’s, Kroger’s ads businesses",
-    "topic": "Ad & Marketing",
-    "gist": "Walmart agreed to acquire connected TV ad platform Vibe.co for over $1B, continuing its push to let advertisers use Walmart shopper data to prove that streaming TV ads drive in-store and online purchases.",
-    "date": "2026-06-29"
-  },
-  {
     "url": "https://www.retaildive.com/news/amazon-prime-day-online-us-sales-numbers-grow-2026/823973/",
     "title": "Amazon’s Prime Day drives online sales in the US up 9.3%",
     "topic": "Marketplaces",
@@ -607,5 +572,68 @@
     "topic": "Retail",
     "gist": "As AI assistants handle longer, more context-rich shopping queries than traditional search, e-commerce marketers can build 'product intent clusters' — networks of scenario-specific content pages linked to a central product detail page — to influence AI-generated recommendations. Generative AI makes it economically viable to produce and maintain the large volume of narrow-use-case pages this strategy requires.",
     "date": "2026-07-13"
+  },
+  {
+    "url": "https://www.retaildive.com/news/retailers-stock-up-inventory-expected-tariff-changes/825053/",
+    "title": "Retailers stock up ahead of expected tariff changes",
+    "topic": "Fulfillment & Ops",
+    "gist": "U.S. port import volumes are forecast to hit an all-time record in July as retailers frontload inventory before expected new tariffs in August, following the expiration of the 10% Section 122 global tariff on July 24. August volumes are then projected to drop 4.5% year-over-year as the pull-forward effect fades.",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/ports-brace-for-record-high-imports-in-july/",
+    "title": "Ports brace for record-high imports in July",
+    "topic": "Fulfillment & Ops",
+    "gist": "U.S. ports are projected to handle an all-time high of 2.47 million TEUs in July, driven by retailers rushing to import goods ahead of anticipated tariff increases, per NRF and Hackett Associates data.",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://www.retaildive.com/news/amazon-shipping-looks-to-snag-fedex-ups-customers-with-low-pricing/824922/",
+    "title": "Amazon Shipping looks to snag FedEx, UPS customers with low pricing",
+    "topic": "Fulfillment & Ops",
+    "gist": "Amazon Shipping is aggressively undercutting FedEx and UPS rates — offering savings of up to 33% for some large retail clients — as it expands its parcel delivery service beyond Amazon sellers, with no residential surcharges or weekend delivery fees. The service currently covers ground shipping only and is best suited for high-volume retailers with lightweight packages.",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://www.retaildive.com/news/retailers-strong-q1-tariffs-prices-mirage/824737/",
+    "title": "Retailers did well in Q1. Was it just a mirage?",
+    "topic": "Retail",
+    "gist": "Retail analysts warn that strong Q1 results at many retailers were inflated by soft prior-year comps, early Easter timing, and tariff-driven price increases that hadn't yet hit consumer resistance — with Q3 2025 expected to reveal which retailers have genuine momentum versus those that simply rode favorable circumstances.",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://ecommercenews.eu/mediamarktsaturn-wants-to-double-marketplace-gmv-by-2029/",
+    "title": "MediaMarktSaturn wants to double marketplace GMV by 2029",
+    "topic": "Marketplaces",
+    "gist": "Ceconomy has announced a strategy for MediaMarktSaturn to more than double its marketplace GMV from €800 million to over €1.6 billion by the 2028–2029 financial year.",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://digiday.com/marketing/sharkninjas-new-growth-strategy-runs-through-comedy-creators/",
+    "title": "SharkNinja’s new growth strategy runs through comedy creators",
+    "topic": "Ad & Marketing",
+    "gist": "SharkNinja CMO Kaitlyn Hebert is shifting the brand's creator strategy toward comedy-focused content to reach audiences beyond the gym-goers and parents who already drove viral success for products like the Ninja Creami.",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/how-a-nyc-chef-turned-a-takeout-window-into-a-national-subscription-brand-w/824624/",
+    "title": "How a NYC chef turned a takeout window into a national subscription brand with 10,000 orders a month",
+    "topic": "DTC & Brands",
+    "gist": "Bone broth brand Brodo closed four of five Manhattan locations and rebuilt around a DTC subscription model on WooCommerce, now processing 10,000 orders per month nationally with self-service subscription management (pause, skip, swap) credited as the key retention mechanism.",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/new-ga4-channel-tracks-ai-traffic",
+    "title": "New GA4 Channel Tracks AI Traffic",
+    "topic": "Ad & Marketing",
+    "gist": "Google Analytics 4 added an 'AI Assistant' channel in May that tracks traffic from generative AI platforms including ChatGPT, Gemini, and Claude, allowing site owners to measure engagement and identify which pages are being cited in AI-generated answers.",
+    "date": "2026-07-14"
+  },
+  {
+    "url": "https://www.retaildive.com/news/customer-service-third-party-generative-ai-tools-brand-chatbots/825032/",
+    "title": "In customer service, third-party generative AI tools are beating brand chatbots",
+    "topic": "Retail",
+    "gist": "A Gartner survey of 3,500+ customers found that consumers are three times more likely to use third-party AI tools like ChatGPT than a brand's own chatbot for customer service, with third-party AI usage doubling in the past year while brand chatbot adoption has not grown since 2022.",
+    "date": "2026-07-14"
   }
 ]
