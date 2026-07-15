@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://www.retaildive.com/news/amazon-prime-day-online-us-sales-numbers-grow-2026/823973/",
-    "title": "Amazon’s Prime Day drives online sales in the US up 9.3%",
-    "topic": "Marketplaces",
-    "gist": "U.S. online retail spend grew 9.3% YoY to $26.4 billion during Amazon's Prime Day (June 23–26), with shoppers trading up to more expensive items and BNPL usage jumping 9.5%. The event is now approaching Black Friday-scale spend, with roughly 40% of tracked retailers running deeper promotions than last year.",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/whats-next-for-international-shipping-as-eu-ends-de-minimis-exemption/",
-    "title": "What’s next for international shipping as EU ends de minimis exemption",
-    "topic": "Fulfillment & Ops",
-    "gist": "The EU is eliminating its €150 de minimis exemption on July 1, replacing it with a temporary flat €3 customs duty per declared line item on low-value packages. A five-SKU shipment under €150 will now incur a €15 fee rather than no duty at all.",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://www.retaildive.com/news/consumer-spending-rises-inflation-speeds-up-three-year-high/823861/",
-    "title": "Consumer spending rises as inflation speeds up to three-year high",
-    "topic": "Macro",
-    "gist": "U.S. consumer spending rose 0.7% in May despite PCE inflation hitting 4.1% annually, the fastest pace in three years, while income rose at the same rate. Markets now price an 80% chance the Fed raises rates by year-end, with core inflation expected to stay above target through 2028.",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://www.modernretail.co/technology/electronics-prices-are-starting-to-soar-adding-to-the-stress-consumers-are-facing/",
-    "title": "Electronics prices are starting to soar, adding to the stress consumers are facing",
-    "topic": "Consumer Trends",
-    "gist": "Apple, Microsoft, and Nintendo have all announced significant price increases on laptops, tablets, and game consoles, driven by a memory and storage chip shortage caused by AI data center demand. The MacBook Pro gained $300, Xbox consoles will rise $150–$200 in August, and Nintendo Switch 2 will increase $50 in September.",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://ecommercenews.eu/amazon-launches-ai-assistant-for-german-sellers/",
-    "title": "Amazon launches AI assistant for German sellers",
-    "topic": "Marketplaces",
-    "gist": "Amazon has launched its AI-powered Seller Assistant inside Seller Central in Germany, designed to help sellers find information and make business decisions more efficiently.",
-    "date": "2026-06-30"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/search-consoles-new-ai-data-is-a-start",
-    "title": "Search Console’s New AI Data Is a Start",
-    "topic": "Ad & Marketing",
-    "gist": "Google Search Console has added a 'Generative AI' section showing URL impressions in AI Overviews and AI Mode, but the report has no click-through data, no feature-specific filters, and counts impressions even when users never see the cited URL. Site owners can now also block their content from appearing in Google's AI answers.",
-    "date": "2026-06-30"
-  },
-  {
     "url": "https://www.modernretail.co/operations/bogg-on-track-for-record-sales-expands-into-urban-outfitters-and-anthropologie/",
     "title": "Bogg, on track for record sales, expands into Urban Outfitters and Anthropologie",
     "topic": "DTC & Brands",
@@ -635,5 +593,47 @@
     "topic": "Retail",
     "gist": "A Gartner survey of 3,500+ customers found that consumers are three times more likely to use third-party AI tools like ChatGPT than a brand's own chatbot for customer service, with third-party AI usage doubling in the past year while brand chatbot adoption has not grown since 2022.",
     "date": "2026-07-14"
+  },
+  {
+    "url": "https://modernretail.co.uk/why-retailers-are-losing-customers-after-theyve-already-won-them/",
+    "title": "Why retailers are losing customers after they’ve already won them",
+    "topic": "Retail",
+    "gist": "Retailers invest heavily in pre-purchase experience but cede control of the post-purchase journey to third-party carriers, resulting in inconsistent, unbranded experiences that erode loyalty and waste acquisition spend. The article argues that owning post-purchase communications and carrier orchestration is now a key retention lever.",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://digiday.com/media/publisher-ad-supply-fell-by-up-to-40-in-q2-as-ai-search-choked-the-open-web/",
+    "title": "Publisher ad supply fell by up to 40% in Q2 as AI search choked the open web",
+    "topic": "Ad & Marketing",
+    "gist": "Publisher ad supply dropped 32–41% year-over-year in Q2 2026 in the US and UK, driven by AI-powered zero-click search reducing traffic to open-web sites, though rising eCPMs have partially offset the revenue impact.",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://www.glossy.co/beauty/ingredient-led-brands-are-dominating-ai-beauty-citations/",
+    "title": "Ingredient-led brands are dominating AI beauty citations",
+    "topic": "Ad & Marketing",
+    "gist": "Ingredient-focused skin-care brands like The Ordinary, CeraVe, and La Roche-Posay are earning the most AI citations in beauty, with The Ordinary appearing in 7% of beauty-related AI responses across ChatGPT, Claude, Perplexity, and Google AI Overviews.",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://ecommercenews.eu/european-retail-media-increased-16-7-in-2025/",
+    "title": "European retail media increased 16.7% in 2025",
+    "topic": "Ad & Marketing",
+    "gist": "European digital ad spend grew 10.5% in 2025 to €131.1 billion, with retail media outpacing the broader market at 16.7% growth and reaching €13.3 billion.",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://www.retaildive.com/news/walmart-caraway-cookwear-wholsale-partnership/825176/",
+    "title": "Caraway debuts cookware in over 500 Walmart stores",
+    "topic": "DTC & Brands",
+    "gist": "DTC cookware brand Caraway is expanding into over 500 Walmart stores nationwide, its largest physical retail push to date, following earlier partnerships with Target and The Container Store.",
+    "date": "2026-07-15"
+  },
+  {
+    "url": "https://www.retaildive.com/news/amazon-announces-2026-holiday-fulfillment-fees-advises-early-shipping/825149/",
+    "title": "Amazon announces 2026 holiday fulfillment fees, advises early shipping",
+    "topic": "Fulfillment & Ops",
+    "gist": "Amazon will apply peak fulfillment fee surcharges averaging $0.32 per unit from October 15, 2026 to January 14, 2027, on top of a 3.5% fuel and logistics surcharge that has no expiration date, and is advising sellers to stock inventory by October for holiday readiness.",
+    "date": "2026-07-15"
   }
 ]
