@@ -1,26 +1,5 @@
 [
   {
-    "url": "https://phenomenalworld.org/analysis/the-anti-amazon/",
-    "title": "Costco is the anti-Amazon",
-    "topic": "Retail",
-    "gist": "A long-form analysis argues that Costco's model — low SKU count, pallet-level logistics, in-store shopping, and constrained assortment — is more cost-efficient and socially sustainable than Amazon's infinite-assortment, doorstep-delivery approach, with Costco's SG&A at ~10% of sales versus Amazon's ~40% delivery cost on non-AWS revenue. Despite running counter to every 'future of retail' assumption, Costco has grown revenue over 10% annually for five years.",
-    "date": "2026-07-04"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/avoid-all-caps-headlines-says-cro-pro",
-    "title": "Avoid All-Caps Headlines, Says CRO Pro",
-    "topic": "Retail",
-    "gist": "CRO practitioner Nate Lagos describes a 'bottoms-up' testing approach — starting with copy closest to the add-to-cart button — and shares a surprising A/B test result where switching landing page headlines from all-caps to title case produced a 25% conversion lift on a high-traffic page.",
-    "date": "2026-07-04"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/glossy-pop-newsletter-how-meta-leveraged-kylie-jenner-peggy-gou-and-substackers-in-its-first-fashion-campaign/",
-    "title": "Glossy Pop Newsletter: How Meta leveraged Kylie Jenner, Peggy Gou and Substackers in its first fashion campaign",
-    "topic": "Ad & Marketing",
-    "gist": "Meta launched a fashion campaign for its Meta Glasses, positioning the product as an accessories line and working with figures like Kylie Jenner and Peggy Gou to reach fashion consumers and women broadly.",
-    "date": "2026-07-04"
-  },
-  {
     "url": "https://github.com/openai/codex/issues/30364",
     "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
     "topic": "AI & Tech",
@@ -600,5 +579,26 @@
     "topic": "DTC & Brands",
     "gist": "Oura's CMO shares how the brand leveraged the 2026 FIFA World Cup's record-breaking viewership and 20 billion social media views as a marketing platform, informing its 2027 strategy.",
     "date": "2026-07-18"
+  },
+  {
+    "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/",
+    "title": "AI Mania Is Eviscerating Global Decision-Making",
+    "topic": "AI & Tech",
+    "gist": "A consultant argues that virtually all enterprise AI projects are failing, that executives are trapped in a game-theory dynamic where honesty about AI shortcomings is career-ending, and that organizations have become unable to make rational decisions because AI hype has become a loyalty test rather than a strategy.",
+    "date": "2026-07-19"
+  },
+  {
+    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
+    "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
+    "topic": "AI & Tech",
+    "gist": "New York City's mayor is proposing rules requiring landlords and realtors to disclose when listing photos have been altered or generated using AI, as part of a broader tenant-protection report.",
+    "date": "2026-07-19"
+  },
+  {
+    "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
+    "title": "The Kimi K3 Moment",
+    "topic": "AI & Tech",
+    "gist": "A developer finds Kimi K3, a Chinese open-source model, matches Claude's performance at roughly one-third the API cost and argues this exposes the failure of US AI export restrictions, which constrain American customers without limiting foreign competition.",
+    "date": "2026-07-19"
   }
 ]
