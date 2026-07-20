@@ -1,26 +1,5 @@
 [
   {
-    "url": "https://github.com/openai/codex/issues/30364",
-    "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-    "topic": "AI & Tech",
-    "gist": "A developer found that GPT-5.5 responses in Codex disproportionately cluster at exactly 516 reasoning tokens, with the pattern sharply worsening in May–June 2026 and correlating with lower overall reasoning-token usage, suggesting a hidden budget cap or throttling behavior specific to that model.",
-    "date": "2026-07-05"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
-    "title": "Alibaba reportedly bans employees from using Claude Code",
-    "topic": "AI & Tech",
-    "gist": "Alibaba is banning employees from using Anthropic's Claude Code starting July 10, citing it as high-risk software, and directing staff to its own Qoder tool instead; Anthropic has been tightening access restrictions for Chinese users.",
-    "date": "2026-07-05"
-  },
-  {
-    "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-    "title": "Better Models: Worse Tools",
-    "topic": "AI & Tech",
-    "gist": "Newer Claude models (Opus 4.8, Sonnet 5) are increasingly generating tool calls with invented, schema-violating fields — a regression not seen in older models — likely because post-training is heavily optimized for Claude Code's own forgiving, flat tool schema rather than general-purpose tool schemas.",
-    "date": "2026-07-05"
-  },
-  {
     "url": "https://www.retaildive.com/spons/commerce-medias-measurement-problem-has-an-in-store-answer/824046/",
     "title": "Commerce media’s measurement problem has an in-store answer",
     "topic": "Ad & Marketing",
@@ -600,5 +579,40 @@
     "topic": "AI & Tech",
     "gist": "A developer finds Kimi K3, a Chinese open-source model, matches Claude's performance at roughly one-third the API cost and argues this exposes the failure of US AI export restrictions, which constrain American customers without limiting foreign competition.",
     "date": "2026-07-19"
+  },
+  {
+    "url": "https://ecommercenews.eu/bol-and-amazon-use-misleading-discounts/",
+    "title": "‘Bol and Amazon use misleading discounts’",
+    "topic": "Marketplaces",
+    "gist": "The Dutch Consumer Association has issued cease-and-desist letters to Bol and Amazon Netherlands, alleging the platforms display fake discounts that violate consumer protection law.",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/from-season-to-sentiment-how-the-pace-of-consumer-trends-reshapes-retail-p/824796/",
+    "title": "From season to sentiment: How the pace of consumer trends reshapes retail planning",
+    "topic": "Retail",
+    "gist": "Retailers relying on seasonal planning frameworks are struggling to keep up as social media and viral moments create unpredictable, fragmented demand spikes that require real-time, unified data signals to manage.",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/ai-is-creating-ecommerces-next-optimization-challenge-the-intent-gap/825381/",
+    "title": "AI is creating ecommerce’s next optimization challenge: The intent gap",
+    "topic": "Retail",
+    "gist": "As AI tools like ChatGPT handle more of the pre-purchase research, shoppers increasingly arrive at retailer sites at different decision stages, creating an 'intent gap' where static checkout and cart experiences fail to match what each shopper actually needs.",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://digiday.com/media-buying/wtf-w3cs-attribution-api/",
+    "title": "WTF: W3C’s Attribution API?",
+    "topic": "Ad & Marketing",
+    "gist": "Following Google's retreat from third-party cookie deprecation, browser-based ad measurement is being re-debated within the W3C standards body, keeping the question of cookieless attribution alive for marketers and ad tech.",
+    "date": "2026-07-20"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/guitar-center-plots-its-turnaround-with-a-focus-on-serving-serious-musicians/",
+    "title": "Guitar Center plots its turnaround, with a focus on serving ‘serious musicians’",
+    "topic": "Retail",
+    "gist": "Guitar Center reports its ninth straight quarter of positive growth with sales up 5.2% to $635 million, crediting a strategic refocus on serious musicians and noting a 16% rise in in-store dwell time and the first store traffic increase in over a decade.",
+    "date": "2026-07-20"
   }
 ]
