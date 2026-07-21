@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://www.retaildive.com/spons/commerce-medias-measurement-problem-has-an-in-store-answer/824046/",
-    "title": "Commerce media’s measurement problem has an in-store answer",
-    "topic": "Ad & Marketing",
-    "gist": "Post-transaction media placed on POS terminals and self-checkout kiosks ties ad exposures directly to shopper IDs and transaction records, enabling deterministic closed-loop attribution that solves retail media's incrementality measurement gap. Brands measuring incrementality report 54% less wasted spend and 49% higher new customer acquisition, yet only 15% have strong measurement confidence today.",
-    "date": "2026-07-06"
-  },
-  {
-    "url": "https://www.retaildive.com/spons/ai-in-retail-is-only-as-good-as-its-data-foundation/824409/",
-    "title": "AI in retail is only as good as its data foundation",
-    "topic": "Retail",
-    "gist": "AI-driven personalization and agentic commerce in retail only work as well as the underlying customer data quality — dirty, duplicate, or incomplete records undermine recommendations, automation, and hyper-personalization. BCG reports a 4,700% YoY traffic increase to US retail sites from GenAI browsers, signaling that retailers must have clean, API-ready data to stay competitive.",
-    "date": "2026-07-06"
-  },
-  {
-    "url": "https://www.retaildive.com/spons/tariffs-trade-shocks-and-the-end-of-retail-planning-as-we-know-it/824372/",
-    "title": "Tariffs, trade shocks and the end of retail planning as we know it",
-    "topic": "Fulfillment & Ops",
-    "gist": "Tariff volatility is compounding an existing retail planning crisis where buying decisions made 12–18 months out are colliding with unpredictable costs across shipping, freight, customs, and currency — and most planning infrastructure wasn't built to handle it. Over 75% of supply chain executives expect higher disruption in 2026, and IHL Group estimates $1.73 trillion is lost annually from inventory imbalances caused by slow, disconnected planning.",
-    "date": "2026-07-06"
-  },
-  {
-    "url": "https://digiday.com/marketing/wtf-is-ai-poisoning/",
-    "title": "WTF is AI poisoning?",
-    "topic": "Ad & Marketing",
-    "gist": "Marketers are increasingly aware that AI search responses have become a competitive arena where brands can potentially influence how rivals are perceived, not just how they themselves appear. Users tend to trust AI-generated results as neutral, making AI poisoning — deliberately skewing LLM outputs against competitors — a real brand risk.",
-    "date": "2026-07-06"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/retailers-like-target-aldi-take-pages-from-collectibles-culture-with-drops-blind-boxes/",
-    "title": "Retailers like Target, Aldi take pages from collectibles culture with drops, blind boxes",
-    "topic": "Retail",
-    "gist": "Major retailers including Target, Trader Joe's, and Aldi are borrowing tactics from collectibles culture — limited drops, blind boxes, and creator collaborations — to drive urgency and excitement across food, apparel, and everyday categories. These mechanics, popularized by toys like Labubu dolls, are now being applied broadly to generate scarcity-driven demand at scale.",
-    "date": "2026-07-06"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/hostinger-reframes-site-free-ecommerce",
-    "title": "Hostinger Reframes Site-Free Ecommerce",
-    "topic": "Retail",
-    "gist": "Hostinger launched a tool that converts a product photo into an AI-generated checkout link with no website required, positioning it as an entry point for selling across social, messaging, and AI channels. The announcement reflects a broader industry shift where ecommerce platforms are decoupling the store from the transaction, as checkout surfaces proliferate across feeds, marketplaces, and AI agents.",
-    "date": "2026-07-06"
-  },
-  {
     "url": "https://digiday.com/marketing/dentsu-strikes-meta-deal-to-build-plumbing-for-mass-influencer-activation/",
     "title": "Dentsu strikes Meta deal to build plumbing for mass influencer activation",
     "topic": "Ad & Marketing",
@@ -614,5 +572,47 @@
     "topic": "Retail",
     "gist": "Guitar Center reports its ninth straight quarter of positive growth with sales up 5.2% to $635 million, crediting a strategic refocus on serious musicians and noting a 16% rise in in-store dwell time and the first store traffic increase in over a decade.",
     "date": "2026-07-20"
+  },
+  {
+    "url": "https://www.retaildive.com/news/reformation-ipo-targets-one-billion-valuation/825638/",
+    "title": "Reformation targets $1B valuation with IPO",
+    "topic": "DTC & Brands",
+    "gist": "Reformation is pursuing an IPO targeting up to $1B valuation, pricing 14M+ shares at $15–$17, expecting ~$134.5M in net proceeds mostly used to repay debt. The brand posted $507M revenue and $12.6M net income in 2025, with over 30% of new DTC shoppers acquired through physical retail stores.",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://ecommercenews.eu/zalando-invests-in-ai-robotics/",
+    "title": "Zalando invests in AI robotics",
+    "topic": "Fulfillment & Ops",
+    "gist": "Zalando has taken an investment stake in German AI robotics firm Sereact to accelerate logistics automation, with a focus on returns processing.",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://ecommercenews.eu/german-ecommerce-increases-4-3-in-first-half-2026/",
+    "title": "German ecommerce increases 4.3% in first half 2026",
+    "topic": "Retail",
+    "gist": "German e-commerce turnover grew 4.3% in H1 2026 year-over-year, accelerating to 5.1% growth in Q2, suggesting recovering consumer confidence in one of Europe's largest online markets.",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/why-brands-like-untuckit-are-experimenting-with-robot-made-t-shirts/",
+    "title": "Why brands like Untuckit are experimenting with robot-made T-shirts",
+    "topic": "DTC & Brands",
+    "gist": "Some U.S. apparel brands, including Untuckit, are experimenting with AI-powered robotics to enable domestic manufacturing, as tariffs have so far failed to shift import patterns away from Asian countries.",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://www.retaildive.com/news/gamestop-ebay-stake-ten-percent-acquisition-bid/825641/",
+    "title": "GameStop discloses 10% eBay stake as it pushes for a deal",
+    "topic": "Marketplaces",
+    "gist": "GameStop has doubled its eBay stake to nearly 10% after eBay rejected its $56B acquisition bid in May, with CEO Ryan Cohen publicly signaling he will pursue the deal with or without board cooperation.",
+    "date": "2026-07-21"
+  },
+  {
+    "url": "https://arstechnica.com/tech-policy/2026/07/aliexpress-fined-625m-for-failing-to-remove-unsafe-toys-dangerous-cosmetics/",
+    "title": "AliExpress hit with record $625M fine after failing to make EU-ordered fixes",
+    "topic": "Marketplaces",
+    "gist": "The European Commission fined AliExpress over $625M under the Digital Services Act — the largest DSA fine to date — for failing to adequately remove illegal, unsafe, and counterfeit products from its platform.",
+    "date": "2026-07-21"
   }
 ]
