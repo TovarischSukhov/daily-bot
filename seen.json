@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://digiday.com/marketing/dentsu-strikes-meta-deal-to-build-plumbing-for-mass-influencer-activation/",
-    "title": "Dentsu strikes Meta deal to build plumbing for mass influencer activation",
-    "topic": "Ad & Marketing",
-    "gist": "Dentsu is integrating Meta's Creator Marketplace and Partnership Ads into its internal operating system via API, allowing clients to manage creator selection, social listening, and paid activation in one dashboard.",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/why-forme-launched-a-world-cup-promotion-hedged-on-kalshi/",
-    "title": "Why Forme launched a World Cup promotion hedged on Kalshi",
-    "topic": "DTC & Brands",
-    "gist": "Sportswear brand Forme ran a World Cup promotion offering 100% refunds if the US Men's National Team reached the final, hedged through prediction market platform Kalshi — driving a 4X week-over-week traffic increase despite the team's elimination.",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://modernretail.co.uk/rewriting-the-returns-rulebook-deploying-returns-personalisation-to-improve-cx-and-streamline-operations/",
-    "title": "Rewriting the returns rulebook: Deploying returns personalisation to improve CX and streamline operations",
-    "topic": "Retail",
-    "gist": "UK e-commerce returns cost retailers an estimated £60 billion annually, and over half of Gen Z shoppers now identify as serial returners — up from 15% three years ago — with traditional deterrents like fees losing effectiveness as personalized, AI-driven returns policies emerge as the next frontier.",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://www.retaildive.com/news/ulta-beauty-marketing-chief-kelly-mahoney-brand-building-omnichannel-marketing/824315/",
-    "title": "Ulta’s chief marketer on blending brand building and omnichannel marketing",
-    "topic": "Retail",
-    "gist": "Ulta Beauty CMO Kelly Mahoney outlines how the brand uses its 47-million-member loyalty program, a proprietary 'Beauty Graph,' retail media network UB Media, TikTok Shop, and in-store experiential events to create a connected omnichannel marketing flywheel.",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/californias-new-packaging-laws-are-changing-the-economics-of-plastic/",
-    "title": "California’s new packaging laws are changing the economics of plastic",
-    "topic": "Fulfillment & Ops",
-    "gist": "California's SB 54 requires brands to pay material-specific fees for packaging waste, with higher charges for non-recyclable single-use plastics, forcing brands that sell in the state to reassess their packaging economics.",
-    "date": "2026-07-07"
-  },
-  {
-    "url": "https://digiday.com/marketing/dollar-shave-clubs-bet-ai-makes-agencies-optional-not-obsolete/",
-    "title": "Dollar Shave Club’s bet: AI makes agencies optional, not obsolete",
-    "topic": "Ad & Marketing",
-    "gist": "Dollar Shave Club produces 90% of its advertising in-house and its chief brand officer sees AI as a tool to extend that self-sufficiency further, while still viewing specialist agencies as occasionally useful for a challenger brand.",
-    "date": "2026-07-07"
-  },
-  {
     "url": "https://www.retaildive.com/news/walmart-summer-price-cuts-inflation-ground-beef-president-trump/824592/",
     "title": "Walmart cuts prices on groceries and other goods",
     "topic": "Retail",
@@ -614,5 +572,54 @@
     "topic": "Marketplaces",
     "gist": "The European Commission fined AliExpress over $625M under the Digital Services Act — the largest DSA fine to date — for failing to adequately remove illegal, unsafe, and counterfeit products from its platform.",
     "date": "2026-07-21"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/american-eagle-back-to-school-rushtok-malls/",
+    "title": "American Eagle is turning RushTok and malls into its back-to-school sales engine",
+    "topic": "DTC & Brands",
+    "gist": "American Eagle's 2026 back-to-school campaign spans ~10 weeks with mall events, campus partnerships, and multiple talent deals including Sydney Sweeney and World Cup winner Lamine Yamal, deliberately moving away from a single monoculture campaign after last year's Sweeney push brought in 790,000 new customers.",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/exclusive-target-aims-to-strengthen-its-tween-business-with-new-multi-year-pacsun-partnership/",
+    "title": "Exclusive: Target aims to strengthen its tween business with new multi-year Pacsun partnership",
+    "topic": "Retail",
+    "gist": "Target is launching a multi-year, 100+ style tween apparel line co-created with Pacsun, priced under $30, available monthly in stores and on Target.com — framed as a deeper, longer-term brand partnership than Target's typical limited collaborations.",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://ads.openai.com/",
+    "title": "Advertise in ChatGPT",
+    "topic": "Ad & Marketing",
+    "gist": "OpenAI has launched an advertising platform, ads.openai.com, opening ChatGPT to paid advertising placements.",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://www.glossy.co/sponsored/unpacked-how-agentic-ai-is-reshaping-the-consumer-journey/",
+    "title": "Unpacked: How agentic AI is reshaping the consumer journey",
+    "topic": "Retail",
+    "gist": "A sponsored Glossy guide argues that agentic AI is moving from concept to deployment in commerce, with Bain projecting agentic AI could represent 15–25% of total U.S. e-commerce by 2030 as platforms like Google and OpenAI embed agents into shopping flows.",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://ecommercenews.eu/allegro-group-gmv-increases-14/",
+    "title": "Allegro Group GMV increases 14%",
+    "topic": "Marketplaces",
+    "gist": "Polish marketplace Allegro reported 13.7% GMV growth in H1 vs. the same period in 2025, with international GMV up 64.8%.",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/brands-briefing-why-employee-generated-content-is-a-priority-for-brands-like-starbucks-and-mephisto/",
+    "title": "Brands Briefing: Why employee-generated content is a priority for brands like Starbucks and Mephisto",
+    "topic": "Ad & Marketing",
+    "gist": "Brands including Starbucks and Mephisto are making employee-generated content a deliberate strategy, with Mephisto USA explicitly hiring store staff who can also create daily social content and act as affiliates.",
+    "date": "2026-07-22"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/more-brands-are-leaning-on-founders-to-drive-social-content/",
+    "title": "More brands are leaning on founders to drive social content",
+    "topic": "Ad & Marketing",
+    "gist": "Founder-led short-form video content is becoming an informal requirement for DTC brands, with retailers reportedly factoring a founder's social presence into wholesale decisions because it can drive in-store traffic.",
+    "date": "2026-07-22"
   }
 ]
