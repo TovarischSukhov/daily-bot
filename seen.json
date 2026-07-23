@@ -1,54 +1,5 @@
 [
   {
-    "url": "https://www.retaildive.com/news/walmart-summer-price-cuts-inflation-ground-beef-president-trump/824592/",
-    "title": "Walmart cuts prices on groceries and other goods",
-    "topic": "Retail",
-    "gist": "Walmart and Sam's Club are rolling back prices on thousands of summer grocery and seasonal items, citing ongoing consumer pressure from inflation and high gas prices. Food-at-home prices rose 2.7% annually in May, and the initiative covers both in-store and online channels.",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://www.retaildive.com/news/staples-dollar-general-back-to-school-sales-low-pricing/824571/",
-    "title": "Staples, Dollar General tout 2025 pricing for back-to-school sales",
-    "topic": "Retail",
-    "gist": "Staples and Dollar General are launching back-to-school campaigns anchored around $1-and-under pricing, while JLL data shows BTS budgets rose 11.7% YoY to $489 per child, driven by middle-income families. Analysts flag this as a consumer bifurcation signal, with lower-income shoppers facing the most strain.",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/new-ecommerce-tools-july-7-2026",
-    "title": "New Ecommerce Tools: July 7, 2026",
-    "topic": "Retail",
-    "gist": "A weekly roundup of new e-commerce tools covers launches across one-click checkout, agentic commerce, AI-generated product images, logistics, Amazon marketing, and omnichannel marketing automation, among others. Notable items include Square's ChatGPT and Claude integrations, CMA CGM's $1.4B acquisition of FedEx Supply Chain, and Lantern's platform for tracking product visibility inside AI shopping portals.",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/brands-briefing-salomon-is-working-to-double-its-us-store-count-by-2028/",
-    "title": "Brands Briefing: Salomon is working to double its US store count by 2028",
-    "topic": "DTC & Brands",
-    "gist": "Salomon is planning to grow its U.S. standalone store count from 6 to 12–15 by end of 2027, targeting cities like Beverly Hills, Boston, San Francisco, and Miami as it approaches its 80th anniversary. The European performance footwear and apparel brand is making a deliberate push to expand its North American physical retail presence.",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://digiday.com/marketing/how-bandit-running-is-expanding-internationally-while-staying-hyperlocal/",
-    "title": "How Bandit Running is expanding internationally while staying hyperlocal",
-    "topic": "DTC & Brands",
-    "gist": "Bandit Running has built a loyal following by combining a streetwear-influenced design aesthetic with deep investment in hyperlocal running communities in New York City, including hosting club runs and sponsoring races. The brand is now expanding internationally while trying to preserve that community-first identity.",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/how-category-creators-like-willow-and-oura-ward-off-dupes-and-defend-their-leads/",
-    "title": "How category creators like Willow and Oura ward off dupes and defend their leads",
-    "topic": "DTC & Brands",
-    "gist": "Category-creating brands like Willow (wearable breast pump) and Oura (smart ring) face the challenge of defending their market position once they've proven out demand and attracted imitators. The article explores how first-mover DTC innovators build defensible leads against dupes and fast followers.",
-    "date": "2026-07-08"
-  },
-  {
-    "url": "https://www.retaildive.com/news/luxury-store-experience-shopping/824578/",
-    "title": "For luxury, the in-store experience still reigns",
-    "topic": "Retail",
-    "gist": "An EY survey of 1,600+ aspirational luxury consumers (household income $100K+) across 11 markets finds that 71% prefer buying at brand-owned stores, and in-store satisfaction significantly outpaces brand websites. While 94% believe AI can enhance their experience, customers prioritize pampering, human interaction, and personalized style advice as the top in-store value drivers.",
-    "date": "2026-07-08"
-  },
-  {
     "url": "https://ecommercenews.eu/galaxus-now-biggest-online-store-in-switzerland/",
     "title": "Galaxus now biggest online store in Switzerland",
     "topic": "Marketplaces",
@@ -621,5 +572,47 @@
     "topic": "Ad & Marketing",
     "gist": "Founder-led short-form video content is becoming an informal requirement for DTC brands, with retailers reportedly factoring a founder's social presence into wholesale decisions because it can drive in-store traffic.",
     "date": "2026-07-22"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/fashion-briefing-canadian-brands-are-investing-in-us-fulfillment-centers-in-wake-of-new-tariffs/",
+    "title": "Fashion Briefing: Canadian brands are investing in US fulfillment centers in wake of new tariffs",
+    "topic": "Fulfillment & Ops",
+    "gist": "Canadian apparel brands are accelerating investment in US-based fulfillment centers to sidestep new Trump tariffs, but the cost of local fulfillment is proving significant.",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/krogers-new-ceo-a-walmart-veteran-is-focused-on-speed-and-execution/",
+    "title": "Kroger’s new CEO, a Walmart veteran, is focused on speed and execution",
+    "topic": "Retail",
+    "gist": "Kroger's new CEO Greg Foran, a Walmart veteran, is emphasizing speed, execution, and financial discipline, with an early move being the $1.7B acquisition of Giant Eagle.",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/the-back-to-school-denim-wars-are-starting-earlier-and-lasting-longer/",
+    "title": "The back-to-school denim wars are starting earlier and lasting longer",
+    "topic": "Retail",
+    "gist": "Major retailers including Pacsun, Kohl's, and Hollister are launching back-to-school denim campaigns earlier than ever, as NRF data shows 62% of shoppers had already started back-to-school shopping by early July, up from 55% in 2024.",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://www.retaildive.com/news/nike-resets-online-china-distribution-turnaround/825894/",
+    "title": "Nike resets online distribution in ‘fragmented’ China market",
+    "topic": "Marketplaces",
+    "gist": "Nike is consolidating its China online presence from over 1,000 digital storefronts down to a handful of official channels on Tmall, JD.com, and Douyin, cutting major wholesale distributors from online sales amid a 12% revenue decline in the region.",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/new-ecommerce-tools-july-22-2026",
+    "title": "New Ecommerce Tools: July 22, 2026",
+    "topic": "Retail",
+    "gist": "This week's e-commerce tool roundup covers new launches including Squarespace drop-selling features, a DoorDash–Shopify integration for on-demand delivery, TikTok Shop's managed services pilot, and Dotdigital's AI loyalty platform.",
+    "date": "2026-07-23"
+  },
+  {
+    "url": "https://modernretail.co.uk/54-of-shoppers-report-more-shelf-gaps-since-the-start-of-middle-east-conflict/",
+    "title": "54% of shoppers report more shelf gaps since the start of Middle East conflict",
+    "topic": "Fulfillment & Ops",
+    "gist": "Research from invent.ai found that 54% of UK shoppers report worse on-shelf availability since Middle East conflict began, with 40% of planned grocery spend unavailable on average, and fashion shoppers particularly quick to switch brands or channels when facing stockouts.",
+    "date": "2026-07-23"
   }
 ]
