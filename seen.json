@@ -1,54 +1,5 @@
 [
   {
-    "url": "https://ecommercenews.eu/galaxus-now-biggest-online-store-in-switzerland/",
-    "title": "Galaxus now biggest online store in Switzerland",
-    "topic": "Marketplaces",
-    "gist": "Galaxus surpassed Zalando to become Switzerland's largest online store, reaching 2.5 billion euros in revenue by end of 2025, as Galaxus accelerated growth while Zalando stagnated.",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://digiday.com/marketing/d-research-marketers-hesitate-to-adopt-ai-for-influencer-and-ctv-marketing/",
-    "title": "D+ Research: Marketers hesitate to adopt AI for influencer and CTV marketing",
-    "topic": "Ad & Marketing",
-    "gist": "A Digiday+ Research Q1 2026 survey of 100+ marketers found only 25% use AI for influencer marketing, even as AI adoption for social and retail media marketing grows faster.",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://digiday.com/marketing/openai-set-to-expand-ads-to-france-germany-and-ireland/",
-    "title": "OpenAI set to expand ads to France, Germany and Ireland",
-    "topic": "Ad & Marketing",
-    "gist": "OpenAI is expanding its advertising pilot from the UK into France, Germany, and Ireland, hiring regional ad sales leaders across EMEA to build out its commercial ads business in Europe.",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/fashion-briefing-as-gen-z-goes-back-to-the-mall-garage-is-opening-20-profitable-stores-a-year/",
-    "title": "Fashion Briefing: As Gen Z goes back to the mall, Garage is opening 20 profitable stores a year",
-    "topic": "Retail",
-    "gist": "Canadian Gen Z fashion brand Garage is opening 20 new stores per year, achieving 30% profit margins and breaking even on each new location within 18 months on average, while JCPenney's CEO notes Gen Z is returning to physical malls.",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/on-lightspray-robots-sneaker-nearshoring/",
-    "title": "On is betting on robots and nearshoring to gain an advantage",
-    "topic": "Fulfillment & Ops",
-    "gist": "Athletic brand On is expanding its robotic LightSpray manufacturing system from Switzerland and South Korea toward Europe and the US, aiming to produce smaller batches closer to demand and reduce markdown-driven inventory risk.",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://www.retaildive.com/news/retailers-increase-investments-spending-ai-digital-technology/824613/",
-    "title": "Retailers plan to invest deeper in AI, cybersecurity this year",
-    "topic": "Retail",
-    "gist": "A KPMG survey of 250 retail executives found 52% invest $50M+ annually in digital tech, with 74% expecting to deploy AI at scale within 12 months, and cybersecurity (52%), data/analytics (49%), and AI/automation (42%) topping planned investment areas.",
-    "date": "2026-07-09"
-  },
-  {
-    "url": "https://www.retaildive.com/news/running-list-major-retail-deals-acquisitions-ipos-2026/824389/",
-    "title": "The running list of retail deals in 2026",
-    "topic": "Retail",
-    "gist": "Retail Dive's 2026 deal tracker notes M&A activity remains selective amid macro uncertainty, IPOs are recovering but retail accounts for just 1.5% of Q1 2026 IPOs, and megadeals are driving most deal value across consumer markets.",
-    "date": "2026-07-09"
-  },
-  {
     "url": "https://www.modernretail.co/marketing/marketplace-briefing-ai-traffic-is-poised-to-reshape-the-amazon-funnel/",
     "title": "Marketplace Briefing: AI traffic is poised to reshape the Amazon funnel",
     "topic": "Marketplaces",
@@ -614,5 +565,54 @@
     "topic": "Fulfillment & Ops",
     "gist": "Research from invent.ai found that 54% of UK shoppers report worse on-shelf availability since Middle East conflict began, with 40% of planned grocery spend unavailable on average, and fashion shoppers particularly quick to switch brands or channels when facing stockouts.",
     "date": "2026-07-23"
+  },
+  {
+    "url": "https://www.modernretail.co/technology/michaels-says-google-powered-ai-assistant-doubles-conversion-rate-of-traditional-search/",
+    "title": "Michaels says Google-powered AI assistant doubles conversion rate of traditional search",
+    "topic": "Retail",
+    "gist": "Michaels' AI shopping assistant 'Ask Mike', built on Google Cloud's Gemini platform, has logged 75,000 conversations since its quiet May launch and reportedly doubles the conversion rate compared to traditional on-site search.",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://www.retaildive.com/news/michaels-ai-shopping-assistant-ask-mike/826016/",
+    "title": "Michaels launches AI shopping assistant",
+    "topic": "Retail",
+    "gist": "Michaels launched 'Ask Mike', an AI shopping assistant built with Google Cloud's Gemini platform in six weeks, offering personalized product recommendations and creative guidance, with plans to add AI-generated product overviews and contextual prompts.",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://www.glossy.co/podcasts/how-the-shifting-shopping-calendar-has-become-a-customer-acquisition-opportunity/",
+    "title": "How the shifting shopping calendar has become a customer acquisition opportunity",
+    "topic": "Consumer Trends",
+    "gist": "Traditional retail peaks like Prime Day, Black Friday, and back-to-school have stretched into multi-week or multi-month events, reshaping how brands compete for customer acquisition across an increasingly elongated shopping calendar.",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://www.modernretail.co/technology/marketplace-briefing-how-whatnots-ai-powered-recommendation-system-gives-it-a-competitive-edge/",
+    "title": "Marketplace Briefing: How Whatnot’s AI-powered recommendation system gives it a competitive edge",
+    "topic": "Marketplaces",
+    "gist": "Whatnot has reduced recommendation latency to minutes, allowing its system to ingest real-time signals like sold-out inventory from active livestreams and immediately adjust what products it surfaces to buyers.",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/what-to-know-about-new-proposed-tariffs-on-canadian-goods/",
+    "title": "What to know about new proposed tariffs on Canadian goods",
+    "topic": "Macro",
+    "gist": "The Trump administration announced new tariffs on Canadian goods — covering autos, dairy, alcohol, and select consumer categories — set to take effect August 19, though negotiations could alter final rates before then.",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://www.retaildive.com/news/tractor-supply-disappointing-q2-earnings-lowers-outlook/825997/",
+    "title": "Tractor Supply sputters in Q2, lowers outlook",
+    "topic": "Retail",
+    "gist": "Tractor Supply posted a Q2 comp decline of 1.5% and cut its full-year outlook, citing drought, discretionary pullback, and encroachment by Amazon and Walmart into its rural customer base.",
+    "date": "2026-07-24"
+  },
+  {
+    "url": "https://digiday.com/media-buying/google-quietly-gives-ground-on-pmax-controls/",
+    "title": "Google quietly gives ground on PMax controls",
+    "topic": "Ad & Marketing",
+    "gist": "Google is testing a feature that lets media buyers exclude third-party search partners and the Google Display Network from Performance Max campaigns, offering more spending control than the product has historically allowed.",
+    "date": "2026-07-24"
   }
 ]
