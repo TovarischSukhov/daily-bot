@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/marketing/marketplace-briefing-ai-traffic-is-poised-to-reshape-the-amazon-funnel/",
-    "title": "Marketplace Briefing: AI traffic is poised to reshape the Amazon funnel",
-    "topic": "Marketplaces",
-    "gist": "Amazon agency Envision Horizons launched a beta AI visibility tracker to measure how referral traffic from ChatGPT, Claude, and Gemini influences purchases on Amazon, reflecting growing agency interest in understanding generative AI's role in the shopping funnel.",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://www.retaildive.com/news/meta-muse-image-ai-powered-room-visualization-feature/824841/",
-    "title": "Meta introduces AI-powered room visualization feature",
-    "topic": "Retail",
-    "gist": "Meta AI now lets shoppers upload photos of their rooms and visualize catalog products placed inside them, pulling from existing ad catalog data, with the ability to compare options and purchase directly through the brand's website.",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://www.retaildive.com/news/back-to-school-shoppers-mass-merchants-department-stores-spending-down/824817/",
-    "title": "Back-to-school shoppers head to mass merchants, department stores",
-    "topic": "Consumer Trends",
-    "gist": "Deloitte's 2026 back-to-school survey projects flat spending at $557 per child (down 6% inflation-adjusted), with mass merchants dominating and 57% of parents expecting the economy to worsen — but parents using generative AI tools plan to spend the most, averaging $737 per child.",
-    "date": "2026-07-10"
-  },
-  {
-    "url": "https://digiday.com/marketing/to-manage-300000-creators-unilever-automates-everything-but-the-relationship/",
-    "title": "To manage 300,000 creators, Unilever automates everything but the relationship",
-    "topic": "Ad & Marketing",
-    "gist": "Unilever scaled its creator program from 10,000 to 300,000 influencers and is now automating discovery, vetting, and content approvals while keeping human judgment at the center of actual relationship management.",
-    "date": "2026-07-10"
-  },
-  {
     "url": "https://techcrunch.com/2026/07/10/phia-accused-of-cookie-stuffing-taking-affiliate-credit-on-purchases-it-didnt-earn/",
     "title": "Phia accused of ‘cookie stuffing,’ taking affiliate credit on purchases it didn’t earn",
     "topic": "Ad & Marketing",
@@ -614,5 +586,33 @@
     "topic": "Ad & Marketing",
     "gist": "Google is testing a feature that lets media buyers exclude third-party search partners and the Google Display Network from Performance Max campaigns, offering more spending control than the product has historically allowed.",
     "date": "2026-07-24"
+  },
+  {
+    "url": "https://www.modernretail.co/retailers/how-best-buy-is-rethinking-retail-footprints-for-ai-products-like-ray-ban-meta-glasses/",
+    "title": "How Best Buy is rethinking retail footprints for AI products like Ray-Ban Meta glasses",
+    "topic": "Retail",
+    "gist": "Best Buy is rolling out 30x30-foot Meta AI shop-in-shop displays in select stores as part of its partnership to sell Ray-Ban Meta glasses, rethinking how experiential retail works for AI hardware.",
+    "date": "2026-07-25"
+  },
+  {
+    "url": "https://www.retaildive.com/news/hoka-earnings-slowing-down-q1-disappointment/826124/",
+    "title": "Is Hoka slowing down?",
+    "topic": "DTC & Brands",
+    "gist": "Deckers Brands posted Q1 revenue above $1 billion for the first time, with Hoka up 8% and DTC sales leading at +17%, though growth is projected below analyst expectations for the full year, raising questions about whether the brand's peak momentum has passed.",
+    "date": "2026-07-25"
+  },
+  {
+    "url": "https://www.retaildive.com/news/ross-brick-and-mortar-expansion-stores/826085/",
+    "title": "Ross accelerates brick-and-mortar expansion with nearly 50 new locations",
+    "topic": "Retail",
+    "gist": "Ross Stores is opening 47 new locations in June–July 2026 as part of a plan to launch around 110 stores this year, riding strong traffic growth and benefiting from consumers trading down to off-price retail.",
+    "date": "2026-07-25"
+  },
+  {
+    "url": "https://www.retaildive.com/news/hanes-embraces-risque-marketing-in-creative-shakeup-for-basics-brand/826112/",
+    "title": "Hanes embraces risqué marketing in creative shakeup for basics brand",
+    "topic": "Ad & Marketing",
+    "gist": "Hanes launched a risqué, confidence-themed campaign called 'Get Comfortable' across social, OOH, and online video, marking a deliberate creative pivot following its $2.2 billion acquisition by Gildan Activewear.",
+    "date": "2026-07-25"
   }
 ]
