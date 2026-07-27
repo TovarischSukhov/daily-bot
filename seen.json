@@ -1,19 +1,5 @@
 [
   {
-    "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
-    "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
-    "topic": "AI & Tech",
-    "gist": "Analysis of CoreWeave and Nebius reveals a circular financing structure where Nvidia invests in both neoclouds, which then buy billions in Nvidia GPUs, while hyperscalers like Microsoft and Meta commit over $120B to these companies partly to shift capex off their balance sheets. Both neoclouds face large funding gaps as capex runs 2:1 ahead of operating cash flow, driving rapidly rising debt loads.",
-    "date": "2026-07-12"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/11/openai-bets-on-families-as-chatgpt-goes-deeper-into-households/",
-    "title": "OpenAI bets on families as ChatGPT goes deeper into households",
-    "topic": "AI & Tech",
-    "gist": "OpenAI is hiring a product manager dedicated to families, caregivers, and older adults, as data shows ChatGPT's 35+ user share rose from 26% to 31% in a year and nearly one in four U.S. parent smartphone users now use the product. The move signals a shift from individual productivity tool toward household-level AI, bringing new trust and safety requirements.",
-    "date": "2026-07-12"
-  },
-  {
     "url": "https://www.retaildive.com/spons/private-label-not-just-a-price-driven-choice-anymore/824417/",
     "title": "Private label: Not just a price driven choice anymore",
     "topic": "Retail",
@@ -579,5 +565,26 @@
     "topic": "AI & Tech",
     "gist": "Cloudflare is expanding its AI traffic controls for all customers, introducing granular blocking options across three bot categories — Search, Agent, and Training — with Training and Agent bots to be blocked by default on ad-displaying pages for new domains from September 15, 2026. The update also adds a BotBase directory for enterprise customers, a content-use signal for robots.txt, and a transitive trust framework for agentic traffic.",
     "date": "2026-07-26"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/retail-brands-risk-optimizing-the-wrong-thing/825613/",
+    "title": "Retail brands risk optimizing the wrong thing",
+    "topic": "Retail",
+    "gist": "The share of digital commerce journeys starting on a brand's own website dropped from 82% in 2014 to 38% by 2024, with AI platforms increasingly capturing early purchase intent before shoppers ever reach a retailer's owned properties. Brands optimizing only for on-site experience risk being absent from AI-generated shortlists that now shape consideration sets upstream.",
+    "date": "2026-07-27"
+  },
+  {
+    "url": "https://digiday.com/marketing/mythbusters-ai-visibilitys-biggest-misconceptions/",
+    "title": "Mythbusters: AI visibility’s biggest misconceptions",
+    "topic": "Ad & Marketing",
+    "gist": "An estimated 30% of shoppers now use AI tools for product research, up from 12% a year ago, and brands are racing to understand how they appear in LLM-generated results — but experts say common AIO strategies are built on misconceptions.",
+    "date": "2026-07-27"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/n-y-targets-ai-models-in-product-ads",
+    "title": "N.Y. Targets AI Models in Product Ads",
+    "topic": "Retail",
+    "gist": "New York State now requires clear disclosures when product ads contain AI-generated images of people, and Amazon has already directed third-party sellers to flag such content before uploading — a compliance burden that falls hardest on smaller merchants. Critics argue the law disproportionately penalizes affordable AI-generated imagery while leaving expensive but heavily manipulated traditional photography largely untouched.",
+    "date": "2026-07-27"
   }
 ]
