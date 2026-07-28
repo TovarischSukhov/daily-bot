@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.retaildive.com/spons/private-label-not-just-a-price-driven-choice-anymore/824417/",
-    "title": "Private label: Not just a price driven choice anymore",
-    "topic": "Retail",
-    "gist": "Private labels have evolved from low-cost generics to quality-competitive products spanning premium, health, and niche categories, with retailers using supply chain control and dynamic pricing to outmargin branded competitors. The article projects further evolution through AI-driven personalization and sustainable practices.",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://www.retaildive.com/spons/after-the-click-turning-ai-referred-shoppers-into-loyal-customers/824663/",
-    "title": "After the click: Turning AI-referred shoppers into loyal customers",
-    "topic": "Retail",
-    "gist": "AI-referred shoppers convert 42% better and spend more per visit than other traffic channels, but they arrive with high expectations set by conversational AI — slow sites, poor on-site search, and generic experiences quickly erase that advantage. Retailers are being pushed to match the intent-aware, conversational quality of the AI assistants that sent shoppers their way.",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/dtc-brands-are-finding-growth-with-older-customers/",
-    "title": "DTC brands are finding growth with older customers",
-    "topic": "DTC & Brands",
-    "gist": "Several DTC brands, including baby food startup Little Spoon and charcuterie delivery service Boarderie, are discovering that older demographics — grandparents and Baby Boomers — are driving meaningful growth, prompting shifts in marketing, messaging, and product development.",
-    "date": "2026-07-13"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/intent-clusters-guide-ai-product-discovery",
-    "title": "Intent Clusters Guide AI Product Discovery",
-    "topic": "Retail",
-    "gist": "As AI assistants handle longer, more context-rich shopping queries than traditional search, e-commerce marketers can build 'product intent clusters' — networks of scenario-specific content pages linked to a central product detail page — to influence AI-generated recommendations. Generative AI makes it economically viable to produce and maintain the large volume of narrow-use-case pages this strategy requires.",
-    "date": "2026-07-13"
-  },
-  {
     "url": "https://www.retaildive.com/news/retailers-stock-up-inventory-expected-tariff-changes/825053/",
     "title": "Retailers stock up ahead of expected tariff changes",
     "topic": "Fulfillment & Ops",
@@ -586,5 +558,40 @@
     "topic": "Retail",
     "gist": "New York State now requires clear disclosures when product ads contain AI-generated images of people, and Amazon has already directed third-party sellers to flag such content before uploading — a compliance burden that falls hardest on smaller merchants. Critics argue the law disproportionately penalizes affordable AI-generated imagery while leaving expensive but heavily manipulated traditional photography largely untouched.",
     "date": "2026-07-27"
+  },
+  {
+    "url": "https://ecommercenews.eu/online-retail-sales-surge-in-the-united-kingdom/",
+    "title": "Online retail sales surge in the United Kingdom",
+    "topic": "Retail",
+    "gist": "UK online retail sales rose 11.7% year-on-year in Q2, with June up 14.4%, pushing the online share of total retail to its highest point since April 2021.",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://www.modernretail.co/sponsored/the-new-rules-of-cross-border-commerce-after-de-minimis/",
+    "title": "The new rules of cross-border commerce after de minimis",
+    "topic": "Fulfillment & Ops",
+    "gist": "Since July 1, the EU's de minimis exemption is gone: every parcel now incurs customs duty regardless of value, with a €3 per-line-item charge on shipments under €150, and the merchant — not the carrier or customer — is legally liable.",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://www.retaildive.com/news/stressed-parents-bnpl-back-to-school-shopping/826145/",
+    "title": "Stressed parents turn to BNPL for back-to-school shopping",
+    "topic": "Consumer Trends",
+    "gist": "A survey of 1,075 U.S. consumers found 45% of households plan to use BNPL for back-to-school purchases this year, up from 39% in 2025, with financial stress and tight household budgets cited as the main drivers.",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/modern-retail-research-brands-are-expanding-their-creator-marketing-strategies/",
+    "title": "Modern Retail+ Research: Brands are expanding their creator marketing strategies",
+    "topic": "Ad & Marketing",
+    "gist": "A survey of 125 brand and agency professionals finds marketers are using creator partnerships beyond awareness, now tapping influencers for seasonal campaigns, product launches, and product development.",
+    "date": "2026-07-28"
+  },
+  {
+    "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
+    "title": "Google’s AI search is rapidly becoming the default, new data shows",
+    "topic": "Ad & Marketing",
+    "gist": "Google's AI Overviews now appear in 43% of searches, up from 15% a year ago, with AI Mode visits more than doubling — turning Google increasingly into a destination rather than a traffic source for publishers and retailers.",
+    "date": "2026-07-28"
   }
 ]
