@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
-    "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
-    "topic": "Marketplaces",
-    "gist": "Whatnot has acquired Shaped, an ML company specializing in real-time recommendation and search, to bring recommendations for live auctions closer to real-time as inventory and buyer intent shift by the second.",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://www.modernretail.co/sponsored/the-state-of-agentic-storefronts-how-ai-agents-guide-shoppers-on-frictionless-full-funnel-journeys/",
-    "title": "The state of agentic storefronts: How AI agents guide shoppers on frictionless, full-funnel journeys",
-    "topic": "Retail",
-    "gist": "A Glossy/Swap survey of 80 brands, retailers, and agencies found 90% already use AI to improve shopping experiences, with Salesforce data crediting AI agents with driving 20% of retail sales and $262B in holiday spend during the 2025 season.",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/salomon-continues-its-us-growth-streak-by-launching-at-foot-locker/",
-    "title": "Salomon continues its US growth streak by launching at Foot Locker",
-    "topic": "DTC & Brands",
-    "gist": "Salomon is launching at Foot Locker on July 19 and will co-host a series of farmers'-market-inspired pop-ups in New York, Los Angeles, and Miami to support the partnership.",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://www.retaildive.com/news/walmart-supply-chain-strategy-ai-digital-twins/825162/",
-    "title": "Walmart bets on AI and digital twins to shape its supply chain strategy",
-    "topic": "Fulfillment & Ops",
-    "gist": "Walmart's supply chain technology team uses AI agents, digital twin simulations, and predictive models to optimize inventory routing, balance cost and speed, and respond rapidly to disruptions like facility closures or sudden demand shifts.",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://www.retaildive.com/news/inflation-slows-warsh-pledges-achieve-fed-target/825286/",
-    "title": "Inflation slows to 3.5% as Warsh pledges to achieve Fed’s 2% target",
-    "topic": "Macro",
-    "gist": "US consumer prices rose 3.5% annually in June, down from 4.2% in May, driven largely by a 5.7% drop in energy prices, though the Fed's new chair signaled rate hikes remain on the table if inflation doesn't continue to cool.",
-    "date": "2026-07-16"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/15/stripe-and-advent-reportedly-offered-to-buy-paypal-for-around-53-4b/",
-    "title": "Stripe and Advent reportedly offered to buy PayPal for around $53.4B",
-    "topic": "Payments",
-    "gist": "Stripe and Advent International have jointly bid approximately $53.4B to acquire PayPal, backed by ~$50B in bank financing, which would combine two platforms processing a combined $3.7 trillion in annual payment volume.",
-    "date": "2026-07-16"
-  },
-  {
     "url": "https://digiday.com/media/wtf-is-llm-honeypotting/",
     "title": "WTF is LLM honeypotting?",
     "topic": "Ad & Marketing",
@@ -579,5 +537,82 @@
     "topic": "Ad & Marketing",
     "gist": "Unilever has built a 300,000-creator network — activating 50,000 for the FIFA World Cup — and is relying on AI infrastructure to manage operations at that scale. The company's CEO publicly credited creators for driving growth, though the logistics and risks of automating creator relationships remain significant.",
     "date": "2026-07-30"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/amazon-says-groceries-and-essentials-are-growing-meaningfully-faster-than-the-rest-of-its-stores-business/",
+    "title": "Amazon says groceries and essentials are growing ‘meaningfully faster’ than the rest of its Stores business",
+    "topic": "Marketplaces",
+    "gist": "Amazon reported Q2 net sales of $200B (+20% YoY), with groceries and everyday essentials growing meaningfully faster than its overall Stores segment, driven by the Amazon Now 30-minute delivery service.",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://www.retaildive.com/news/crocs-tops-one-billion-first-time-q2-earnings-sales-growth/826574/",
+    "title": "Crocs tops $1B in quarterly revenue for the first time",
+    "topic": "DTC & Brands",
+    "gist": "Crocs brand crossed $1B in quarterly revenue for the first time, with DTC up 13% while wholesale fell 5%; sister brand Heydude also saw DTC gains driven partly by TikTok Shop and a record Amazon Prime Day, even as overall Heydude revenue declined 6%.",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://www.retaildive.com/news/new-jersey-bans-dynamic-pricing/826563/",
+    "title": "New Jersey bans dynamic pricing",
+    "topic": "Retail",
+    "gist": "New Jersey signed the Fair Price Protection Act, banning businesses from using consumer data to set individualized prices and imposing a one-year moratorium on new electronic shelf label deployments, with the law taking effect in roughly seven months.",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/house-bill-reshapes-marketplace-policies",
+    "title": "House Bill Reshapes Marketplace Policies",
+    "topic": "Marketplaces",
+    "gist": "A U.S. House bill introduced July 21 would require marketplaces like Amazon and Walmart to provide written explanations for account suspensions, impose 30-day limits on inventory and payment holds, and give sellers a formal appeals process with FTC enforcement and private right to sue.",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://www.retaildive.com/news/podcast-the-backroom-gap-happy-stripe-retail-q1/826557/",
+    "title": "The Backroom: How long can the consumer hang on?",
+    "topic": "Consumer Trends",
+    "gist": "Retail Dive's podcast examines how retailers performed well in the first half of the year, with some brands improving execution and discounters benefiting from trade-down behavior, while raising questions about whether the strength can hold through year-end.",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/big-box-briefing-walmart-takes-over-parts-of-sams-clubs-operations/",
+    "title": "Big-Box Briefing: Walmart takes over parts of Sam’s Club’s operations",
+    "topic": "Retail",
+    "gist": "Walmart has been gradually absorbing Sam's Club operations at the corporate level, merging supply chain teams and rolling out a shared e-commerce front-end, with the integration accelerating since 2024.",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://www.retaildive.com/news/adidas-apparel-outshines-footwear-world-cup-second-quarter-sales-jump/826596/",
+    "title": "Adidas apparel outshines footwear during World Cup quarter",
+    "topic": "DTC & Brands",
+    "gist": "Adidas Q2 revenues rose 13% YoY to €6.7B, with apparel up 34% and DTC up 24% driven by World Cup marketing spend, though operating margin missed expectations due to higher SG&A costs.",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://www.retaildive.com/news/nike-studio-fleece-launch-hoodies-sweatpants-sportswear/826581/",
+    "title": "Why Nike is trying to reignite its sportswear business with a hoodie",
+    "topic": "DTC & Brands",
+    "gist": "Nike launched Studio Fleece, a women-focused fleece apparel line built on insights from 300+ women, as part of a broader effort to reverse double-digit declines in its sportswear category, with global availability set for September 1.",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://modernretail.co.uk/how-to-value-product-data-in-the-age-of-ai/",
+    "title": "How to value product data in the age of AI",
+    "topic": "Retail",
+    "gist": "An Akeneo CTO op-ed argues that product data has shifted from an operational function to commercial infrastructure, as AI assistants and agentic commerce increasingly determine product visibility, recommendations, and purchases based on data quality rather than website experience.",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://digiday.com/marketing/future-of-marketing-media-measurement-is-becoming-an-asset-in-boardroom-theater/",
+    "title": "Future of Marketing Briefing: Media measurement is becoming an asset in boardroom theater",
+    "topic": "Ad & Marketing",
+    "gist": "Q2 earnings calls saw CEOs publicly citing marketing measurement capabilities as a competitive advantage, signaling that media effectiveness has moved from a CFO-CMO debate to a boardroom talking point.",
+    "date": "2026-07-31"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/luxury/luxury-value-for-money-lvmh-kering-hermes/",
+    "title": "Luxury Briefing: Luxury’s recovery has a value-for-money problem",
+    "topic": "DTC & Brands",
+    "gist": "Major luxury groups including LVMH and Kering posted improved but cautious numbers, with brands attempting to serve multiple price points as growth slows, raising questions about whether the sector is genuinely recovering.",
+    "date": "2026-07-31"
   }
 ]
