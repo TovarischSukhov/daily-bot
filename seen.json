@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/operations/how-bloom-nutrition-is-expanding-internationally/",
-    "title": "How Bloom Nutrition is expanding internationally",
-    "topic": "DTC & Brands",
-    "gist": "Bloom Nutrition is expanding its energy drink line into Australia, France, and the U.K., navigating the cross-border friction that comes with international retail growth.",
-    "date": "2026-07-18"
-  },
-  {
-    "url": "https://www.retaildive.com/news/back-to-school-record-high-forecast-nrf/825458/",
-    "title": "Back-to-school spending forecast to reach record highs",
-    "topic": "Consumer Trends",
-    "gist": "Back-to-school spending is forecast to hit record highs this year — $43.3B for K-12 and over $100B for college — but shoppers are delaying purchases, hunting for deals, and spreading out spending due to budget pressure.",
-    "date": "2026-07-18"
-  },
-  {
-    "url": "https://www.retaildive.com/news/ulta-names-new-cto/825451/",
-    "title": "Ulta Beauty names Domino’s veteran as CTO",
-    "topic": "Retail",
-    "gist": "Ulta Beauty has hired Domino's long-time CTO Kelly Garcia as its new chief technology officer, bringing over 25 years of experience in e-commerce, loyalty, and digital innovation to advance Ulta's tech-driven growth strategy.",
-    "date": "2026-07-18"
-  },
-  {
-    "url": "https://ecommercenews.eu/rakuten-france-is-closing/",
-    "title": "Rakuten France is closing",
-    "topic": "Marketplaces",
-    "gist": "Rakuten France is shutting down its online marketplace by end of year after failing to find a buyer, citing disappointing traffic and sales.",
-    "date": "2026-07-18"
-  },
-  {
-    "url": "https://www.glossy.co/beauty/wellness/cmo-doug-sweeny-unpacks-ouras-winning-bet-on-the-world-cup-and-what-it-means-for-his-2027-roadmap/",
-    "title": "CMO Doug Sweeny unpacks Oura’s winning bet on the World Cup — and what it means for his 2027 roadmap",
-    "topic": "DTC & Brands",
-    "gist": "Oura's CMO shares how the brand leveraged the 2026 FIFA World Cup's record-breaking viewership and 20 billion social media views as a marketing platform, informing its 2027 strategy.",
-    "date": "2026-07-18"
-  },
-  {
     "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/",
     "title": "AI Mania Is Eviscerating Global Decision-Making",
     "topic": "AI & Tech",
@@ -572,5 +537,26 @@
     "topic": "Retail",
     "gist": "An ongoing cyclospora outbreak is forcing food retailers and restaurant chains to publicly reassure customers about produce safety, raising questions about how much communication responsibility businesses bear during health scares.",
     "date": "2026-08-01"
+  },
+  {
+    "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
+    "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
+    "topic": "Ad & Marketing",
+    "gist": "Reddit CEO Steve Huffman publicly criticized Google's AI Overviews during the company's quarterly earnings call, arguing the feature undermines Reddit's value as a traffic source. Reddit's stock fell amid broader concerns about AI-driven changes to search behavior.",
+    "date": "2026-08-02"
+  },
+  {
+    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+    "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+    "topic": "AI & Tech",
+    "gist": "MIT Sloan research finds AI tools can deliver reasonably sound financial advice, with quality improving significantly depending on how questions are framed by the user.",
+    "date": "2026-08-02"
+  },
+  {
+    "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
+    "title": "Four Time Scales for Technology Development and Deployment",
+    "topic": "AI & Tech",
+    "gist": "Rodney Brooks outlines four distinct time scales for technology — research, hype, at-scale deployment, and economic reshaping — arguing that people routinely conflate them and make wildly premature predictions about when technologies will transform the world.",
+    "date": "2026-08-02"
   }
 ]
