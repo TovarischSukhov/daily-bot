@@ -1,26 +1,5 @@
 [
   {
-    "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/",
-    "title": "AI Mania Is Eviscerating Global Decision-Making",
-    "topic": "AI & Tech",
-    "gist": "A consultant argues that virtually all enterprise AI projects are failing, that executives are trapped in a game-theory dynamic where honesty about AI shortcomings is career-ending, and that organizations have become unable to make rational decisions because AI hype has become a loyalty test rather than a strategy.",
-    "date": "2026-07-19"
-  },
-  {
-    "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-    "title": "NYC may require landlords and realtors to disclose the use of AI in listings",
-    "topic": "AI & Tech",
-    "gist": "New York City's mayor is proposing rules requiring landlords and realtors to disclose when listing photos have been altered or generated using AI, as part of a broader tenant-protection report.",
-    "date": "2026-07-19"
-  },
-  {
-    "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
-    "title": "The Kimi K3 Moment",
-    "topic": "AI & Tech",
-    "gist": "A developer finds Kimi K3, a Chinese open-source model, matches Claude's performance at roughly one-third the API cost and argues this exposes the failure of US AI export restrictions, which constrain American customers without limiting foreign competition.",
-    "date": "2026-07-19"
-  },
-  {
     "url": "https://ecommercenews.eu/bol-and-amazon-use-misleading-discounts/",
     "title": "‘Bol and Amazon use misleading discounts’",
     "topic": "Marketplaces",
@@ -558,5 +537,26 @@
     "topic": "AI & Tech",
     "gist": "Rodney Brooks outlines four distinct time scales for technology — research, hype, at-scale deployment, and economic reshaping — arguing that people routinely conflate them and make wildly premature predictions about when technologies will transform the world.",
     "date": "2026-08-02"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/the-promise-retailers-keep-breaking-and-why-the-data-is-to-blame/825616/",
+    "title": "The promise retailers keep breaking (and why the data is to blame)",
+    "topic": "Retail",
+    "gist": "Average retailer inventory accuracy sits at ~65%, with up to 60% of records containing errors, costing the industry an estimated $1.77 trillion annually in inventory distortion. The article argues that stale WMS data is the root cause and profiles autonomous robot scanning as a solution delivering measurable ROI.",
+    "date": "2026-08-03"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/the-ai-performance-question-retail-isnt-asking/826050/",
+    "title": "The AI performance question retail isn’t asking",
+    "topic": "Retail",
+    "gist": "Most retail analytics measure AI performance only within owned channels (engagement, session length, conversion), missing the earlier part of the funnel where AI answer engines shape shopper consideration before any brand site is visited. The piece argues 'inclusion in AI-generated answers' is the upstream metric retailers are failing to track.",
+    "date": "2026-08-03"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/what-retail-leaders-are-actually-doing-with-ai-modern-retail/",
+    "title": "Retail’s new operating model centers on leaner teams, smarter data and physical community",
+    "topic": "Retail",
+    "gist": "At a closed-door Brand Leaders Dinner, retail and fashion executives discussed pressures including AI adoption, leaner hiring, and the rising cost of building brand awareness — full details are behind a paywall.",
+    "date": "2026-08-03"
   }
 ]
