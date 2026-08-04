@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://ecommercenews.eu/bol-and-amazon-use-misleading-discounts/",
-    "title": "‘Bol and Amazon use misleading discounts’",
-    "topic": "Marketplaces",
-    "gist": "The Dutch Consumer Association has issued cease-and-desist letters to Bol and Amazon Netherlands, alleging the platforms display fake discounts that violate consumer protection law.",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://www.retaildive.com/spons/from-season-to-sentiment-how-the-pace-of-consumer-trends-reshapes-retail-p/824796/",
-    "title": "From season to sentiment: How the pace of consumer trends reshapes retail planning",
-    "topic": "Retail",
-    "gist": "Retailers relying on seasonal planning frameworks are struggling to keep up as social media and viral moments create unpredictable, fragmented demand spikes that require real-time, unified data signals to manage.",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://www.retaildive.com/spons/ai-is-creating-ecommerces-next-optimization-challenge-the-intent-gap/825381/",
-    "title": "AI is creating ecommerce’s next optimization challenge: The intent gap",
-    "topic": "Retail",
-    "gist": "As AI tools like ChatGPT handle more of the pre-purchase research, shoppers increasingly arrive at retailer sites at different decision stages, creating an 'intent gap' where static checkout and cart experiences fail to match what each shopper actually needs.",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://digiday.com/media-buying/wtf-w3cs-attribution-api/",
-    "title": "WTF: W3C’s Attribution API?",
-    "topic": "Ad & Marketing",
-    "gist": "Following Google's retreat from third-party cookie deprecation, browser-based ad measurement is being re-debated within the W3C standards body, keeping the question of cookieless attribution alive for marketers and ad tech.",
-    "date": "2026-07-20"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/guitar-center-plots-its-turnaround-with-a-focus-on-serving-serious-musicians/",
-    "title": "Guitar Center plots its turnaround, with a focus on serving ‘serious musicians’",
-    "topic": "Retail",
-    "gist": "Guitar Center reports its ninth straight quarter of positive growth with sales up 5.2% to $635 million, crediting a strategic refocus on serious musicians and noting a 16% rise in in-store dwell time and the first store traffic increase in over a decade.",
-    "date": "2026-07-20"
-  },
-  {
     "url": "https://www.retaildive.com/news/reformation-ipo-targets-one-billion-valuation/825638/",
     "title": "Reformation targets $1B valuation with IPO",
     "topic": "DTC & Brands",
@@ -558,5 +523,26 @@
     "topic": "Retail",
     "gist": "At a closed-door Brand Leaders Dinner, retail and fashion executives discussed pressures including AI adoption, leaner hiring, and the rising cost of building brand awareness — full details are behind a paywall.",
     "date": "2026-08-03"
+  },
+  {
+    "url": "https://www.retaildive.com/news/amazon-alexa-for-shopping-agentic-ai-adoption/826806/",
+    "title": "Amazon customers are embracing Alexa for Shopping",
+    "topic": "Retail",
+    "gist": "Amazon reports Alexa for Shopping nearly doubled active users YoY in Q2 2026, with over 350 million shoppers using it in the past 12 months; users spend 40% more per order on average than non-users. Amazon's Q2 net sales hit $200.6B, up 20% YoY, with same-day/overnight deliveries up 40% in H1 2026.",
+    "date": "2026-08-04"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/fuel-freight-and-tariff-costs-are-complicating-holiday-importing/",
+    "title": "Fuel, freight and tariff costs are complicating holiday importing",
+    "topic": "Fulfillment & Ops",
+    "gist": "Retailers importing holiday inventory are facing a compounding cost squeeze from rising fuel and freight rates on top of the latest round of tariffs that kicked in at end of July 2026, with some brands pulling imports even further forward than usual to get ahead of the costs.",
+    "date": "2026-08-04"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/modern-retail-research-the-2026-guide-to-holiday-marketing-strategies-including-a-frame-brands-mastercard-and-ritual/",
+    "title": "Modern Retail+ Research: The 2026 guide to holiday marketing strategies, including A-Frame Brands, Mastercard and Ritual",
+    "topic": "Ad & Marketing",
+    "gist": "Brands planning holiday 2026 marketing are leaning on personalized offers, loyalty programs, bundled products, and AI-powered shopping experiences as consumers remain price-sensitive and advertisers face pressure to prove ROI. The piece covers strategies from A-Frame Brands, Mastercard, and Ritual.",
+    "date": "2026-08-04"
   }
 ]
