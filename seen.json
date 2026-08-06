@@ -1,54 +1,5 @@
 [
   {
-    "url": "https://www.glossy.co/fashion/american-eagle-back-to-school-rushtok-malls/",
-    "title": "American Eagle is turning RushTok and malls into its back-to-school sales engine",
-    "topic": "DTC & Brands",
-    "gist": "American Eagle's 2026 back-to-school campaign spans ~10 weeks with mall events, campus partnerships, and multiple talent deals including Sydney Sweeney and World Cup winner Lamine Yamal, deliberately moving away from a single monoculture campaign after last year's Sweeney push brought in 790,000 new customers.",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/exclusive-target-aims-to-strengthen-its-tween-business-with-new-multi-year-pacsun-partnership/",
-    "title": "Exclusive: Target aims to strengthen its tween business with new multi-year Pacsun partnership",
-    "topic": "Retail",
-    "gist": "Target is launching a multi-year, 100+ style tween apparel line co-created with Pacsun, priced under $30, available monthly in stores and on Target.com — framed as a deeper, longer-term brand partnership than Target's typical limited collaborations.",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://ads.openai.com/",
-    "title": "Advertise in ChatGPT",
-    "topic": "Ad & Marketing",
-    "gist": "OpenAI has launched an advertising platform, ads.openai.com, opening ChatGPT to paid advertising placements.",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://www.glossy.co/sponsored/unpacked-how-agentic-ai-is-reshaping-the-consumer-journey/",
-    "title": "Unpacked: How agentic AI is reshaping the consumer journey",
-    "topic": "Retail",
-    "gist": "A sponsored Glossy guide argues that agentic AI is moving from concept to deployment in commerce, with Bain projecting agentic AI could represent 15–25% of total U.S. e-commerce by 2030 as platforms like Google and OpenAI embed agents into shopping flows.",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://ecommercenews.eu/allegro-group-gmv-increases-14/",
-    "title": "Allegro Group GMV increases 14%",
-    "topic": "Marketplaces",
-    "gist": "Polish marketplace Allegro reported 13.7% GMV growth in H1 vs. the same period in 2025, with international GMV up 64.8%.",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/brands-briefing-why-employee-generated-content-is-a-priority-for-brands-like-starbucks-and-mephisto/",
-    "title": "Brands Briefing: Why employee-generated content is a priority for brands like Starbucks and Mephisto",
-    "topic": "Ad & Marketing",
-    "gist": "Brands including Starbucks and Mephisto are making employee-generated content a deliberate strategy, with Mephisto USA explicitly hiring store staff who can also create daily social content and act as affiliates.",
-    "date": "2026-07-22"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/more-brands-are-leaning-on-founders-to-drive-social-content/",
-    "title": "More brands are leaning on founders to drive social content",
-    "topic": "Ad & Marketing",
-    "gist": "Founder-led short-form video content is becoming an informal requirement for DTC brands, with retailers reportedly factoring a founder's social presence into wholesale decisions because it can drive in-store traffic.",
-    "date": "2026-07-22"
-  },
-  {
     "url": "https://www.glossy.co/fashion/fashion-briefing-canadian-brands-are-investing-in-us-fulfillment-centers-in-wake-of-new-tariffs/",
     "title": "Fashion Briefing: Canadian brands are investing in US fulfillment centers in wake of new tariffs",
     "topic": "Fulfillment & Ops",
@@ -565,5 +516,47 @@
     "topic": "DTC & Brands",
     "gist": "Apparel brands are returning to public markets, with Reformation raising $210.9M at an $886M valuation on the NYSE, Tailored Brands filing to go public, and Shein targeting a Hong Kong IPO as early as late August.",
     "date": "2026-08-05"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
+    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+    "topic": "Retail",
+    "gist": "Shopify reported Q2 revenue of $3.6B (+36% YoY), partly crediting AI-driven search, which tripled traffic and orders to its merchants YoY. Unlike media, where AI summaries cut traffic, AI search is compressing shopping journeys and sending buyers directly to product pages at 2.5x the rate of traditional search.",
+    "date": "2026-08-06"
+  },
+  {
+    "url": "https://www.glossy.co/beauty/rhode-sells-27-million-dtc-in-one-day-plots-19-country-expansion/",
+    "title": "Rhode sells $27 million DTC in one day, plots 19 country expansion",
+    "topic": "DTC & Brands",
+    "gist": "Rhode, Hailey Bieber's beauty brand now owned by E.l.f. Beauty, sold $27 million DTC in a single day and is planning a 19-country expansion, with E.l.f. reporting 36% net sales growth in Q1 FY2027.",
+    "date": "2026-08-06"
+  },
+  {
+    "url": "https://digiday.com/marketing/openai-brings-product-carousels-to-chatgpt-ads/",
+    "title": "OpenAI brings product carousels to ChatGPT ads",
+    "topic": "Ad & Marketing",
+    "gist": "OpenAI has launched a product carousel ad format in ChatGPT, allowing multiple products to appear in a single placement at the bottom of a conversation, following its earlier launch of bulk product-feed ad campaigns for retailers.",
+    "date": "2026-08-06"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/openai-brings-product-carousels-to-chatgpt-ads/",
+    "title": "OpenAI brings product carousels to ChatGPT ads",
+    "topic": "Ad & Marketing",
+    "gist": "OpenAI is launching a product carousel ad format in ChatGPT, allowing multiple products to appear in a single conversation-level placement, three months after enabling bulk product-feed campaigns for retailers.",
+    "date": "2026-08-06"
+  },
+  {
+    "url": "https://digiday.com/media/why-brands-like-gap-inc-and-staples-are-inviting-their-employees-to-be-creators/",
+    "title": "Why brands like Gap Inc. and Staples are inviting their employees to be creators",
+    "topic": "Ad & Marketing",
+    "gist": "Gap Inc. has opened its influencer creator program to employees across Old Navy, Gap, Athleta, and Banana Republic, letting them earn commissions via personalized affiliate links shared on social media, following similar moves by Starbucks and Staples.",
+    "date": "2026-08-06"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/new-ecommerce-tools-august-5-2026",
+    "title": "New Ecommerce Tools: August 5, 2026",
+    "topic": "Retail",
+    "gist": "A weekly roundup of new e-commerce merchant tools covering drone delivery, AI search advertising, warehouse automation, BNPL expansions (PayPal/Amazon in Germany and Austria, Pix in Brazil), multichannel commerce, and cross-border payments.",
+    "date": "2026-08-06"
   }
 ]
