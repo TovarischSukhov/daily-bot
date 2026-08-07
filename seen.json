@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://www.glossy.co/fashion/fashion-briefing-canadian-brands-are-investing-in-us-fulfillment-centers-in-wake-of-new-tariffs/",
-    "title": "Fashion Briefing: Canadian brands are investing in US fulfillment centers in wake of new tariffs",
-    "topic": "Fulfillment & Ops",
-    "gist": "Canadian apparel brands are accelerating investment in US-based fulfillment centers to sidestep new Trump tariffs, but the cost of local fulfillment is proving significant.",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/krogers-new-ceo-a-walmart-veteran-is-focused-on-speed-and-execution/",
-    "title": "Kroger’s new CEO, a Walmart veteran, is focused on speed and execution",
-    "topic": "Retail",
-    "gist": "Kroger's new CEO Greg Foran, a Walmart veteran, is emphasizing speed, execution, and financial discipline, with an early move being the $1.7B acquisition of Giant Eagle.",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/the-back-to-school-denim-wars-are-starting-earlier-and-lasting-longer/",
-    "title": "The back-to-school denim wars are starting earlier and lasting longer",
-    "topic": "Retail",
-    "gist": "Major retailers including Pacsun, Kohl's, and Hollister are launching back-to-school denim campaigns earlier than ever, as NRF data shows 62% of shoppers had already started back-to-school shopping by early July, up from 55% in 2024.",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://www.retaildive.com/news/nike-resets-online-china-distribution-turnaround/825894/",
-    "title": "Nike resets online distribution in ‘fragmented’ China market",
-    "topic": "Marketplaces",
-    "gist": "Nike is consolidating its China online presence from over 1,000 digital storefronts down to a handful of official channels on Tmall, JD.com, and Douyin, cutting major wholesale distributors from online sales amid a 12% revenue decline in the region.",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/new-ecommerce-tools-july-22-2026",
-    "title": "New Ecommerce Tools: July 22, 2026",
-    "topic": "Retail",
-    "gist": "This week's e-commerce tool roundup covers new launches including Squarespace drop-selling features, a DoorDash–Shopify integration for on-demand delivery, TikTok Shop's managed services pilot, and Dotdigital's AI loyalty platform.",
-    "date": "2026-07-23"
-  },
-  {
-    "url": "https://modernretail.co.uk/54-of-shoppers-report-more-shelf-gaps-since-the-start-of-middle-east-conflict/",
-    "title": "54% of shoppers report more shelf gaps since the start of Middle East conflict",
-    "topic": "Fulfillment & Ops",
-    "gist": "Research from invent.ai found that 54% of UK shoppers report worse on-shelf availability since Middle East conflict began, with 40% of planned grocery spend unavailable on average, and fashion shoppers particularly quick to switch brands or channels when facing stockouts.",
-    "date": "2026-07-23"
-  },
-  {
     "url": "https://www.modernretail.co/technology/michaels-says-google-powered-ai-assistant-doubles-conversion-rate-of-traditional-search/",
     "title": "Michaels says Google-powered AI assistant doubles conversion rate of traditional search",
     "topic": "Retail",
@@ -558,5 +516,33 @@
     "topic": "Retail",
     "gist": "A weekly roundup of new e-commerce merchant tools covering drone delivery, AI search advertising, warehouse automation, BNPL expansions (PayPal/Amazon in Germany and Austria, Pix in Brazil), multichannel commerce, and cross-border payments.",
     "date": "2026-08-06"
+  },
+  {
+    "url": "https://www.retaildive.com/news/etsy-slashes-workforce-12-percent-laying-off-220-ai-chatgpt/827193/",
+    "title": "Etsy slashes workforce by 12%, laying off 220",
+    "topic": "Marketplaces",
+    "gist": "Etsy is cutting 12% of its workforce (about 220 people) as part of a structural reorganization under new CEO Kruti Patel Goyal, while reporting Q2 revenue growth of 6% (ex-Depop) but swinging to a net loss of $46.7 million. The company is leaning into its 'human-centered marketplace' identity while simultaneously piloting a native ChatGPT app for conversational product search.",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/",
+    "title": "eBay continues to bet on live shopping after record quarter",
+    "topic": "Marketplaces",
+    "gist": "eBay reported that its live shopping feature saw GMV grow roughly 8x year-over-year across seven markets in Q2, with sellers who stream regularly seeing higher overall GMV and first-time live buyers spending about 70% more than non-live shoppers. The company is now opening self-service onboarding to eligible sellers in 300+ categories and expanding internationally.",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/big-box-briefing-this-back-to-school-season-is-all-about-low-prices-and-social-trends/",
+    "title": "Big-Box Briefing: This back-to-school season is all about low prices and social trends",
+    "topic": "Retail",
+    "gist": "Major brick-and-mortar retailers are framing the 2025 back-to-school season around aggressive low-price promotions and social-media-trending products, with influencer and creator partnerships central to their discovery strategy. Amazon's earlier Prime Day has stretched the season into a summer-long promotional window.",
+    "date": "2026-08-07"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/thinking-about-cart-recovery-in-2026",
+    "title": "Thinking about Cart Recovery in 2026",
+    "topic": "Retail",
+    "gist": "Cart abandonment still sees roughly 70% of carts never converting, and most recovery automations use fixed sequences that can't distinguish why a shopper left — whether it was friction, uncertainty, or price resistance. The article contrasts manual sequence optimization with AI decisioning systems that select message, offer, and timing based on individual cart and behavioral signals.",
+    "date": "2026-08-07"
   }
 ]
