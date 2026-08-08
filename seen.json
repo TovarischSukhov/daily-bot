@@ -1,54 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/technology/michaels-says-google-powered-ai-assistant-doubles-conversion-rate-of-traditional-search/",
-    "title": "Michaels says Google-powered AI assistant doubles conversion rate of traditional search",
-    "topic": "Retail",
-    "gist": "Michaels' AI shopping assistant 'Ask Mike', built on Google Cloud's Gemini platform, has logged 75,000 conversations since its quiet May launch and reportedly doubles the conversion rate compared to traditional on-site search.",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://www.retaildive.com/news/michaels-ai-shopping-assistant-ask-mike/826016/",
-    "title": "Michaels launches AI shopping assistant",
-    "topic": "Retail",
-    "gist": "Michaels launched 'Ask Mike', an AI shopping assistant built with Google Cloud's Gemini platform in six weeks, offering personalized product recommendations and creative guidance, with plans to add AI-generated product overviews and contextual prompts.",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://www.glossy.co/podcasts/how-the-shifting-shopping-calendar-has-become-a-customer-acquisition-opportunity/",
-    "title": "How the shifting shopping calendar has become a customer acquisition opportunity",
-    "topic": "Consumer Trends",
-    "gist": "Traditional retail peaks like Prime Day, Black Friday, and back-to-school have stretched into multi-week or multi-month events, reshaping how brands compete for customer acquisition across an increasingly elongated shopping calendar.",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://www.modernretail.co/technology/marketplace-briefing-how-whatnots-ai-powered-recommendation-system-gives-it-a-competitive-edge/",
-    "title": "Marketplace Briefing: How Whatnot’s AI-powered recommendation system gives it a competitive edge",
-    "topic": "Marketplaces",
-    "gist": "Whatnot has reduced recommendation latency to minutes, allowing its system to ingest real-time signals like sold-out inventory from active livestreams and immediately adjust what products it surfaces to buyers.",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/what-to-know-about-new-proposed-tariffs-on-canadian-goods/",
-    "title": "What to know about new proposed tariffs on Canadian goods",
-    "topic": "Macro",
-    "gist": "The Trump administration announced new tariffs on Canadian goods — covering autos, dairy, alcohol, and select consumer categories — set to take effect August 19, though negotiations could alter final rates before then.",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://www.retaildive.com/news/tractor-supply-disappointing-q2-earnings-lowers-outlook/825997/",
-    "title": "Tractor Supply sputters in Q2, lowers outlook",
-    "topic": "Retail",
-    "gist": "Tractor Supply posted a Q2 comp decline of 1.5% and cut its full-year outlook, citing drought, discretionary pullback, and encroachment by Amazon and Walmart into its rural customer base.",
-    "date": "2026-07-24"
-  },
-  {
-    "url": "https://digiday.com/media-buying/google-quietly-gives-ground-on-pmax-controls/",
-    "title": "Google quietly gives ground on PMax controls",
-    "topic": "Ad & Marketing",
-    "gist": "Google is testing a feature that lets media buyers exclude third-party search partners and the Google Display Network from Performance Max campaigns, offering more spending control than the product has historically allowed.",
-    "date": "2026-07-24"
-  },
-  {
     "url": "https://www.modernretail.co/retailers/how-best-buy-is-rethinking-retail-footprints-for-ai-products-like-ray-ban-meta-glasses/",
     "title": "How Best Buy is rethinking retail footprints for AI products like Ray-Ban Meta glasses",
     "topic": "Retail",
@@ -544,5 +495,33 @@
     "topic": "Retail",
     "gist": "Cart abandonment still sees roughly 70% of carts never converting, and most recovery automations use fixed sequences that can't distinguish why a shopper left — whether it was friction, uncertainty, or price resistance. The article contrasts manual sequence optimization with AI decisioning systems that select message, offer, and timing based on individual cart and behavioral signals.",
     "date": "2026-08-07"
+  },
+  {
+    "url": "https://www.retaildive.com/news/will-people-pay-more-under-armour-discounts-full-price/827321/",
+    "title": "Will people pay more for Under Armour?",
+    "topic": "DTC & Brands",
+    "gist": "Under Armour plans to cut SKUs by another 25% over 18 months and reduce promotional activity to push prices higher, even as Q1 revenue fell 3% and North America sales dropped 9%. Gross margin expansion in Q1 was largely driven by tariff refunds, and without them the brand posted a net loss.",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://www.retaildive.com/news/ralph-lauren-winning-streak-q1-north-america-china/827312/",
+    "title": "Ralph Lauren is on a winning streak",
+    "topic": "DTC & Brands",
+    "gist": "Ralph Lauren posted 14% year-over-year revenue growth to $2 billion in Q1 FY2027, its 37th consecutive quarter of DTC growth, with especially strong performance in North America (+13%) and China (+40%). The company raised its full-year outlook despite flagging tariff and EMEA consumer headwinds.",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://www.retaildive.com/news/qvc-exits-chapter-11-ceo-steps-down/827314/",
+    "title": "QVC Group exits Chapter 11, CEO steps down",
+    "topic": "Retail",
+    "gist": "QVC Group has emerged from Chapter 11 bankruptcy in under four months with over $5 billion in debt eliminated and a new $600 million credit facility, while CEO David Rawlinson stepped down and was replaced on an interim basis by former long-time CEO Mike George. The company cited cord-cutting and shifting consumer shopping habits as the root causes of its financial decline.",
+    "date": "2026-08-08"
+  },
+  {
+    "url": "https://www.glossy.co/pop/glossy-pop-newsletter-pepsico-owned-poppi-hires-250-paid-student-ambassadors-to-lead-on-campus-marketing-identify-sales-channels/",
+    "title": "Glossy Pop Newsletter: PepsiCo-owned Poppi hires 250 paid student ambassadors to lead on-campus marketing, identify sales channels",
+    "topic": "Ad & Marketing",
+    "gist": "Poppi, now PepsiCo-owned, is hiring 250 paid student ambassadors across 20 sorority chapters for semester-long campus marketing partnerships, after receiving over 11,000 applications. The program aims to build brand presence on campuses and identify new retail sales channels ahead of the back-to-school season.",
+    "date": "2026-08-08"
   }
 ]
