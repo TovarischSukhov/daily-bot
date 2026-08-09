@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/retailers/how-best-buy-is-rethinking-retail-footprints-for-ai-products-like-ray-ban-meta-glasses/",
-    "title": "How Best Buy is rethinking retail footprints for AI products like Ray-Ban Meta glasses",
-    "topic": "Retail",
-    "gist": "Best Buy is rolling out 30x30-foot Meta AI shop-in-shop displays in select stores as part of its partnership to sell Ray-Ban Meta glasses, rethinking how experiential retail works for AI hardware.",
-    "date": "2026-07-25"
-  },
-  {
-    "url": "https://www.retaildive.com/news/hoka-earnings-slowing-down-q1-disappointment/826124/",
-    "title": "Is Hoka slowing down?",
-    "topic": "DTC & Brands",
-    "gist": "Deckers Brands posted Q1 revenue above $1 billion for the first time, with Hoka up 8% and DTC sales leading at +17%, though growth is projected below analyst expectations for the full year, raising questions about whether the brand's peak momentum has passed.",
-    "date": "2026-07-25"
-  },
-  {
-    "url": "https://www.retaildive.com/news/ross-brick-and-mortar-expansion-stores/826085/",
-    "title": "Ross accelerates brick-and-mortar expansion with nearly 50 new locations",
-    "topic": "Retail",
-    "gist": "Ross Stores is opening 47 new locations in June–July 2026 as part of a plan to launch around 110 stores this year, riding strong traffic growth and benefiting from consumers trading down to off-price retail.",
-    "date": "2026-07-25"
-  },
-  {
-    "url": "https://www.retaildive.com/news/hanes-embraces-risque-marketing-in-creative-shakeup-for-basics-brand/826112/",
-    "title": "Hanes embraces risqué marketing in creative shakeup for basics brand",
-    "topic": "Ad & Marketing",
-    "gist": "Hanes launched a risqué, confidence-themed campaign called 'Get Comfortable' across social, OOH, and online video, marking a deliberate creative pivot following its $2.2 billion acquisition by Gildan Activewear.",
-    "date": "2026-07-25"
-  },
-  {
     "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
     "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
     "topic": "AI & Tech",
@@ -523,5 +495,26 @@
     "topic": "Ad & Marketing",
     "gist": "Poppi, now PepsiCo-owned, is hiring 250 paid student ambassadors across 20 sorority chapters for semester-long campus marketing partnerships, after receiving over 11,000 applications. The program aims to build brand presence on campuses and identify new retail sales channels ahead of the back-to-school season.",
     "date": "2026-08-08"
+  },
+  {
+    "url": "https://shopify.engineering/scaling-inventory-reservations",
+    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
+    "topic": "Retail",
+    "gist": "Shopify replaced Redis with MySQL for inventory reservations at Black Friday scale ($5.1M/min peak), using MySQL 8's SKIP LOCKED feature with a one-row-per-unit pool design. The real throughput ceiling turned out to be connection exhaustion from other checkout processes, not the reservation logic itself.",
+    "date": "2026-08-09"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
+    "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
+    "topic": "Ad & Marketing",
+    "gist": "X is shutting down its Revenue Sharing program and replacing it with Original Content Rewards starting September 8, requiring original reporting, photos, videos, or memes rather than reposts or aggregated content. Existing participants need 500 verified followers and 500,000 Home Timeline impressions from verified users over 90 days to qualify.",
+    "date": "2026-08-09"
+  },
+  {
+    "url": "https://itsfoss.com/news/illinois-age-verification-bill/",
+    "title": "Illinois just told every operating system to start reporting your kid's age",
+    "topic": "Retail",
+    "gist": "Illinois has signed HB5511, requiring device makers, OS providers, and app stores to collect and share age-bracket data with apps by 2028, with apps legally treated as having 'actual knowledge' of a user's minor status once flagged. The law lacks open-source exemptions present in similar Colorado and California legislation.",
+    "date": "2026-08-09"
   }
 ]
