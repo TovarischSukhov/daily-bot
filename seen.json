@@ -1,26 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/",
-    "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
-    "topic": "AI & Tech",
-    "gist": "Monday.com is cutting 20% of its workforce (600+ employees) citing an AI-driven restructuring, joining a wave of tech companies — including Amazon, Meta, Microsoft, and Oracle — that have collectively eliminated nearly 140,000 jobs in 2026 while attributing cuts to AI transformation. FT analysis found companies naming AI as a layoff factor have underperformed the Nasdaq by ~10% in the 30 days after announcements, suggesting market skepticism.",
-    "date": "2026-07-26"
-  },
-  {
-    "url": "https://siepr.stanford.edu/publications/policy-brief/what-really-happening-jobs-separating-ai-hype-reality",
-    "title": "What is happening to jobs? Separating AI hype from reality",
-    "topic": "AI & Tech",
-    "gist": "A Stanford SIEPR research brief finds that AI's measurable impact on aggregate employment remains small so far, with the clearest negative effect being reduced hiring of entry-level and recent-graduate workers in AI-exposed roles; productivity gains from AI tools are real but concentrated among less-experienced workers, and firm adoption remains uneven with most companies still in the experimentation phase.",
-    "date": "2026-07-26"
-  },
-  {
-    "url": "https://blog.cloudflare.com/content-independence-day-ai-options/",
-    "title": "Cloudflare's new AI traffic options for customers",
-    "topic": "AI & Tech",
-    "gist": "Cloudflare is expanding its AI traffic controls for all customers, introducing granular blocking options across three bot categories — Search, Agent, and Training — with Training and Agent bots to be blocked by default on ad-displaying pages for new domains from September 15, 2026. The update also adds a BotBase directory for enterprise customers, a content-use signal for robots.txt, and a transitive trust framework for agentic traffic.",
-    "date": "2026-07-26"
-  },
-  {
     "url": "https://www.retaildive.com/spons/retail-brands-risk-optimizing-the-wrong-thing/825613/",
     "title": "Retail brands risk optimizing the wrong thing",
     "topic": "Retail",
@@ -516,5 +495,40 @@
     "topic": "Retail",
     "gist": "Illinois has signed HB5511, requiring device makers, OS providers, and app stores to collect and share age-bracket data with apps by 2028, with apps legally treated as having 'actual knowledge' of a user's minor status once flagged. The law lacks open-source exemptions present in similar Colorado and California legislation.",
     "date": "2026-08-09"
+  },
+  {
+    "url": "https://digiday.com/marketing/openai-is-coming-for-smb-advertisers/",
+    "title": "OpenAI is coming for SMB advertisers",
+    "topic": "Ad & Marketing",
+    "gist": "OpenAI is building a dedicated SMB advertising unit, with job postings for roles in growth, data science, and sales operations targeting smaller advertisers — hiring directly from Meta, Google, and LinkedIn.",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/usps-prioritizes-revenue-over-volume",
+    "title": "USPS Prioritizes Revenue over Volume",
+    "topic": "Fulfillment & Ops",
+    "gist": "USPS is explicitly choosing higher parcel prices over higher parcel volume, reporting $588M more revenue from 55 million fewer packages in Q3, with its CEO signaling further price increases are likely.",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/marketplaces-love-to-tout-their-gmv-but-the-stat-doesnt-tell-the-whole-story/",
+    "title": "Marketplaces love to tout their GMV, but the stat doesn’t tell the whole story",
+    "topic": "Marketplaces",
+    "gist": "Resale and marketplace platforms like The RealReal frequently highlight GMV growth as a headline metric, but the article questions how much GMV actually reflects business health versus revenue, profitability, or take rate.",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/the-wellness-ma-hot-streak-shows-no-signs-of-slowing-down/",
+    "title": "The wellness M&A hot streak shows no signs of slowing down",
+    "topic": "DTC & Brands",
+    "gist": "P&G's $3.8B acquisition of supplement brand Thorne is the latest in a string of major CPG buyouts of wellness brands in 2026, following Unilever's purchase of Grüns, as conglomerates chase science-backed, high-growth health products.",
+    "date": "2026-08-10"
+  },
+  {
+    "url": "https://digiday.com/marketing/zoom-relies-on-creators-to-boost-ai-search-results/",
+    "title": "Zoom relies on creators to boost AI search results",
+    "topic": "Ad & Marketing",
+    "gist": "Zoom is using creator partnerships to improve its visibility in AI search results, betting that organic creator content will get cited by LLMs more than paid placements alone.",
+    "date": "2026-08-10"
   }
 ]
