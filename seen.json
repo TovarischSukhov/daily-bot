@@ -1,26 +1,5 @@
 [
   {
-    "url": "https://www.retaildive.com/spons/retail-brands-risk-optimizing-the-wrong-thing/825613/",
-    "title": "Retail brands risk optimizing the wrong thing",
-    "topic": "Retail",
-    "gist": "The share of digital commerce journeys starting on a brand's own website dropped from 82% in 2014 to 38% by 2024, with AI platforms increasingly capturing early purchase intent before shoppers ever reach a retailer's owned properties. Brands optimizing only for on-site experience risk being absent from AI-generated shortlists that now shape consideration sets upstream.",
-    "date": "2026-07-27"
-  },
-  {
-    "url": "https://digiday.com/marketing/mythbusters-ai-visibilitys-biggest-misconceptions/",
-    "title": "Mythbusters: AI visibility’s biggest misconceptions",
-    "topic": "Ad & Marketing",
-    "gist": "An estimated 30% of shoppers now use AI tools for product research, up from 12% a year ago, and brands are racing to understand how they appear in LLM-generated results — but experts say common AIO strategies are built on misconceptions.",
-    "date": "2026-07-27"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/n-y-targets-ai-models-in-product-ads",
-    "title": "N.Y. Targets AI Models in Product Ads",
-    "topic": "Retail",
-    "gist": "New York State now requires clear disclosures when product ads contain AI-generated images of people, and Amazon has already directed third-party sellers to flag such content before uploading — a compliance burden that falls hardest on smaller merchants. Critics argue the law disproportionately penalizes affordable AI-generated imagery while leaving expensive but heavily manipulated traditional photography largely untouched.",
-    "date": "2026-07-27"
-  },
-  {
     "url": "https://ecommercenews.eu/online-retail-sales-surge-in-the-united-kingdom/",
     "title": "Online retail sales surge in the United Kingdom",
     "topic": "Retail",
@@ -530,5 +509,54 @@
     "topic": "Ad & Marketing",
     "gist": "Zoom is using creator partnerships to improve its visibility in AI search results, betting that organic creator content will get cited by LLMs more than paid placements alone.",
     "date": "2026-08-10"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/tiktok-shop-is-increasingly-attracting-brands-selling-high-ticket-items/",
+    "title": "TikTok Shop is increasingly attracting brands selling high-ticket items",
+    "topic": "Marketplaces",
+    "gist": "TikTok Shop is attracting brands selling high-ticket items like comforters, LED face masks, and above-ground pools as consumer trust and logistics on the platform improve, moving it beyond its impulse-buy reputation.",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/walmart-finally-lets-advertisers-exclude-certain-search-terms/",
+    "title": "Walmart finally lets advertisers exclude certain search terms",
+    "topic": "Ad & Marketing",
+    "gist": "Walmart Connect has launched negative keyword targeting for sponsored-products campaigns, giving advertisers the ability to exclude specific search terms and improve budget efficiency on the platform.",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://www.retaildive.com/news/retailers-stocked-up-holiday-season-imports/827437/",
+    "title": "Retailers stocked up for upcoming holiday season",
+    "topic": "Fulfillment & Ops",
+    "gist": "U.S. retailers pulled inventory forward earlier than usual this year due to tariff uncertainty, and the NRF says they are now well-stocked heading into the holiday season despite import volumes declining versus prior projections.",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/ai-is-becoming-retails-operating-system/826765/",
+    "title": "AI is becoming retail’s operating system",
+    "topic": "Retail",
+    "gist": "Major retailers including Gap Inc. and American Eagle are deploying AI across merchandising, marketing, loyalty, and operations, moving from isolated use cases toward a connected customer intelligence layer that spans the entire journey.",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://www.retaildive.com/news/bobs-discount-furniture-higher-income-consumers-q2-earnings/827396/",
+    "title": "Bob’s Discount Furniture is winning over higher-income shoppers",
+    "topic": "Consumer Trends",
+    "gist": "Bob's Discount Furniture posted 8.8% revenue growth and a 64% net income increase in Q2, driven by new store openings and e-commerce sales up nearly 25%, while attracting a growing share of higher-income shoppers trading down from pricier competitors.",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/winning-halloween-how-gen-zs-spooky-summers-are-driving-growth/826788/",
+    "title": "Winning Halloween: How Gen Z’s spooky summers are driving growth",
+    "topic": "Consumer Trends",
+    "gist": "Gen Z's 'Summerween' trend is extending the Halloween retail season well beyond October, with 76% of Gen Z willing to buy Halloween candy year-round and most final purchases still happening in physical stores despite online discovery on TikTok and Instagram.",
+    "date": "2026-08-11"
+  },
+  {
+    "url": "https://digiday.com/media/perplexity-blocks-times-ads-served-to-ai-agents-calling-them-deceptive/",
+    "title": "Perplexity blocks Time’s ads served to AI agents, calling them ‘deceptive’",
+    "topic": "Ad & Marketing",
+    "gist": "Perplexity has blocked ads that publisher Time was serving inside markdown versions of its webpages targeting AI agents, warning that publishers using such 'deceptive' tactics risk a lower trust score in Perplexity's search index.",
+    "date": "2026-08-11"
   }
 ]
