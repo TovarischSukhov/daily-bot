@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://ecommercenews.eu/online-retail-sales-surge-in-the-united-kingdom/",
-    "title": "Online retail sales surge in the United Kingdom",
-    "topic": "Retail",
-    "gist": "UK online retail sales rose 11.7% year-on-year in Q2, with June up 14.4%, pushing the online share of total retail to its highest point since April 2021.",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://www.modernretail.co/sponsored/the-new-rules-of-cross-border-commerce-after-de-minimis/",
-    "title": "The new rules of cross-border commerce after de minimis",
-    "topic": "Fulfillment & Ops",
-    "gist": "Since July 1, the EU's de minimis exemption is gone: every parcel now incurs customs duty regardless of value, with a €3 per-line-item charge on shipments under €150, and the merchant — not the carrier or customer — is legally liable.",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://www.retaildive.com/news/stressed-parents-bnpl-back-to-school-shopping/826145/",
-    "title": "Stressed parents turn to BNPL for back-to-school shopping",
-    "topic": "Consumer Trends",
-    "gist": "A survey of 1,075 U.S. consumers found 45% of households plan to use BNPL for back-to-school purchases this year, up from 39% in 2025, with financial stress and tight household budgets cited as the main drivers.",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/modern-retail-research-brands-are-expanding-their-creator-marketing-strategies/",
-    "title": "Modern Retail+ Research: Brands are expanding their creator marketing strategies",
-    "topic": "Ad & Marketing",
-    "gist": "A survey of 125 brand and agency professionals finds marketers are using creator partnerships beyond awareness, now tapping influencers for seasonal campaigns, product launches, and product development.",
-    "date": "2026-07-28"
-  },
-  {
-    "url": "https://techcrunch.com/2026/07/27/googles-ai-search-is-rapidly-becoming-the-default-new-data-shows/",
-    "title": "Google’s AI search is rapidly becoming the default, new data shows",
-    "topic": "Ad & Marketing",
-    "gist": "Google's AI Overviews now appear in 43% of searches, up from 15% a year ago, with AI Mode visits more than doubling — turning Google increasingly into a destination rather than a traffic source for publishers and retailers.",
-    "date": "2026-07-28"
-  },
-  {
     "url": "https://www.practicalecommerce.com/new-ecommerce-tools-july-29-2026",
     "title": "New Ecommerce Tools: July 29, 2026",
     "topic": "Retail",
@@ -558,5 +523,26 @@
     "topic": "Ad & Marketing",
     "gist": "Perplexity has blocked ads that publisher Time was serving inside markdown versions of its webpages targeting AI agents, warning that publishers using such 'deceptive' tactics risk a lower trust score in Perplexity's search index.",
     "date": "2026-08-11"
+  },
+  {
+    "url": "https://digiday.com/marketing/lifestyle-brand-stanley-1913-adapts-its-marketing-for-the-ai-search-era/",
+    "title": "Lifestyle brand Stanley 1913 adapts its marketing for the AI search era",
+    "topic": "Ad & Marketing",
+    "gist": "Stanley 1913 is restructuring its product content — FAQs, care guides, usage context — to show up in AI-powered search results, treating it as a long-term brand discipline rather than a short-term SEO hack.",
+    "date": "2026-08-12"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/brands-briefing-more-brands-are-on-the-hunt-for-a-head-of-tiktok-shop-as-they-try-to-define-a-social-commerce-strategy/",
+    "title": "Brands Briefing: More brands are on the hunt for a head of TikTok Shop as they try to define a social commerce strategy",
+    "topic": "Marketplaces",
+    "gist": "U.S. brands including Harry's parent Mammoth Brands, Stila Cosmetics, and BaubleBar are actively hiring dedicated TikTok Shop managers as social commerce becomes a serious enough channel to warrant its own headcount and strategy.",
+    "date": "2026-08-12"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/11/phoebe-gates-and-sophia-kianni-reportedly-knew-phia-was-cookie-stuffing-for-months/",
+    "title": "Phoebe Gates and Sophia Kianni reportedly knew Phia was ‘cookie stuffing’ for months",
+    "topic": "Ad & Marketing",
+    "gist": "New Bloomberg reporting, backed by leaked Slack messages, indicates Phia co-founders Phoebe Gates and Sophia Kianni were aware their shopping app was engaging in cookie stuffing months before denying knowledge of the practice, with the fraudulent attribution making up a significant share of the startup's revenue.",
+    "date": "2026-08-12"
   }
 ]
