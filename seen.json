@@ -1,82 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/operations/amazon-says-groceries-and-essentials-are-growing-meaningfully-faster-than-the-rest-of-its-stores-business/",
-    "title": "Amazon says groceries and essentials are growing ‘meaningfully faster’ than the rest of its Stores business",
-    "topic": "Marketplaces",
-    "gist": "Amazon reported Q2 net sales of $200B (+20% YoY), with groceries and everyday essentials growing meaningfully faster than its overall Stores segment, driven by the Amazon Now 30-minute delivery service.",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://www.retaildive.com/news/crocs-tops-one-billion-first-time-q2-earnings-sales-growth/826574/",
-    "title": "Crocs tops $1B in quarterly revenue for the first time",
-    "topic": "DTC & Brands",
-    "gist": "Crocs brand crossed $1B in quarterly revenue for the first time, with DTC up 13% while wholesale fell 5%; sister brand Heydude also saw DTC gains driven partly by TikTok Shop and a record Amazon Prime Day, even as overall Heydude revenue declined 6%.",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://www.retaildive.com/news/new-jersey-bans-dynamic-pricing/826563/",
-    "title": "New Jersey bans dynamic pricing",
-    "topic": "Retail",
-    "gist": "New Jersey signed the Fair Price Protection Act, banning businesses from using consumer data to set individualized prices and imposing a one-year moratorium on new electronic shelf label deployments, with the law taking effect in roughly seven months.",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/house-bill-reshapes-marketplace-policies",
-    "title": "House Bill Reshapes Marketplace Policies",
-    "topic": "Marketplaces",
-    "gist": "A U.S. House bill introduced July 21 would require marketplaces like Amazon and Walmart to provide written explanations for account suspensions, impose 30-day limits on inventory and payment holds, and give sellers a formal appeals process with FTC enforcement and private right to sue.",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://www.retaildive.com/news/podcast-the-backroom-gap-happy-stripe-retail-q1/826557/",
-    "title": "The Backroom: How long can the consumer hang on?",
-    "topic": "Consumer Trends",
-    "gist": "Retail Dive's podcast examines how retailers performed well in the first half of the year, with some brands improving execution and discounters benefiting from trade-down behavior, while raising questions about whether the strength can hold through year-end.",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/big-box-briefing-walmart-takes-over-parts-of-sams-clubs-operations/",
-    "title": "Big-Box Briefing: Walmart takes over parts of Sam’s Club’s operations",
-    "topic": "Retail",
-    "gist": "Walmart has been gradually absorbing Sam's Club operations at the corporate level, merging supply chain teams and rolling out a shared e-commerce front-end, with the integration accelerating since 2024.",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://www.retaildive.com/news/adidas-apparel-outshines-footwear-world-cup-second-quarter-sales-jump/826596/",
-    "title": "Adidas apparel outshines footwear during World Cup quarter",
-    "topic": "DTC & Brands",
-    "gist": "Adidas Q2 revenues rose 13% YoY to €6.7B, with apparel up 34% and DTC up 24% driven by World Cup marketing spend, though operating margin missed expectations due to higher SG&A costs.",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://www.retaildive.com/news/nike-studio-fleece-launch-hoodies-sweatpants-sportswear/826581/",
-    "title": "Why Nike is trying to reignite its sportswear business with a hoodie",
-    "topic": "DTC & Brands",
-    "gist": "Nike launched Studio Fleece, a women-focused fleece apparel line built on insights from 300+ women, as part of a broader effort to reverse double-digit declines in its sportswear category, with global availability set for September 1.",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://modernretail.co.uk/how-to-value-product-data-in-the-age-of-ai/",
-    "title": "How to value product data in the age of AI",
-    "topic": "Retail",
-    "gist": "An Akeneo CTO op-ed argues that product data has shifted from an operational function to commercial infrastructure, as AI assistants and agentic commerce increasingly determine product visibility, recommendations, and purchases based on data quality rather than website experience.",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://digiday.com/marketing/future-of-marketing-media-measurement-is-becoming-an-asset-in-boardroom-theater/",
-    "title": "Future of Marketing Briefing: Media measurement is becoming an asset in boardroom theater",
-    "topic": "Ad & Marketing",
-    "gist": "Q2 earnings calls saw CEOs publicly citing marketing measurement capabilities as a competitive advantage, signaling that media effectiveness has moved from a CFO-CMO debate to a boardroom talking point.",
-    "date": "2026-07-31"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/luxury/luxury-value-for-money-lvmh-kering-hermes/",
-    "title": "Luxury Briefing: Luxury’s recovery has a value-for-money problem",
-    "topic": "DTC & Brands",
-    "gist": "Major luxury groups including LVMH and Kering posted improved but cautious numbers, with brands attempting to serve multiple price points as growth slows, raising questions about whether the sector is genuinely recovering.",
-    "date": "2026-07-31"
-  },
-  {
     "url": "https://www.retaildive.com/news/amazon-prime-day-details-aws-Q2/826694/",
     "title": "Amazon Prime Day details elusive as AWS takes centerstage",
     "topic": "Marketplaces",
@@ -544,5 +467,40 @@
     "topic": "Fulfillment & Ops",
     "gist": "Academy Sports and Outdoors is integrating over 300 stores into Instacart's marketplace for same-day delivery in as little as one hour, at in-store prices — the retailer's second major delivery platform partnership in recent months after joining Uber Eats in June. The move is part of a broader omnichannel expansion that also includes plans to open 125 physical stores over five years.",
     "date": "2026-08-14"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/the-pros-and-cons-of-taking-on-private-equity/",
+    "title": "The pros and cons of taking on private equity",
+    "topic": "DTC & Brands",
+    "gist": "Tubby Todd co-founder Andrea Faulkner Williams discusses the brand's decision to sell a majority stake to PE firm NexPhase Capital in 2022 while retaining leadership, and the subsequent retail expansion including a Target launch.",
+    "date": "2026-08-15"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
+    "title": "Talks to sell PayPal to Stripe and Advent are heating up",
+    "topic": "Payments",
+    "gist": "Negotiations for Stripe and Advent International to acquire PayPal are reportedly heating up again after an initial offer of $53 billion was rejected, with a deal potentially coming together within weeks.",
+    "date": "2026-08-15"
+  },
+  {
+    "url": "https://www.retaildive.com/news/michaels-debuts-store-format-knit-sew-party-shops/827904/",
+    "title": "Michaels debuts new store format at 3 locations",
+    "topic": "Retail",
+    "gist": "Michaels is piloting a revamped experiential store format across three locations, featuring a knit and sew shop from the Joann acquisition, expanded personalization services, a Pinterest Trend Bar, and a dedicated queue for loyalty members.",
+    "date": "2026-08-15"
+  },
+  {
+    "url": "https://www.retaildive.com/news/lululemon-ai-chief-exits-increasingly-concerned-executive-turnover-heidi-oneill-ceo/827906/",
+    "title": "As Lululemon AI chief exits, analysts ‘increasingly concerned’ about turnover",
+    "topic": "Retail",
+    "gist": "Lululemon's chief AI and technology officer Ranju Das has left the company after less than a year, following the reported exit of its Chief Strategy Officer, prompting analyst concern about c-suite turnover ahead of an incoming new CEO.",
+    "date": "2026-08-15"
+  },
+  {
+    "url": "https://ecommercenews.eu/traditional-market-growth-tactics-no-longer-suffice/",
+    "title": "‘Traditional market growth tactics no longer suffice’",
+    "topic": "Retail",
+    "gist": "Instinctools CEO Alexey Spas argues that traditional demand forecasting methods are failing online retailers because they were built for stable, linear retail models that no longer reflect omnichannel complexity.",
+    "date": "2026-08-15"
   }
 ]
