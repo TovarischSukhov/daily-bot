@@ -1,26 +1,5 @@
 [
   {
-    "url": "https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win/",
-    "title": "As Reddit stock falls, CEO questions value of Google's AI Overviews",
-    "topic": "Ad & Marketing",
-    "gist": "Reddit CEO Steve Huffman publicly criticized Google's AI Overviews during the company's quarterly earnings call, arguing the feature undermines Reddit's value as a traffic source. Reddit's stock fell amid broader concerns about AI-driven changes to search behavior.",
-    "date": "2026-08-02"
-  },
-  {
-    "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
-    "title": "AI financial advice is surprisingly good, especially if you ask right questions",
-    "topic": "AI & Tech",
-    "gist": "MIT Sloan research finds AI tools can deliver reasonably sound financial advice, with quality improving significantly depending on how questions are framed by the user.",
-    "date": "2026-08-02"
-  },
-  {
-    "url": "https://rodneybrooks.com/four-time-scales-for-technology-development-and-deployment/",
-    "title": "Four Time Scales for Technology Development and Deployment",
-    "topic": "AI & Tech",
-    "gist": "Rodney Brooks outlines four distinct time scales for technology — research, hype, at-scale deployment, and economic reshaping — arguing that people routinely conflate them and make wildly premature predictions about when technologies will transform the world.",
-    "date": "2026-08-02"
-  },
-  {
     "url": "https://www.retaildive.com/spons/the-promise-retailers-keep-breaking-and-why-the-data-is-to-blame/825616/",
     "title": "The promise retailers keep breaking (and why the data is to blame)",
     "topic": "Retail",
@@ -495,5 +474,54 @@
     "topic": "AI & Tech",
     "gist": "一篇分析文章认为，AI在数学领域超越人类的核心优势可能不是推理能力更强，而是其上下文窗口提供了远超人类工作记忆的巨大符号工作空间，使其能维持更长的推理链和更多中间状态。",
     "date": "2026-08-16"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/everybody-wants-to-be-a-premium-brand-in-a-tough-economic-environment/",
+    "title": "Everybody wants to be a premium brand in a tough economic environment",
+    "topic": "DTC & Brands",
+    "gist": "Brands across retail are pivoting to court higher-income or luxury-adjacent customers, with Wayfair's Perigold segment growing 35% while the overall business grew 7.5% — a pattern executives across categories are replicating in a tough macro environment.",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/how-dtc-startups-are-using-ai-to-scale-more-efficiently/",
+    "title": "How DTC startups are using AI to scale more efficiently",
+    "topic": "DTC & Brands",
+    "gist": "DTC founders at eTail Boston shared how they're using AI operationally and for marketing, while also rethinking wholesale and omnichannel partnerships to scale more efficiently in a challenging retail environment.",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/5-predictions-for-2026-holiday-shopping",
+    "title": "5 Predictions for 2026 Holiday Shopping",
+    "topic": "Retail",
+    "gist": "An analyst predicts 2026 holiday U.S. e-commerce will grow ~8%, with AI-referred shoppers converting at least 25% better than other channels, BNPL topping $22B, cross-border purchases reaching ~20% of Black Friday–Cyber Monday spend, and Amazon third-party sellers slipping to 60% or below.",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://digiday.com/marketing/brand-marketers-are-adopting-fan-first-social-media-strategies/",
+    "title": "Brand marketers are adopting fan-first social media strategies",
+    "topic": "Ad & Marketing",
+    "gist": "Poppi built a 'fans first' social media strategy targeting diehards on TikTok and Instagram rather than broad audiences, using that community as evangelists, a listening channel, and a product development focus group — a approach credited with helping it capture 34% of the functional soda category before its $1.95B Pepsico acquisition.",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/retail-construction-hits-record-lows-making-it-hard-to-find-space/",
+    "title": "Retail construction hits record lows, making it hard to find space",
+    "topic": "Retail",
+    "gist": "Retail construction completions hit a record low of 5.7 million sq ft in Q2, with space availability at just 4.9%, as rising construction costs and labor shortages make physical expansion difficult for retailers seeking quality locations.",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/nuuly-aims-to-break-through-the-social-media-noise-with-a-new-branded-rom-com-microdrama/",
+    "title": "Nuuly aims to break through the social media noise with a new branded rom-com microdrama",
+    "topic": "Ad & Marketing",
+    "gist": "Fashion rental platform Nuuly produced a 12-part social-native rom-com microdrama series featuring influencers, with brand integration designed to feel organic rather than advertising — a test of whether serialized branded content can cut through social media noise.",
+    "date": "2026-08-17"
+  },
+  {
+    "url": "https://www.glossy.co/beauty/wellness/inside-ag1s-growth-engine-gummies-canned-drinks-energy-powder-and-much-more-to-come/",
+    "title": "Inside AG1’s growth engine: Gummies, canned drinks, energy powder and ‘much more to come’",
+    "topic": "DTC & Brands",
+    "gist": "After 15 years with a single hero product, AG1 is rapidly expanding into gummies, canned drinks, and energy powder, while also entering retail through Ulta Beauty and Target under CEO Kat Cole.",
+    "date": "2026-08-17"
   }
 ]
