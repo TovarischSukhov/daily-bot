@@ -1,26 +1,5 @@
 [
   {
-    "url": "https://www.retaildive.com/spons/the-promise-retailers-keep-breaking-and-why-the-data-is-to-blame/825616/",
-    "title": "The promise retailers keep breaking (and why the data is to blame)",
-    "topic": "Retail",
-    "gist": "Average retailer inventory accuracy sits at ~65%, with up to 60% of records containing errors, costing the industry an estimated $1.77 trillion annually in inventory distortion. The article argues that stale WMS data is the root cause and profiles autonomous robot scanning as a solution delivering measurable ROI.",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://www.retaildive.com/spons/the-ai-performance-question-retail-isnt-asking/826050/",
-    "title": "The AI performance question retail isn’t asking",
-    "topic": "Retail",
-    "gist": "Most retail analytics measure AI performance only within owned channels (engagement, session length, conversion), missing the earlier part of the funnel where AI answer engines shape shopper consideration before any brand site is visited. The piece argues 'inclusion in AI-generated answers' is the upstream metric retailers are failing to track.",
-    "date": "2026-08-03"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/what-retail-leaders-are-actually-doing-with-ai-modern-retail/",
-    "title": "Retail’s new operating model centers on leaner teams, smarter data and physical community",
-    "topic": "Retail",
-    "gist": "At a closed-door Brand Leaders Dinner, retail and fashion executives discussed pressures including AI adoption, leaner hiring, and the rising cost of building brand awareness — full details are behind a paywall.",
-    "date": "2026-08-03"
-  },
-  {
     "url": "https://www.retaildive.com/news/amazon-alexa-for-shopping-agentic-ai-adoption/826806/",
     "title": "Amazon customers are embracing Alexa for Shopping",
     "topic": "Retail",
@@ -523,5 +502,54 @@
     "topic": "DTC & Brands",
     "gist": "After 15 years with a single hero product, AG1 is rapidly expanding into gummies, canned drinks, and energy powder, while also entering retail through Ulta Beauty and Target under CEO Kat Cole.",
     "date": "2026-08-17"
+  },
+  {
+    "url": "https://www.retaildive.com/news/back-to-school-spending-moderate-circana/828013/",
+    "title": "Back-to-school spending could be ‘moderate at best’",
+    "topic": "Consumer Trends",
+    "gist": "Circana reports back-to-school 2025 spending will be 'moderate at best,' with overall retail sales down 1% YoY in July and discretionary merchandise dollar sales down 4.3%, as consumers prioritize essentials over impulse or promotion-driven purchases. BNPL usage for back-to-school is rising (45% of households vs. 39% last year), and growth is concentrated among higher-income shoppers.",
+    "date": "2026-08-18"
+  },
+  {
+    "url": "https://www.retaildive.com/news/under-armour-dwayne-the-rock-johnson-end-partnership/828020/",
+    "title": "Under Armour ends partnership with The Rock amid marketing reset",
+    "topic": "DTC & Brands",
+    "gist": "Under Armour has ended its nearly decade-long partnership with Dwayne Johnson's Project Rock brand, following the earlier cut of Steph Curry in November, as the company restructures its marketing spend to be lower as a percentage of revenue and more tightly aligned with product. CEO Kevin Plank framed the shift as making each marketing dollar work harder rather than relying on celebrity-anchored brand equity.",
+    "date": "2026-08-18"
+  },
+  {
+    "url": "https://www.glossy.co/beauty/beauty-briefing-how-sephora-is-evolving-its-loyalty-program-in-a-competitive-retail-environment/",
+    "title": "Beauty Briefing: How Sephora is evolving its loyalty program in a competitive retail environment",
+    "topic": "Retail",
+    "gist": "Sephora is evolving its loyalty program with an experiential approach as competition in prestige beauty retail intensifies, while L'Occitane faces uncertainty following the departure of Sol de Janeiro co-founder Heela Yang.",
+    "date": "2026-08-18"
+  },
+  {
+    "url": "https://www.retaildive.com/news/jc-penney-takes-aim-off-price-stores/828001/",
+    "title": "To lure in shoppers, J.C. Penney takes aim at off-price stores",
+    "topic": "Retail",
+    "gist": "J.C. Penney has launched a campaign directly attacking off-price retailers like TJX, Ross, and Burlington, positioning its assortment as more fashionable and better quality, and offering a trade-in promotion for regretted off-price purchases. Despite the offensive posture, Penney's own sales fell nearly 5% in its most recent quarter while off-price chains continue to expand.",
+    "date": "2026-08-18"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/air-freight-is-becoming-a-costly-fix-for-inventory-issues/",
+    "title": "Air freight is becoming a costly fix for inventory issues",
+    "topic": "Fulfillment & Ops",
+    "gist": "Some retail brands are absorbing the higher costs of air freight to bypass supply chain bottlenecks and keep shelves stocked, even as jet fuel prices remain roughly 46% above pre-Iran-war levels, pushing air freight rates up further.",
+    "date": "2026-08-18"
+  },
+  {
+    "url": "https://ecommercenews.eu/amazon-launches-bulk-storage-service-in-europe/",
+    "title": "Amazon launches bulk storage service in Europe",
+    "topic": "Marketplaces",
+    "gist": "Amazon is launching its Warehousing & Distribution (AWD) bulk storage service across five European countries, allowing sellers to store inventory with Amazon for extended periods and have it automatically replenished into FBA fulfillment centers based on demand.",
+    "date": "2026-08-18"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/why-retails-biggest-ai-assumption-is-wrong/826404/",
+    "title": "Why retail’s biggest AI assumption is wrong",
+    "topic": "Retail",
+    "gist": "The article argues that retail brands are wrong to assume their existing SEO investment, brand equity, and digital marketing spend will translate into visibility on AI answer engines, which surface results based on structured, AI-legible product data rather than domain authority or ad spend. Brands that audit and restructure their catalog data for AI discovery now are positioned to pull ahead of better-known but less-prepared competitors.",
+    "date": "2026-08-18"
   }
 ]
