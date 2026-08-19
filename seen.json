@@ -1,26 +1,5 @@
 [
   {
-    "url": "https://www.retaildive.com/news/amazon-alexa-for-shopping-agentic-ai-adoption/826806/",
-    "title": "Amazon customers are embracing Alexa for Shopping",
-    "topic": "Retail",
-    "gist": "Amazon reports Alexa for Shopping nearly doubled active users YoY in Q2 2026, with over 350 million shoppers using it in the past 12 months; users spend 40% more per order on average than non-users. Amazon's Q2 net sales hit $200.6B, up 20% YoY, with same-day/overnight deliveries up 40% in H1 2026.",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/fuel-freight-and-tariff-costs-are-complicating-holiday-importing/",
-    "title": "Fuel, freight and tariff costs are complicating holiday importing",
-    "topic": "Fulfillment & Ops",
-    "gist": "Retailers importing holiday inventory are facing a compounding cost squeeze from rising fuel and freight rates on top of the latest round of tariffs that kicked in at end of July 2026, with some brands pulling imports even further forward than usual to get ahead of the costs.",
-    "date": "2026-08-04"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/modern-retail-research-the-2026-guide-to-holiday-marketing-strategies-including-a-frame-brands-mastercard-and-ritual/",
-    "title": "Modern Retail+ Research: The 2026 guide to holiday marketing strategies, including A-Frame Brands, Mastercard and Ritual",
-    "topic": "Ad & Marketing",
-    "gist": "Brands planning holiday 2026 marketing are leaning on personalized offers, loyalty programs, bundled products, and AI-powered shopping experiences as consumers remain price-sensitive and advertisers face pressure to prove ROI. The piece covers strategies from A-Frame Brands, Mastercard, and Ritual.",
-    "date": "2026-08-04"
-  },
-  {
     "url": "https://www.modernretail.co/operations/gorilla-commerce-built-a-9-figure-business-on-amazon-now-its-launching-in-walmart-stores/",
     "title": "Gorilla Commerce built a 9-figure business on Amazon. Now, it’s launching in Walmart stores",
     "topic": "Marketplaces",
@@ -551,5 +530,47 @@
     "topic": "Retail",
     "gist": "The article argues that retail brands are wrong to assume their existing SEO investment, brand equity, and digital marketing spend will translate into visibility on AI answer engines, which surface results based on structured, AI-legible product data rather than domain authority or ad spend. Brands that audit and restructure their catalog data for AI discovery now are positioned to pull ahead of better-known but less-prepared competitors.",
     "date": "2026-08-18"
+  },
+  {
+    "url": "https://www.retaildive.com/news/home-depot-pros-outperform-diy-shoppers-q2-earnings/828159/",
+    "title": "Pros continue to outperform DIY shoppers at Home Depot",
+    "topic": "Retail",
+    "gist": "Home Depot's Pro customer segment posted positive comps in Q2 while DIY demand remained soft, with total sales up 5.7% YoY to $47.9B — the best comparable growth since Q3 2022. Larger home improvement projects stayed under pressure due to consumer uncertainty and a weak housing market.",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://www.retaildive.com/news/target-finalizes-divorce-from-ulta-signaling-shift-in-beauty-market/827990/",
+    "title": "Target finalizes divorce from Ulta, signaling shift in beauty market",
+    "topic": "Retail",
+    "gist": "Target's shop-in-shop partnership with Ulta Beauty formally ended, with Target replacing the 600+ Ulta locations with its own Beauty Studio concept and integrating beauty rewards into its loyalty program. Both mass and prestige beauty sales in the U.S. grew 7% YoY in H1 2026, with Target and Walmart competing aggressively for a share of the category.",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://www.retaildive.com/news/walmart-plus-loyalty-program-adds-store-perks-photo-money-centers/828143/",
+    "title": "Walmart+ adds new in-store perks",
+    "topic": "Retail",
+    "gist": "Walmart is adding in-store perks to its Walmart+ membership, including monthly free photo prints and fee-free money service transactions, as it works to grow paid membership revenue. Walmart+ members already spend four times more than non-members and make seven times more e-commerce visits annually.",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
+    "title": "TikTok explores peer-to-peer payments via DMs, report says",
+    "topic": "Marketplaces",
+    "gist": "TikTok is reportedly developing a peer-to-peer payment feature accessible via direct messages in its U.S. app, building on TikTok Pay infrastructure already live in Southeast Asia for TikTok Shop. The feature is in early development and has not been confirmed for testing or release.",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://digiday.com/marketing/ana-updates-efforts-to-standardize-retail-media-network-measurement/",
+    "title": "ANA updates efforts to standardize retail media network measurement",
+    "topic": "Ad & Marketing",
+    "gist": "The ANA is releasing a retail media measurement standardization report with multi-point recommendations for brands, including third-party measurement validation, a standardized 14-day loopback window, and a common definition of 'outcomes.' Major RMNs including Walmart, Albertsons, and Target contributed input, though Amazon has not yet participated.",
+    "date": "2026-08-19"
+  },
+  {
+    "url": "https://www.retaildive.com/news/nike-foot-locker-crenshaw-rec-store-concept-los-angeles/828149/",
+    "title": "Nike, Foot Locker debut hyperlocal community hub store in Los Angeles",
+    "topic": "Retail",
+    "gist": "Foot Locker and Nike have opened a hyperlocal store concept in Los Angeles' Crenshaw neighborhood, combining retail with community amenities like a gym, creative workspaces, and local programming. The concept is part of Foot Locker's broader store revamp under Dick's Sporting Goods ownership and reflects both brands' turnaround efforts.",
+    "date": "2026-08-19"
   }
 ]
