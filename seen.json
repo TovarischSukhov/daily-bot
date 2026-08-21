@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google/",
-    "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
-    "topic": "Retail",
-    "gist": "Shopify reported Q2 revenue of $3.6B (+36% YoY), partly crediting AI-driven search, which tripled traffic and orders to its merchants YoY. Unlike media, where AI summaries cut traffic, AI search is compressing shopping journeys and sending buyers directly to product pages at 2.5x the rate of traditional search.",
-    "date": "2026-08-06"
-  },
-  {
-    "url": "https://www.glossy.co/beauty/rhode-sells-27-million-dtc-in-one-day-plots-19-country-expansion/",
-    "title": "Rhode sells $27 million DTC in one day, plots 19 country expansion",
-    "topic": "DTC & Brands",
-    "gist": "Rhode, Hailey Bieber's beauty brand now owned by E.l.f. Beauty, sold $27 million DTC in a single day and is planning a 19-country expansion, with E.l.f. reporting 36% net sales growth in Q1 FY2027.",
-    "date": "2026-08-06"
-  },
-  {
-    "url": "https://digiday.com/marketing/openai-brings-product-carousels-to-chatgpt-ads/",
-    "title": "OpenAI brings product carousels to ChatGPT ads",
-    "topic": "Ad & Marketing",
-    "gist": "OpenAI has launched a product carousel ad format in ChatGPT, allowing multiple products to appear in a single placement at the bottom of a conversation, following its earlier launch of bulk product-feed ad campaigns for retailers.",
-    "date": "2026-08-06"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/openai-brings-product-carousels-to-chatgpt-ads/",
-    "title": "OpenAI brings product carousels to ChatGPT ads",
-    "topic": "Ad & Marketing",
-    "gist": "OpenAI is launching a product carousel ad format in ChatGPT, allowing multiple products to appear in a single conversation-level placement, three months after enabling bulk product-feed campaigns for retailers.",
-    "date": "2026-08-06"
-  },
-  {
-    "url": "https://digiday.com/media/why-brands-like-gap-inc-and-staples-are-inviting-their-employees-to-be-creators/",
-    "title": "Why brands like Gap Inc. and Staples are inviting their employees to be creators",
-    "topic": "Ad & Marketing",
-    "gist": "Gap Inc. has opened its influencer creator program to employees across Old Navy, Gap, Athleta, and Banana Republic, letting them earn commissions via personalized affiliate links shared on social media, following similar moves by Starbucks and Staples.",
-    "date": "2026-08-06"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/new-ecommerce-tools-august-5-2026",
-    "title": "New Ecommerce Tools: August 5, 2026",
-    "topic": "Retail",
-    "gist": "A weekly roundup of new e-commerce merchant tools covering drone delivery, AI search advertising, warehouse automation, BNPL expansions (PayPal/Amazon in Germany and Austria, Pix in Brazil), multichannel commerce, and cross-border payments.",
-    "date": "2026-08-06"
-  },
-  {
     "url": "https://www.retaildive.com/news/etsy-slashes-workforce-12-percent-laying-off-220-ai-chatgpt/827193/",
     "title": "Etsy slashes workforce by 12%, laying off 220",
     "topic": "Marketplaces",
@@ -593,5 +551,61 @@
     "topic": "DTC & Brands",
     "gist": "Nike is permanently closing at least 15 of its hyperlocal Nike Live / Nike Well Collective small-format stores across the U.S. as CEO Elliott Hill refocuses the brand on wholesale partnerships and elevated flagship experiences.",
     "date": "2026-08-20"
+  },
+  {
+    "url": "https://digiday.com/marketing/walmart-gets-close-to-3-billion-in-tariff-refunds/",
+    "title": "Walmart gets close to $3 billion in tariff refunds",
+    "topic": "Retail",
+    "gist": "Walmart's CFO disclosed the company has received approximately $2.9 billion in tariff refunds, which are bolstering its balance sheet while consumers face pressure from higher fuel prices and other macro headwinds.",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/walmart-gets-close-to-3-billion-in-tariff-refunds/",
+    "title": "Walmart gets close to $3 billion in tariff refunds",
+    "topic": "Retail",
+    "gist": "Walmart has received about $2.9 billion in tariff refunds and is reinvesting them into customer experience and price leadership across grocery and general-merchandise categories.",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://www.retaildive.com/news/tjx-blames-merchandising-missteps-rare-miss-us-tjmaxx-marshalls-stores/828295/",
+    "title": "TJX blames merchandising missteps for rare miss in the US, but is that the whole story?",
+    "topic": "Retail",
+    "gist": "TJX's U.S. Marmaxx division posted only 1% comp growth in Q2, its weakest in nearly a decade, which executives attributed to merchandising missteps, though analysts point to rising consumer price sensitivity and heightened competition from rivals and promotional mainstream retailers as additional factors.",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://www.retaildive.com/news/walmarts-stores-omnichannel-tariffs-drug-pricing-regulation/828387/",
+    "title": "Walmart’s stores have ‘evolved’ as e-commerce grows",
+    "topic": "Retail",
+    "gist": "Walmart U.S. e-commerce sales grew 24% in Q2, now representing over 23% of its sales mix — double the share from five years ago — with stores serving as fulfillment nodes for 80% of online orders and all fast deliveries.",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/big-box-briefing-target-sees-sales-boom-in-reinvented-snack-category/",
+    "title": "Big-Box Briefing: Target sees sales boom in reinvented snack category",
+    "topic": "Retail",
+    "gist": "Target reported a 15% year-over-year increase in snack sales and about 7% growth in total food and beverage in Q2, driven by a major grocery refresh that added space for trending products like protein bars and meat sticks.",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://www.modernretail.co/technology/walmart-extends-scintilla-data-platform-to-sams-club/",
+    "title": "Walmart extends Scintilla data platform to Sam’s Club",
+    "topic": "Retail",
+    "gist": "Walmart plans to expand its first-party data analytics platform, Scintilla, to Sam's Club in the U.S. next year, aiming to help merchants and suppliers better understand member behavior and improve assortment and execution.",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://digiday.com/media/for-brands-the-creator-ambassador-is-becoming-a-creator-executive/",
+    "title": "For brands, the creator ambassador is becoming a creator executive",
+    "topic": "Ad & Marketing",
+    "gist": "Brands are increasingly giving creators substantive executive roles — chief creative officer, chief brand officer — rather than honorary titles, as creator budgets grow and CMOs take creator partnerships more seriously.",
+    "date": "2026-08-21"
+  },
+  {
+    "url": "https://digiday.com/marketing/future-of-marketing-for-the-source-of-nikes-decline-ignore-the-easy-answers/",
+    "title": "Future of Marketing: For the source of Nike’s decline, ignore the easy answers",
+    "topic": "DTC & Brands",
+    "gist": "Nike has failed to capitalize on the running category's resurgence — U.S. performance footwear sales rose 13% in H1 2026 — while rivals like On, Hoka, and Brooks have taken share, with Brooks alone growing revenues 14% in the same period.",
+    "date": "2026-08-21"
   }
 ]
