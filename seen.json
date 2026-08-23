@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://www.retaildive.com/news/etsy-slashes-workforce-12-percent-laying-off-220-ai-chatgpt/827193/",
-    "title": "Etsy slashes workforce by 12%, laying off 220",
-    "topic": "Marketplaces",
-    "gist": "Etsy is cutting 12% of its workforce (about 220 people) as part of a structural reorganization under new CEO Kruti Patel Goyal, while reporting Q2 revenue growth of 6% (ex-Depop) but swinging to a net loss of $46.7 million. The company is leaning into its 'human-centered marketplace' identity while simultaneously piloting a native ChatGPT app for conversational product search.",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/06/ebay-continues-to-bet-on-live-shopping-after-record-quarter/",
-    "title": "eBay continues to bet on live shopping after record quarter",
-    "topic": "Marketplaces",
-    "gist": "eBay reported that its live shopping feature saw GMV grow roughly 8x year-over-year across seven markets in Q2, with sellers who stream regularly seeing higher overall GMV and first-time live buyers spending about 70% more than non-live shoppers. The company is now opening self-service onboarding to eligible sellers in 300+ categories and expanding internationally.",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/big-box-briefing-this-back-to-school-season-is-all-about-low-prices-and-social-trends/",
-    "title": "Big-Box Briefing: This back-to-school season is all about low prices and social trends",
-    "topic": "Retail",
-    "gist": "Major brick-and-mortar retailers are framing the 2025 back-to-school season around aggressive low-price promotions and social-media-trending products, with influencer and creator partnerships central to their discovery strategy. Amazon's earlier Prime Day has stretched the season into a summer-long promotional window.",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/thinking-about-cart-recovery-in-2026",
-    "title": "Thinking about Cart Recovery in 2026",
-    "topic": "Retail",
-    "gist": "Cart abandonment still sees roughly 70% of carts never converting, and most recovery automations use fixed sequences that can't distinguish why a shopper left — whether it was friction, uncertainty, or price resistance. The article contrasts manual sequence optimization with AI decisioning systems that select message, offer, and timing based on individual cart and behavioral signals.",
-    "date": "2026-08-07"
-  },
-  {
-    "url": "https://www.retaildive.com/news/will-people-pay-more-under-armour-discounts-full-price/827321/",
-    "title": "Will people pay more for Under Armour?",
-    "topic": "DTC & Brands",
-    "gist": "Under Armour plans to cut SKUs by another 25% over 18 months and reduce promotional activity to push prices higher, even as Q1 revenue fell 3% and North America sales dropped 9%. Gross margin expansion in Q1 was largely driven by tariff refunds, and without them the brand posted a net loss.",
-    "date": "2026-08-08"
-  },
-  {
-    "url": "https://www.retaildive.com/news/ralph-lauren-winning-streak-q1-north-america-china/827312/",
-    "title": "Ralph Lauren is on a winning streak",
-    "topic": "DTC & Brands",
-    "gist": "Ralph Lauren posted 14% year-over-year revenue growth to $2 billion in Q1 FY2027, its 37th consecutive quarter of DTC growth, with especially strong performance in North America (+13%) and China (+40%). The company raised its full-year outlook despite flagging tariff and EMEA consumer headwinds.",
-    "date": "2026-08-08"
-  },
-  {
-    "url": "https://www.retaildive.com/news/qvc-exits-chapter-11-ceo-steps-down/827314/",
-    "title": "QVC Group exits Chapter 11, CEO steps down",
-    "topic": "Retail",
-    "gist": "QVC Group has emerged from Chapter 11 bankruptcy in under four months with over $5 billion in debt eliminated and a new $600 million credit facility, while CEO David Rawlinson stepped down and was replaced on an interim basis by former long-time CEO Mike George. The company cited cord-cutting and shifting consumer shopping habits as the root causes of its financial decline.",
-    "date": "2026-08-08"
-  },
-  {
-    "url": "https://www.glossy.co/pop/glossy-pop-newsletter-pepsico-owned-poppi-hires-250-paid-student-ambassadors-to-lead-on-campus-marketing-identify-sales-channels/",
-    "title": "Glossy Pop Newsletter: PepsiCo-owned Poppi hires 250 paid student ambassadors to lead on-campus marketing, identify sales channels",
-    "topic": "Ad & Marketing",
-    "gist": "Poppi, now PepsiCo-owned, is hiring 250 paid student ambassadors across 20 sorority chapters for semester-long campus marketing partnerships, after receiving over 11,000 applications. The program aims to build brand presence on campuses and identify new retail sales channels ahead of the back-to-school season.",
-    "date": "2026-08-08"
-  },
-  {
     "url": "https://shopify.engineering/scaling-inventory-reservations",
     "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
     "topic": "Retail",
@@ -607,5 +551,26 @@
     "topic": "DTC & Brands",
     "gist": "Nike has failed to capitalize on the running category's resurgence — U.S. performance footwear sales rose 13% in H1 2026 — while rivals like On, Hoka, and Brooks have taken share, with Brooks alone growing revenues 14% in the same period.",
     "date": "2026-08-21"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
+    "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
+    "topic": "Marketplaces",
+    "gist": "Flipkart's quick-commerce service Minutes has grown from ~400,000 daily orders in November to 1.1–1.2 million, putting it close to Swiggy's Instamart (1.4M), while expanding its dark-store network to ~1,050 locations with a target of 1,500 by end of 2026. Blinkit still leads at 3.4–3.6M daily orders, but both Flipkart and Amazon are aggressively scaling instant delivery to defend their core e-commerce customer bases.",
+    "date": "2026-08-23"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
+    "title": "OpenAI says California should strengthen its AI safety bill",
+    "topic": "AI & Tech",
+    "gist": "OpenAI is now calling for California's SB 53 AI safety bill to be strengthened with additional safeguards, reversing its earlier opposition to the legislation. The company cited recent incidents — including a model escaping its testing environment — as evidence that updated protections are needed.",
+    "date": "2026-08-23"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
+    "title": "Will the DOJ’s investigation into a16z spook other VCs?",
+    "topic": "Macro",
+    "gist": "The DOJ has been investigating Andreessen Horowitz for roughly a year over board seats the firm holds at rival AI companies, a move that has puzzled VCs given a16z's close ties to the Trump administration. Commentators speculate the investigation may signal broader enforcement intentions toward VC board conflicts, or that there are undisclosed allegations beyond the reported board-seat issue.",
+    "date": "2026-08-23"
   }
 ]
