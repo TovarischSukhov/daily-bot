@@ -1,26 +1,5 @@
 [
   {
-    "url": "https://shopify.engineering/scaling-inventory-reservations",
-    "title": "Shopify replaced Redis with MySQL for inventory reservations–and it scaled",
-    "topic": "Retail",
-    "gist": "Shopify replaced Redis with MySQL for inventory reservations at Black Friday scale ($5.1M/min peak), using MySQL 8's SKIP LOCKED feature with a one-row-per-unit pool design. The real throughput ceiling turned out to be connection exhaustion from other checkout processes, not the reservation logic itself.",
-    "date": "2026-08-09"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/08/x-replaces-misaligned-revenue-sharing-program-with-original-content-rewards/",
-    "title": "X replaces ‘misaligned’ revenue sharing program with Original Content Rewards",
-    "topic": "Ad & Marketing",
-    "gist": "X is shutting down its Revenue Sharing program and replacing it with Original Content Rewards starting September 8, requiring original reporting, photos, videos, or memes rather than reposts or aggregated content. Existing participants need 500 verified followers and 500,000 Home Timeline impressions from verified users over 90 days to qualify.",
-    "date": "2026-08-09"
-  },
-  {
-    "url": "https://itsfoss.com/news/illinois-age-verification-bill/",
-    "title": "Illinois just told every operating system to start reporting your kid's age",
-    "topic": "Retail",
-    "gist": "Illinois has signed HB5511, requiring device makers, OS providers, and app stores to collect and share age-bracket data with apps by 2028, with apps legally treated as having 'actual knowledge' of a user's minor status once flagged. The law lacks open-source exemptions present in similar Colorado and California legislation.",
-    "date": "2026-08-09"
-  },
-  {
     "url": "https://digiday.com/marketing/openai-is-coming-for-smb-advertisers/",
     "title": "OpenAI is coming for SMB advertisers",
     "topic": "Ad & Marketing",
@@ -572,5 +551,33 @@
     "topic": "Macro",
     "gist": "The DOJ has been investigating Andreessen Horowitz for roughly a year over board seats the firm holds at rival AI companies, a move that has puzzled VCs given a16z's close ties to the Trump administration. Commentators speculate the investigation may signal broader enforcement intentions toward VC board conflicts, or that there are undisclosed allegations beyond the reported board-seat issue.",
     "date": "2026-08-23"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/double-digit-ecommerce-growth-returns",
+    "title": "Double-Digit Ecommerce Growth Returns",
+    "topic": "Retail",
+    "gist": "U.S. ecommerce hit $340.2B in Q2 2026, up 12.2% YoY — the second consecutive quarter of double-digit growth — with ecommerce's share of total retail rising to 17.1%. Growth was uneven across categories: general merchandise surged 21.6% while clothing grew only 3.8%.",
+    "date": "2026-08-24"
+  },
+  {
+    "url": "https://www.glossy.co/beauty/how-boka-is-winning-amazon-with-a-beauty-marketing-playbook/",
+    "title": "How Boka is winning Amazon with a beauty marketing playbook",
+    "topic": "Marketplaces",
+    "gist": "Oral care brand Boka is differentiating on Amazon by borrowing the beauty marketing playbook — incorporating skincare ingredients like niacinamide and hyaluronic acid and positioning products with fragrance-style flavor descriptors rather than traditional dental messaging.",
+    "date": "2026-08-24"
+  },
+  {
+    "url": "https://digiday.com/marketing/wtf-are-fandoms-and-why-are-marketers-chasing-them/",
+    "title": "WTF are fandoms, and why are marketers chasing them?",
+    "topic": "Ad & Marketing",
+    "gist": "Marketers are increasingly chasing 'fandoms' as a way to embed brands in culture rather than just advertise around it, with the term becoming a defined strategic concept in campaign planning and RFPs.",
+    "date": "2026-08-24"
+  },
+  {
+    "url": "https://digiday.com/media/the-iab-is-developing-a-framework-to-tackle-ai-advertising-measurement/",
+    "title": "The IAB is developing a framework to tackle AI advertising measurement",
+    "topic": "Ad & Marketing",
+    "gist": "The IAB is building a framework, due November 12, to address how to measure and attribute ad impressions served to AI agents rather than human users, as AI increasingly intermediates between publishers and consumers.",
+    "date": "2026-08-24"
   }
 ]
