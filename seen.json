@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://digiday.com/marketing/openai-is-coming-for-smb-advertisers/",
-    "title": "OpenAI is coming for SMB advertisers",
-    "topic": "Ad & Marketing",
-    "gist": "OpenAI is building a dedicated SMB advertising unit, with job postings for roles in growth, data science, and sales operations targeting smaller advertisers — hiring directly from Meta, Google, and LinkedIn.",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/usps-prioritizes-revenue-over-volume",
-    "title": "USPS Prioritizes Revenue over Volume",
-    "topic": "Fulfillment & Ops",
-    "gist": "USPS is explicitly choosing higher parcel prices over higher parcel volume, reporting $588M more revenue from 55 million fewer packages in Q3, with its CEO signaling further price increases are likely.",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/marketplaces-love-to-tout-their-gmv-but-the-stat-doesnt-tell-the-whole-story/",
-    "title": "Marketplaces love to tout their GMV, but the stat doesn’t tell the whole story",
-    "topic": "Marketplaces",
-    "gist": "Resale and marketplace platforms like The RealReal frequently highlight GMV growth as a headline metric, but the article questions how much GMV actually reflects business health versus revenue, profitability, or take rate.",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/the-wellness-ma-hot-streak-shows-no-signs-of-slowing-down/",
-    "title": "The wellness M&A hot streak shows no signs of slowing down",
-    "topic": "DTC & Brands",
-    "gist": "P&G's $3.8B acquisition of supplement brand Thorne is the latest in a string of major CPG buyouts of wellness brands in 2026, following Unilever's purchase of Grüns, as conglomerates chase science-backed, high-growth health products.",
-    "date": "2026-08-10"
-  },
-  {
-    "url": "https://digiday.com/marketing/zoom-relies-on-creators-to-boost-ai-search-results/",
-    "title": "Zoom relies on creators to boost AI search results",
-    "topic": "Ad & Marketing",
-    "gist": "Zoom is using creator partnerships to improve its visibility in AI search results, betting that organic creator content will get cited by LLMs more than paid placements alone.",
-    "date": "2026-08-10"
-  },
-  {
     "url": "https://www.modernretail.co/marketing/tiktok-shop-is-increasingly-attracting-brands-selling-high-ticket-items/",
     "title": "TikTok Shop is increasingly attracting brands selling high-ticket items",
     "topic": "Marketplaces",
@@ -579,5 +544,68 @@
     "topic": "Ad & Marketing",
     "gist": "The IAB is building a framework, due November 12, to address how to measure and attribute ad impressions served to AI agents rather than human users, as AI increasingly intermediates between publishers and consumers.",
     "date": "2026-08-24"
+  },
+  {
+    "url": "https://digiday.com/media/walmart-finally-starts-supporting-apple-pay-and-google-pay/",
+    "title": "Walmart finally starts supporting Apple Pay and Google Pay",
+    "topic": "Payments",
+    "gist": "Walmart will begin accepting Apple Pay and Google Pay at select stores and Sam's Club locations starting August 24, with full U.S. rollout planned by end of 2026. The retailer had been one of the last major holdouts against contactless payment methods.",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://digiday.com/marketing/in-graphic-detail-how-ai-search-has-impacted-the-web-traffic-of-over-50-advertisers/",
+    "title": "In Graphic Detail: How AI search has impacted the web traffic of over 50 advertisers",
+    "topic": "Ad & Marketing",
+    "gist": "Google's AI Overviews have cut organic web traffic by over 10% on average across 54 clients of marketing agency Brainlabs, with some DTC and considered-purchase brands seeing drops as high as 58%. The impact is uneven, hitting direct-to-consumer and high-consideration product categories hardest.",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/why-more-celebrity-led-brands-are-shutting-down/",
+    "title": "Why more celebrity-led brands are shutting down",
+    "topic": "DTC & Brands",
+    "gist": "Several high-profile celebrity-led consumer brands — including Lionel Messi's Mas+, Alex Cooper's Unwell, Kim Kardashian's Skkn, and Gwen Stefani's Gxve Beauty — have shut down in recent years despite their founders' massive audiences. The closures reflect a growing gap between initial awareness driven by celebrity and the product-market fit and operational discipline needed for sustained retail performance.",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/brands-face-death-by-a-thousand-cuts-as-supply-chain-pressures-and-material-costs-eat-into-profit-margins/",
+    "title": "Brands face death by a ‘thousand cuts’ as supply chain pressures and material costs eat into profit margins",
+    "topic": "Retail",
+    "gist": "Brand leaders across fashion, beauty, home, and CPG described retail margins being eroded incrementally by third-party fees, tariffs, and rising operating costs at a recent industry dinner. The consensus framing was that running a brand today is a 'battle of inches' with pressure coming from every direction simultaneously.",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://www.glossy.co/beauty/wellness/curology-walmart-prescription-skincare-conversion/",
+    "title": "Curology says Walmart shoppers convert to prescription skin care at 5x its online rate",
+    "topic": "DTC & Brands",
+    "gist": "Curology reports that customers who discover its prescription skin-care service through its Walmart Prescription Acne Kit convert to a full medical consultation at five times the rate of its online funnel, with minimal overlap with its existing subscriber base. The brand deliberately placed the kits in 'dermatologist desert' areas across 49 states.",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/retail-brands-are-facing-death-by-a-thousand-cuts-as-supply-chain-pressures-and-material-costs-eat-into-profit-margins/",
+    "title": "Brands face death by a ‘thousand cuts’ as supply chain pressures and material costs eat into profit margins",
+    "topic": "Retail",
+    "gist": "Brand leaders across fashion, beauty, home, and CPG described retail margins being eroded incrementally by third-party fees, tariffs, and rising operating costs at a recent industry dinner. The consensus framing was that running a brand today is a 'battle of inches' with pressure coming from every direction simultaneously.",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://www.retaildive.com/news/walmart-expands-30-minutes-or-less-delivery/828570/",
+    "title": "Walmart expands 30-minutes-or-less delivery as speed woos shoppers",
+    "topic": "Fulfillment & Ops",
+    "gist": "Walmart has expanded its 30-minutes-or-less delivery to 38 U.S. markets, with store-fulfilled deliveries growing over 40% in Q2 and fast-delivery GMV up 48% year over year. CEO John Furner noted that customers using fast delivery shop more frequently and are more likely to become Walmart+ members.",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://ecommercenews.eu/southern-europeans-lead-in-chinese-platform-use/",
+    "title": "Southern Europeans lead in Chinese platform use",
+    "topic": "Marketplaces",
+    "gist": "Southern European shoppers use Chinese e-commerce platforms like AliExpress, Shein, and Temu at above-average rates compared to other European regions, driven by low prices and wide product selection, according to European Central Bank research.",
+    "date": "2026-08-25"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/why-more-companies-are-investing-in-same-day-shipping/",
+    "title": "Why more companies are investing in same-day shipping",
+    "topic": "Fulfillment & Ops",
+    "gist": "Walmart, Target, The Home Depot, and Amazon all announced expansions of same-day or sub-three-hour delivery options following their Q2 earnings calls. The Home Depot launched an Express Delivery service promising delivery in three hours or less from its network of 2,000+ stores.",
+    "date": "2026-08-25"
   }
 ]
