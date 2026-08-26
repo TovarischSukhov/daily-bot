@@ -18,6 +18,8 @@ jobs:
       contents: write  # needed to commit seen.json back to the repo
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # full history so the rebase below works
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
@@ -43,12 +45,21 @@ jobs:
       - name: Persist seen.json
         if: ${{ github.event.inputs.dry_run != 'true' }}
         run: |
-          if [ -n "$(git status --porcelain seen.json)" ]; then
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add seen.json
-            git commit -m "chore: update dedup history [skip ci]"
-            git push
-          else
+          if [ -z "$(git status --porcelain seen.json)" ]; then
             echo "seen.json unchanged; nothing to persist"
+            exit 0
           fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add seen.json
+          git commit -m "chore: update dedup history [skip ci]"
+          # Someone (a human, or an overlapping run) may have pushed meanwhile.
+          # Rebase onto whatever is on main and retry; -X theirs keeps this run's
+          # seen.json, which is the freshest state of the dedup history.
+          for attempt in 1 2 3; do
+            git pull --rebase -X theirs origin main || { git rebase --abort || true; sleep 5; continue; }
+            git push origin HEAD:main && exit 0
+            sleep 5
+          done
+          echo "could not push seen.json after 3 attempts" >&2
+          exit 1
