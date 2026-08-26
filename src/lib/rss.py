@@ -3,6 +3,7 @@ from __future__ import annotations
 import html
 import logging
 import re
+from collections.abc import Callable
 from datetime import UTC, datetime
 from urllib.parse import parse_qsl, urlencode, urlsplit, urlunsplit
 
@@ -70,6 +71,26 @@ def _full_content(entry) -> str | None:
     return None
 
 
+def _title_filter(feed: Feed) -> Callable[[str], bool]:
+    """Return a predicate: True if the title should be dropped."""
+    patterns = [re.compile(p, re.IGNORECASE) for p in feed.exclude_title]
+    return lambda title: any(p.search(title) for p in patterns)
+
+
+def _clean_title(title: str, feed_name: str) -> str:
+    """Drop the ' - Publisher' suffix aggregators (Google News) append."""
+    suffix = f" - {feed_name}"
+    return title[: -len(suffix)] if title.endswith(suffix) else title
+
+
+def _blurb(summary: str, title: str) -> str:
+    """Aggregators repeat the headline as the description — that carries no
+    extra signal, so drop it rather than pay tokens for it twice."""
+    if title and summary.replace("\xa0", " ").strip().startswith(title):
+        return ""
+    return summary
+
+
 def fetch_recent_entries(feeds: list[Feed], since: datetime) -> list[Entry]:
     out: list[Entry] = []
     seen_urls: set[str] = set()
@@ -84,6 +105,7 @@ def fetch_recent_entries(feeds: list[Feed], since: datetime) -> list[Entry]:
                 logger.error("feed %s failed: %s", feed.name, e)
                 continue
             parsed = feedparser.parse(resp.content)
+            drop_title = _title_filter(feed)
             for entry in parsed.entries:
                 published = _parsed_to_dt(
                     entry.get("published_parsed") or entry.get("updated_parsed")
@@ -97,11 +119,16 @@ def fetch_recent_entries(feeds: list[Feed], since: datetime) -> list[Entry]:
                 if url in seen_urls:
                     continue
                 seen_urls.add(url)
-                summary = _strip_html(entry.get("summary", ""))[:SUMMARY_MAX_CHARS]
+                title = _clean_title(_strip_html(entry.get("title", "")), feed.name)
+                if drop_title(title):
+                    continue
+                summary = _blurb(
+                    _strip_html(entry.get("summary", ""))[:SUMMARY_MAX_CHARS], title
+                )
                 out.append(
                     Entry(
                         feed_name=feed.name,
-                        title=_strip_html(entry.get("title", "")),
+                        title=title,
                         url=url,
                         summary=summary,
                         published_at=published,

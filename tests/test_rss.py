@@ -88,3 +88,40 @@ def test_failing_feed_skipped(caplog) -> None:
     entries = fetch_recent_entries(feeds, NOW - timedelta(hours=24))
     assert [e.feed_name for e in entries] == ["Good"]
     assert "Bad" in caplog.text
+
+
+@respx.mock
+def test_exclude_title_and_suffix_strip() -> None:
+    feed = _rss(
+        [
+            _item("Muji to Open Stores - Retail TouchPoints", "https://n.co/1", NOW),
+            _item("Market News Archives - Page 95 of 170", "https://n.co/2", NOW),
+            _item("Register Now: Join Executives", "https://n.co/3", NOW),
+        ]
+    )
+    respx.get("https://n.co/feed").mock(return_value=httpx.Response(200, text=feed))
+    entries = fetch_recent_entries(
+        [
+            Feed(
+                name="Retail TouchPoints",
+                url="https://n.co/feed",
+                exclude_title=[r"Page \d+ of \d+", "^Register Now"],
+            )
+        ],
+        NOW - timedelta(hours=24),
+    )
+    assert [e.title for e in entries] == ["Muji to Open Stores"]
+
+
+@respx.mock
+def test_blurb_dropped_when_it_repeats_the_title() -> None:
+    item = (
+        "<item><title>Headline</title><link>https://n.co/a</link>"
+        "<description>Headline&#160;&#160;Publisher</description>"
+        f"<pubDate>{format_datetime(NOW)}</pubDate></item>"
+    )
+    respx.get("https://n.co/feed").mock(return_value=httpx.Response(200, text=_rss([item])))
+    entries = fetch_recent_entries(
+        [Feed(name="N", url="https://n.co/feed")], NOW - timedelta(hours=24)
+    )
+    assert entries[0].summary == ""

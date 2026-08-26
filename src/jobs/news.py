@@ -292,12 +292,21 @@ def run(dry_run: bool = False) -> int:
 
         # Deepen only what we will actually show (union of digest + picks).
         to_write = list({i.url: i for i in filtered + picks}.values())
-        ok, fallback = deepen(to_write, by_url, profile, usage)
+        try:
+            ok, fallback = deepen(to_write, by_url, profile, usage)
+            deepen_failed = 0
+        except Exception:
+            # Deliberate degradation: a failed writing stage must not kill the
+            # digest — items keep their RSS blurb as summary and still ship.
+            logger.exception("deepen failed; shipping digest with RSS blurbs")
+            ok = fallback = 0
+            deepen_failed = 1
 
         # Picks are shown in "Worth a take"; keep them out of the digest so each
         # story appears once.
         pick_urls = {p.url for p in picks}
         digest_items = [i for i in filtered if i.url not in pick_urls]
+        metrics["deepen_failed"] = deepen_failed
         metrics["fulltext_ok"] = ok
         metrics["fulltext_fallback_blurb"] = fallback
         metrics["digest_items"] = len(digest_items)

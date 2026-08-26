@@ -37,5 +37,13 @@ feeds:
   - name: Ecommerce News EU
     url: https://ecommercenews.eu/feed/
     topic_hint: Ecommerce
+  - name: Retail Gazette
+    url: https://www.retailgazette.co.uk/feed/
+    topic_hint: Ecommerce
+  - name: InternetRetailing
+    url: https://internetretailing.net/feed/
+    topic_hint: Ecommerce
+  # Not added: retailtouchpoints.com — 403s every bot request; the Google News
+  # mirror gives titles only (opaque links, no blurb, no full text).
   # Add more here
 

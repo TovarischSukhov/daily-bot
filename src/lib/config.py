@@ -13,6 +13,9 @@ class Feed(BaseModel):
     name: str
     url: HttpUrl
     topic_hint: str | None = None  # optional, helps Claude classify
+    # Regex patterns (case-insensitive); entries whose title matches any of them
+    # are dropped. For aggregator feeds that mix articles with index pages.
+    exclude_title: list[str] = []
 
 
 class FeedsConfig(BaseModel):

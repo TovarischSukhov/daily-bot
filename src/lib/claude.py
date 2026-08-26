@@ -19,6 +19,10 @@ _FENCE_RE = re.compile(r"^\s*```(?:json)?\s*|\s*```\s*$")
 JSON_INSTRUCTION = (
     "\n\nRespond with valid JSON only. No preamble, no commentary, no markdown code fences."
 )
+JSON_REPAIR_HINT = (
+    "\n\nYour previous response was not parseable JSON. Escape every double quote and every"
+    " newline inside string values, and close every string, object and array."
+)
 
 
 @dataclass(frozen=True)
@@ -54,14 +58,14 @@ def call(
 
     last_err: Exception | None = None
     for attempt in range(MAX_ATTEMPTS):
+        hint = JSON_REPAIR_HINT if attempt and response_format == "json" else ""
         try:
             msg = client.messages.create(
                 model=model,
                 max_tokens=max_tokens,
-                system=system,
+                system=system + hint,
                 messages=[{"role": "user", "content": user}],
             )
-            break
         except anthropic.APIStatusError as e:
             if not _retryable(e) or attempt == MAX_ATTEMPTS - 1:
                 raise
@@ -70,13 +74,26 @@ def call(
             logger.warning("claude %s; retry %d/%d in %.0fs", e.status_code, attempt + 1,
                            MAX_ATTEMPTS, sleep)
             time.sleep(sleep)
-    else:  # pragma: no cover - loop always breaks or raises
-        raise last_err  # type: ignore[misc]
+            continue
 
-    text = "".join(block.text for block in msg.content if block.type == "text")
-    if response_format == "json":
-        text = _strip_fences(text)
-        json.loads(text)  # validate; caller re-parses into its own model
+        text = "".join(block.text for block in msg.content if block.type == "text")
+        if response_format == "json":
+            text = _strip_fences(text)
+            try:
+                json.loads(text)  # validate; caller re-parses into its own model
+            except json.JSONDecodeError as e:
+                # Usually an unescaped quote or newline inside a string value.
+                # Not reliably repairable, so resample with an explicit hint.
+                if attempt == MAX_ATTEMPTS - 1:
+                    logger.error("claude returned invalid JSON %dx; giving up", MAX_ATTEMPTS)
+                    raise
+                logger.warning(
+                    "claude returned invalid JSON (%s; stop_reason=%s); retry %d/%d",
+                    e, msg.stop_reason, attempt + 1, MAX_ATTEMPTS,
+                )
+                continue
 
-    print(f"claude usage: input={msg.usage.input_tokens} output={msg.usage.output_tokens}")
-    return ClaudeResponse(text, msg.usage.input_tokens, msg.usage.output_tokens)
+        print(f"claude usage: input={msg.usage.input_tokens} output={msg.usage.output_tokens}")
+        return ClaudeResponse(text, msg.usage.input_tokens, msg.usage.output_tokens)
+
+    raise last_err  # type: ignore[misc]  # pragma: no cover - loop returns or raises

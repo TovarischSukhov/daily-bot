@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import json
+
 import httpx
 import pytest
 import respx
@@ -48,3 +50,28 @@ def test_json_mode_strips_fences() -> None:
     )
     resp = claude.call(system="s", user="u", response_format="json")
     assert resp.text == '{"a": 1}'
+
+
+@respx.mock
+def test_json_mode_resamples_on_invalid_json() -> None:
+    route = respx.post(API).mock(
+        side_effect=[
+            httpx.Response(200, json=_message('{"a": "he said "hi""}')),
+            httpx.Response(200, json=_message('{"a": 1}')),
+        ]
+    )
+    resp = claude.call(system="s", user="u", response_format="json")
+    assert resp.text == '{"a": 1}'
+    assert route.call_count == 2
+    body = json.loads(route.calls[1].request.content)
+    assert body["system"].endswith(claude.JSON_REPAIR_HINT)
+
+
+@respx.mock
+def test_json_mode_raises_after_max_attempts() -> None:
+    route = respx.post(API).mock(
+        return_value=httpx.Response(200, json=_message("{not json"))
+    )
+    with pytest.raises(json.JSONDecodeError):
+        claude.call(system="s", user="u", response_format="json")
+    assert route.call_count == claude.MAX_ATTEMPTS
