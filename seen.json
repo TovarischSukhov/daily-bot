@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/operations/the-pros-and-cons-of-taking-on-private-equity/",
-    "title": "The pros and cons of taking on private equity",
-    "topic": "DTC & Brands",
-    "gist": "Tubby Todd co-founder Andrea Faulkner Williams discusses the brand's decision to sell a majority stake to PE firm NexPhase Capital in 2022 while retaining leadership, and the subsequent retail expansion including a Target launch.",
-    "date": "2026-08-15"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/14/talks-to-sell-paypal-to-stripe-and-advent-are-heating-up/",
-    "title": "Talks to sell PayPal to Stripe and Advent are heating up",
-    "topic": "Payments",
-    "gist": "Negotiations for Stripe and Advent International to acquire PayPal are reportedly heating up again after an initial offer of $53 billion was rejected, with a deal potentially coming together within weeks.",
-    "date": "2026-08-15"
-  },
-  {
-    "url": "https://www.retaildive.com/news/michaels-debuts-store-format-knit-sew-party-shops/827904/",
-    "title": "Michaels debuts new store format at 3 locations",
-    "topic": "Retail",
-    "gist": "Michaels is piloting a revamped experiential store format across three locations, featuring a knit and sew shop from the Joann acquisition, expanded personalization services, a Pinterest Trend Bar, and a dedicated queue for loyalty members.",
-    "date": "2026-08-15"
-  },
-  {
-    "url": "https://www.retaildive.com/news/lululemon-ai-chief-exits-increasingly-concerned-executive-turnover-heidi-oneill-ceo/827906/",
-    "title": "As Lululemon AI chief exits, analysts ‘increasingly concerned’ about turnover",
-    "topic": "Retail",
-    "gist": "Lululemon's chief AI and technology officer Ranju Das has left the company after less than a year, following the reported exit of its Chief Strategy Officer, prompting analyst concern about c-suite turnover ahead of an incoming new CEO.",
-    "date": "2026-08-15"
-  },
-  {
-    "url": "https://ecommercenews.eu/traditional-market-growth-tactics-no-longer-suffice/",
-    "title": "‘Traditional market growth tactics no longer suffice’",
-    "topic": "Retail",
-    "gist": "Instinctools CEO Alexey Spas argues that traditional demand forecasting methods are failing online retailers because they were built for stable, linear retail models that no longer reflect omnichannel complexity.",
-    "date": "2026-08-15"
-  },
-  {
     "url": "https://www.anthropic.com/research/multiagent-systems",
     "title": "Patterns and problems in emerging multi-agent systems",
     "topic": "AI & Tech",
@@ -593,5 +558,19 @@
     "topic": "Fulfillment & Ops",
     "gist": "Amazon has launched its Prime Air drone delivery service in the UK, operating from a fulfillment center near Darlington and covering customers within a 12-kilometer radius.",
     "date": "2026-08-29"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/08/retailers-packaging-brc/",
+    "title": "Retailers warn packaging charges have doubled as BRC calls for PRN reform",
+    "topic": "Retail",
+    "gist": "UK retailers face over £100m in extra packaging costs in 2026 after plastic PRN prices more than doubled, with the BRC calling for the government to fold the PRN system into the existing EPR scheme to eliminate triple-charging on packaging. The BRC warns costs will ultimately be passed on to consumers if nothing changes.",
+    "date": "2026-08-30"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+    "topic": "AI & Tech",
+    "gist": "Sony Music Publishing, Warner Chappell, and other publishers have sued Anthropic and two of its co-founders, alleging illegal torrenting and scraping of copyrighted works to train Claude. The lawsuit follows an earlier landmark case in which Anthropic was ordered to pay $1.5 billion after a court ruled that acquiring copyrighted content via piracy was illegal.",
+    "date": "2026-08-30"
   }
 ]
