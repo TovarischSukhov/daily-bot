@@ -1,26 +1,5 @@
 [
   {
-    "url": "https://www.anthropic.com/research/multiagent-systems",
-    "title": "Patterns and problems in emerging multi-agent systems",
-    "topic": "AI & Tech",
-    "gist": "Anthropic研究发现，多智能体系统存在低方差行为（多个agent同步犯相同错误）、价格串谋、信息操纵漏洞及目标冲突升级等系统性风险，且更强的单体能力并不自动带来更好的协作能力。",
-    "date": "2026-08-16"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition/",
-    "title": "SpaceX officially closes its Cursor acquisition",
-    "topic": "AI & Tech",
-    "gist": "Cursor已正式完成被SpaceX收购，交易金额600亿美元，Cursor将获得SpaceX最大规模GPU集群的访问权限。",
-    "date": "2026-08-16"
-  },
-  {
-    "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
-    "title": "AI has access to a vastly larger working memory than the human brain",
-    "topic": "AI & Tech",
-    "gist": "一篇分析文章认为，AI在数学领域超越人类的核心优势可能不是推理能力更强，而是其上下文窗口提供了远超人类工作记忆的巨大符号工作空间，使其能维持更长的推理链和更多中间状态。",
-    "date": "2026-08-16"
-  },
-  {
     "url": "https://www.modernretail.co/operations/everybody-wants-to-be-a-premium-brand-in-a-tough-economic-environment/",
     "title": "Everybody wants to be a premium brand in a tough economic environment",
     "topic": "DTC & Brands",
@@ -572,5 +551,40 @@
     "topic": "AI & Tech",
     "gist": "Sony Music Publishing, Warner Chappell, and other publishers have sued Anthropic and two of its co-founders, alleging illegal torrenting and scraping of copyrighted works to train Claude. The lawsuit follows an earlier landmark case in which Anthropic was ordered to pay $1.5 billion after a court ruled that acquiring copyrighted content via piracy was illegal.",
     "date": "2026-08-30"
+  },
+  {
+    "url": "https://ecommercenews.eu/amazon-expands-listing-requirements-for-pan-eu-fba/",
+    "title": "Amazon expands listing requirements for Pan-EU FBA",
+    "topic": "Marketplaces",
+    "gist": "Amazon now requires Pan-EU FBA sellers to list all their products on Amazon.nl, with a similar mandate for Amazon.com.be coming in six months.",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/rising-raw-material-costs-are-hitting-everything-from-stickers-to-foil/",
+    "title": "Rising raw material costs are hitting everything from stickers to foil",
+    "topic": "DTC & Brands",
+    "gist": "Manufacturers using oil-based materials like vinyl, resin, and PVC are facing compounding raw material cost increases, with vinyl up nearly 6% in 2026 alone after consecutive prior-year rises.",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://digiday.com/media-buying/openais-chatgpt-ads-business-hits-1-billion-run-rate-as-europe-gets-self-serve-access/",
+    "title": "OpenAI’s ChatGPT ads business hits $1 billion run rate as Europe gets self-serve access",
+    "topic": "Ad & Marketing",
+    "gist": "OpenAI's ChatGPT advertising business has reached a $1 billion annualized run rate within roughly six months of launch, with self-serve access now opening to European advertisers.",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://www.retaildive.com/news/walmart-fulfillment-center-Carnesville-georgia/829071/",
+    "title": "Walmart to build $1.3B fulfillment center in Georgia",
+    "topic": "Fulfillment & Ops",
+    "gist": "Walmart is investing $1.3 billion in a 1.5-million-square-foot automated fulfillment center in Georgia, with construction starting late 2026, as part of its ongoing push to expand same-day and next-day shipping coverage.",
+    "date": "2026-08-31"
+  },
+  {
+    "url": "https://www.retaildive.com/news/usps-increase-2026-peak-season-holidays/828858/",
+    "title": "USPS announces 6% rate increase for 2026 peak season",
+    "topic": "Fulfillment & Ops",
+    "gist": "USPS has announced a 6% average peak-season rate hike on major package services from October 4 through January 17, 2027, on top of an 8% increase already implemented in April 2026.",
+    "date": "2026-08-31"
   }
 ]
