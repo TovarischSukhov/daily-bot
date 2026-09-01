@@ -1,54 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/operations/everybody-wants-to-be-a-premium-brand-in-a-tough-economic-environment/",
-    "title": "Everybody wants to be a premium brand in a tough economic environment",
-    "topic": "DTC & Brands",
-    "gist": "Brands across retail are pivoting to court higher-income or luxury-adjacent customers, with Wayfair's Perigold segment growing 35% while the overall business grew 7.5% — a pattern executives across categories are replicating in a tough macro environment.",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/how-dtc-startups-are-using-ai-to-scale-more-efficiently/",
-    "title": "How DTC startups are using AI to scale more efficiently",
-    "topic": "DTC & Brands",
-    "gist": "DTC founders at eTail Boston shared how they're using AI operationally and for marketing, while also rethinking wholesale and omnichannel partnerships to scale more efficiently in a challenging retail environment.",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/5-predictions-for-2026-holiday-shopping",
-    "title": "5 Predictions for 2026 Holiday Shopping",
-    "topic": "Retail",
-    "gist": "An analyst predicts 2026 holiday U.S. e-commerce will grow ~8%, with AI-referred shoppers converting at least 25% better than other channels, BNPL topping $22B, cross-border purchases reaching ~20% of Black Friday–Cyber Monday spend, and Amazon third-party sellers slipping to 60% or below.",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://digiday.com/marketing/brand-marketers-are-adopting-fan-first-social-media-strategies/",
-    "title": "Brand marketers are adopting fan-first social media strategies",
-    "topic": "Ad & Marketing",
-    "gist": "Poppi built a 'fans first' social media strategy targeting diehards on TikTok and Instagram rather than broad audiences, using that community as evangelists, a listening channel, and a product development focus group — a approach credited with helping it capture 34% of the functional soda category before its $1.95B Pepsico acquisition.",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/retail-construction-hits-record-lows-making-it-hard-to-find-space/",
-    "title": "Retail construction hits record lows, making it hard to find space",
-    "topic": "Retail",
-    "gist": "Retail construction completions hit a record low of 5.7 million sq ft in Q2, with space availability at just 4.9%, as rising construction costs and labor shortages make physical expansion difficult for retailers seeking quality locations.",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/nuuly-aims-to-break-through-the-social-media-noise-with-a-new-branded-rom-com-microdrama/",
-    "title": "Nuuly aims to break through the social media noise with a new branded rom-com microdrama",
-    "topic": "Ad & Marketing",
-    "gist": "Fashion rental platform Nuuly produced a 12-part social-native rom-com microdrama series featuring influencers, with brand integration designed to feel organic rather than advertising — a test of whether serialized branded content can cut through social media noise.",
-    "date": "2026-08-17"
-  },
-  {
-    "url": "https://www.glossy.co/beauty/wellness/inside-ag1s-growth-engine-gummies-canned-drinks-energy-powder-and-much-more-to-come/",
-    "title": "Inside AG1’s growth engine: Gummies, canned drinks, energy powder and ‘much more to come’",
-    "topic": "DTC & Brands",
-    "gist": "After 15 years with a single hero product, AG1 is rapidly expanding into gummies, canned drinks, and energy powder, while also entering retail through Ulta Beauty and Target under CEO Kat Cole.",
-    "date": "2026-08-17"
-  },
-  {
     "url": "https://www.retaildive.com/news/back-to-school-spending-moderate-circana/828013/",
     "title": "Back-to-school spending could be ‘moderate at best’",
     "topic": "Consumer Trends",
@@ -586,5 +537,75 @@
     "topic": "Fulfillment & Ops",
     "gist": "USPS has announced a 6% average peak-season rate hike on major package services from October 4 through January 17, 2027, on top of an 8% increase already implemented in April 2026.",
     "date": "2026-08-31"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/09/shein-shares-slide-on-hong-kong-debut/",
+    "title": "Shein shares slide on Hong Kong debut as investors question fast fashion giant’s growth",
+    "topic": "Marketplaces",
+    "gist": "Shein's Hong Kong IPO raised HK$13.6bn at a valuation of ~$26.3bn, a steep drop from its near-$100bn private-market peak, with shares falling up to 10% on debut as investors cited tariff pressures, rising costs, and slowing growth. The company now faces tighter import regulations in the UK and US, putting strain on the ultra-low-price model that drove its rise.",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://digiday.com/media-buying/wtf-is-the-amazon-ad-surcharge-lawsuit/",
+    "title": "WTF is the Amazon ad surcharge lawsuit?",
+    "topic": "Ad & Marketing",
+    "gist": "The FTC and 22 state AGs are suing Amazon, alleging it secretly ran a hidden surcharge on top of its advertised second-price ad auction for over seven years, effectively overcharging advertisers on Sponsored Products and other placements. The suit was filed in the Western District of Washington.",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://techcrunch.com/2026/08/31/ftc-accuses-amazon-of-running-a-secret-ad-surcharge-scheme-in-new-lawsuit/",
+    "title": "FTC accuses Amazon of running a ‘secret ad surcharge scheme’ in new lawsuit",
+    "topic": "Ad & Marketing",
+    "gist": "The FTC alleges Amazon secretly added a 'soft reserve price' and a fake 'invented auction participant' to its ad auctions starting in 2019, causing Sponsored Products advertisers to pay their own full bid nearly 80% of the time despite being told the system was a second-price auction. The scheme allegedly affected over 1 million brands and may have generated tens of billions in extra revenue for Amazon.",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://internetretailing.net/inpost-cuts-profit-outlook-despite-record-parcel-volumes-and-yodel-integration/",
+    "title": "InPost cuts profit outlook despite record parcel volumes and Yodel integration",
+    "topic": "Fulfillment & Ops",
+    "gist": "InPost delivered record Q2 parcel volumes of 380.9 million (up 16% YoY) and 18.2% revenue growth, but cut its full-year EBITDA guidance to a mid-single-digit decline as UK integration costs and European expansion eroded margins, with net profit falling 30.2%. The company is being taken private by a FedEx-led consortium in a €7.8bn deal expected to close in H2 2026.",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://internetretailing.net/guest-comment-the-new-rules-of-engagement-in-subscription-retail/",
+    "title": "GUEST COMMENT The new rules of engagement in subscription retail",
+    "topic": "Retail",
+    "gist": "New UK subscription regulations will require easier cancellation, clearer renewal reminders, and an end to auto-renewal traps, forcing subscription businesses to rethink retention strategies beyond lock-in. The article argues this shift rewards services that build genuine value and flexibility — including personalized offers, pause options, and event-based passes — over those relying on friction to retain subscribers.",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/09/why-social-media-is-sending-gen-z-back-to-the-high-street/",
+    "title": "Why social media is sending Gen Z back to the high street",
+    "topic": "Consumer Trends",
+    "gist": "American Express research estimates social media drives 1.7 billion UK high street visits annually, with 88% of Gen Z having visited a physical store after seeing it on social media and 35% travelling to another city for a trending product — a behavior Amex calls the 'viral pilgrimage economy.' Retailers that convert viral attention into repeat visits see strong returns, with 96% of Gen Z returning after a socially influenced first visit.",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/09/shop-price-inflation-2/",
+    "title": "Shop price inflation reaches two-year high",
+    "topic": "Retail",
+    "gist": "UK shop price inflation hit 1.5% year-on-year in August 2026, the highest in over two years, driven by rising energy, commodity, and input costs feeding through to both food and non-food categories. The British Retail Consortium warned that persistently high operating costs are limiting retailers' ability to absorb further increases without cutting investment or raising prices.",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://internetretailing.net/guest-comment-why-the-best-ad-space-is-being-wasted-on-a-logo-an-item-and-a-price/",
+    "title": "GUEST COMMENT Why the best ad space is being wasted on a logo, an item and a price",
+    "topic": "Ad & Marketing",
+    "gist": "Retail media globally now exceeds $200bn in spend, surpassing combined TV ad investment, yet the dominant format — sponsored product listings — typically contains little more than a product image, price, and template, under-utilizing the channel's proximity to the purchase decision. The article argues that distinctive brand assets, component-based creative briefs, and asset-level performance reporting would significantly lift retail media's commercial output.",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/location-data-fuels-mall-giant-simons-new-pitch-to-advertisers/",
+    "title": "Location data fuels mall giant Simon’s new pitch to advertisers",
+    "topic": "Ad & Marketing",
+    "gist": "Simon Property Group launched Simon Media Network, using Wi-Fi-sourced location and transaction data from its 200+ malls to let brands target shoppers in offsite environments and measure campaign impact. The network goes beyond Simon's existing ~4,000 digital screens by enabling retargeting and audience insights based on in-mall behavior.",
+    "date": "2026-09-01"
+  },
+  {
+    "url": "https://www.retaildive.com/news/nuuly-rental-urban-outfitters-second-quarter-earnings/829128/",
+    "title": "Nuuly drives Urban Outfitters’ record second-quarter revenue",
+    "topic": "DTC & Brands",
+    "gist": "Nuuly, Urban Outfitters' clothing rental subscription, reached over 500,000 active subscribers in Q2 and drove 28.6% segment sales growth to $179m, helping Urban Outfitters Inc. post record quarterly net sales of $1.7bn. Nuuly is scaling a personalization engine modeled on Netflix-style recommendations to handle a catalog of nearly 33,000 brands, and is expanding fulfillment capacity to support ~1.2 million subscribers.",
+    "date": "2026-09-01"
   }
 ]
