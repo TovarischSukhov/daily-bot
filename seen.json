@@ -1,54 +1,5 @@
 [
   {
-    "url": "https://www.retaildive.com/news/back-to-school-spending-moderate-circana/828013/",
-    "title": "Back-to-school spending could be ‘moderate at best’",
-    "topic": "Consumer Trends",
-    "gist": "Circana reports back-to-school 2025 spending will be 'moderate at best,' with overall retail sales down 1% YoY in July and discretionary merchandise dollar sales down 4.3%, as consumers prioritize essentials over impulse or promotion-driven purchases. BNPL usage for back-to-school is rising (45% of households vs. 39% last year), and growth is concentrated among higher-income shoppers.",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://www.retaildive.com/news/under-armour-dwayne-the-rock-johnson-end-partnership/828020/",
-    "title": "Under Armour ends partnership with The Rock amid marketing reset",
-    "topic": "DTC & Brands",
-    "gist": "Under Armour has ended its nearly decade-long partnership with Dwayne Johnson's Project Rock brand, following the earlier cut of Steph Curry in November, as the company restructures its marketing spend to be lower as a percentage of revenue and more tightly aligned with product. CEO Kevin Plank framed the shift as making each marketing dollar work harder rather than relying on celebrity-anchored brand equity.",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://www.glossy.co/beauty/beauty-briefing-how-sephora-is-evolving-its-loyalty-program-in-a-competitive-retail-environment/",
-    "title": "Beauty Briefing: How Sephora is evolving its loyalty program in a competitive retail environment",
-    "topic": "Retail",
-    "gist": "Sephora is evolving its loyalty program with an experiential approach as competition in prestige beauty retail intensifies, while L'Occitane faces uncertainty following the departure of Sol de Janeiro co-founder Heela Yang.",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://www.retaildive.com/news/jc-penney-takes-aim-off-price-stores/828001/",
-    "title": "To lure in shoppers, J.C. Penney takes aim at off-price stores",
-    "topic": "Retail",
-    "gist": "J.C. Penney has launched a campaign directly attacking off-price retailers like TJX, Ross, and Burlington, positioning its assortment as more fashionable and better quality, and offering a trade-in promotion for regretted off-price purchases. Despite the offensive posture, Penney's own sales fell nearly 5% in its most recent quarter while off-price chains continue to expand.",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/air-freight-is-becoming-a-costly-fix-for-inventory-issues/",
-    "title": "Air freight is becoming a costly fix for inventory issues",
-    "topic": "Fulfillment & Ops",
-    "gist": "Some retail brands are absorbing the higher costs of air freight to bypass supply chain bottlenecks and keep shelves stocked, even as jet fuel prices remain roughly 46% above pre-Iran-war levels, pushing air freight rates up further.",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://ecommercenews.eu/amazon-launches-bulk-storage-service-in-europe/",
-    "title": "Amazon launches bulk storage service in Europe",
-    "topic": "Marketplaces",
-    "gist": "Amazon is launching its Warehousing & Distribution (AWD) bulk storage service across five European countries, allowing sellers to store inventory with Amazon for extended periods and have it automatically replenished into FBA fulfillment centers based on demand.",
-    "date": "2026-08-18"
-  },
-  {
-    "url": "https://www.retaildive.com/spons/why-retails-biggest-ai-assumption-is-wrong/826404/",
-    "title": "Why retail’s biggest AI assumption is wrong",
-    "topic": "Retail",
-    "gist": "The article argues that retail brands are wrong to assume their existing SEO investment, brand equity, and digital marketing spend will translate into visibility on AI answer engines, which surface results based on structured, AI-legible product data rather than domain authority or ad spend. Brands that audit and restructure their catalog data for AI discovery now are positioned to pull ahead of better-known but less-prepared competitors.",
-    "date": "2026-08-18"
-  },
-  {
     "url": "https://www.retaildive.com/news/home-depot-pros-outperform-diy-shoppers-q2-earnings/828159/",
     "title": "Pros continue to outperform DIY shoppers at Home Depot",
     "topic": "Retail",
@@ -607,5 +558,61 @@
     "topic": "DTC & Brands",
     "gist": "Nuuly, Urban Outfitters' clothing rental subscription, reached over 500,000 active subscribers in Q2 and drove 28.6% segment sales growth to $179m, helping Urban Outfitters Inc. post record quarterly net sales of $1.7bn. Nuuly is scaling a personalization engine modeled on Netflix-style recommendations to handle a catalog of nearly 33,000 brands, and is expanding fulfillment capacity to support ~1.2 million subscribers.",
     "date": "2026-09-01"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/shein-ipo-dtc-fashion-cuyana-faherty-everlane/",
+    "title": "Fashion’s DTC era is over. What comes next?",
+    "topic": "DTC & Brands",
+    "gist": "Major millennial DTC fashion brands — Everlane (sold to Shein for $80M), Outdoor Voices, Parade, and Allbirds — have all hit strategic walls, raising questions about what differentiated the DTC survivors from those that failed despite online distribution and values-led positioning.",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://internetretailing.net/retailers-embrace-bundled-memberships-as-subscription-growth-shifts-focus/",
+    "title": "Retailers embrace bundled memberships as subscription growth shifts focus",
+    "topic": "Retail",
+    "gist": "Retailers like Walmart+ and Amazon Prime are shifting subscription strategy from new-customer acquisition to churn reduction by bundling multiple services — delivery, streaming, lifestyle perks — into single memberships, a trend accelerating as cost-of-living pressure makes perceived value critical.",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://digiday.com/future-of-tv/future-of-tv-briefing-how-strong-are-the-fundamentals-of-the-creator-economy-really/",
+    "title": "Future of TV Briefing: How strong are the fundamentals of the creator economy, really?",
+    "topic": "Ad & Marketing",
+    "gist": "A Digiday briefing examines signals that influencer marketing may be heading toward an economic correction, prompted partly by top creator Emma Chamberlain's candid remarks about the creator economy she helped build.",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/quinces-first-ever-sample-sale-sold-out-6-hours-early/",
+    "title": "Quince’s first-ever sample sale sold out 6 hours early",
+    "topic": "DTC & Brands",
+    "gist": "Quince, a digitally native brand that crossed $2 billion in sales, held its first sample sale in San Francisco with a four-block line and sold out six hours early, part of a broader push into physical retail through pop-ups and in-person events.",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/ace-hardware-adds-influencer-doordash-and-weather-features-as-it-builds-out-a-retail-media-strategy/",
+    "title": "Ace Hardware adds influencer, DoorDash and weather features as it builds out a retail media strategy",
+    "topic": "Ad & Marketing",
+    "gist": "Ace Hardware's retail media network RedVest Media, one year in, is adding influencer marketing, a DoorDash ad partnership, weather-triggered programmatic ads, and incrementality measurement, tapping its 80M+ loyalty members across 5,300+ US stores.",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://www.retaildive.com/news/dollar-shave-club-acquires-truly-beauty/829291/",
+    "title": "Dollar Shave Club acquires body care brand Truly Beauty",
+    "topic": "DTC & Brands",
+    "gist": "Dollar Shave Club acquired body care brand Truly Beauty — its first acquisition — to expand into women's grooming and build a multi-brand platform, planning to integrate supply chain, inventory, and backend marketing while keeping the two brand identities separate.",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://www.retaildive.com/news/the-home-depot-extends-ai-assistance-stores/829240/",
+    "title": "The Home Depot extends AI assistance in local stores",
+    "topic": "Retail",
+    "gist": "Home Depot expanded its AI assistant Magic Apron to all 2,000+ US stores, enabling shoppers to use text, voice, and image queries for product location, availability, and project guidance via the retailer's mobile app or in-store QR codes.",
+    "date": "2026-09-02"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/09/ikea-invests-e1-2bn-in-price-cuts/",
+    "title": "Ikea invests €1.2bn in price cuts",
+    "topic": "Retail",
+    "gist": "IKEA is investing €1.2 billion in price cuts across Europe, reducing prices on hundreds of products by 20–28% in markets including the UK, Germany, and Italy, while also planning a peer-to-peer second-hand marketplace for IKEA Family members in the UK.",
+    "date": "2026-09-02"
   }
 ]
