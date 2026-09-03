@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://www.retaildive.com/news/home-depot-pros-outperform-diy-shoppers-q2-earnings/828159/",
-    "title": "Pros continue to outperform DIY shoppers at Home Depot",
-    "topic": "Retail",
-    "gist": "Home Depot's Pro customer segment posted positive comps in Q2 while DIY demand remained soft, with total sales up 5.7% YoY to $47.9B — the best comparable growth since Q3 2022. Larger home improvement projects stayed under pressure due to consumer uncertainty and a weak housing market.",
-    "date": "2026-08-19"
-  },
-  {
-    "url": "https://www.retaildive.com/news/target-finalizes-divorce-from-ulta-signaling-shift-in-beauty-market/827990/",
-    "title": "Target finalizes divorce from Ulta, signaling shift in beauty market",
-    "topic": "Retail",
-    "gist": "Target's shop-in-shop partnership with Ulta Beauty formally ended, with Target replacing the 600+ Ulta locations with its own Beauty Studio concept and integrating beauty rewards into its loyalty program. Both mass and prestige beauty sales in the U.S. grew 7% YoY in H1 2026, with Target and Walmart competing aggressively for a share of the category.",
-    "date": "2026-08-19"
-  },
-  {
-    "url": "https://www.retaildive.com/news/walmart-plus-loyalty-program-adds-store-perks-photo-money-centers/828143/",
-    "title": "Walmart+ adds new in-store perks",
-    "topic": "Retail",
-    "gist": "Walmart is adding in-store perks to its Walmart+ membership, including monthly free photo prints and fee-free money service transactions, as it works to grow paid membership revenue. Walmart+ members already spend four times more than non-members and make seven times more e-commerce visits annually.",
-    "date": "2026-08-19"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/18/tiktok-explores-peer-to-peer-payments-via-dms-report-says/",
-    "title": "TikTok explores peer-to-peer payments via DMs, report says",
-    "topic": "Marketplaces",
-    "gist": "TikTok is reportedly developing a peer-to-peer payment feature accessible via direct messages in its U.S. app, building on TikTok Pay infrastructure already live in Southeast Asia for TikTok Shop. The feature is in early development and has not been confirmed for testing or release.",
-    "date": "2026-08-19"
-  },
-  {
-    "url": "https://digiday.com/marketing/ana-updates-efforts-to-standardize-retail-media-network-measurement/",
-    "title": "ANA updates efforts to standardize retail media network measurement",
-    "topic": "Ad & Marketing",
-    "gist": "The ANA is releasing a retail media measurement standardization report with multi-point recommendations for brands, including third-party measurement validation, a standardized 14-day loopback window, and a common definition of 'outcomes.' Major RMNs including Walmart, Albertsons, and Target contributed input, though Amazon has not yet participated.",
-    "date": "2026-08-19"
-  },
-  {
-    "url": "https://www.retaildive.com/news/nike-foot-locker-crenshaw-rec-store-concept-los-angeles/828149/",
-    "title": "Nike, Foot Locker debut hyperlocal community hub store in Los Angeles",
-    "topic": "Retail",
-    "gist": "Foot Locker and Nike have opened a hyperlocal store concept in Los Angeles' Crenshaw neighborhood, combining retail with community amenities like a gym, creative workspaces, and local programming. The concept is part of Foot Locker's broader store revamp under Dick's Sporting Goods ownership and reflects both brands' turnaround efforts.",
-    "date": "2026-08-19"
-  },
-  {
     "url": "https://digiday.com/marketing/target-plans-to-lower-prices-after-receiving-almost-1-billion-in-tariff-refunds/",
     "title": "Target plans to lower prices after receiving almost $1 billion in tariff refunds",
     "topic": "Retail",
@@ -614,5 +572,61 @@
     "topic": "Retail",
     "gist": "IKEA is investing €1.2 billion in price cuts across Europe, reducing prices on hundreds of products by 20–28% in markets including the UK, Germany, and Italy, while also planning a peer-to-peer second-hand marketplace for IKEA Family members in the UK.",
     "date": "2026-09-02"
+  },
+  {
+    "url": "https://internetretailing.net/jd-sports-uncovers-multi-million-pound-growth-opportunity-from-personalised-offers/",
+    "title": "JD Sports uncovers multi-million-pound growth opportunity from personalised offers",
+    "topic": "Retail",
+    "gist": "JD Sports ran structured personalisation trials with HyperFinity and found that relevance outperforms discount size, especially for high spenders — identifying a multi-million-pound loyalty sales opportunity in year one of scaling the programme.",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://www.retaildive.com/news/sephora-pilot-tiktok-shop-experience/829420/",
+    "title": "Sephora to pilot TikTok Shop experience",
+    "topic": "Marketplaces",
+    "gist": "Sephora is launching on TikTok Shop in the US from September 19 with an exclusive monthly product drop format called Drop Shop, using TikTok Live reveals and creator content, in a test-and-learn approach to social commerce.",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://www.retaildive.com/news/williams-sonoma-ai-assistants-drive-customer-engagement-conversions/829051/",
+    "title": "Williams-Sonoma AI assistants drive customer engagement — and conversions",
+    "topic": "Retail",
+    "gist": "Williams-Sonoma's AI shopping assistants Olive and Otto are delivering measurable results — Olive users convert at 3x the rate of non-users, and personalised visits now generate roughly 9x the revenue of average visits, up from 2x a year ago.",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
+    "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
+    "topic": "Ad & Marketing",
+    "gist": "A federal judge ruled that Google does not have to break up or sell its ad-tech business, instead ordering changes to its business practices, though specifics remain under seal.",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
+    "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
+    "topic": "Ad & Marketing",
+    "gist": "A US federal judge declined to force Google to sell its ad exchange (AdX) despite Google having lost the underlying antitrust case, limiting the practical remedies to behavioural changes rather than structural divestiture.",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
+    "title": "Uber is laying off 10% of staff, or 3,300 people",
+    "topic": "Macro",
+    "gist": "Uber is cutting roughly 3,300 employees (10% of global headcount), reducing management layers by 20%, and consolidating its engineering, delivery, and restaurant/retail divisions.",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/fashion-briefing-the-canada-us-trade-war-is-creating-a-less-integrated-north-american-fashion-market/",
+    "title": "Fashion Briefing: The Canada-US trade war is creating a ‘less integrated North American fashion market’",
+    "topic": "Retail",
+    "gist": "The US-Canada trade war has escalated to a 50% US tariff on ~$30B of Canadian goods including apparel, with Canada promising dollar-for-dollar counter-tariffs, pushing North American fashion sourcing and retail toward a less integrated market.",
+    "date": "2026-09-03"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
+    "title": "Delivery Hero board backs Uber’s $15B takeover bid",
+    "topic": "Fulfillment & Ops",
+    "gist": "Delivery Hero's board has recommended shareholders accept Uber's $15 billion takeover bid, a deal that would make Uber's delivery platform one of the largest globally outside China.",
+    "date": "2026-09-03"
   }
 ]
