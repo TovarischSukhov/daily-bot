@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://digiday.com/marketing/target-plans-to-lower-prices-after-receiving-almost-1-billion-in-tariff-refunds/",
-    "title": "Target plans to lower prices after receiving almost $1 billion in tariff refunds",
-    "topic": "Retail",
-    "gist": "Target received $994 million in pre-tax tariff refunds in Q2, boosting operating income 94% year over year, and plans to pass savings to customers through price reductions.",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/target-receives-almost-1-billion-in-tariff-refunds-plans-to-lower-prices/",
-    "title": "Target receives almost $1 billion in tariff refunds, plans to lower prices",
-    "topic": "Retail",
-    "gist": "Target's Q2 operating income nearly doubled year over year after $994 million in tariff refunds, with CFO Jim Lee confirming the company will invest those savings into price reductions for customers.",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://www.retaildive.com/news/target-scores-sales-growth-beauty-hardlines-merchandise/828196/",
-    "title": "Target scores major sales growth in beauty, hardlines merchandise",
-    "topic": "Retail",
-    "gist": "Target posted 5.3% net sales growth in Q2 with comparable sales up 3.8%, led by beauty, hardlines, and food and beverage, while apparel and home categories underperformed and remain multi-year turnaround projects.",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/tjx-to-accelerate-store-openings-as-off-price-continues-its-hot-streak/",
-    "title": "TJX to accelerate store openings as off-price continues its hot streak",
-    "topic": "Retail",
-    "gist": "TJX Companies is accelerating store openings from 3% to 4% annual growth starting next year and raised its long-term global store target to 7,500, citing strong momentum in the off-price channel.",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://www.retaildive.com/news/lowes-cuts-outlook-diy-spending-pressured/828266/",
-    "title": "Lowe’s cuts outlook as DIY spending remains pressured",
-    "topic": "Retail",
-    "gist": "Lowe's trimmed its full-year outlook to the lower end of prior guidance as discretionary DIY spending stayed under pressure, though Pro segment and online sales (up nearly 16%) provided offsets.",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://www.retaildive.com/news/kohls-back-to-school-season-another-round-deals/828147/",
-    "title": "Kohl’s navigates choppy back-to-school season with another round of deals",
-    "topic": "Retail",
-    "gist": "Kohl's is running aggressive back-to-school promotions including up to 50% price cuts and Kohl's Cash incentives, as analysts warn the season may be moderate at best due to cautious consumer spending.",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://modernretail.co.uk/two-thirds-of-google-searches-now-end-without-a-click/",
-    "title": "Two thirds of Google searches now end without a click",
-    "topic": "Ad & Marketing",
-    "gist": "Over two-thirds of Google searches now end without a click to an external site, rising to ~80% when AI summaries appear, with a new Akeneo report arguing that structured, machine-readable product data is now the key to being recommended by AI systems rather than traditional SEO rank.",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://digiday.com/marketing/creators-are-moving-into-brands-ai-search-playbooks/",
-    "title": "Creators are moving into brands’ AI search playbooks",
-    "topic": "Ad & Marketing",
-    "gist": "Brands are now briefing creators specifically to generate content that AI chatbots will surface in shopping-related queries, treating creator reviews as inputs for LLM training rather than just social proof for human audiences.",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026/",
-    "title": "Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026",
-    "topic": "Fulfillment & Ops",
-    "gist": "Amazon plans to expand its Prime Air drone delivery service to nearly 500 U.S. cities and towns by end of 2026, up from around 10 current locations, with delivery times of 30 minutes to one hour.",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/19/amazons-prime-air-is-taking-off-in-nearly-500-u-s-cities/",
-    "title": "Amazon’s Prime Air is taking off in nearly 500 US cities",
-    "topic": "Fulfillment & Ops",
-    "gist": "Amazon announced a roughly sixfold expansion of Prime Air drone delivery, targeting nearly 500 U.S. cities by end of 2026, with free delivery for Prime members on eligible orders over $50 and competing directly with Walmart and Wing's growing drone network.",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://www.retaildive.com/news/walmart-equipping-store-with-symbotic-fulfillment-system/827932/",
-    "title": "Walmart equipping a store with Symbotic fulfillment system",
-    "topic": "Fulfillment & Ops",
-    "gist": "Symbotic has begun installing its first SymMicro automated fulfillment system inside a Walmart store, with a potential rollout of 400 systems under an existing agreement once the pilot proves out.",
-    "date": "2026-08-20"
-  },
-  {
-    "url": "https://www.retaildive.com/news/nike-quietly-closing-nike-live-well-collective-neighborhood-stores/828259/",
-    "title": "Nike is quietly closing its localized neighborhood stores",
-    "topic": "DTC & Brands",
-    "gist": "Nike is permanently closing at least 15 of its hyperlocal Nike Live / Nike Well Collective small-format stores across the U.S. as CEO Elliott Hill refocuses the brand on wholesale partnerships and elevated flagship experiences.",
-    "date": "2026-08-20"
-  },
-  {
     "url": "https://digiday.com/marketing/walmart-gets-close-to-3-billion-in-tariff-refunds/",
     "title": "Walmart gets close to $3 billion in tariff refunds",
     "topic": "Retail",
@@ -628,5 +544,75 @@
     "topic": "Fulfillment & Ops",
     "gist": "Delivery Hero's board has recommended shareholders accept Uber's $15 billion takeover bid, a deal that would make Uber's delivery platform one of the largest globally outside China.",
     "date": "2026-09-03"
+  },
+  {
+    "url": "https://internetretailing.net/august-failed-to-deliver-for-the-retail-sector-new-data-shows/",
+    "title": "August failed to deliver for the retail sector, new data shows",
+    "topic": "Retail",
+    "gist": "UK retail total sales grew just 2.2% in August, below inflation and below last year's 2.3% growth, with footfall down 1.7% YoY — marking the sixth volume decline of 2025. BDO and BRC both cite weak consumer confidence and rising cost pressures ahead of the October Budget.",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://www.glossy.co/pop/set-customer-influencer-strategy-coastline-drop/",
+    "title": "Pop Newsletter: Set did $3.5 million in 24 hours leveraging customers as the new influencers",
+    "topic": "DTC & Brands",
+    "gist": "Activewear brand Set opened a physical event to the public rather than limiting it to influencers, and the following day its Coastline collection generated $3.5 million online in 24 hours — the brand's biggest limited-edition drop ever, with 41% of pre-order customers being new to the brand.",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://www.glossy.co/podcasts/the-3-reasons-shein-is-trading-at-a-quarter-of-its-previous-valuation/",
+    "title": "The 3 reasons Shein is trading at a quarter of its previous valuation",
+    "topic": "Marketplaces",
+    "gist": "Shein went public in Hong Kong this week at a valuation of roughly $25 billion, down from $100 billion in 2022, after years of political obstacles delayed its IPO from New York and then London.",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/lululemons-identity-crisis-continues-with-comp-sales-down-9-as-it-prepares-to-welcome-new-ceo/",
+    "title": "Lululemon’s identity crisis continues, with comp sales down 9%, as it prepares to welcome new CEO",
+    "topic": "DTC & Brands",
+    "gist": "Lululemon reported Q2 net revenue down 4% YoY and comparable sales down 9%, with Americas comps falling 12%, as the brand prepares to hand the CEO role to former Nike executive Heidi O'Neill on Sept. 8.",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://openai.com/index/gpt-6-astra/",
+    "title": "GPT-6 Astra",
+    "topic": "AI & Tech",
+    "gist": "OpenAI released GPT-6 Astra, generating significant discussion on Hacker News around its performance on coding and reasoning benchmarks.",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://www.retaildive.com/news/target-back-to-school-push-AI/829468/",
+    "title": "How AI is powering Target’s back-to-school push",
+    "topic": "Retail",
+    "gist": "Target is using AI-powered product recommendations and a 'next best action' widget to personalize the back-to-school shopping experience, with early data showing that wish-list builders drive 45% higher category demand. The retailer is also A/B testing differentiated homepage experiences and moving toward one-to-one page personalization at scale.",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://www.retaildive.com/news/five-belows-maniacal-focus-on-the-customer-pays-off/829565/",
+    "title": "Five Below’s ‘maniacal focus’ on the customer pays off",
+    "topic": "Retail",
+    "gist": "Five Below posted Q2 net sales up nearly 23% YoY to $1.3 billion, with comps up 14%, driven by traffic gains and a remerchandising strategy centered on Gen Alpha, Gen Z, and millennial parents, plus a shift in media spend toward social. The company raised its full-year outlook.",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://www.retaildive.com/news/victorias-secret-fragrance-nostalgia-entertainment-trends/829539/",
+    "title": "Victoria’s Secret embraces nostalgia, entertainment trends",
+    "topic": "DTC & Brands",
+    "gist": "Victoria's Secret reported Q2 net sales up 10% YoY to $1.6 billion and comps up 9%, driven by bra innovation and nostalgia-led product drops, including a Pink archive release that sold out online in under a day. The brand is leaning into entertainment and emotional storytelling as growth levers.",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://www.retaildive.com/news/randa-acquires-untuckit-dtc-apparel/829561/",
+    "title": "Untuckit acquired by Randa",
+    "topic": "DTC & Brands",
+    "gist": "Randa Apparel and Accessories has acquired DTC menswear brand Untuckit for an undisclosed sum, with the brand and leadership staying in New York and Randa planning to use its capital and international reach to accelerate growth.",
+    "date": "2026-09-04"
+  },
+  {
+    "url": "https://ecommercenews.eu/german-online-stores-less-visible-on-google/",
+    "title": "‘German online stores less visible on Google’",
+    "topic": "Ad & Marketing",
+    "gist": "Large German online stores averaged 16.7% less organic visibility in Google search in June compared to the same month a year earlier, pointing to growing pressure on SEO-driven traffic for e-commerce.",
+    "date": "2026-09-04"
   }
 ]
