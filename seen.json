@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://digiday.com/marketing/walmart-gets-close-to-3-billion-in-tariff-refunds/",
-    "title": "Walmart gets close to $3 billion in tariff refunds",
-    "topic": "Retail",
-    "gist": "Walmart's CFO disclosed the company has received approximately $2.9 billion in tariff refunds, which are bolstering its balance sheet while consumers face pressure from higher fuel prices and other macro headwinds.",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/walmart-gets-close-to-3-billion-in-tariff-refunds/",
-    "title": "Walmart gets close to $3 billion in tariff refunds",
-    "topic": "Retail",
-    "gist": "Walmart has received about $2.9 billion in tariff refunds and is reinvesting them into customer experience and price leadership across grocery and general-merchandise categories.",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.retaildive.com/news/tjx-blames-merchandising-missteps-rare-miss-us-tjmaxx-marshalls-stores/828295/",
-    "title": "TJX blames merchandising missteps for rare miss in the US, but is that the whole story?",
-    "topic": "Retail",
-    "gist": "TJX's U.S. Marmaxx division posted only 1% comp growth in Q2, its weakest in nearly a decade, which executives attributed to merchandising missteps, though analysts point to rising consumer price sensitivity and heightened competition from rivals and promotional mainstream retailers as additional factors.",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.retaildive.com/news/walmarts-stores-omnichannel-tariffs-drug-pricing-regulation/828387/",
-    "title": "Walmart’s stores have ‘evolved’ as e-commerce grows",
-    "topic": "Retail",
-    "gist": "Walmart U.S. e-commerce sales grew 24% in Q2, now representing over 23% of its sales mix — double the share from five years ago — with stores serving as fulfillment nodes for 80% of online orders and all fast deliveries.",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/big-box-briefing-target-sees-sales-boom-in-reinvented-snack-category/",
-    "title": "Big-Box Briefing: Target sees sales boom in reinvented snack category",
-    "topic": "Retail",
-    "gist": "Target reported a 15% year-over-year increase in snack sales and about 7% growth in total food and beverage in Q2, driven by a major grocery refresh that added space for trending products like protein bars and meat sticks.",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://www.modernretail.co/technology/walmart-extends-scintilla-data-platform-to-sams-club/",
-    "title": "Walmart extends Scintilla data platform to Sam’s Club",
-    "topic": "Retail",
-    "gist": "Walmart plans to expand its first-party data analytics platform, Scintilla, to Sam's Club in the U.S. next year, aiming to help merchants and suppliers better understand member behavior and improve assortment and execution.",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://digiday.com/media/for-brands-the-creator-ambassador-is-becoming-a-creator-executive/",
-    "title": "For brands, the creator ambassador is becoming a creator executive",
-    "topic": "Ad & Marketing",
-    "gist": "Brands are increasingly giving creators substantive executive roles — chief creative officer, chief brand officer — rather than honorary titles, as creator budgets grow and CMOs take creator partnerships more seriously.",
-    "date": "2026-08-21"
-  },
-  {
-    "url": "https://digiday.com/marketing/future-of-marketing-for-the-source-of-nikes-decline-ignore-the-easy-answers/",
-    "title": "Future of Marketing: For the source of Nike’s decline, ignore the easy answers",
-    "topic": "DTC & Brands",
-    "gist": "Nike has failed to capitalize on the running category's resurgence — U.S. performance footwear sales rose 13% in H1 2026 — while rivals like On, Hoka, and Brooks have taken share, with Brooks alone growing revenues 14% in the same period.",
-    "date": "2026-08-21"
-  },
-  {
     "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
     "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
     "topic": "Marketplaces",
@@ -614,5 +558,54 @@
     "topic": "Ad & Marketing",
     "gist": "Large German online stores averaged 16.7% less organic visibility in Google search in June compared to the same month a year earlier, pointing to growing pressure on SEO-driven traffic for e-commerce.",
     "date": "2026-09-04"
+  },
+  {
+    "url": "https://www.retaildive.com/news/lululemon-pulls-back-store-plans-sales-plummet-q2/829660/",
+    "title": "Lululemon pulls back store plans as sales plummet",
+    "topic": "Retail",
+    "gist": "Lululemon reported Q2 net revenue down 4% to $2.4B, with Americas comps falling 12% and flagship leggings sales dropping 20% YoY; the company cut full-year guidance to a 5–7% revenue decline and reduced planned store openings from 40 to 35 net new locations in 2026. Incoming CEO Heidi O'Neill inherits negative traffic, a bloated cost base, and analysts calling for a return to core product focus.",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/09/lululemon-fall-americas-weak/",
+    "title": "Lululemon lowers outlook as sales fall due to weak Americas performance",
+    "topic": "Retail",
+    "gist": "Lululemon cut its full-year revenue forecast to a 5–7% decline after Q2 revenue fell to $2.4B, driven by an 8% drop in Americas revenue and a 12% comp decline in the region. The company opened nine net new stores in the quarter, bringing its global total to 825.",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://www.retaildive.com/news/amazon-adds-perks-prime-free-alexa-access/829610/",
+    "title": "Amazon Prime members now get free Alexa+ access",
+    "topic": "Marketplaces",
+    "gist": "Amazon is making its agentic AI assistant Alexa+ a free benefit for all U.S. Prime members, with non-Prime users able to access it for $19.99/month; shoppers who tried Alexa+ signed up for Prime at a ~25% higher rate. Prime membership grew double digits YoY in Q2 2026, with subscription services revenue up 12% to $13.7B.",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://www.retaildive.com/news/petco-learns-perils-overly-generous-loyalty-program/829664/",
+    "title": "Petco loses millions due to loyalty program",
+    "topic": "Retail",
+    "gist": "Petco's revamped Petco Perks loyalty program generated point redemption volumes far above projections after launch, costing the retailer mid-single-digit millions in sales impact in Q2 2026 and dragging what had been above-plan sales down to essentially flat YoY. The company has added redemption guardrails and plans to focus on personalization capabilities to drive the program's long-term value.",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://www.retaildive.com/news/dollar-general-ai-distribution-centers-stores/829201/",
+    "title": "Dollar General deploys AI across distribution centers, stores",
+    "topic": "Retail",
+    "gist": "Dollar General is partnering with Relex Solutions to unify forecasting, replenishment, and allocation planning across its 21,000 stores and 34 distribution centers using AI. The initiative is part of a broader effort to drive operational efficiencies and offset cost pressures as the company builds out agentic AI systems across the enterprise.",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/influencers-mostly-skip-disclosure",
+    "title": "Influencers Mostly Skip Disclosure",
+    "topic": "Ad & Marketing",
+    "gist": "A 2024 European Commission sweep found that 97% of influencer posts contained commercial content but only 20% disclosed it systematically; U.S. and EU regulations both mandate disclosure of paid endorsements but differ in thresholds, enforcement mechanisms, and criminal exposure. Neither the FTC nor EU directives use the term 'influencer,' leaving a large and largely non-compliant industry operating in a regulatory grey zone.",
+    "date": "2026-09-05"
+  },
+  {
+    "url": "https://www.retaildive.com/news/ulta-flock-technology-backlash/829623/",
+    "title": "Ulta’s use of Flock technology causes upset online",
+    "topic": "Retail",
+    "gist": "Ulta Beauty is facing a social media backlash after it was confirmed the retailer uses Flock's automated license plate reader cameras at a small number of its ~1,500 stores to combat organized retail crime, following a viral activist campaign. The technology does not include facial recognition and is deployed at less than 1% of Ulta's locations.",
+    "date": "2026-09-05"
   }
 ]
