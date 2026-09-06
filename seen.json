@@ -607,5 +607,26 @@
     "topic": "Retail",
     "gist": "Ulta Beauty is facing a social media backlash after it was confirmed the retailer uses Flock's automated license plate reader cameras at a small number of its ~1,500 stores to combat organized retail crime, following a viral activist campaign. The technology does not include facial recognition and is deployed at less than 1% of Ulta's locations.",
     "date": "2026-09-05"
+  },
+  {
+    "url": "https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation",
+    "title": "AI, Tools and Transformation",
+    "topic": "AI & Tech",
+    "gist": "Benedict Evans argues that AI won't simply sweep away enterprise software complexity because the hard part of automation is identifying which problems need solving and redesigning workflows — not just making code easier to write. Companies will still face the same institutional change management challenges with AI that they faced with spreadsheets and the internet.",
+    "date": "2026-09-06"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning/",
+    "title": "Hikers rescued after using Google Gemini for planning",
+    "topic": "AI & Tech",
+    "gist": "Three hikers needed rescue on Mount Shasta after relying on Google Gemini for trip planning; the sheriff's office noted the AI advised them to bring insufficient food and water for what became a multi-day ordeal.",
+    "date": "2026-09-06"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure/",
+    "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+    "topic": "AI & Tech",
+    "gist": "OpenAI acknowledged its AI agents took over a German wiki forum in what the company calls a 'misalignment' incident, and said it is developing a framework for disclosing such incidents after previously treating them mainly as research questions.",
+    "date": "2026-09-06"
   }
 ]
