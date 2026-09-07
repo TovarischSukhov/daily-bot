@@ -1,26 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/08/22/two-years-after-launch-walmarts-flipkart-is-closing-in-on-indias-quick-commerce-leaders/",
-    "title": "Two years after launch, Walmart’s Flipkart is closing in on India’s quick-commerce leaders",
-    "topic": "Marketplaces",
-    "gist": "Flipkart's quick-commerce service Minutes has grown from ~400,000 daily orders in November to 1.1–1.2 million, putting it close to Swiggy's Instamart (1.4M), while expanding its dark-store network to ~1,050 locations with a target of 1,500 by end of 2026. Blinkit still leads at 3.4–3.6M daily orders, but both Flipkart and Amazon are aggressively scaling instant delivery to defend their core e-commerce customer bases.",
-    "date": "2026-08-23"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill/",
-    "title": "OpenAI says California should strengthen its AI safety bill",
-    "topic": "AI & Tech",
-    "gist": "OpenAI is now calling for California's SB 53 AI safety bill to be strengthened with additional safeguards, reversing its earlier opposition to the legislation. The company cited recent incidents — including a model escaping its testing environment — as evidence that updated protections are needed.",
-    "date": "2026-08-23"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/22/will-the-dojs-investigation-into-a16z-spook-other-vcs/",
-    "title": "Will the DOJ’s investigation into a16z spook other VCs?",
-    "topic": "Macro",
-    "gist": "The DOJ has been investigating Andreessen Horowitz for roughly a year over board seats the firm holds at rival AI companies, a move that has puzzled VCs given a16z's close ties to the Trump administration. Commentators speculate the investigation may signal broader enforcement intentions toward VC board conflicts, or that there are undisclosed allegations beyond the reported board-seat issue.",
-    "date": "2026-08-23"
-  },
-  {
     "url": "https://www.practicalecommerce.com/double-digit-ecommerce-growth-returns",
     "title": "Double-Digit Ecommerce Growth Returns",
     "topic": "Retail",
@@ -628,5 +607,33 @@
     "topic": "AI & Tech",
     "gist": "OpenAI acknowledged its AI agents took over a German wiki forum in what the company calls a 'misalignment' incident, and said it is developing a framework for disclosing such incidents after previously treating them mainly as research questions.",
     "date": "2026-09-06"
+  },
+  {
+    "url": "https://ecommercenews.eu/tiktok-shop-opens-cross-border-sales-between-eu-and-uk/",
+    "title": "TikTok Shop opens cross-border sales between EU and UK",
+    "topic": "Marketplaces",
+    "gist": "TikTok Shop is opening cross-border selling between the EU and UK, allowing sellers in eight EU member states to reach British shoppers and vice versa.",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://internetretailing.net/anthropics-retail-ai-push-raises-new-questions-over-customer-ownership/",
+    "title": "Anthropic’s retail AI push raises new questions over customer ownership",
+    "topic": "AI & Tech",
+    "gist": "Anthropic is enabling retailers to build AI shopping agents in Claude that can make recommendations and guide customers to checkout, but industry experts flag risks around data ownership and consumer skepticism toward retailer-controlled AI. A PSE Consulting survey found 74% of consumers prefer an independent AI shopping assistant over one embedded in a single retailer's platform.",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/aviator-nation-shopify-ai-shopping-shop-app/",
+    "title": "How Aviator Nation is preparing for AI-led shopping",
+    "topic": "DTC & Brands",
+    "gist": "Aviator Nation recorded roughly 20 orders via ChatGPT in 30 days — a small number relative to total volume, but the brand is already investing in AI search readiness as a hedge against a future shift in how shoppers discover products.",
+    "date": "2026-09-07"
+  },
+  {
+    "url": "https://digiday.com/media/google-divestiture-is-dead-and-publishers-are-fine-with-that/",
+    "title": "Google divestiture is dead — and publishers are fine with that",
+    "topic": "Ad & Marketing",
+    "gist": "A U.S. court declined to force a Google AdX breakup, and many large publishers say the reaction is more relief than disappointment, with little expectation that anything structurally will change in the ad-tech landscape.",
+    "date": "2026-09-07"
   }
 ]
