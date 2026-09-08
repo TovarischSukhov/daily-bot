@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.practicalecommerce.com/double-digit-ecommerce-growth-returns",
-    "title": "Double-Digit Ecommerce Growth Returns",
-    "topic": "Retail",
-    "gist": "U.S. ecommerce hit $340.2B in Q2 2026, up 12.2% YoY — the second consecutive quarter of double-digit growth — with ecommerce's share of total retail rising to 17.1%. Growth was uneven across categories: general merchandise surged 21.6% while clothing grew only 3.8%.",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://www.glossy.co/beauty/how-boka-is-winning-amazon-with-a-beauty-marketing-playbook/",
-    "title": "How Boka is winning Amazon with a beauty marketing playbook",
-    "topic": "Marketplaces",
-    "gist": "Oral care brand Boka is differentiating on Amazon by borrowing the beauty marketing playbook — incorporating skincare ingredients like niacinamide and hyaluronic acid and positioning products with fragrance-style flavor descriptors rather than traditional dental messaging.",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://digiday.com/marketing/wtf-are-fandoms-and-why-are-marketers-chasing-them/",
-    "title": "WTF are fandoms, and why are marketers chasing them?",
-    "topic": "Ad & Marketing",
-    "gist": "Marketers are increasingly chasing 'fandoms' as a way to embed brands in culture rather than just advertise around it, with the term becoming a defined strategic concept in campaign planning and RFPs.",
-    "date": "2026-08-24"
-  },
-  {
-    "url": "https://digiday.com/media/the-iab-is-developing-a-framework-to-tackle-ai-advertising-measurement/",
-    "title": "The IAB is developing a framework to tackle AI advertising measurement",
-    "topic": "Ad & Marketing",
-    "gist": "The IAB is building a framework, due November 12, to address how to measure and attribute ad impressions served to AI agents rather than human users, as AI increasingly intermediates between publishers and consumers.",
-    "date": "2026-08-24"
-  },
-  {
     "url": "https://digiday.com/media/walmart-finally-starts-supporting-apple-pay-and-google-pay/",
     "title": "Walmart finally starts supporting Apple Pay and Google Pay",
     "topic": "Payments",
@@ -635,5 +607,61 @@
     "topic": "Ad & Marketing",
     "gist": "A U.S. court declined to force a Google AdX breakup, and many large publishers say the reaction is more relief than disappointment, with little expectation that anything structurally will change in the ad-tech landscape.",
     "date": "2026-09-07"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/09/asos-online-fashions-guidance/",
+    "title": "ASOS: online fashion’s next battleground is guidance, not choice",
+    "topic": "Retail",
+    "gist": "ASOS research finds 69% of consumers feel overwhelmed by fashion choice online, prompting the retailer to shift strategy toward curation, outfit-led shopping, AI styling tools, and virtual try-on as ways to reduce decision fatigue and build purchase confidence. Features like Buy The Look are reported to triple time spent on site.",
+    "date": "2026-09-08"
+  },
+  {
+    "url": "https://www.glossy.co/beauty/beauty-briefing-why-the-estee-lauder-companies-is-moving-some-of-its-biggest-brands-to-shopify/",
+    "title": "Beauty Briefing: Why the Estée Lauder Companies is moving some of its biggest brands to Shopify",
+    "topic": "Marketplaces",
+    "gist": "Estée Lauder Companies is migrating major brand e-commerce operations to Shopify, signaling a strategic decision to outsource platform infrastructure rather than maintain proprietary systems. Sephora is also moving to TikTok Shop in the same week.",
+    "date": "2026-09-08"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/how-11-retail-media-networks-are-trying-to-differentiate-themselves-to-advertisers/",
+    "title": "How 11 retail media networks are trying to differentiate themselves to advertisers",
+    "topic": "Ad & Marketing",
+    "gist": "Fifteen retail media networks pitched advertisers at the Ascendant Network Showcase in New York, with participants ranging from The Home Depot to PayPal and Albertsons, all competing for ad budgets by highlighting their first-party data and audience differentiation.",
+    "date": "2026-09-08"
+  },
+  {
+    "url": "https://internetretailing.net/retail-media-has-an-identity-crisis-as-networks-proliferate-how-do-they-differentiate/",
+    "title": "Retail media has an identity crisis: as networks proliferate, how do they differentiate?",
+    "topic": "Ad & Marketing",
+    "gist": "With over 140 retail media networks now operating in EMEA alone, most are converging on the same capabilities — first-party data, closed-loop measurement, onsite and offsite inventory — making meaningful differentiation increasingly rare, with only one in five respondents seeing clear differences between networks.",
+    "date": "2026-09-08"
+  },
+  {
+    "url": "https://digiday.com/media-buying/marketers-face-dilemma-around-rising-bot-and-ai-web-traffic/",
+    "title": "Marketers face dilemma around rising bot and AI web traffic",
+    "topic": "Ad & Marketing",
+    "gist": "Automated bots and AI agents now account for more than half of all web traffic according to Cloudflare, forcing marketers to rethink blanket blocking strategies; some DTC brands report AI-referred traffic converting significantly better than site averages, while others face growing bad-bot exposure.",
+    "date": "2026-09-08"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/preparing-your-platform-for-agentic-commerce-how-to-authenticate-ai-buying/829221/",
+    "title": "Preparing your platform for agentic commerce: How to authenticate AI buying agents vs. synthetic bots",
+    "topic": "AI & Tech",
+    "gist": "AI-driven traffic to US retail sites grew 4,700% year-over-year per Adobe Analytics, while bad bots also expanded to 43% of holiday traffic; the article argues that marketplaces need identity verification tied to a verified human behind agent requests, not just protocol-level authentication of the agent software itself.",
+    "date": "2026-09-08"
+  },
+  {
+    "url": "https://www.modernretail.co/retailers/why-brands-are-prepping-new-return-policies-for-q4/",
+    "title": "Why brands are prepping new return policies for Q4",
+    "topic": "Retail",
+    "gist": "Retailers are revising return policies ahead of Q4, with NRF and Happy Returns data showing merchants expect roughly 17% of holiday sales to be returned, making the peak season a critical window for policy experimentation.",
+    "date": "2026-09-08"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/09/superdry-cuts-delivery-costs-after-inpost-locker-switch/",
+    "title": "Superdry cuts delivery costs after InPost locker switch",
+    "topic": "Fulfillment & Ops",
+    "gist": "Superdry cut UK B2C delivery costs by up to 19% after adding InPost lockers at checkout, with lockers now handling 20% of deliveries and generating four times fewer customer care contacts and a 0.5% lost/damaged parcel rate versus 2.1% for home delivery.",
+    "date": "2026-09-08"
   }
 ]
