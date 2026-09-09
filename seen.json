@@ -1,68 +1,5 @@
 [
   {
-    "url": "https://digiday.com/media/walmart-finally-starts-supporting-apple-pay-and-google-pay/",
-    "title": "Walmart finally starts supporting Apple Pay and Google Pay",
-    "topic": "Payments",
-    "gist": "Walmart will begin accepting Apple Pay and Google Pay at select stores and Sam's Club locations starting August 24, with full U.S. rollout planned by end of 2026. The retailer had been one of the last major holdouts against contactless payment methods.",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://digiday.com/marketing/in-graphic-detail-how-ai-search-has-impacted-the-web-traffic-of-over-50-advertisers/",
-    "title": "In Graphic Detail: How AI search has impacted the web traffic of over 50 advertisers",
-    "topic": "Ad & Marketing",
-    "gist": "Google's AI Overviews have cut organic web traffic by over 10% on average across 54 clients of marketing agency Brainlabs, with some DTC and considered-purchase brands seeing drops as high as 58%. The impact is uneven, hitting direct-to-consumer and high-consideration product categories hardest.",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/why-more-celebrity-led-brands-are-shutting-down/",
-    "title": "Why more celebrity-led brands are shutting down",
-    "topic": "DTC & Brands",
-    "gist": "Several high-profile celebrity-led consumer brands — including Lionel Messi's Mas+, Alex Cooper's Unwell, Kim Kardashian's Skkn, and Gwen Stefani's Gxve Beauty — have shut down in recent years despite their founders' massive audiences. The closures reflect a growing gap between initial awareness driven by celebrity and the product-market fit and operational discipline needed for sustained retail performance.",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/brands-face-death-by-a-thousand-cuts-as-supply-chain-pressures-and-material-costs-eat-into-profit-margins/",
-    "title": "Brands face death by a ‘thousand cuts’ as supply chain pressures and material costs eat into profit margins",
-    "topic": "Retail",
-    "gist": "Brand leaders across fashion, beauty, home, and CPG described retail margins being eroded incrementally by third-party fees, tariffs, and rising operating costs at a recent industry dinner. The consensus framing was that running a brand today is a 'battle of inches' with pressure coming from every direction simultaneously.",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://www.glossy.co/beauty/wellness/curology-walmart-prescription-skincare-conversion/",
-    "title": "Curology says Walmart shoppers convert to prescription skin care at 5x its online rate",
-    "topic": "DTC & Brands",
-    "gist": "Curology reports that customers who discover its prescription skin-care service through its Walmart Prescription Acne Kit convert to a full medical consultation at five times the rate of its online funnel, with minimal overlap with its existing subscriber base. The brand deliberately placed the kits in 'dermatologist desert' areas across 49 states.",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/retail-brands-are-facing-death-by-a-thousand-cuts-as-supply-chain-pressures-and-material-costs-eat-into-profit-margins/",
-    "title": "Brands face death by a ‘thousand cuts’ as supply chain pressures and material costs eat into profit margins",
-    "topic": "Retail",
-    "gist": "Brand leaders across fashion, beauty, home, and CPG described retail margins being eroded incrementally by third-party fees, tariffs, and rising operating costs at a recent industry dinner. The consensus framing was that running a brand today is a 'battle of inches' with pressure coming from every direction simultaneously.",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://www.retaildive.com/news/walmart-expands-30-minutes-or-less-delivery/828570/",
-    "title": "Walmart expands 30-minutes-or-less delivery as speed woos shoppers",
-    "topic": "Fulfillment & Ops",
-    "gist": "Walmart has expanded its 30-minutes-or-less delivery to 38 U.S. markets, with store-fulfilled deliveries growing over 40% in Q2 and fast-delivery GMV up 48% year over year. CEO John Furner noted that customers using fast delivery shop more frequently and are more likely to become Walmart+ members.",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://ecommercenews.eu/southern-europeans-lead-in-chinese-platform-use/",
-    "title": "Southern Europeans lead in Chinese platform use",
-    "topic": "Marketplaces",
-    "gist": "Southern European shoppers use Chinese e-commerce platforms like AliExpress, Shein, and Temu at above-average rates compared to other European regions, driven by low prices and wide product selection, according to European Central Bank research.",
-    "date": "2026-08-25"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/why-more-companies-are-investing-in-same-day-shipping/",
-    "title": "Why more companies are investing in same-day shipping",
-    "topic": "Fulfillment & Ops",
-    "gist": "Walmart, Target, The Home Depot, and Amazon all announced expansions of same-day or sub-three-hour delivery options following their Q2 earnings calls. The Home Depot launched an Express Delivery service promising delivery in three hours or less from its network of 2,000+ stores.",
-    "date": "2026-08-25"
-  },
-  {
     "url": "https://www.retaildive.com/news/burlington-tariff-refunds-cut-prices-q2-earnings/828916/",
     "title": "Burlington CEO calls using tariff refunds to cut prices ‘the right thing to do’",
     "topic": "Retail",
@@ -663,5 +600,61 @@
     "topic": "Fulfillment & Ops",
     "gist": "Superdry cut UK B2C delivery costs by up to 19% after adding InPost lockers at checkout, with lockers now handling 20% of deliveries and generating four times fewer customer care contacts and a 0.5% lost/damaged parcel rate versus 2.1% for home delivery.",
     "date": "2026-09-08"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/09/zara-owner-inditex-sales-jump-9-despite-european-heatwaves/",
+    "title": "Zara owner Inditex sales jump 9% despite European heatwaves",
+    "topic": "Retail",
+    "gist": "Inditex reported 9% sales growth at constant exchange rates in the August–September period despite European heatwaves disrupting autumn/winter demand, while also beating Q2 expectations with £9.5bn in sales and expanding its value fascia Lefties into the UK.",
+    "date": "2026-09-09"
+  },
+  {
+    "url": "https://www.retaildive.com/news/holiday-spending-forecast-to-top-1-trillion/829792/",
+    "title": "Holiday spending forecast to top $1 trillion",
+    "topic": "Consumer Trends",
+    "gist": "Bain & Company forecasts U.S. holiday retail sales will exceed $1 trillion for the first time, with online sales expected to rise 9% year over year, while 24% of consumers plan to start their holiday shopping journey using AI platforms — up from 17% last year.",
+    "date": "2026-09-09"
+  },
+  {
+    "url": "https://internetretailing.net/retail-media-has-entered-its-next-phase-now-comes-the-hard-part/",
+    "title": "Retail media has entered its next phase – now comes the hard part",
+    "topic": "Ad & Marketing",
+    "gist": "Retail media is moving past its initial growth phase, with advertisers now demanding clearer performance measurement, consistent standards, and scalable commercial models, as IAB Europe's upcoming Summit frames the industry's next challenge as proving lasting value.",
+    "date": "2026-09-09"
+  },
+  {
+    "url": "https://internetretailing.net/guest-comment-the-product-page-is-becoming-the-new-homepage/",
+    "title": "GUEST COMMENT The product page is becoming the new homepage",
+    "topic": "Retail",
+    "gist": "Data shows that over half of AI-referred shopping sessions now land directly on product pages, not homepages, pushing brands to rethink product page design for both conversion and AI discoverability — with structured, specific content increasingly determining which products get recommended.",
+    "date": "2026-09-09"
+  },
+  {
+    "url": "https://internetretailing.net/guest-comment-from-prompts-to-purchases-what-llm-advertising-push-means-for-brands/",
+    "title": "GUEST COMMENT From prompts to purchases: what LLM advertising push means for brands",
+    "topic": "Ad & Marketing",
+    "gist": "OpenAI's move into advertising within LLMs introduces a new layer where brands can reach shoppers at the intent-formation stage, but retailers retain an advantage because they hold actual purchase behavior data that AI assistants cannot observe.",
+    "date": "2026-09-09"
+  },
+  {
+    "url": "https://internetretailing.net/new-data-shows-the-rise-of-on-demand-retail-across-europe/",
+    "title": "New data shows the rise of on-demand retail across Europe",
+    "topic": "Fulfillment & Ops",
+    "gist": "Wolt's first Retail Report shows retail now accounts for over 25% of its global sales, with grocery basket values growing 46% in 2025 and 32% of European consumers expecting delivery in under two hours, signaling that rapid delivery is becoming a routine shopping channel rather than a convenience add-on.",
+    "date": "2026-09-09"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/brands-briefing-instagram-dms-are-proving-to-be-a-gold-mine-for-product-development/",
+    "title": "Brands Briefing: Instagram DMs are proving to be a gold mine for product development",
+    "topic": "DTC & Brands",
+    "gist": "Made In cookware's CMO describes Instagram DMs as a primary source of unfiltered, real-time consumer feedback, using the channel daily to track product questions, complaints, and sentiment before broader market signals surface.",
+    "date": "2026-09-09"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
+    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+    "topic": "AI & Tech",
+    "gist": "Meta launched Muse, an agentic AI assistant that connects to users' apps and services to handle tasks including purchases via Stripe, with Shopify Shop Pay integration coming soon — but its history of privacy violations raises significant consumer trust questions.",
+    "date": "2026-09-09"
   }
 ]
