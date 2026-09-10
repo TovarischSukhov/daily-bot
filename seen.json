@@ -656,5 +656,61 @@
     "topic": "AI & Tech",
     "gist": "Meta launched Muse, an agentic AI assistant that connects to users' apps and services to handle tasks including purchases via Stripe, with Shopify Shop Pay integration coming soon — but its history of privacy violations raises significant consumer trust questions.",
     "date": "2026-09-09"
+  },
+  {
+    "url": "https://internetretailing.net/primark-to-launch-online-delivery-in-uk/",
+    "title": "Primark to launch online delivery in UK",
+    "topic": "Retail",
+    "gist": "Primark is reversing its long-held no-delivery stance and will launch home delivery in the UK, backed by a £90 million acquisition of an automated fulfilment centre in Sheffield. The move is driven by intensifying competition from Shein, Temu, and TikTok Shop, though profitability at Primark's price points remains an open question.",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://www.modernretail.co/technology/instacart-launches-custom-ai-assistants-for-retailers-and-its-own/",
+    "title": "Instacart launches custom AI assistants for retailers, and its own",
+    "topic": "Retail",
+    "gist": "Instacart has launched Cart Assistant, a white-label AI shopping assistant that regional grocers can deploy on their own websites and apps, enabling conversational shopping, deal-finding, and cart-building from a photo. Separately, Instacart launched Clementine, its own AI grocery assistant available on its marketplace in the US and Canada.",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://digiday.com/marketing/instacart-launches-custom-ai-assistants-for-retailers/",
+    "title": "Instacart launches custom AI assistants for retailers",
+    "topic": "Retail",
+    "gist": "Instacart launched Cart Assistant, a white-label AI shopping assistant for retailers to embed in their own websites and apps, as part of its broader enterprise services offering. The tool enables conversational shopping experiences similar to those built in-house by Walmart, Kroger, and Amazon.",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
+    "title": "Shopify acquires Tailwind",
+    "topic": "Marketplaces",
+    "gist": "Shopify has acquired Tailwind CSS, the widely-used open-source UI framework installed over 110 million times per week, with the team and projects remaining open-source under MIT license. The acquisition gives Shopify in-house ownership of a core part of its frontend stack and aligns with its push into agentic commerce and custom storefronts.",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://www.retaildive.com/news/retailers-AI-supply-chain-smart-shopping/829609/",
+    "title": "Retailers bet on AI for supply chain, ‘smart’ shopping",
+    "topic": "Retail",
+    "gist": "Major US retailers including Gap, Dollar General, Ulta Beauty, and Kohl's are ramping up AI deployments across supply chain optimization, personalized search and discovery, and AI shopping assistants, with early results showing improved conversion and revenue per visit at Kohl's. Analysts note most retailers are targeting specific problems rather than full AI transformation.",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://digiday.com/media-buying/ad-spend-forecasts-revised-upward-as-more-ad-dollars-are-handled-by-ai-tools/",
+    "title": "Ad spend forecasts revised upward as more ad dollars are handled by AI tools",
+    "topic": "Ad & Marketing",
+    "gist": "The IAB has revised its 2025 US ad spend growth forecast upward to 12.3%, from a prior estimate of 9.5%, citing strong live-event spending and the growing use of AI-powered campaign tools like Meta's Advantage+ and Google's Performance Max. An increasing share of ad budgets is being allocated through automated or AI-managed campaign types.",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/aerie-soars-in-back-to-school-sales-while-american-eagle-works-to-balance-denim/",
+    "title": "Aerie soars in back-to-school sales, while American Eagle works to ‘balance’ denim",
+    "topic": "DTC & Brands",
+    "gist": "AEO Inc. reported Q2 net revenue of $1.38 billion, up 8% year-over-year, driven by a 19% comp sales jump at Aerie while American Eagle saw a 1% comp sales decline as it works to rebalance its denim assortment. The company also reported a $196 million tariff refund including interest.",
+    "date": "2026-09-10"
+  },
+  {
+    "url": "https://internetretailing.net/more-cards-not-more-loyalty-brits-belong-to-12-schemes-on-average/",
+    "title": "More cards, not more loyalty? Brits belong to 12 schemes on average",
+    "topic": "Retail",
+    "gist": "Research from American Express shows 90% of UK adults belong to at least one loyalty scheme, with the average Brit signed up to 12, and an estimated £4.43 billion in rewards redeemed over the past year. Despite widespread adoption, evidence that loyalty schemes actually drive brand loyalty is weak, with consumers splitting spending across multiple programs.",
+    "date": "2026-09-10"
   }
 ]
