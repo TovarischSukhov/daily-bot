@@ -1,54 +1,5 @@
 [
   {
-    "url": "https://www.retaildive.com/news/burlington-tariff-refunds-cut-prices-q2-earnings/828916/",
-    "title": "Burlington CEO calls using tariff refunds to cut prices ‘the right thing to do’",
-    "topic": "Retail",
-    "gist": "Burlington is passing its full $55M Q2 tariff refund to customers as lower prices, citing affordability pressures on moderate- and lower-income households, even as analysts warn this is essentially a promotion that may not lift weak comp sales.",
-    "date": "2026-08-27"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/big-box-briefing-retailers-get-direct-tariff-relief-their-shoppers-likely-wont/",
-    "title": "Big-Box Briefing: Retailers get direct tariff relief. Their shoppers likely won’t",
-    "topic": "Retail",
-    "gist": "Major retailers are receiving tariff refunds following a Supreme Court ruling that IEEPA-based tariffs were illegal, but most of that relief is expected to flow to corporate balance sheets rather than directly to price-sensitive consumers.",
-    "date": "2026-08-27"
-  },
-  {
-    "url": "https://www.retaildive.com/news/bath-body-works-e-commerce-returns-growth/828882/",
-    "title": "Bath & Body Works e-commerce returns to growth",
-    "topic": "Retail",
-    "gist": "Bath & Body Works reported a return to digital sales growth in Q2 after stagnation since 2021, driven by roughly 10% conversion rate improvements among new shoppers and ongoing tech and engagement investments.",
-    "date": "2026-08-27"
-  },
-  {
-    "url": "https://www.retaildive.com/news/ftc-personalized-surveillance-pricing-what-it-means-CX/828626/",
-    "title": "The FTC is turning its sights on personalized pricing. What does it mean for customers?",
-    "topic": "Retail",
-    "gist": "The FTC is seeking public comment on personalized pricing — charging consumers different prices based on personal data — and has signaled that failing to disclose such practices may violate Section 5 of the FTC Act, as over two dozen states also advance surveillance pricing legislation.",
-    "date": "2026-08-27"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/hollister-target-new-customers-home-expansion/",
-    "title": "Hollister is acquiring new customers through Target as it looks beyond apparel",
-    "topic": "DTC & Brands",
-    "gist": "Hollister launched a dorm collection in over 1,500 Target stores this summer, with parent company Abercrombie & Fitch reporting the wholesale partnership performed well and reached new consumers, prompting exploration of further expansion beyond apparel.",
-    "date": "2026-08-27"
-  },
-  {
-    "url": "https://www.retaildive.com/news/consumer-confidence-wanes-dimming-view-jobs-incomes-business-inflation-Iran-war/828857/",
-    "title": "Consumer confidence wanes on dimming view of jobs, incomes, business",
-    "topic": "Consumer Trends",
-    "gist": "Consumer confidence fell for the second consecutive month in August, with growing pessimism about jobs, income, and business conditions, particularly among households earning under $75,000, while 54% of U.S. households saved no money last month.",
-    "date": "2026-08-27"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/08/strait-hormuz-functional/",
-    "title": "Trump has declared the Strait of Hormuz ‘functional’. But what changes do suppliers need to trust the shipping route again?",
-    "topic": "Fulfillment & Ops",
-    "gist": "Despite Trump declaring the Strait of Hormuz 'functional,' shipping traffic remains at roughly 10 vessels per day versus a pre-war average of 130+, with insurers, shipowners, and cargo operators unwilling to return without sustained, verifiable safety — not just political statements.",
-    "date": "2026-08-27"
-  },
-  {
     "url": "https://www.retaildive.com/news/nike-chief-commercial-officer-jane-ewing-dtc-wholesale-growth/829079/",
     "title": "Nike names Walmart vet as commercial chief, months after cutting role",
     "topic": "Retail",
@@ -712,5 +663,68 @@
     "topic": "Retail",
     "gist": "Research from American Express shows 90% of UK adults belong to at least one loyalty scheme, with the average Brit signed up to 12, and an estimated £4.43 billion in rewards redeemed over the past year. Despite widespread adoption, evidence that loyalty schemes actually drive brand loyalty is weak, with consumers splitting spending across multiple programs.",
     "date": "2026-09-10"
+  },
+  {
+    "url": "https://www.retaildive.com/news/ecommerce-growth-outpaces-holiday-retail-sales-ai-shopping/830034/",
+    "title": "E-commerce to outpace overall holiday sales growth as shoppers lean on AI",
+    "topic": "Consumer Trends",
+    "gist": "Deloitte forecasts e-commerce to grow 7.5–8.4% YoY this holiday season (Nov 2026–Jan 2027) to up to $318.9B, outpacing overall retail growth of 4–4.8%. AI tools are becoming a significant part of the discovery phase, with 24% of shoppers planning to start their search via AI, up 17% from last year.",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://internetretailing.net/nine-out-of-10-returned-items-lose-value-for-retailers-research-shows/",
+    "title": "Nine out of 10 returned items lose value for retailers, research shows",
+    "topic": "Fulfillment & Ops",
+    "gist": "Research from ReBound Returns and ASC found that 90% of returned items lose value for retailers, with only 9% of retailers able to resell more than half of returns at full price. Despite widespread use of circularity practices, converting returned inventory into meaningful revenue remains a largely unsolved operational challenge.",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/10/amazon-makes-it-easier-to-buy-what-you-see-on-prime-video/",
+    "title": "Amazon makes it easier to buy what you see on Prime Video",
+    "topic": "Marketplaces",
+    "gist": "Amazon is expanding its shoppable TV features, enabling customers to browse and buy products through Prime Video via the X-Ray experience on Fire TV and the Amazon Shopping app, including a new 'Shop the Scene' visual search feature covering 600+ titles. The 'Shop the Show' storefront is expanding from 1,300 to over 8,000 titles in the U.S.",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://internetretailing.net/idealo-enhances-its-retail-media-offering-to-tap-into-consumers-in-product-comparision-mode/",
+    "title": "idealo enhances its retail media offering to tap into consumers in ‘product comparision mode’",
+    "topic": "Ad & Marketing",
+    "gist": "Price comparison platform idealo is revamping its retail media offering around 'Decision Media' — targeting consumers who are actively comparing products but haven't yet made a final choice — while expanding into Ireland and Switzerland in 2027. Early campaigns in Germany showed viewable click-through rates above 6%, versus an industry benchmark of 0.5–1%.",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://digiday.com/media-buying/amazon-brings-its-dsp-to-openais-chatgpt-ads-extending-its-supply-chasing-streak/",
+    "title": "Amazon Ads brings advertisers to ChatGPT, extending its supply-chasing streak",
+    "topic": "Ad & Marketing",
+    "gist": "Amazon Ads has launched a pilot allowing select U.S. advertisers to buy ads within the ChatGPT app via Amazon DSP, with Delta Vacations among the first named partners. This continues Amazon's 18-month push to expand its ad inventory into premium third-party platforms including Netflix, Roku, Spotify, and Disney.",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/reformation-says-active-customers-grew-23-in-first-public-earnings-report/",
+    "title": "Reformation says active customers grew 23% in first public earnings report",
+    "topic": "DTC & Brands",
+    "gist": "Reformation reported 24% net revenue growth to $155.2M in Q2 and 23% growth in active customers, with 70% of 2025 revenue coming from repeat customers. The brand's first public earnings call emphasized its DTC flywheel and customer retention as core to its investment thesis.",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://www.retaildive.com/news/macys-invests-tariff-refunds-turnaround-Q2-earnings-sales-growth/830009/",
+    "title": "Macy’s plows tariff refunds into its rebound",
+    "topic": "Retail",
+    "gist": "Macy's Inc. posted Q2 net sales of $4.9B (up 1.1% YoY) with gross margin expanding 180 basis points to 41.5%, partly due to $116M in tariff refunds. Rather than cutting prices broadly, the company is reinvesting most of the refunds into store remodels and brand-building, extending a six-quarter streak of better-than-expected results.",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://www.retaildive.com/news/bloomingdales-sales-volume-record-takes-saks-market-share/830022/",
+    "title": "Saks who? Bloomingdale’s hits sales volume record",
+    "topic": "Retail",
+    "gist": "Bloomingdale's posted its best-ever Q2 sales volume with 11%+ comparable sales growth, gaining share partly from Saks/Neiman Marcus's ongoing struggles while also executing on its own assortment upgrades, in-store events, and a newly launched AI-powered conversational shopping assistant. Sales of owned plus licensed goods reached $922M.",
+    "date": "2026-09-11"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/big-box-briefing-dicks-leans-on-youth-sports-in-pitch-to-advertisers/",
+    "title": "Big-Box Briefing: Dick’s leans on youth sports in pitch to advertisers",
+    "topic": "Ad & Marketing",
+    "gist": "Dick's Sporting Goods' advertising division is pitching CPG brands, QSR chains, and automakers on its retail media network, built around an audience of 70 million consumers across its brands and youth sports streaming app GameChanger. The pitch centers on capturing families engaged in youth sports as a distinct and valuable advertising context.",
+    "date": "2026-09-11"
   }
 ]
