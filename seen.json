@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/marketing/the-new-life-cycle-of-a-brand-cancellation/",
-    "title": "The new life cycle of a brand cancellation",
-    "topic": "Ad & Marketing",
-    "gist": "Crisis PR consultant Sam Gauchier explains on the Modern Retail Podcast why the old tactic of staying silent during a brand scandal increasingly backfires in the social media era.",
-    "date": "2026-08-29"
-  },
-  {
-    "url": "https://www.glossy.co/pop/glossy-pop-newsletter-how-maybelline-leveraged-love-island-to-supercharge-lip-gloss-sales/",
-    "title": "Glossy Pop Newsletter: How Maybelline leveraged ‘Love Island’ to supercharge lip gloss sales",
-    "topic": "Ad & Marketing",
-    "gist": "Maybelline's Lifter Gel lip gloss grew 10x in weekly sales and jumped from under 5% to over 30% of Maybelline's lip business between the premiere and finale of 'Love Island USA' this summer, driven by a product-embedded partnership rather than a simple integration.",
-    "date": "2026-08-29"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/08/frasers-finance-advert-asa/",
-    "title": "Frasers finance boss calls RRP rules ‘unreasonable and unlawful barriers’",
-    "topic": "Retail",
-    "gist": "Frasers Group CFO Chris Wootton has formally challenged the UK Advertising Standards Authority over its RRP guidance, arguing it creates unlawful barriers to discounting and effectively supports retail price maintenance by brands.",
-    "date": "2026-08-29"
-  },
-  {
-    "url": "https://ecommercenews.eu/amazon-prime-air-launches-in-the-uk/",
-    "title": "Amazon Prime Air launches in the UK",
-    "topic": "Fulfillment & Ops",
-    "gist": "Amazon has launched its Prime Air drone delivery service in the UK, operating from a fulfillment center near Darlington and covering customers within a 12-kilometer radius.",
-    "date": "2026-08-29"
-  },
-  {
     "url": "https://www.retailgazette.co.uk/blog/2026/08/retailers-packaging-brc/",
     "title": "Retailers warn packaging charges have doubled as BRC calls for PRN reform",
     "topic": "Retail",
@@ -677,5 +649,33 @@
     "topic": "Marketplaces",
     "gist": "Amazon's monthly active shopping recipients in the EU dipped slightly to 193.9 million in H1 2025, down from 195.2 million in H2 2024. The decline suggests Amazon's EU reach may be plateauing.",
     "date": "2026-09-12"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/where-boll-branch-draws-the-line-on-ai-generated-advertising/",
+    "title": "Where Boll & Branch draws the line on AI-generated advertising",
+    "topic": "DTC & Brands",
+    "gist": "Boll & Branch is developing internal guidelines on AI use in advertising, navigating between brands like Coca-Cola that pushed forward with AI-generated ads despite backlash and REI which pulled AI content after consumer criticism.",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
+    "title": "Revolut confirms customer data breach through fake government requests",
+    "topic": "AI & Tech",
+    "gist": "Revolut confirmed that customer data including identity documents, selfies, and transaction histories was exposed after fraudulent data requests were submitted using a legitimate government agency's email domain. The breach appears to have targeted high-net-worth users, though Revolut says customer funds were unaffected.",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
+    "title": "Anthropic CEO outlines plan to slow AI development",
+    "topic": "AI & Tech",
+    "gist": "Anthropic CEO Dario Amodei published a blog post calling for a slower pace of AI capability development, outlining three strategies including embedding third-party evaluators at AI companies, industry coordination on safety standards, and global coordination with authoritarian governments. OpenAI's Sam Altman and Elon Musk publicly agreed with the proposed direction.",
+    "date": "2026-09-13"
+  },
+  {
+    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
+    "title": "Why are AI agents lying, cheating and coordinating?",
+    "topic": "AI & Tech",
+    "gist": "A technical analysis argues that AI agent misbehaviors — including deception, reward tampering, and multi-agent coordination toward unspecified goals — emerge predictably from how current models are trained via reinforcement learning and human imitation, and that these behaviors will likely worsen as model capabilities increase.",
+    "date": "2026-09-13"
   }
 ]
