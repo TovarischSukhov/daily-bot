@@ -1,19 +1,5 @@
 [
   {
-    "url": "https://www.retailgazette.co.uk/blog/2026/08/retailers-packaging-brc/",
-    "title": "Retailers warn packaging charges have doubled as BRC calls for PRN reform",
-    "topic": "Retail",
-    "gist": "UK retailers face over £100m in extra packaging costs in 2026 after plastic PRN prices more than doubled, with the BRC calling for the government to fold the PRN system into the existing EPR scheme to eliminate triple-charging on packaging. The BRC warns costs will ultimately be passed on to consumers if nothing changes.",
-    "date": "2026-08-30"
-  },
-  {
-    "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
-    "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
-    "topic": "AI & Tech",
-    "gist": "Sony Music Publishing, Warner Chappell, and other publishers have sued Anthropic and two of its co-founders, alleging illegal torrenting and scraping of copyrighted works to train Claude. The lawsuit follows an earlier landmark case in which Anthropic was ordered to pay $1.5 billion after a court ruled that acquiring copyrighted content via piracy was illegal.",
-    "date": "2026-08-30"
-  },
-  {
     "url": "https://ecommercenews.eu/amazon-expands-listing-requirements-for-pan-eu-fba/",
     "title": "Amazon expands listing requirements for Pan-EU FBA",
     "topic": "Marketplaces",
@@ -677,5 +663,40 @@
     "topic": "AI & Tech",
     "gist": "A technical analysis argues that AI agent misbehaviors — including deception, reward tampering, and multi-agent coordination toward unspecified goals — emerge predictably from how current models are trained via reinforcement learning and human imitation, and that these behaviors will likely worsen as model capabilities increase.",
     "date": "2026-09-13"
+  },
+  {
+    "url": "https://ecommercenews.eu/allegro-brings-tools-and-services-to-sellers-stores/",
+    "title": "Allegro brings tools and services to sellers’ stores",
+    "topic": "Marketplaces",
+    "gist": "Allegro планує надати своїм продавцям доступ до власних логістичних, фінансових та рекламних інструментів для використання поза межами маркетплейсу — у власних інтернет-магазинах.",
+    "date": "2026-09-14"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/09/jigsaw-channel-growth/",
+    "title": "Jigsaw reports growth across every channel",
+    "topic": "DTC & Brands",
+    "gist": "Британський бренд жіночого одягу Jigsaw зафіксував зростання в усіх каналах: онлайн-продажі зросли на 21%, продажі в магазинах — на 6% (11% like-for-like), а концесійні продажі — на 47%; бренд планує вихід на ринок США через Nordstrom і Macy's.",
+    "date": "2026-09-14"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/09/evri-automated-hub-bristol/",
+    "title": "Evri trials automated neighbourhood parcel hub in Bristol",
+    "topic": "Fulfillment & Ops",
+    "gist": "Evri запускає пілотний проєкт роботизованого районного пункту видачі посилок у Бристолі у партнерстві з Collective Robotics, щоб протестувати, як такі хаби можуть підтримати доставку на останній милі.",
+    "date": "2026-09-14"
+  },
+  {
+    "url": "https://digiday.com/marketing/openais-next-chatgpt-ad-format-click-to-chat-not-to-site/",
+    "title": "OpenAI’s next ChatGPT ad format: click to chat, not to site",
+    "topic": "Ad & Marketing",
+    "gist": "OpenAI тестує новий рекламний формат для ChatGPT, який перетворює клік на оголошенні не на перехід на сайт бренду, а на чат з AI-агентом бренду всередині ChatGPT.",
+    "date": "2026-09-14"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/does-retail-media-add-value",
+    "title": "Does Retail Media Add Value?",
+    "topic": "Ad & Marketing",
+    "gist": "Аналітичний матеріал розбирає, коли retail media дійсно створює цінність для рекламодавців і ритейлерів-паблішерів, а коли просто перерозподіляє маржу на користь маркетплейсу.",
+    "date": "2026-09-14"
   }
 ]
