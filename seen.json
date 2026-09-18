@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://internetretailing.net/jd-sports-uncovers-multi-million-pound-growth-opportunity-from-personalised-offers/",
-    "title": "JD Sports uncovers multi-million-pound growth opportunity from personalised offers",
-    "topic": "Retail",
-    "gist": "JD Sports ran structured personalisation trials with HyperFinity and found that relevance outperforms discount size, especially for high spenders — identifying a multi-million-pound loyalty sales opportunity in year one of scaling the programme.",
-    "date": "2026-09-03"
-  },
-  {
-    "url": "https://www.retaildive.com/news/sephora-pilot-tiktok-shop-experience/829420/",
-    "title": "Sephora to pilot TikTok Shop experience",
-    "topic": "Marketplaces",
-    "gist": "Sephora is launching on TikTok Shop in the US from September 19 with an exclusive monthly product drop format called Drop Shop, using TikTok Live reveals and creator content, in a test-and-learn approach to social commerce.",
-    "date": "2026-09-03"
-  },
-  {
-    "url": "https://www.retaildive.com/news/williams-sonoma-ai-assistants-drive-customer-engagement-conversions/829051/",
-    "title": "Williams-Sonoma AI assistants drive customer engagement — and conversions",
-    "topic": "Retail",
-    "gist": "Williams-Sonoma's AI shopping assistants Olive and Otto are delivering measurable results — Olive users convert at 3x the rate of non-users, and personalised visits now generate roughly 9x the revenue of average visits, up from 2x a year ago.",
-    "date": "2026-09-03"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/02/google-spared-from-ad-business-breakup-but-judge-orders-changes-to-how-it-operates/",
-    "title": "Google spared from ad-business breakup, but judge orders changes to how it operates",
-    "topic": "Ad & Marketing",
-    "gist": "A federal judge ruled that Google does not have to break up or sell its ad-tech business, instead ordering changes to its business practices, though specifics remain under seal.",
-    "date": "2026-09-03"
-  },
-  {
-    "url": "https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case/",
-    "title": "US court rules Google will not have to sell ad exchange after losing antitrust case",
-    "topic": "Ad & Marketing",
-    "gist": "A US federal judge declined to force Google to sell its ad exchange (AdX) despite Google having lost the underlying antitrust case, limiting the practical remedies to behavioural changes rather than structural divestiture.",
-    "date": "2026-09-03"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/02/uber-is-laying-off-10-of-staff-or-3300-people/",
-    "title": "Uber is laying off 10% of staff, or 3,300 people",
-    "topic": "Macro",
-    "gist": "Uber is cutting roughly 3,300 employees (10% of global headcount), reducing management layers by 20%, and consolidating its engineering, delivery, and restaurant/retail divisions.",
-    "date": "2026-09-03"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/fashion-briefing-the-canada-us-trade-war-is-creating-a-less-integrated-north-american-fashion-market/",
-    "title": "Fashion Briefing: The Canada-US trade war is creating a ‘less integrated North American fashion market’",
-    "topic": "Retail",
-    "gist": "The US-Canada trade war has escalated to a 50% US tariff on ~$30B of Canadian goods including apparel, with Canada promising dollar-for-dollar counter-tariffs, pushing North American fashion sourcing and retail toward a less integrated market.",
-    "date": "2026-09-03"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/02/delivery-hero-board-backs-ubers-15b-takeover-bid/",
-    "title": "Delivery Hero board backs Uber’s $15B takeover bid",
-    "topic": "Fulfillment & Ops",
-    "gist": "Delivery Hero's board has recommended shareholders accept Uber's $15 billion takeover bid, a deal that would make Uber's delivery platform one of the largest globally outside China.",
-    "date": "2026-09-03"
-  },
-  {
     "url": "https://internetretailing.net/august-failed-to-deliver-for-the-retail-sector-new-data-shows/",
     "title": "August failed to deliver for the retail sector, new data shows",
     "topic": "Retail",
@@ -698,5 +642,47 @@
     "topic": "Marketplaces",
     "gist": "Walmart is expanding its Scintilla merchant data platform in 2026 to include marketplace seller data, customizable dashboards, custom alerts, and a deeper AI agent (Marty), with tighter integration into its replenishment systems. The move signals Walmart's intent to give both suppliers and marketplace sellers unified, real-time visibility into demand and operations.",
     "date": "2026-09-17"
+  },
+  {
+    "url": "https://ecommercenews.eu/google-removes-product-carousels-in-europe/",
+    "title": "Google removes product carousels in  Europe",
+    "topic": "Ad & Marketing",
+    "gist": "Google has nearly eliminated product carousels from shopping-related search results across the EEA, abruptly removing a major source of organic visibility for online retailers.",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://internetretailing.net/retail-rebounds-in-august-but-the-autumn-budget-could-prove-make-or-break/",
+    "title": "Retail rebounds in August but the Autumn Budget could prove make or break",
+    "topic": "Retail",
+    "gist": "UK retail sales volumes rose 0.5% in August, driven by online, food, and clothing, but analysts warn the rebound is fragile and the upcoming Autumn Budget could determine whether momentum holds through the Golden Quarter.",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/09/uk-retail-sales-rebound-0-5-cent-in-august/",
+    "title": "UK retail sales rebound 0.5% cent in August",
+    "topic": "Retail",
+    "gist": "UK retail sales volumes rebounded 0.5% in August, reversing July's decline, but analysts caution that inflation, rising operating costs, and household budget pressure make the outlook for autumn trading uncertain.",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/09/consumer-confidence-edges-up-ahead-of-crucial-golden-quarter/",
+    "title": "Consumer confidence edges up ahead of crucial golden quarter",
+    "topic": "Consumer Trends",
+    "gist": "KPMG UK's Consumer Pulse shows 56% of UK consumers feel financially secure, up slightly quarter-on-quarter, but 55% still believe the economy is worsening and 42% plan no big-ticket purchases in the next three months.",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://www.retaildive.com/news/toys-r-us-accelerates-store-openings-holidays/830637/",
+    "title": "Toys R Us accelerates store openings in time for the holidays",
+    "topic": "Retail",
+    "gist": "Toys R Us is opening 120 new stand-alone U.S. stores this holiday season in partnership with Go Retail Group, bringing its total footprint to 160 locations, with some featuring influencer content studios, candy shops, and cafes.",
+    "date": "2026-09-18"
+  },
+  {
+    "url": "https://www.retaildive.com/news/amazon-boosts-minimum-hourly-starting-wage/830661/",
+    "title": "Amazon boosts minimum hourly starting wage to $20",
+    "topic": "Fulfillment & Ops",
+    "gist": "Amazon is raising its minimum starting wage to $20/hour for operations employees and adding banking and grocery benefits, as it navigates a consumer environment where inflation is beginning to outpace wage growth.",
+    "date": "2026-09-18"
   }
 ]
