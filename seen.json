@@ -1,75 +1,5 @@
 [
   {
-    "url": "https://internetretailing.net/august-failed-to-deliver-for-the-retail-sector-new-data-shows/",
-    "title": "August failed to deliver for the retail sector, new data shows",
-    "topic": "Retail",
-    "gist": "UK retail total sales grew just 2.2% in August, below inflation and below last year's 2.3% growth, with footfall down 1.7% YoY — marking the sixth volume decline of 2025. BDO and BRC both cite weak consumer confidence and rising cost pressures ahead of the October Budget.",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://www.glossy.co/pop/set-customer-influencer-strategy-coastline-drop/",
-    "title": "Pop Newsletter: Set did $3.5 million in 24 hours leveraging customers as the new influencers",
-    "topic": "DTC & Brands",
-    "gist": "Activewear brand Set opened a physical event to the public rather than limiting it to influencers, and the following day its Coastline collection generated $3.5 million online in 24 hours — the brand's biggest limited-edition drop ever, with 41% of pre-order customers being new to the brand.",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://www.glossy.co/podcasts/the-3-reasons-shein-is-trading-at-a-quarter-of-its-previous-valuation/",
-    "title": "The 3 reasons Shein is trading at a quarter of its previous valuation",
-    "topic": "Marketplaces",
-    "gist": "Shein went public in Hong Kong this week at a valuation of roughly $25 billion, down from $100 billion in 2022, after years of political obstacles delayed its IPO from New York and then London.",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/lululemons-identity-crisis-continues-with-comp-sales-down-9-as-it-prepares-to-welcome-new-ceo/",
-    "title": "Lululemon’s identity crisis continues, with comp sales down 9%, as it prepares to welcome new CEO",
-    "topic": "DTC & Brands",
-    "gist": "Lululemon reported Q2 net revenue down 4% YoY and comparable sales down 9%, with Americas comps falling 12%, as the brand prepares to hand the CEO role to former Nike executive Heidi O'Neill on Sept. 8.",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://openai.com/index/gpt-6-astra/",
-    "title": "GPT-6 Astra",
-    "topic": "AI & Tech",
-    "gist": "OpenAI released GPT-6 Astra, generating significant discussion on Hacker News around its performance on coding and reasoning benchmarks.",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://www.retaildive.com/news/target-back-to-school-push-AI/829468/",
-    "title": "How AI is powering Target’s back-to-school push",
-    "topic": "Retail",
-    "gist": "Target is using AI-powered product recommendations and a 'next best action' widget to personalize the back-to-school shopping experience, with early data showing that wish-list builders drive 45% higher category demand. The retailer is also A/B testing differentiated homepage experiences and moving toward one-to-one page personalization at scale.",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://www.retaildive.com/news/five-belows-maniacal-focus-on-the-customer-pays-off/829565/",
-    "title": "Five Below’s ‘maniacal focus’ on the customer pays off",
-    "topic": "Retail",
-    "gist": "Five Below posted Q2 net sales up nearly 23% YoY to $1.3 billion, with comps up 14%, driven by traffic gains and a remerchandising strategy centered on Gen Alpha, Gen Z, and millennial parents, plus a shift in media spend toward social. The company raised its full-year outlook.",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://www.retaildive.com/news/victorias-secret-fragrance-nostalgia-entertainment-trends/829539/",
-    "title": "Victoria’s Secret embraces nostalgia, entertainment trends",
-    "topic": "DTC & Brands",
-    "gist": "Victoria's Secret reported Q2 net sales up 10% YoY to $1.6 billion and comps up 9%, driven by bra innovation and nostalgia-led product drops, including a Pink archive release that sold out online in under a day. The brand is leaning into entertainment and emotional storytelling as growth levers.",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://www.retaildive.com/news/randa-acquires-untuckit-dtc-apparel/829561/",
-    "title": "Untuckit acquired by Randa",
-    "topic": "DTC & Brands",
-    "gist": "Randa Apparel and Accessories has acquired DTC menswear brand Untuckit for an undisclosed sum, with the brand and leadership staying in New York and Randa planning to use its capital and international reach to accelerate growth.",
-    "date": "2026-09-04"
-  },
-  {
-    "url": "https://ecommercenews.eu/german-online-stores-less-visible-on-google/",
-    "title": "‘German online stores less visible on Google’",
-    "topic": "Ad & Marketing",
-    "gist": "Large German online stores averaged 16.7% less organic visibility in Google search in June compared to the same month a year earlier, pointing to growing pressure on SEO-driven traffic for e-commerce.",
-    "date": "2026-09-04"
-  },
-  {
     "url": "https://www.retaildive.com/news/lululemon-pulls-back-store-plans-sales-plummet-q2/829660/",
     "title": "Lululemon pulls back store plans as sales plummet",
     "topic": "Retail",
@@ -684,5 +614,33 @@
     "topic": "Fulfillment & Ops",
     "gist": "Amazon is raising its minimum starting wage to $20/hour for operations employees and adding banking and grocery benefits, as it navigates a consumer environment where inflation is beginning to outpace wage growth.",
     "date": "2026-09-18"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/how-rothys-built-a-dtc-footwear-brand-with-staying-power/",
+    "title": "How Rothy’s built a DTC footwear brand with staying power",
+    "topic": "DTC & Brands",
+    "gist": "Rothy's reached $211 million in sales while other DTC footwear brands like Allbirds collapsed, positioning it as a rare survivor in a volatile category by moving beyond pure digital advertising without burning cash.",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://www.retaildive.com/news/christmas-decor-retailer-gordon-companies-files-chapter-11-bankruptcy/830777/",
+    "title": "Longtime Christmas decor retailer files for bankruptcy",
+    "topic": "Retail",
+    "gist": "Gordon Companies, a family-owned seasonal decor retailer operating since 1977, filed for Chapter 11 bankruptcy, with its collapse tied in part to a failed SAP-based inventory and order management system that cost over $2 million and crippled fulfillment during peak seasons.",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://www.retaildive.com/news/macys-rolls-out-ai-inventory-replenishment-tool/830751/",
+    "title": "Macy’s rolls out AI inventory replenishment tool",
+    "topic": "Retail",
+    "gist": "Macy's is rolling out an AI-powered inventory replenishment tool beyond pilot phase, aiming to improve in-stock levels and supply chain efficiency as part of its broader 'Bold New Chapter' transformation.",
+    "date": "2026-09-19"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/5-levers-drive-cac-says-ad-pro",
+    "title": "5 Levers Drive CAC, Says Ad Pro",
+    "topic": "Ad & Marketing",
+    "gist": "Performance marketing agency founder Hal Smith outlines five levers that drive CAC on Meta and Google — offer, creative, account structure, landing page, and signal engineering — with a focus on training platforms to optimize for new customer acquisition specifically.",
+    "date": "2026-09-19"
   }
 ]
