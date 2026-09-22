@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://ecommercenews.eu/tiktok-shop-opens-cross-border-sales-between-eu-and-uk/",
-    "title": "TikTok Shop opens cross-border sales between EU and UK",
-    "topic": "Marketplaces",
-    "gist": "TikTok Shop is opening cross-border selling between the EU and UK, allowing sellers in eight EU member states to reach British shoppers and vice versa.",
-    "date": "2026-09-07"
-  },
-  {
-    "url": "https://internetretailing.net/anthropics-retail-ai-push-raises-new-questions-over-customer-ownership/",
-    "title": "Anthropic’s retail AI push raises new questions over customer ownership",
-    "topic": "AI & Tech",
-    "gist": "Anthropic is enabling retailers to build AI shopping agents in Claude that can make recommendations and guide customers to checkout, but industry experts flag risks around data ownership and consumer skepticism toward retailer-controlled AI. A PSE Consulting survey found 74% of consumers prefer an independent AI shopping assistant over one embedded in a single retailer's platform.",
-    "date": "2026-09-07"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/aviator-nation-shopify-ai-shopping-shop-app/",
-    "title": "How Aviator Nation is preparing for AI-led shopping",
-    "topic": "DTC & Brands",
-    "gist": "Aviator Nation recorded roughly 20 orders via ChatGPT in 30 days — a small number relative to total volume, but the brand is already investing in AI search readiness as a hedge against a future shift in how shoppers discover products.",
-    "date": "2026-09-07"
-  },
-  {
-    "url": "https://digiday.com/media/google-divestiture-is-dead-and-publishers-are-fine-with-that/",
-    "title": "Google divestiture is dead — and publishers are fine with that",
-    "topic": "Ad & Marketing",
-    "gist": "A U.S. court declined to force a Google AdX breakup, and many large publishers say the reaction is more relief than disappointment, with little expectation that anything structurally will change in the ad-tech landscape.",
-    "date": "2026-09-07"
-  },
-  {
     "url": "https://www.retailgazette.co.uk/blog/2026/09/asos-online-fashions-guidance/",
     "title": "ASOS: online fashion’s next battleground is guidance, not choice",
     "topic": "Retail",
@@ -621,5 +593,103 @@
     "topic": "AI & Tech",
     "gist": "Generative AI shopping agents can miss products that match a shopper's needs if product data is incomplete — missing attributes like weight, width, or delivery timing cause mismatches even when the right product exists. The article outlines five practical tests merchants can run to check whether their listings are discoverable and matchable by AI shopping systems.",
     "date": "2026-09-21"
+  },
+  {
+    "url": "https://internetretailing.net/amazon-versus-meta-the-first-big-turf-war-of-agentic-shopping/",
+    "title": "Amazon versus Meta: the first big turf war of agentic shopping",
+    "topic": "Marketplaces",
+    "gist": "Amazon blocked Meta's AI shopping agent Muse from its platform, citing unauthorized access and credential security concerns, signaling an early territorial dispute over who controls the agentic shopping experience and the customer data it generates.",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/09/amazon-blocks-metas-new-ai-shopping-agent-from-its-website/",
+    "title": "Amazon blocks Meta’s new AI shopping agent from its website",
+    "topic": "Marketplaces",
+    "gist": "Amazon blocked Meta's Muse agent from its platform while Shopify is actively integrating Meta as an AI sales channel, creating a visible split between the two dominant e-commerce infrastructures on how to handle agentic commerce.",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://stratechery.com/2026/amazon-blocks-muse-amazons-moat-aggregator-v-aggregator/",
+    "title": "Amazon Blocks Muse, Amazon’s Moat, Aggregator v Aggregator",
+    "topic": "Marketplaces",
+    "gist": "Stratechery argues Amazon's block of Muse was predictable but notes Amazon's physical logistics infrastructure gives it a distinct AI moat that could form the basis of a future deal.",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com/",
+    "title": "Meta’s AI agent has been blocked from using Amazon.com",
+    "topic": "Marketplaces",
+    "gist": "Amazon blocked Meta's Muse agent from completing purchases on its platform, and TechCrunch notes Amazon may also have practical reasons to wait — including liability for bad AI-generated orders — beyond just competitive self-interest.",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://internetretailing.net/retail-medias-missing-link-why-better-product-data-is-becoming-essential-to-conversion/",
+    "title": "Retail media’s missing link: Why better product data is becoming essential to conversion",
+    "topic": "Ad & Marketing",
+    "gist": "Research from Syndigo finds 43% of UK consumers have abandoned purchases due to insufficient product information, and argues that product content quality is becoming a direct determinant of retail media ROI — and of AI agent recommendations.",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://digiday.com/sponsored/why-an-evolving-commerce-funnel-demands-unified-measurement/",
+    "title": "Why an evolving commerce funnel demands unified measurement",
+    "topic": "Ad & Marketing",
+    "gist": "Brands and retailers are shifting from siloed attribution models to unified, incrementality-based measurement as social and agentic commerce collapse the traditional discovery-to-purchase funnel into a single moment.",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://digiday.com/media/comscore-data-shows-how-ai-discovery-is-splintering-beyond-chatgpt/",
+    "title": "Comscore data shows how AI discovery is splintering beyond ChatGPT",
+    "topic": "AI & Tech",
+    "gist": "Comscore data shows ChatGPT's share of AI prompt volume dropped from 70% to 50% between January and June 2026, with Gemini and Claude rapidly gaining ground, signaling that AI discovery is fragmenting across multiple platforms.",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/09/uk-consumer-confidence-falls-as-retail-workers-report-rising-job-fears/",
+    "title": "UK consumer confidence falls as retail workers report rising job fears",
+    "topic": "Consumer Trends",
+    "gist": "UK consumer confidence fell to a three-month low in September, with rising rate expectations, job insecurity, and cost-of-living concerns making households more reluctant to spend on big-ticket items, while retail workers reported the highest employment anxiety of any sector.",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/gas-price-spikes-could-put-a-last-minute-squeeze-on-holiday-supply-chains/",
+    "title": "Gas price spikes could put a last-minute squeeze on holiday supply chains",
+    "topic": "Fulfillment & Ops",
+    "gist": "Gas prices in the US are up roughly 50% since the start of the Iran War conflict, with some states seeing sharp spikes in the past week, threatening to raise last-mile logistics costs ahead of the peak holiday retail season.",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://www.retaildive.com/news/costco-uber-doordash-nationwide-same-day-delivery-ecommerce/830874/",
+    "title": "Costco now offers nationwide delivery on Uber and DoorDash",
+    "topic": "Fulfillment & Ops",
+    "gist": "Costco has expanded delivery partnerships with both Uber Eats and DoorDash to cover nearly all US locations, making same-day delivery available nationwide through two major platforms alongside its existing Instacart relationship.",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://www.retaildive.com/news/jc-penney-q2-earnings-sales-decline-loses-share-launches-marketplace/830872/",
+    "title": "J.C. Penney loses share, launches marketplace as sales continue to slide",
+    "topic": "Retail",
+    "gist": "J.C. Penney's Q2 net sales fell over 8% year-on-year to $1.3 billion, with net income shrinking more than 50%, though a newly launched marketplace is outperforming early expectations and some categories like furniture and active apparel showed growth.",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping/",
+    "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+    "topic": "Retail",
+    "gist": "Ron Johnson, who built Apple's retail store network, argues AI agents will inform shoppers rather than replace the physical experience, predicting that high-consideration purchases will still drive people into stores even as AI narrows the consideration set.",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://digiday.com/media-buying/ad-tech-briefing-googles-ad-tech-remedies-arrive-just-as-the-platform-battle-moves-to-ai/",
+    "title": "Ad Tech Briefing: Google’s ad tech remedies arrive just as the platform battle moves to AI",
+    "topic": "Ad & Marketing",
+    "gist": "A US judge confirmed Google will keep both AdX and DFP under a six-year behavioral regime requiring tighter integration with Prebid and restrictions on self-preferencing, while the broader ad industry is already building new vertically integrated AI-era stacks.",
+    "date": "2026-09-22"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch/",
+    "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+    "topic": "AI & Tech",
+    "gist": "Apptopia estimates Muse surpassed ChatGPT's early mobile download and daily active user numbers in the US and Canada within its first 12 days, reaching 2.8 million total global installs and climbing to the No. 1 spot on the US App Store.",
+    "date": "2026-09-22"
   }
 ]
