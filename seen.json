@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://www.retailgazette.co.uk/blog/2026/09/asos-online-fashions-guidance/",
-    "title": "ASOS: online fashion’s next battleground is guidance, not choice",
-    "topic": "Retail",
-    "gist": "ASOS research finds 69% of consumers feel overwhelmed by fashion choice online, prompting the retailer to shift strategy toward curation, outfit-led shopping, AI styling tools, and virtual try-on as ways to reduce decision fatigue and build purchase confidence. Features like Buy The Look are reported to triple time spent on site.",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://www.glossy.co/beauty/beauty-briefing-why-the-estee-lauder-companies-is-moving-some-of-its-biggest-brands-to-shopify/",
-    "title": "Beauty Briefing: Why the Estée Lauder Companies is moving some of its biggest brands to Shopify",
-    "topic": "Marketplaces",
-    "gist": "Estée Lauder Companies is migrating major brand e-commerce operations to Shopify, signaling a strategic decision to outsource platform infrastructure rather than maintain proprietary systems. Sephora is also moving to TikTok Shop in the same week.",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/how-11-retail-media-networks-are-trying-to-differentiate-themselves-to-advertisers/",
-    "title": "How 11 retail media networks are trying to differentiate themselves to advertisers",
-    "topic": "Ad & Marketing",
-    "gist": "Fifteen retail media networks pitched advertisers at the Ascendant Network Showcase in New York, with participants ranging from The Home Depot to PayPal and Albertsons, all competing for ad budgets by highlighting their first-party data and audience differentiation.",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://internetretailing.net/retail-media-has-an-identity-crisis-as-networks-proliferate-how-do-they-differentiate/",
-    "title": "Retail media has an identity crisis: as networks proliferate, how do they differentiate?",
-    "topic": "Ad & Marketing",
-    "gist": "With over 140 retail media networks now operating in EMEA alone, most are converging on the same capabilities — first-party data, closed-loop measurement, onsite and offsite inventory — making meaningful differentiation increasingly rare, with only one in five respondents seeing clear differences between networks.",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://digiday.com/media-buying/marketers-face-dilemma-around-rising-bot-and-ai-web-traffic/",
-    "title": "Marketers face dilemma around rising bot and AI web traffic",
-    "topic": "Ad & Marketing",
-    "gist": "Automated bots and AI agents now account for more than half of all web traffic according to Cloudflare, forcing marketers to rethink blanket blocking strategies; some DTC brands report AI-referred traffic converting significantly better than site averages, while others face growing bad-bot exposure.",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://www.retaildive.com/spons/preparing-your-platform-for-agentic-commerce-how-to-authenticate-ai-buying/829221/",
-    "title": "Preparing your platform for agentic commerce: How to authenticate AI buying agents vs. synthetic bots",
-    "topic": "AI & Tech",
-    "gist": "AI-driven traffic to US retail sites grew 4,700% year-over-year per Adobe Analytics, while bad bots also expanded to 43% of holiday traffic; the article argues that marketplaces need identity verification tied to a verified human behind agent requests, not just protocol-level authentication of the agent software itself.",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://www.modernretail.co/retailers/why-brands-are-prepping-new-return-policies-for-q4/",
-    "title": "Why brands are prepping new return policies for Q4",
-    "topic": "Retail",
-    "gist": "Retailers are revising return policies ahead of Q4, with NRF and Happy Returns data showing merchants expect roughly 17% of holiday sales to be returned, making the peak season a critical window for policy experimentation.",
-    "date": "2026-09-08"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/09/superdry-cuts-delivery-costs-after-inpost-locker-switch/",
-    "title": "Superdry cuts delivery costs after InPost locker switch",
-    "topic": "Fulfillment & Ops",
-    "gist": "Superdry cut UK B2C delivery costs by up to 19% after adding InPost lockers at checkout, with lockers now handling 20% of deliveries and generating four times fewer customer care contacts and a 0.5% lost/damaged parcel rate versus 2.1% for home delivery.",
-    "date": "2026-09-08"
-  },
-  {
     "url": "https://www.retailgazette.co.uk/blog/2026/09/zara-owner-inditex-sales-jump-9-despite-european-heatwaves/",
     "title": "Zara owner Inditex sales jump 9% despite European heatwaves",
     "topic": "Retail",
@@ -691,5 +635,54 @@
     "topic": "AI & Tech",
     "gist": "Apptopia estimates Muse surpassed ChatGPT's early mobile download and daily active user numbers in the US and Canada within its first 12 days, reaching 2.8 million total global installs and climbing to the No. 1 spot on the US App Store.",
     "date": "2026-09-22"
+  },
+  {
+    "url": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
+    "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
+    "topic": "Marketplaces",
+    "gist": "Stratechery is analyzing the strategic dynamics between Meta (Muse), Amazon, Walmart, and Expedia in the AI agent shopping era, with a paywalled deep dive into where Google fits. The piece frames Walmart as a key ally for Meta in competing against Amazon's dominance.",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://modernretail.co.uk/generative-engine-marketing-in-the-agentic-era-brands-must-all-be-machine-readable/",
+    "title": "Generative engine marketing: in the agentic era, brands must all be machine-readable",
+    "topic": "Ad & Marketing",
+    "gist": "A Jellyfish/Brandtech executive argues that brands need to optimize for AI systems as both gatekeepers and buyers in what he calls the 'agentic era,' proposing a Generative Engine Marketing (GEM) framework that treats LLM visibility as a core marketing discipline. Case studies cited include a 39% ROAS improvement for Gentle Monster using LLM-informed Performance Max campaigns.",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/spot-tango-is-making-a-3-5m-bet-on-brand-marketing-after-years-of-spending-0/",
+    "title": "Spot & Tango is making a $3.5M bet on brand marketing after years of spending $0",
+    "topic": "DTC & Brands",
+    "gist": "Spot & Tango, a DTC pet food brand, is investing $3.5M in top-of-funnel brand marketing in 2025 after spending zero on it in prior years, running OOH, CTV, and events alongside its existing performance channels. The shift reflects a broader strategy to build brand awareness ahead of new in-house labels and its 10th anniversary in 2028.",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
+    "title": "GPT-6 Sol and Luna",
+    "topic": "AI & Tech",
+    "gist": "OpenAI announced GPT-6 Sol and Luna models, which generated significant discussion on Hacker News. No additional detail is available from the text.",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
+    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
+    "topic": "AI & Tech",
+    "gist": "OpenAI released updated GPT-6 Sol and Luna models, offering API access at half the cost of the previous 5.6 series, with claimed improvements in factual accuracy and coding reliability. The release came 90 minutes after Anthropic released a new version of Opus 5.5, highlighting intense competition between the two labs.",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://digiday.com/sponsored/in-the-zero-click-era-visibility-alone-is-no-longer-enough-for-brands/",
+    "title": "In the zero-click era, visibility alone is no longer enough for brands",
+    "topic": "Ad & Marketing",
+    "gist": "As AI-driven search reduces click-throughs to brand websites, marketers are reassessing what visibility means — shifting focus toward trust signals, editorial authority, and third-party mentions that influence AI recommendations rather than traditional keyword rankings. The piece argues that word-of-mouth and consistent brand reputation across public sources are becoming the new ranking factors.",
+    "date": "2026-09-23"
+  },
+  {
+    "url": "https://www.retaildive.com/news/amazon-meta-muse-ai-agent-shopping-experience/831018/",
+    "title": "Amazon asks Meta to remove it from the Muse AI agent experience",
+    "topic": "Marketplaces",
+    "gist": "Amazon asked Meta to remove it from the Muse AI agent shopping experience, stating it was not given advance notice or authorization for Muse to access its site and make purchases on users' behalf. The situation mirrors Amazon's ongoing lawsuit against Perplexity over similar unauthorized agent access, while Amazon itself runs a 'Buy for Me' feature that accesses external sellers without prior consent.",
+    "date": "2026-09-23"
   }
 ]
