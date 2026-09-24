@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://www.retailgazette.co.uk/blog/2026/09/zara-owner-inditex-sales-jump-9-despite-european-heatwaves/",
-    "title": "Zara owner Inditex sales jump 9% despite European heatwaves",
-    "topic": "Retail",
-    "gist": "Inditex reported 9% sales growth at constant exchange rates in the August–September period despite European heatwaves disrupting autumn/winter demand, while also beating Q2 expectations with £9.5bn in sales and expanding its value fascia Lefties into the UK.",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://www.retaildive.com/news/holiday-spending-forecast-to-top-1-trillion/829792/",
-    "title": "Holiday spending forecast to top $1 trillion",
-    "topic": "Consumer Trends",
-    "gist": "Bain & Company forecasts U.S. holiday retail sales will exceed $1 trillion for the first time, with online sales expected to rise 9% year over year, while 24% of consumers plan to start their holiday shopping journey using AI platforms — up from 17% last year.",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://internetretailing.net/retail-media-has-entered-its-next-phase-now-comes-the-hard-part/",
-    "title": "Retail media has entered its next phase – now comes the hard part",
-    "topic": "Ad & Marketing",
-    "gist": "Retail media is moving past its initial growth phase, with advertisers now demanding clearer performance measurement, consistent standards, and scalable commercial models, as IAB Europe's upcoming Summit frames the industry's next challenge as proving lasting value.",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://internetretailing.net/guest-comment-the-product-page-is-becoming-the-new-homepage/",
-    "title": "GUEST COMMENT The product page is becoming the new homepage",
-    "topic": "Retail",
-    "gist": "Data shows that over half of AI-referred shopping sessions now land directly on product pages, not homepages, pushing brands to rethink product page design for both conversion and AI discoverability — with structured, specific content increasingly determining which products get recommended.",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://internetretailing.net/guest-comment-from-prompts-to-purchases-what-llm-advertising-push-means-for-brands/",
-    "title": "GUEST COMMENT From prompts to purchases: what LLM advertising push means for brands",
-    "topic": "Ad & Marketing",
-    "gist": "OpenAI's move into advertising within LLMs introduces a new layer where brands can reach shoppers at the intent-formation stage, but retailers retain an advantage because they hold actual purchase behavior data that AI assistants cannot observe.",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://internetretailing.net/new-data-shows-the-rise-of-on-demand-retail-across-europe/",
-    "title": "New data shows the rise of on-demand retail across Europe",
-    "topic": "Fulfillment & Ops",
-    "gist": "Wolt's first Retail Report shows retail now accounts for over 25% of its global sales, with grocery basket values growing 46% in 2025 and 32% of European consumers expecting delivery in under two hours, signaling that rapid delivery is becoming a routine shopping channel rather than a convenience add-on.",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/brands-briefing-instagram-dms-are-proving-to-be-a-gold-mine-for-product-development/",
-    "title": "Brands Briefing: Instagram DMs are proving to be a gold mine for product development",
-    "topic": "DTC & Brands",
-    "gist": "Made In cookware's CMO describes Instagram DMs as a primary source of unfiltered, real-time consumer feedback, using the channel daily to track product questions, complaints, and sentiment before broader market signals surface.",
-    "date": "2026-09-09"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/",
-    "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
-    "topic": "AI & Tech",
-    "gist": "Meta launched Muse, an agentic AI assistant that connects to users' apps and services to handle tasks including purchases via Stripe, with Shopify Shop Pay integration coming soon — but its history of privacy violations raises significant consumer trust questions.",
-    "date": "2026-09-09"
-  },
-  {
     "url": "https://internetretailing.net/primark-to-launch-online-delivery-in-uk/",
     "title": "Primark to launch online delivery in UK",
     "topic": "Retail",
@@ -684,5 +628,82 @@
     "topic": "Marketplaces",
     "gist": "Amazon asked Meta to remove it from the Muse AI agent shopping experience, stating it was not given advance notice or authorization for Muse to access its site and make purchases on users' behalf. The situation mirrors Amazon's ongoing lawsuit against Perplexity over similar unauthorized agent access, while Amazon itself runs a 'Buy for Me' feature that accesses external sellers without prior consent.",
     "date": "2026-09-23"
+  },
+  {
+    "url": "https://digiday.com/media-buying/58-of-ad-execs-expect-agentic-buying-to-hit-scale-within-a-year-according-to-iab-europe-research/",
+    "title": "58% of ad execs expect agentic buying to hit scale within a year, according to IAB Europe research",
+    "topic": "Marketplaces",
+    "gist": "A new IAB Europe survey of 50 ad execs across 44 European markets found 58% expect agentic ad buying to reach operational scale within a year, though adoption levels vary sharply by company size.",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://internetretailing.net/aldi-to-offer-online-delivery-through-new-deliveroo-partnership/",
+    "title": "Aldi to offer online delivery through new Deliveroo partnership",
+    "topic": "Fulfillment & Ops",
+    "gist": "Aldi is piloting on-demand grocery delivery through Deliveroo's new Shop & Deliver service in eight UK stores, reversing its longstanding resistance to online delivery by outsourcing last-mile fulfilment to avoid margin impact.",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://digiday.com/media/from-brand-deals-to-equity-deals-creators-want-a-stake-not-just-a-fee/",
+    "title": "From brand deals to equity deals: creators want a stake, not just a fee",
+    "topic": "DTC & Brands",
+    "gist": "Creators are increasingly moving beyond paid brand deals to taking equity stakes or angel positions in consumer brands, with infrastructure around this model expected to grow quickly in the coming months.",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://digiday.com/marketing/why-sephora-released-a-beauty-set-exclusively-on-tiktok-shop/",
+    "title": "Why Sephora released a beauty set exclusively on TikTok Shop",
+    "topic": "Marketplaces",
+    "gist": "Sephora launched on TikTok Shop with a live-streamed session hosted by Mikayla Nogueira, featuring an exclusive holiday set from her brand POV Beauty that is only available through TikTok Shop, not Sephora's own website.",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://www.modernretail.co/technology/why-instacart-is-focused-on-reducing-item-markups-to-grow-its-delivery-platform/",
+    "title": "Why Instacart is focused on reducing item markups to grow its delivery platform",
+    "topic": "Marketplaces",
+    "gist": "Instacart CEO Chris Rogers outlined a strategy to reduce item price markups by working more closely with retail partners, positioning the platform as a full-stack grocery operating system rather than just a delivery app.",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/how-sephora-used-mikayla-nogueira-and-pov-beauty-to-kickstart-its-tiktok-shop-launch/",
+    "title": "How Sephora used Mikayla Nogueira and POV Beauty to kickstart its TikTok Shop launch",
+    "topic": "Marketplaces",
+    "gist": "Sephora launched its TikTok Shop presence with a live-stream hosted by mega-influencer Mikayla Nogueira, using an exclusive product from her POV Beauty brand as the hook, with nearly 2,300 products sold at time of publication.",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
+    "title": "Everything new coming to Meta’s AI agent Muse",
+    "topic": "Marketplaces",
+    "gist": "Meta expanded its Muse AI agent at its annual Connect event, adding a digital avatar, smart glasses integration, Mac computer control, a dedicated email address, and shopping partnerships with retailers including Shopify, Best Buy, Gap, Sephora, and Walmart.",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://www.retaildive.com/news/consumers-trust-ai-advise-do-not-consent-purchasing-them/830990/",
+    "title": "Consumers trust AI to advise, but don’t consent to it purchasing for them",
+    "topic": "Consumer Trends",
+    "gist": "An ACI Worldwide survey of over 3,300 U.S. and U.K. consumers found only 7% would allow an AI assistant to make purchases without approval, with shoppers most interested in AI tools for price comparisons and deal alerts rather than autonomous buying.",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://www.retaildive.com/news/lower-income-households-financially-vulnerable-financial-health-network/831129/",
+    "title": "More lower-income households feel financially vulnerable",
+    "topic": "Consumer Trends",
+    "gist": "A new survey found 17% of U.S. households now feel financially vulnerable, up from 15% last year, with low-income consumers having shifted over $10 billion from discretionary to essential spending since 2019 while higher-income consumers increased discretionary spending.",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://www.retaildive.com/news/shoppers-burned-bad-ai-purchase-recommendations/831013/",
+    "title": "Shoppers burned by bad AI recommendations",
+    "topic": "Consumer Trends",
+    "gist": "A SmartCustomer survey of nearly 1,200 U.S. consumers found that while 76% used AI for purchases in the past year, a third made a regrettable purchase based on an AI recommendation, with apparel and footwear accounting for 45% of bad purchases.",
+    "date": "2026-09-24"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/new-ecommerce-tools-september-23-2026",
+    "title": "New Ecommerce Tools: September 23, 2026",
+    "topic": "Retail",
+    "gist": "A roundup of new e-commerce tools this week covers OpenAI's sponsored AI agents in ChatGPT, Pinterest Visual Search Ads, Mastercard's agentic payment infrastructure, FedEx authenticated delivery, and a range of AI-powered CRM, logistics, and affiliate marketing releases.",
+    "date": "2026-09-24"
   }
 ]
