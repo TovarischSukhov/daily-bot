@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://internetretailing.net/primark-to-launch-online-delivery-in-uk/",
-    "title": "Primark to launch online delivery in UK",
-    "topic": "Retail",
-    "gist": "Primark is reversing its long-held no-delivery stance and will launch home delivery in the UK, backed by a £90 million acquisition of an automated fulfilment centre in Sheffield. The move is driven by intensifying competition from Shein, Temu, and TikTok Shop, though profitability at Primark's price points remains an open question.",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://www.modernretail.co/technology/instacart-launches-custom-ai-assistants-for-retailers-and-its-own/",
-    "title": "Instacart launches custom AI assistants for retailers, and its own",
-    "topic": "Retail",
-    "gist": "Instacart has launched Cart Assistant, a white-label AI shopping assistant that regional grocers can deploy on their own websites and apps, enabling conversational shopping, deal-finding, and cart-building from a photo. Separately, Instacart launched Clementine, its own AI grocery assistant available on its marketplace in the US and Canada.",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://digiday.com/marketing/instacart-launches-custom-ai-assistants-for-retailers/",
-    "title": "Instacart launches custom AI assistants for retailers",
-    "topic": "Retail",
-    "gist": "Instacart launched Cart Assistant, a white-label AI shopping assistant for retailers to embed in their own websites and apps, as part of its broader enterprise services offering. The tool enables conversational shopping experiences similar to those built in-house by Walmart, Kroger, and Amazon.",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-    "title": "Shopify acquires Tailwind",
-    "topic": "Marketplaces",
-    "gist": "Shopify has acquired Tailwind CSS, the widely-used open-source UI framework installed over 110 million times per week, with the team and projects remaining open-source under MIT license. The acquisition gives Shopify in-house ownership of a core part of its frontend stack and aligns with its push into agentic commerce and custom storefronts.",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://www.retaildive.com/news/retailers-AI-supply-chain-smart-shopping/829609/",
-    "title": "Retailers bet on AI for supply chain, ‘smart’ shopping",
-    "topic": "Retail",
-    "gist": "Major US retailers including Gap, Dollar General, Ulta Beauty, and Kohl's are ramping up AI deployments across supply chain optimization, personalized search and discovery, and AI shopping assistants, with early results showing improved conversion and revenue per visit at Kohl's. Analysts note most retailers are targeting specific problems rather than full AI transformation.",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://digiday.com/media-buying/ad-spend-forecasts-revised-upward-as-more-ad-dollars-are-handled-by-ai-tools/",
-    "title": "Ad spend forecasts revised upward as more ad dollars are handled by AI tools",
-    "topic": "Ad & Marketing",
-    "gist": "The IAB has revised its 2025 US ad spend growth forecast upward to 12.3%, from a prior estimate of 9.5%, citing strong live-event spending and the growing use of AI-powered campaign tools like Meta's Advantage+ and Google's Performance Max. An increasing share of ad budgets is being allocated through automated or AI-managed campaign types.",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/aerie-soars-in-back-to-school-sales-while-american-eagle-works-to-balance-denim/",
-    "title": "Aerie soars in back-to-school sales, while American Eagle works to ‘balance’ denim",
-    "topic": "DTC & Brands",
-    "gist": "AEO Inc. reported Q2 net revenue of $1.38 billion, up 8% year-over-year, driven by a 19% comp sales jump at Aerie while American Eagle saw a 1% comp sales decline as it works to rebalance its denim assortment. The company also reported a $196 million tariff refund including interest.",
-    "date": "2026-09-10"
-  },
-  {
-    "url": "https://internetretailing.net/more-cards-not-more-loyalty-brits-belong-to-12-schemes-on-average/",
-    "title": "More cards, not more loyalty? Brits belong to 12 schemes on average",
-    "topic": "Retail",
-    "gist": "Research from American Express shows 90% of UK adults belong to at least one loyalty scheme, with the average Brit signed up to 12, and an estimated £4.43 billion in rewards redeemed over the past year. Despite widespread adoption, evidence that loyalty schemes actually drive brand loyalty is weak, with consumers splitting spending across multiple programs.",
-    "date": "2026-09-10"
-  },
-  {
     "url": "https://www.retaildive.com/news/ecommerce-growth-outpaces-holiday-retail-sales-ai-shopping/830034/",
     "title": "E-commerce to outpace overall holiday sales growth as shoppers lean on AI",
     "topic": "Consumer Trends",
@@ -705,5 +649,75 @@
     "topic": "Retail",
     "gist": "A roundup of new e-commerce tools this week covers OpenAI's sponsored AI agents in ChatGPT, Pinterest Visual Search Ads, Mastercard's agentic payment infrastructure, FedEx authenticated delivery, and a range of AI-powered CRM, logistics, and affiliate marketing releases.",
     "date": "2026-09-24"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/09/ai-shoppers-convert-20-better-than-traditional-traffic-as-retail-habits-shift/",
+    "title": "AI shoppers convert 20% better than traditional traffic as retail habits shift",
+    "topic": "AI & Tech",
+    "gist": "Adobe data shows AI-referred shoppers in the UK are converting 20% better than traditional traffic as of August 2026, spending longer on-site and returning fewer products; AI referral traffic is up 1,439% year-on-year. 37% of UK consumers have used an AI assistant in their shopping journey, and 34% have completed a purchase directly inside an AI interface.",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/shopify-opens-to-meta-muse-amazon-balks",
+    "title": "Shopify Opens to Meta Muse; Amazon Balks",
+    "topic": "Marketplaces",
+    "gist": "Shopify has welcomed Meta's new Muse AI shopping agent as an official commerce channel, while Amazon has blocked it for accessing its marketplace without authorization. The opposing moves highlight a broader battle over who controls product discovery, customer relationships, and retail media in an agentic commerce world.",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/09/mcdonalds-pilots-retail-media/",
+    "title": "McDonald’s pilots retail media network in billion-dollar advertising push",
+    "topic": "Ad & Marketing",
+    "gist": "McDonald's has launched a pilot retail media network across 450 US restaurants, targeting a $1bn revenue opportunity by letting third-party brands advertise across its app, kiosks, menu boards, and in-store screens. The move extends the retail media model beyond traditional e-commerce into physical and digital quick-service restaurant touchpoints.",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/big-box-briefing-best-buy-puts-ctv-at-the-center-of-its-retail-media-pitch/",
+    "title": "Big-Box Briefing: Best Buy puts CTV at the center of its retail media pitch",
+    "topic": "Ad & Marketing",
+    "gist": "Best Buy held its annual retail media showcase, announcing a new connected TV advertising product branded Best Buy CTV as a central part of its retail media pitch. The move deepens Best Buy's strategy of leveraging its electronics retail positioning to sell premium advertising inventory.",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/costcos-digital-sales-hit-33-billion-in-2026-growing-more-than-20/",
+    "title": "Costco’s digital sales hit $33 billion in 2026, growing more than 20%",
+    "topic": "Retail",
+    "gist": "Costco reported digitally-enabled sales exceeding $33 billion in fiscal 2026, growing over 20% year-on-year, driven partly by new nationwide delivery partnerships with DoorDash and Uber Eats in the US. Members must enter their membership number at checkout to access delivery through these platforms.",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://ecommercenews.eu/marketplace-sellers-shift-focus-to-profitability/",
+    "title": "‘Marketplace sellers shift focus to profitability’",
+    "topic": "Marketplaces",
+    "gist": "A survey of marketplace sellers finds that profit margin has overtaken net sales volume as the primary success metric, reflecting a shift from growth-at-all-costs to profitability-first thinking. Despite this, nearly half of sellers expanded to two or three new marketplaces in the past year.",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://www.retaildive.com/news/tapestry-sell-via-google-gemini-app-ai-mode/830890/",
+    "title": "Tapestry to sell via Google’s Gemini app, AI Mode",
+    "topic": "Marketplaces",
+    "gist": "Tapestry is enabling direct checkout for Coach and Kate Spade products through Google Search, AI Mode, and the Gemini app via the Universal Commerce Protocol, allowing purchases via Google Pay without leaving the interface. The company says it receives the same customer data from these transactions as from purchases on its own e-commerce sites.",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://internetretailing.net/guest-comment-agentic-commerce-is-arriving-faster-than-the-consent-rules/",
+    "title": "GUEST COMMENT Agentic commerce is arriving faster than the consent rules",
+    "topic": "AI & Tech",
+    "gist": "Agentic commerce is rolling out faster than the legal frameworks governing data consent, with questions unresolved about whether an AI agent can legally give consent for data processing on a shopper's behalf under UK GDPR and PECR. UK regulators including the ICO and CMA have signaled that existing consumer and data law already applies to agents, placing accountability firmly on retailers.",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://www.retaildive.com/news/podcast-the-backroom-target-turnaround-progress/831241/",
+    "title": "The Backroom: A status check on Target’s turnaround",
+    "topic": "Retail",
+    "gist": "Retail Dive's podcast takes stock of Target's turnaround under CEO Michael Fiddelke, noting two quarters of meaningful sales and traffic growth alongside ongoing challenges in home and apparel categories ahead of the holiday season.",
+    "date": "2026-09-25"
+  },
+  {
+    "url": "https://www.retaildive.com/news/halloween-spending-surpass-2025-record/831239/",
+    "title": "Halloween spending expected to reach $13.5B",
+    "topic": "Consumer Trends",
+    "gist": "US Halloween spending is forecast to hit a record $13.5 billion in 2026, with nearly half of shoppers using AI to support their Halloween purchases, primarily for brainstorming and product research. Discount stores remain the top destination, but 27% of spending will go through online retailers.",
+    "date": "2026-09-25"
   }
 ]
