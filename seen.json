@@ -1,26 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/marketing/krogers-ad-business-sees-most-profit-growth-since-2021/",
-    "title": "Kroger’s ad business sees most profit growth since 2021",
-    "topic": "Ad & Marketing",
-    "gist": "Kroger's retail media unit Kroger Precision Marketing posted 24% profit growth in Q2 — its best since 2021 — while e-commerce sales grew 20% and turned profitable for the second consecutive quarter. The CEO led earnings discussion with retail media and e-commerce before any mention of traditional merchandising.",
-    "date": "2026-09-12"
-  },
-  {
-    "url": "https://www.retaildive.com/news/reformation-first-earnings-double-store-fleet-five-years/830162/",
-    "title": "Reformation charts path to double store fleet in 5 years",
-    "topic": "DTC & Brands",
-    "gist": "Reformation posted 24% revenue growth in its first earnings as a public company, driven by a 23% rise in active customers, with plans to double its 70-store fleet over five years. The brand produces over 50% of products in 60 days or less, betting on short lead times over large inventory commitments.",
-    "date": "2026-09-12"
-  },
-  {
-    "url": "https://ecommercenews.eu/amazons-reach-in-the-eu-levels-off/",
-    "title": "Amazon’s reach in the EU levels off",
-    "topic": "Marketplaces",
-    "gist": "Amazon's monthly active shopping recipients in the EU dipped slightly to 193.9 million in H1 2025, down from 195.2 million in H2 2024. The decline suggests Amazon's EU reach may be plateauing.",
-    "date": "2026-09-12"
-  },
-  {
     "url": "https://www.modernretail.co/operations/where-boll-branch-draws-the-line-on-ai-generated-advertising/",
     "title": "Where Boll & Branch draws the line on AI-generated advertising",
     "topic": "DTC & Brands",
@@ -698,5 +677,33 @@
     "topic": "DTC & Brands",
     "gist": "ASOS returned to low single-digit growth in gross merchandise value in Q4 of its financial year ending August 30, and recorded its first quarter-on-quarter rise in active customer numbers since 2022, after a year in which GMV fell 12%.",
     "date": "2026-09-26"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
+    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
+    "topic": "Marketplaces",
+    "gist": "Google is testing a 'Buy' button on Flipkart product listings inside Gemini and AI Mode in India, routing users directly to a Flipkart checkout without leaving the AI interface. The test covers a limited selection of electronics and is planned for broader rollout ahead of India's festive shopping season.",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://ecommercenews.eu/dhl-ecommerce-looks-for-more-acquisitions-in-eastern-europe/",
+    "title": "DHL eCommerce looks for more acquisitions in Eastern Europe",
+    "topic": "Fulfillment & Ops",
+    "gist": "DHL eCommerce is actively seeking parcel company acquisitions in Eastern Europe, with the planned purchase of Venipak in the Baltics being its latest move and CEO Pablo Ciano identifying the region as the division's primary European acquisition focus.",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://ecommercenews.eu/marketplace-sellers-shift-focus-to-profitability/",
+    "title": "‘Marketplace sellers shift focus to profitability’",
+    "topic": "Marketplaces",
+    "gist": "Marketplace sellers are now prioritizing profit margin over sales volume as their primary success metric, while nearly half added two or three new marketplace channels in the past year.",
+    "date": "2026-09-27"
+  },
+  {
+    "url": "https://ecommercenews.eu/asos-returns-to-growth-but-customer-base-is-still-smaller/",
+    "title": "ASOS returns to growth, but customer base is still smaller",
+    "topic": "DTC & Brands",
+    "gist": "ASOS posted low single-digit growth in gross merchandise value in Q4 FY2025 after a 12% decline the prior year, and recorded its first quarter-on-quarter customer count increase since 2022.",
+    "date": "2026-09-27"
   }
 ]
