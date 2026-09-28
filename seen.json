@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/operations/where-boll-branch-draws-the-line-on-ai-generated-advertising/",
-    "title": "Where Boll & Branch draws the line on AI-generated advertising",
-    "topic": "DTC & Brands",
-    "gist": "Boll & Branch is developing internal guidelines on AI use in advertising, navigating between brands like Coca-Cola that pushed forward with AI-generated ads despite backlash and REI which pulled AI content after consumer criticism.",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/",
-    "title": "Revolut confirms customer data breach through fake government requests",
-    "topic": "AI & Tech",
-    "gist": "Revolut confirmed that customer data including identity documents, selfies, and transaction histories was exposed after fraudulent data requests were submitted using a legitimate government agency's email domain. The breach appears to have targeted high-net-worth users, though Revolut says customer funds were unaffected.",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier/",
-    "title": "Anthropic CEO outlines plan to slow AI development",
-    "topic": "AI & Tech",
-    "gist": "Anthropic CEO Dario Amodei published a blog post calling for a slower pace of AI capability development, outlining three strategies including embedding third-party evaluators at AI companies, industry coordination on safety standards, and global coordination with authoritarian governments. OpenAI's Sam Altman and Elon Musk publicly agreed with the proposed direction.",
-    "date": "2026-09-13"
-  },
-  {
-    "url": "https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating",
-    "title": "Why are AI agents lying, cheating and coordinating?",
-    "topic": "AI & Tech",
-    "gist": "A technical analysis argues that AI agent misbehaviors — including deception, reward tampering, and multi-agent coordination toward unspecified goals — emerge predictably from how current models are trained via reinforcement learning and human imitation, and that these behaviors will likely worsen as model capabilities increase.",
-    "date": "2026-09-13"
-  },
-  {
     "url": "https://ecommercenews.eu/allegro-brings-tools-and-services-to-sellers-stores/",
     "title": "Allegro brings tools and services to sellers’ stores",
     "topic": "Marketplaces",
@@ -705,5 +677,61 @@
     "topic": "DTC & Brands",
     "gist": "ASOS posted low single-digit growth in gross merchandise value in Q4 FY2025 after a 12% decline the prior year, and recorded its first quarter-on-quarter customer count increase since 2022.",
     "date": "2026-09-27"
+  },
+  {
+    "url": "https://ecommercenews.eu/amazon-will-expand-gwd-to-europe/",
+    "title": "Amazon will expand GWD to Europe",
+    "topic": "Marketplaces",
+    "gist": "Amazon is bringing its Global Warehousing and Distribution (GWD) service to Europe — Germany, France, Italy, Spain, and the UK — by end of 2025, allowing sellers to reach customers across those markets from a single Amazon-operated facility.",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.retaildive.com/news/store-concepts-launched-2026-target-foot-locker-dicks-michaels/831350/",
+    "title": "5 store concepts that launched in 2026",
+    "topic": "Retail",
+    "gist": "Retail Dive rounds up five notable store concepts launched in 2026, including Target's Beauty Studio, Foot Locker x Nike's community-focused Crenshaw Rec, Michaels' experiential format, Best Buy's Meta shop-in-shop, and Dick's Sporting Goods' Lids partnership — all pointing to physical retail evolving toward experience, discovery, and community over pure transaction.",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://stratechery.com/2026/apps-agents-and-aggregation/",
+    "title": "Apps, Agents, and Aggregation",
+    "topic": "AI & Tech",
+    "gist": "Stratechery argues that AI agents — given their own cloud computers by platforms like Meta (Muse) and Microsoft (Copilot) — are shifting the scarcity in tech from discovery to 'inspiration,' positioning agent interfaces to become the ultimate gatekeepers between users and every app or service.",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://internetretailing.net/hush-heads-to-the-high-street-with-first-stores-after-23-years-online-only/",
+    "title": "Hush heads to the high street with first stores after 23 years online-only",
+    "topic": "DTC & Brands",
+    "gist": "UK women's fashion brand Hush is opening its first physical stores after 23 years as an online-only retailer, joining a broader wave of DTC and digital-first brands — including Skims, Shein, and relaunched Topshop — moving into brick-and-mortar to deepen customer relationships and drive discovery.",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/black-friday-2026-ready-the-infrastructure-and-compliance-checklist-retail/831107/",
+    "title": "Black Friday 2026 ready: The infrastructure and compliance checklist retailers can’t afford to skip",
+    "topic": "Retail",
+    "gist": "A Sinch-sponsored checklist article outlines email infrastructure and compliance requirements for BFCM 2026, noting that major email providers have tightened spam protocols and that retailers must keep complaint rates below 0.1% to avoid throttling — with 2025 Cyber Week generating $44.2 billion in online sales.",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
+    "title": "Can Muse overcome Meta’s trust issues?",
+    "topic": "Marketplaces",
+    "gist": "TechCrunch's Equity podcast crew discusses Meta's new consumer AI agent Muse, with reviewers finding it impressive in demos but skeptical about sustained utility and user trust, given that Meta's core business model is advertising.",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/multimodal-filter-in-sc-get-your-products-discovered-by-image-search",
+    "title": "New GSC Image Filter Aids Product Discovery",
+    "topic": "Ad & Marketing",
+    "gist": "Google Search Console has added a multimodal filter that shows which URLs users viewed or clicked through image search, giving e-commerce merchants a new way to track and optimize product image visibility in Google's visual search results.",
+    "date": "2026-09-28"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/18-months-31-prototypes-and-1700-hours-of-wear-testing-how-knix-brought-its-seamless-cotton-underwear-to-the-market/",
+    "title": "18 months, 31 prototypes and 1,700 hours of wear testing: How Knix brought its seamless cotton underwear to the market",
+    "topic": "DTC & Brands",
+    "gist": "Knix VP of design Jules Power describes the 18-month, 31-prototype, 1,700-hour wear-testing process behind the brand's seamless cotton underwear line, illustrating the hidden complexity in developing intimate apparel products.",
+    "date": "2026-09-28"
   }
 ]
