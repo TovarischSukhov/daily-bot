@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://ecommercenews.eu/allegro-brings-tools-and-services-to-sellers-stores/",
-    "title": "Allegro brings tools and services to sellers’ stores",
-    "topic": "Marketplaces",
-    "gist": "Allegro планує надати своїм продавцям доступ до власних логістичних, фінансових та рекламних інструментів для використання поза межами маркетплейсу — у власних інтернет-магазинах.",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/09/jigsaw-channel-growth/",
-    "title": "Jigsaw reports growth across every channel",
-    "topic": "DTC & Brands",
-    "gist": "Британський бренд жіночого одягу Jigsaw зафіксував зростання в усіх каналах: онлайн-продажі зросли на 21%, продажі в магазинах — на 6% (11% like-for-like), а концесійні продажі — на 47%; бренд планує вихід на ринок США через Nordstrom і Macy's.",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/09/evri-automated-hub-bristol/",
-    "title": "Evri trials automated neighbourhood parcel hub in Bristol",
-    "topic": "Fulfillment & Ops",
-    "gist": "Evri запускає пілотний проєкт роботизованого районного пункту видачі посилок у Бристолі у партнерстві з Collective Robotics, щоб протестувати, як такі хаби можуть підтримати доставку на останній милі.",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://digiday.com/marketing/openais-next-chatgpt-ad-format-click-to-chat-not-to-site/",
-    "title": "OpenAI’s next ChatGPT ad format: click to chat, not to site",
-    "topic": "Ad & Marketing",
-    "gist": "OpenAI тестує новий рекламний формат для ChatGPT, який перетворює клік на оголошенні не на перехід на сайт бренду, а на чат з AI-агентом бренду всередині ChatGPT.",
-    "date": "2026-09-14"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/does-retail-media-add-value",
-    "title": "Does Retail Media Add Value?",
-    "topic": "Ad & Marketing",
-    "gist": "Аналітичний матеріал розбирає, коли retail media дійсно створює цінність для рекламодавців і ритейлерів-паблішерів, а коли просто перерозподіляє маржу на користь маркетплейсу.",
-    "date": "2026-09-14"
-  },
-  {
     "url": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
     "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
     "topic": "Ad & Marketing",
@@ -733,5 +698,103 @@
     "topic": "DTC & Brands",
     "gist": "Knix VP of design Jules Power describes the 18-month, 31-prototype, 1,700-hour wear-testing process behind the brand's seamless cotton underwear line, illustrating the hidden complexity in developing intimate apparel products.",
     "date": "2026-09-28"
+  },
+  {
+    "url": "https://digiday.com/media-buying/at-its-flagship-unboxed-conference-amazon-ads-collapses-buying-silos-as-ai-takes-a-bigger-role-in-media-decisions/",
+    "title": "At its flagship unBoxed conference, Amazon Ads collapses buying silos as AI takes a bigger role in media decisions",
+    "topic": "Ad & Marketing",
+    "gist": "Amazon rebranded its unified ad platform to 'Amazon Ads Agent' and launched Full-Funnel Campaigns, combining sponsored ads, display, video, and streaming TV in one campaign, amid ongoing government scrutiny of its auction practices.",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://www.retaildive.com/news/retailers-consumers-upcoming-holiday-season-what-to-expect/831003/",
+    "title": "Retailers, consumers both on edge as the holidays approach",
+    "topic": "Retail",
+    "gist": "With 45% of consumers describing household finances as insecure and prices up 30–35% since 2018, both retailers and shoppers are approaching the 2025 holiday season cautiously — shoppers are starting earlier, chasing promotions, and using AI to find deals, while retailers are keeping inventory lean to avoid end-of-season gluts.",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://internetretailing.net/guest-comment-how-good-friction-can-rebuild-consumer-trust-this-black-friday/",
+    "title": "GUEST COMMENT How “good friction” can rebuild consumer trust this Black Friday",
+    "topic": "Retail",
+    "gist": "A Proximus Global exec argues that the e-commerce industry's obsession with zero-friction checkout is eroding consumer trust, and that visible security checkpoints — 'good friction' — actually improve conversion confidence, citing data that 71% of users trust services more when MFA is present.",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://digiday.com/marketing/behind-hokas-bid-to-own-the-nyc-marathons-run-up-period/",
+    "title": "Behind Hoka’s bid to own the NYC marathon’s run-up period",
+    "topic": "DTC & Brands",
+    "gist": "Hoka is activating a Strava-based sponsorship campaign tied to the NYC Marathon, using digital billboards as borough-level leaderboards to build loyalty among the city's running community ahead of November 2.",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://digiday.com/podcasts/heres-what-openai-needs-to-do-to-reach-its-billion-dollar-ad-ambitions/",
+    "title": "Here’s what OpenAI needs to do to reach its billion-dollar ad ambitions",
+    "topic": "Ad & Marketing",
+    "gist": "OpenAI's ad business, launched just seven months ago, is reportedly running at a $1 billion annualized revenue rate, with projections of $25 billion in ad revenue by year-end and $100 billion by 2030.",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://digiday.com/marketing/ad-tech-briefing-ai-is-changing-programmatic-buying-faster-than-who-controls-it/",
+    "title": "Ad Tech Briefing: AI is changing programmatic buying faster than who controls it",
+    "topic": "Ad & Marketing",
+    "gist": "A new IAB survey of European digital advertisers finds AI is already embedded in programmatic campaign optimization, but most industry players remain cautious about giving AI agents fully autonomous buying authority.",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://www.modernretail.co/technology/how-kroger-giant-eagle-and-doordash-are-building-their-agentic-ai-assistants/",
+    "title": "How Kroger, Giant Eagle and DoorDash are building their agentic AI assistants",
+    "topic": "Retail",
+    "gist": "Executives from Kroger, Giant Eagle, and DoorDash at Groceryshop described their agentic AI strategies as focused on bridging the gap between in-store inspiration and online ordering, with Kroger framing its shopping assistant as closing the distance between 'inspired to cook' and 'item in cart.'",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/how-van-cleef-arpels-and-the-wires-are-using-ai-for-product-discovery-and-personalization/",
+    "title": "How Van Cleef & Arpels and The Wires are using AI for product discovery and personalization",
+    "topic": "Retail",
+    "gist": "Van Cleef & Arpels and The Wires are using AI to address fragmented, non-linear product discovery, with The Wires' CEO noting that AI allows product discovery to become highly personal within the narrow attention window brands have.",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/shopify-opens-checkout-to-browser-based-ai-agents/",
+    "title": "Shopify opens checkout to browser-based AI agents",
+    "topic": "Marketplaces",
+    "gist": "Shopify now allows browser-based AI agents to complete full purchases on merchant storefronts via WebMCP support for checkout and Shop Pay, adding tools for agents to inspect, update, and submit transactions with buyer authorization — while Amazon and Adidas are reportedly blocking similar agent activity.",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative/",
+    "title": "Meta launches enterprise AI platform, hires MongoDB CEO to lead new initiative",
+    "topic": "Marketplaces",
+    "gist": "Meta launched 'Meta Enterprise Platform,' a new business unit to sell its AI stack — including its Muse assistant and Meta Business Agent — to corporate customers, hiring MongoDB's CEO to lead the initiative.",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://ecommercenews.eu/european-ecommerce-set-to-grow-5-this-year/",
+    "title": "‘European ecommerce set to grow 5% this year’",
+    "topic": "Retail",
+    "gist": "European e-commerce is forecast to grow 5% in nominal terms in 2025, with Eastern Europe's previously strong growth momentum slowing significantly, according to Ecommerce Europe and EuroCommerce.",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://www.retaildive.com/news/walmart-ceo-dynamic-pricing-concerns/831490/",
+    "title": "Walmart CEO addresses dynamic pricing concerns",
+    "topic": "Retail",
+    "gist": "Walmart CEO John Furner publicly stated the company does not and will not use personalized or dynamic pricing based on customer identity, shopping history, or time of day — but consumer advocacy group Groundwork Collaborative pointed to a 2023 Walmart patent for dynamic shelf-label pricing tied to cart contents, and the company has not explained the discrepancy.",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://www.retaildive.com/news/walmart-fashion-home-beauty-merchant-teams-style-organization/831464/",
+    "title": "Walmart consolidates merchant teams with focus on style",
+    "topic": "Retail",
+    "gist": "Walmart is merging its fashion, home, and beauty merchant teams into a new 'Style Strategic Business Unit' under longtime e-commerce fashion lead Denise Incandela, with the stated goal of leading in style and trend across both in-store and online channels.",
+    "date": "2026-09-29"
+  },
+  {
+    "url": "https://www.retaildive.com/news/holiday-season-ecommerce-sales-growth-2026/831121/",
+    "title": "Consumers aren’t just buying gifts this holiday season. They’re stocking up on essentials.",
+    "topic": "Consumer Trends",
+    "gist": "Adobe projects U.S. holiday online sales will grow 6.7% year over year to $275.1 billion, with a notable shift: shoppers are using holiday discounts to stock up on essentials like clothing basics (+210%) and hygiene products (+150%) alongside traditional gifts, driven by economic pressure; AI-driven traffic to retail sites is expected to grow 130% year over year.",
+    "date": "2026-09-29"
   }
 ]
