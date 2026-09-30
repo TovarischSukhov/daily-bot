@@ -1,68 +1,5 @@
 [
   {
-    "url": "https://stratechery.com/2026/openai-ads-amazon-ads-in-chatgpt-walmart-to-accept-apple-pay/",
-    "title": "OpenAI Ads, Amazon Ads in ChatGPT, Walmart to Accept Apple Pay",
-    "topic": "Ad & Marketing",
-    "gist": "OpenAI is introducing ads into ChatGPT, with Amazon reportedly among early ad partners, while Walmart has reversed course and will accept Apple Pay. Full analysis is behind Stratechery's paywall.",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/carters-unveils-brand-refresh-as-it-courts-more-gen-z-and-millennial-parents/",
-    "title": "Carter’s unveils brand refresh as it courts more Gen Z and millennial parents",
-    "topic": "DTC & Brands",
-    "gist": "Carter's is launching its first brand refresh since 2000, targeting Gen Z and millennial parents with a new visual identity, a creator program, and a partnership with Outward Bound, as the company reports three consecutive quarters of net sales growth despite closing 150 stores.",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://digiday.com/marketing/in-graphic-detail-inside-the-scramble-to-measure-a-brands-ai-visibility/",
-    "title": "In Graphic Detail: Inside the scramble to measure a brand’s AI visibility",
-    "topic": "Ad & Marketing",
-    "gist": "Brands are beginning to shift ad budgets specifically to influence how AI chatbots describe them, while the IAB works on a measurement framework, and companies are hiring 'heads of AI search' to navigate a space with no agreed-upon metrics yet.",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll/",
-    "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-    "topic": "Retail",
-    "gist": "Fashion app Daydream launched two features using Apple's iOS 27 developer tools: one that turns saved outfit photos into shoppable results, and one that lets users search its catalog of 3 million products via Siri without opening the app.",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://www.retaildive.com/news/teens-ai-shopping-product-recommendations-trust/830277/",
-    "title": "Teens start to trust AI recommendations more than friends, parents",
-    "topic": "Consumer Trends",
-    "gist": "A Mastercard survey of 26,000 parents and teens found that 27% of teens are open to fully AI-run shopping assistants, 31% trust AI product recommendations more than a friend's, and 62% use AI monthly for product research — all significantly higher rates than their parents.",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://www.retaildive.com/news/best-buy-early-holiday-gifting-center/830274/",
-    "title": "Best Buy launches holiday gifting center earlier than ever",
-    "topic": "Retail",
-    "gist": "Best Buy is launching its holiday gifting center earlier than ever this year, featuring curated gift guides, immersive in-store experiences including Meta and Google shop-in-shops, next-day delivery in nearly every metro, and the ability to purchase Best Buy products through ChatGPT.",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://www.retaildive.com/news/fedex-launches-shopify-app-to-combat-surprise-import-charges/830262/",
-    "title": "FedEx launches Shopify app to combat surprise import charges",
-    "topic": "Fulfillment & Ops",
-    "gist": "FedEx launched a Shopify app called FedEx Duty and Tax ($99/month) that guarantees the duty and tax amount shown at checkout, covering any shortfall if actual charges are higher — part of a broader Global Trade Navigator suite aimed at reducing cross-border friction for merchants.",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://www.retaildive.com/news/kohls-expands-babies-r-us-shops-sephora-falters/830256/",
-    "title": "Kohl’s turns to Babies R Us as Sephora falters",
-    "topic": "Retail",
-    "gist": "Kohl's is expanding its Babies R Us shop-in-shops to 56 more stores as Sephora concessions underperform — Sephora sales fell 4% in Q2 and store traffic remains challenged, though June and July showed the first back-to-back monthly visit gains in roughly two years.",
-    "date": "2026-09-15"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/branded-sites-are-vital-for-merchants",
-    "title": "Branded Sites Are Vital for Merchants",
-    "topic": "DTC & Brands",
-    "gist": "The article argues that branded e-commerce sites remain essential despite growing marketplace and AI-driven discovery, citing first-party data control, long-tail search visibility, brand trust, and the fact that GenAI platforms often crawl brand sites directly when users ask about a company.",
-    "date": "2026-09-15"
-  },
-  {
     "url": "https://www.modernretail.co/operations/nearly-all-luxury-resale-transactions-on-tiktok-shop-us-now-come-from-livestreams/",
     "title": "Nearly all luxury resale transactions on TikTok Shop US now come from livestreams",
     "topic": "Marketplaces",
@@ -796,5 +733,47 @@
     "topic": "Consumer Trends",
     "gist": "Adobe projects U.S. holiday online sales will grow 6.7% year over year to $275.1 billion, with a notable shift: shoppers are using holiday discounts to stock up on essentials like clothing basics (+210%) and hygiene products (+150%) alongside traditional gifts, driven by economic pressure; AI-driven traffic to retail sites is expected to grow 130% year over year.",
     "date": "2026-09-29"
+  },
+  {
+    "url": "https://www.retaildive.com/news/best-buy-tiktok-shop-launch/831527/",
+    "title": "Best Buy to launch on TikTok Shop",
+    "topic": "Marketplaces",
+    "gist": "Best Buy is launching on TikTok Shop in late October with nearly 10,000 products, fulfilled by Best Buy and returnable in-store, as it pursues a broader transformation into a retail media and technology company.",
+    "date": "2026-09-30"
+  },
+  {
+    "url": "https://www.retaildive.com/news/target-cuts-prices-consumer-sentiment-sours/831627/",
+    "title": "Target cuts prices as consumer sentiment sours",
+    "topic": "Retail",
+    "gist": "Target is cutting prices on roughly 2,000 home, apparel and accessories items as consumer sentiment hits a four-month low, part of a broader 10,000-price-cut push over the past year.",
+    "date": "2026-09-30"
+  },
+  {
+    "url": "https://www.retaildive.com/news/inflation-slams-consumer-sentiment-four-month-low-fed-monetary-policy/831599/",
+    "title": "Inflation slams consumer sentiment to 4-month low",
+    "topic": "Consumer Trends",
+    "gist": "University of Michigan consumer sentiment dropped to a four-month low in September amid inflation and trade dispute concerns, yet retail sales jumped 1.2% in August, with e-commerce among the strongest-performing segments.",
+    "date": "2026-09-30"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/brands-briefing-hanna-andersson-is-joining-amazon-with-a-90-unique-assortment/",
+    "title": "Brands Briefing: Hanna Andersson is joining Amazon, with a 90% unique assortment",
+    "topic": "DTC & Brands",
+    "gist": "Hanna Andersson is launching an Amazon storefront on October 1, with 90% of its Amazon assortment being unique to the platform, drawn from archival best-sellers in matching sets, underwear and pajamas.",
+    "date": "2026-09-30"
+  },
+  {
+    "url": "https://digiday.com/marketing/beauty-brand-cakes-wants-to-turn-its-tiktok-virality-into-an-owned-media-strategy/",
+    "title": "Beauty brand Cakes wants to turn its TikTok virality into an owned media strategy",
+    "topic": "DTC & Brands",
+    "gist": "Cakes Body, a TikTok-viral beauty brand that hit $100M in sales in three years through founder-led storytelling, launched its own entertainment company called Cakes Media to systematize virality and improve profitability.",
+    "date": "2026-09-30"
+  },
+  {
+    "url": "https://www.retaildive.com/news/sephora-marks-spencer-uk-beauty-retail-shop-in-shops/831603/",
+    "title": "Sephora furthers UK ambitions via M&S shop-in-shops",
+    "topic": "Retail",
+    "gist": "Sephora is partnering with Marks & Spencer to open shop-in-shop beauty spaces in 100 M&S UK stores and on M&S's website starting next spring, extending Sephora's UK footprint beyond its standalone locations.",
+    "date": "2026-09-30"
   }
 ]
