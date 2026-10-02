@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://internetretailing.net/next-raises-profit-forecast-for-fourth-time-this-year-as-h1-beats-expectations/",
-    "title": "Next raises profit forecast for fourth time this year as H1 beats expectations",
-    "topic": "Retail",
-    "gist": "Next raised its full-year profit forecast for the fourth time in 2025, with H1 group sales up 9% and profit before tax up 10.5%; online sales grew 7.4% while in-store declined 1.7%. The company flagged AI investments expected to cut a legacy software modernization project from £50M to £10M, but warned H2 UK growth will slow amid inflation and tax pressures.",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/pinterest-unveils-new-suite-of-ad-tools-including-visual-search-ads-in-its-pitch-to-brands/",
-    "title": "Pinterest unveils new suite of ad tools, including Visual Search Ads, in its pitch to brands",
-    "topic": "Ad & Marketing",
-    "gist": "Pinterest announced Visual Search Ads and expanded its Performance+ automated ad suite, positioning itself as a full-funnel performance platform powered by AI. CEO Bill Ready framed Pinterest's value to advertisers as capturing high-intent shoppers who are still undecided — a 'pre-purchase discovery' moment.",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://www.retaildive.com/news/lowes-chief-marketing-officer-jen-wilson-leads-digital-commerce/830444/",
-    "title": "Why Lowe’s chief marketer Jen Wilson added digital commerce to her portfolio",
-    "topic": "Retail",
-    "gist": "Lowe's promoted CMO Jen Wilson to EVP, adding digital commerce to her portfolio as the retailer's online sales grew 15.7% while comparable sales were nearly flat at 0.2% in Q2. Wilson's stated priority is moving from channel-by-channel personalization to unified, omnichannel, end-to-end personalization built on a single view of the customer.",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://www.retaildive.com/news/how-the-retail-crime-bill-could-bolster-ice/829731/",
-    "title": "How the retail crime bill could bolster ICE",
-    "topic": "Retail",
-    "gist": "The Combating Organized Retail Crime Act (CORCA), which has passed the House and awaits a Senate vote, would create a new DHS coordination center involving ICE to fight retail and cargo theft. Critics including the ACLU and immigration lawyers warn the bill could effectively make retailers participants in immigration enforcement, at a time when over 90% of HSI agents have been diverted to deportation operations.",
-    "date": "2026-09-17"
-  },
-  {
-    "url": "https://www.modernretail.co/technology/walmart-adds-marketplace-data-deeper-ai-features-to-scintilla-insights-platform/",
-    "title": "Walmart adds marketplace data, deeper AI features to Scintilla insights platform",
-    "topic": "Marketplaces",
-    "gist": "Walmart is expanding its Scintilla merchant data platform in 2026 to include marketplace seller data, customizable dashboards, custom alerts, and a deeper AI agent (Marty), with tighter integration into its replenishment systems. The move signals Walmart's intent to give both suppliers and marketplace sellers unified, real-time visibility into demand and operations.",
-    "date": "2026-09-17"
-  },
-  {
     "url": "https://ecommercenews.eu/google-removes-product-carousels-in-europe/",
     "title": "Google removes product carousels in  Europe",
     "topic": "Ad & Marketing",
@@ -803,5 +768,75 @@
     "topic": "Marketplaces",
     "gist": "DoorDash launched an AI agent accessible via Apple Messages that lets users place food and retail orders through natural-language text prompts, handling group orders, dietary preferences, and recommendations without requiring the app.",
     "date": "2026-10-01"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
+    "title": "ChatGPT can now virtually try on clothes for you",
+    "topic": "AI & Tech",
+    "gist": "OpenAI launched virtual try-on and a Favorites feature for ChatGPT globally, letting users upload photos to visualize clothing on themselves and save products for later. The features compete with Google and Pinterest in fashion discovery and could redirect shopping traffic away from traditional retail and search surfaces.",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/big-box-briefing-what-to-watch-for-as-amazon-target-and-walmart-host-their-fall-sales/",
+    "title": "Big-Box Briefing: What to watch for as Amazon, Target and Walmart host their fall sales",
+    "topic": "Retail",
+    "gist": "Amazon, Target, and Walmart are all running major fall sales events in the first week of October — Prime Big Deal Days, Walmart's Fall Deals Sale, and Target Circle Sale — serving as a key consumer demand signal ahead of the holiday season. This October sales cluster has grown into a significant retail period since Amazon introduced a second Prime Day in 2022.",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://www.retaildive.com/news/consumer-confidence-sags-12-year-low-eroded-inflation-job-anxiety-fed-federal-reserve/831783/",
+    "title": "Consumer confidence sags to 12-year low, eroded by inflation, job anxiety",
+    "topic": "Consumer Trends",
+    "gist": "Consumer confidence dropped to a 12-year low, driven by fuel prices, high borrowing costs, and weak hiring, with median inflation expectations rising to 5.1% over the next 12 months. Economists note consumers feel more financially stressed now than during the 2020 pandemic.",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/the-ai-powered-holiday-shopper-how-prompt-driven-curation-and-gen-alpha-algorithms-will-shape-consumer-behavior/",
+    "title": "The AI-powered holiday shopper: How prompt-driven curations and Gen Alpha algorithms will shape consumer behavior",
+    "topic": "Consumer Trends",
+    "gist": "PwC's 2026 Holiday Outlook highlights AI-driven gift curation, AI price tracking, and Gen Alpha's growing algorithmic influence on household spending as major forces shaping this holiday shopping season. Gen Z is also showing record in-store foot traffic alongside digital AI-assisted behaviors.",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
+    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
+    "topic": "Marketplaces",
+    "gist": "Shopify launched Canvas, a conversational AI site-builder that lets merchants design and build their entire store by chatting with the Sidekick AI agent, with changes rendered in real-time against the actual store code. Initial limitations include no third-party theme support, no app blocks, and desktop-only access.",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://www.retaildive.com/news/consumer-ai-use-boon-holidays-ai-traffic-doubles/831790/",
+    "title": "Consumer AI use a boon for the holidays as AI traffic doubles",
+    "topic": "Consumer Trends",
+    "gist": "Adobe forecasts AI-referred traffic to U.S. retail sites will more than double this holiday season (+130% YoY), and consumers arriving via AI assistants add items to carts at a 32% higher rate and generate 43% more revenue per visit compared to non-AI traffic. Adobe also found that shoppers using AI feel more confident in purchases and are less likely to return items.",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://www.retaildive.com/news/holiday-seasonal-retail-hiring-lower/831866/",
+    "title": "Holiday hiring is getting ‘smaller and more surgical’",
+    "topic": "Retail",
+    "gist": "Seasonal retail hiring in the U.S. is expected to fall 2.5% year-over-year to ~450,000 new Q4 jobs, continuing a multi-year trend toward smaller, more surgical staffing rather than large seasonal waves. Retailers are leaning on existing staff and on-demand pools, with major names like Amazon, Target, and Bath & Body Works yet to announce 2026 hiring plans.",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://modernretail.co.uk/ai-shopping-upends-the-rules-of-brand-leadership-price-positioning-competition-according-to-new-jellyfish-research/",
+    "title": "AI Shopping Upends the Rules of Brand Leadership, Price Positioning & Competition, According to New Jellyfish Research",
+    "topic": "Ad & Marketing",
+    "gist": "Jellyfish research found that AI shopping assistants (ChatGPT, Google AI Mode, Amazon Alexa) produce radically different product recommendations for identical queries, with no dominant 'AI shelf,' collapsed price tiers, and brand leadership often erased — ChatGPT alone accounted for ~80% of AI product recommendations across categories studied. The firm launched a 'Share of Model Shopping Optimization' tool to help brands measure and influence AI-level product visibility at the SKU level.",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://www.retaildive.com/news/meta-debuts-ai-agent-muse-small-businesses/831890/",
+    "title": "Meta debuts AI agent for small businesses",
+    "topic": "Marketplaces",
+    "gist": "Meta launched Muse for Small Business, an AI agent that integrates with Shopify, Stripe, QuickBooks, and other platforms to perform tasks on behalf of small businesses, priced at $20–$100/month after a free tier. Amazon has already asked Meta to remove its site from Muse's access, mirroring a prior legal dispute with Perplexity over unauthorized AI-agent purchases.",
+    "date": "2026-10-02"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/nike-plots-further-job-cuts-as-china-sales-plunge-26/",
+    "title": "Nike plots further job cuts as China sales plunge 26%",
+    "topic": "Retail",
+    "gist": "Nike reported a 4% revenue decline in Q1 to $11.21bn, with Greater China sales plunging 26% for the ninth consecutive quarter of decline, prompting restructuring plans and further job cuts expected to save ~£1.9bn by 2031. The company is simplifying its global structure from four regions to three and cutting Jordan retro launches to reduce discounting.",
+    "date": "2026-10-02"
   }
 ]
