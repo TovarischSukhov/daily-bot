@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://ecommercenews.eu/google-removes-product-carousels-in-europe/",
-    "title": "Google removes product carousels in  Europe",
-    "topic": "Ad & Marketing",
-    "gist": "Google has nearly eliminated product carousels from shopping-related search results across the EEA, abruptly removing a major source of organic visibility for online retailers.",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://internetretailing.net/retail-rebounds-in-august-but-the-autumn-budget-could-prove-make-or-break/",
-    "title": "Retail rebounds in August but the Autumn Budget could prove make or break",
-    "topic": "Retail",
-    "gist": "UK retail sales volumes rose 0.5% in August, driven by online, food, and clothing, but analysts warn the rebound is fragile and the upcoming Autumn Budget could determine whether momentum holds through the Golden Quarter.",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/09/uk-retail-sales-rebound-0-5-cent-in-august/",
-    "title": "UK retail sales rebound 0.5% cent in August",
-    "topic": "Retail",
-    "gist": "UK retail sales volumes rebounded 0.5% in August, reversing July's decline, but analysts caution that inflation, rising operating costs, and household budget pressure make the outlook for autumn trading uncertain.",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/09/consumer-confidence-edges-up-ahead-of-crucial-golden-quarter/",
-    "title": "Consumer confidence edges up ahead of crucial golden quarter",
-    "topic": "Consumer Trends",
-    "gist": "KPMG UK's Consumer Pulse shows 56% of UK consumers feel financially secure, up slightly quarter-on-quarter, but 55% still believe the economy is worsening and 42% plan no big-ticket purchases in the next three months.",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://www.retaildive.com/news/toys-r-us-accelerates-store-openings-holidays/830637/",
-    "title": "Toys R Us accelerates store openings in time for the holidays",
-    "topic": "Retail",
-    "gist": "Toys R Us is opening 120 new stand-alone U.S. stores this holiday season in partnership with Go Retail Group, bringing its total footprint to 160 locations, with some featuring influencer content studios, candy shops, and cafes.",
-    "date": "2026-09-18"
-  },
-  {
-    "url": "https://www.retaildive.com/news/amazon-boosts-minimum-hourly-starting-wage/830661/",
-    "title": "Amazon boosts minimum hourly starting wage to $20",
-    "topic": "Fulfillment & Ops",
-    "gist": "Amazon is raising its minimum starting wage to $20/hour for operations employees and adding banking and grocery benefits, as it navigates a consumer environment where inflation is beginning to outpace wage growth.",
-    "date": "2026-09-18"
-  },
-  {
     "url": "https://www.modernretail.co/operations/how-rothys-built-a-dtc-footwear-brand-with-staying-power/",
     "title": "How Rothy’s built a DTC footwear brand with staying power",
     "topic": "DTC & Brands",
@@ -838,5 +796,33 @@
     "topic": "Retail",
     "gist": "Nike reported a 4% revenue decline in Q1 to $11.21bn, with Greater China sales plunging 26% for the ninth consecutive quarter of decline, prompting restructuring plans and further job cuts expected to save ~£1.9bn by 2031. The company is simplifying its global structure from four regions to three and cutting Jordan retro launches to reduce discounting.",
     "date": "2026-10-02"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/how-litter-robot-is-doing-tiktok-shop-without-the-deep-discounts/",
+    "title": "How Litter Robot is doing TikTok Shop without the deep discounts",
+    "topic": "Marketplaces",
+    "gist": "Whisker (maker of Litter Robot) joined TikTok Shop in the past year to capture early-mover advantage and reach Gen Z/Gen Alpha, without relying on the heavy discounting common on the platform.",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://ecommercenews.eu/over-90-of-purchases-abroad-made-on-temu-shein-or-aliexpress/",
+    "title": "Over 90% of purchases abroad made on Temu, Shein or AliExpress",
+    "topic": "Marketplaces",
+    "gist": "In 2025, over 90% of EU cross-border online spending on physical goods went to Temu, Shein, and AliExpress, totaling €49.7 billion out of €55.1 billion spent outside the EU.",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.retaildive.com/news/ikea-shutters-three-small-format-plan-and-order-stores/832021/",
+    "title": "Ikea to shutter 3 small-format plan and order stores",
+    "topic": "Retail",
+    "gist": "IKEA U.S. is closing three small-format plan-and-order stores in the D.C. area, pivoting investment toward home delivery, pickup services, and digital channels instead.",
+    "date": "2026-10-03"
+  },
+  {
+    "url": "https://www.retaildive.com/news/nike-turnaround-visibility-very-low-layoffs-sales-declines-q1-earnings/832015/",
+    "title": "Nike extends turnaround timeline amid more layoffs, sales declines",
+    "topic": "Retail",
+    "gist": "Nike reported Q1 revenue down 4% to $11.2 billion and announced a third restructuring plan called 'Pace,' with more layoffs ahead and executives warning the turnaround will extend well beyond fiscal 2026.",
+    "date": "2026-10-03"
   }
 ]
