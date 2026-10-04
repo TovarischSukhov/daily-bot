@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/operations/how-rothys-built-a-dtc-footwear-brand-with-staying-power/",
-    "title": "How Rothy’s built a DTC footwear brand with staying power",
-    "topic": "DTC & Brands",
-    "gist": "Rothy's reached $211 million in sales while other DTC footwear brands like Allbirds collapsed, positioning it as a rare survivor in a volatile category by moving beyond pure digital advertising without burning cash.",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.retaildive.com/news/christmas-decor-retailer-gordon-companies-files-chapter-11-bankruptcy/830777/",
-    "title": "Longtime Christmas decor retailer files for bankruptcy",
-    "topic": "Retail",
-    "gist": "Gordon Companies, a family-owned seasonal decor retailer operating since 1977, filed for Chapter 11 bankruptcy, with its collapse tied in part to a failed SAP-based inventory and order management system that cost over $2 million and crippled fulfillment during peak seasons.",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.retaildive.com/news/macys-rolls-out-ai-inventory-replenishment-tool/830751/",
-    "title": "Macy’s rolls out AI inventory replenishment tool",
-    "topic": "Retail",
-    "gist": "Macy's is rolling out an AI-powered inventory replenishment tool beyond pilot phase, aiming to improve in-stock levels and supply chain efficiency as part of its broader 'Bold New Chapter' transformation.",
-    "date": "2026-09-19"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/5-levers-drive-cac-says-ad-pro",
-    "title": "5 Levers Drive CAC, Says Ad Pro",
-    "topic": "Ad & Marketing",
-    "gist": "Performance marketing agency founder Hal Smith outlines five levers that drive CAC on Meta and Google — offer, creative, account structure, landing page, and signal engineering — with a focus on training platforms to optimize for new customer acquisition specifically.",
-    "date": "2026-09-19"
-  },
-  {
     "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
     "title": "Flock reportedly tries to shrink workforce with employee buyouts",
     "topic": "Retail",
@@ -824,5 +796,33 @@
     "topic": "Retail",
     "gist": "Nike reported Q1 revenue down 4% to $11.2 billion and announced a third restructuring plan called 'Pace,' with more layoffs ahead and executives warning the turnaround will extend well beyond fiscal 2026.",
     "date": "2026-10-03"
+  },
+  {
+    "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
+    "title": "What Meta got right with Muse",
+    "topic": "Marketplaces",
+    "gist": "Meta's Muse project is discussed on Hacker News, but no article text is available beyond the link.",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/5-content-marketing-ideas-for-november",
+    "title": "5 Content Marketing Ideas for November 2026",
+    "topic": "Ad & Marketing",
+    "gist": "Practical Ecommerce outlines five content marketing angles for November 2026, including Route 66's centennial, STEM Day product explainers, a 1976 retrospective, World Television Day tie-ins, and an 'anti-gift guide' format aimed at standing out in AI-assisted search.",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
+    "title": "We're going to need default hard budget caps on pretty much everything",
+    "topic": "AI & Tech",
+    "gist": "The post argues that pay-per-use APIs and cloud services should default to hard spending caps that cut off service at a set dollar limit, rather than soft warnings, noting AWS and Google Cloud have recently launched early versions of this feature.",
+    "date": "2026-10-04"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "title": "All the AI agents that can live in your text messages",
+    "topic": "AI & Tech",
+    "gist": "TechCrunch surveys over a dozen AI personal assistant products that operate via SMS/iMessage, capable of handling tasks like scheduling, shopping, reservations, and email management without requiring a separate app download.",
+    "date": "2026-10-04"
   }
 ]
