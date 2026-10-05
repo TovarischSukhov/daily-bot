@@ -1,19 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/09/19/flock-reportedly-tries-to-shrink-workforce-with-employee-buyouts/",
-    "title": "Flock reportedly tries to shrink workforce with employee buyouts",
-    "topic": "Retail",
-    "gist": "Flock Safety, facing backlash over misuse of its license plate recognition technology, is offering voluntary severance packages to reduce its 1,500-person workforce without formal layoffs.",
-    "date": "2026-09-20"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/19/trump-suggests-rebranding-ai-with-a-new-name-says-hes-also-creating-an-ai-force/",
-    "title": "Trump says it’s time to rebrand AI with a new name — and he’s also creating an AI Force",
-    "topic": "AI & Tech",
-    "gist": "Trump posted a poll to rename 'Artificial Intelligence' and announced plans to create an AI Force and appoint an AI czar, framing AI safety concerns as a left-wing hoax.",
-    "date": "2026-09-20"
-  },
-  {
     "url": "https://ecommercenews.eu/temu-ranks-first-in-four-european-ecommerce-markets/",
     "title": "Temu ranks first in four European ecommerce markets",
     "topic": "Marketplaces",
@@ -824,5 +810,68 @@
     "topic": "AI & Tech",
     "gist": "TechCrunch surveys over a dozen AI personal assistant products that operate via SMS/iMessage, capable of handling tasks like scheduling, shopping, reservations, and email management without requiring a separate app download.",
     "date": "2026-10-04"
+  },
+  {
+    "url": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/832070/",
+    "title": "Gap unveils AI-assisted shopping, three decades after its first website",
+    "topic": "Retail",
+    "gist": "Gap Inc. is launching AI-powered shopping tools across all four of its brands, partnering with platforms Alta Daily and Daydream for outfit discovery, plus adding conversational shopping agents to Old Navy and Banana Republic sites — 30 years after launching its first e-commerce website. The company acknowledges consumer skepticism, with 45% of AI-assisted apparel purchases resulting in regret according to one survey.",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://ecommercenews.eu/tiktok-shop-still-much-bigger-in-the-uk-than-elsewhere-in-europe/",
+    "title": "TikTok Shop still much bigger in the UK than elsewhere in Europe",
+    "topic": "Marketplaces",
+    "gist": "TikTok Shop's UK gross merchandise value is projected to reach nearly €5 billion in 2025, far outpacing its performance in other European markets where the platform has also launched.",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.retaildive.com/news/walmart-ohio-fulfillment-center-oversized-goods/831964/",
+    "title": "Walmart to build Ohio fulfillment center for oversized goods",
+    "topic": "Fulfillment & Ops",
+    "gist": "Walmart is investing $300 million in a new fulfillment center in Ohio dedicated to oversized, non-sortable goods like furniture and TVs, part of a broader network reshuffling that also includes robotics upgrades and some facility closures. Amazon and Costco are making similar moves in the big-and-bulky category.",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://digiday.com/marketing/tiktoks-ad-network-bet-more-reach-more-budget/",
+    "title": "TikTok’s ad network bet: More reach, more budget",
+    "topic": "Ad & Marketing",
+    "gist": "TikTok has rebranded its Pangle ad network as the TikTok Ad Network (TTAN) and opened it to U.S. advertisers, allowing them to extend campaigns across nearly 400,000 apps beyond TikTok itself. The move is designed to capture more of advertisers' total budgets, though transparency about which apps are included remains limited.",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/pricing-tactics-come-under-scrutiny-in-the-age-of-ai/",
+    "title": "Pricing tactics come under scrutiny in the age of AI",
+    "topic": "Retail",
+    "gist": "Retailers are facing growing consumer and regulatory scrutiny over dynamic pricing practices, fueled by the spread of digital shelf labels and leaked screenshots of pricing algorithms. The pressure is putting more companies on the defensive about how customer data is used to set prices.",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.retaildive.com/news/glp1-users-apparel-retailers-rethink-everything-returns-davids-bridal/831835/",
+    "title": "How GLP-1 users are forcing retailers to rethink everything",
+    "topic": "Consumer Trends",
+    "gist": "GLP-1 weight-loss drug adoption — now at 11% of U.S. adults — is driving measurable shifts in apparel retail: smaller average dress sizes, delayed purchases, higher return rates, and surge in bracketing behavior. Retailers like David's Bridal and DXL are adapting operations around sizing volatility, with 70% of GLP-1 users having dropped at least one clothing size.",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://internetretailing.net/lidl-attracts-43m-extra-visits-as-lidl-plus-investment-fuels-growth/",
+    "title": "Lidl attracts 43m extra visits as Lidl Plus investment fuels growth",
+    "topic": "Retail",
+    "gist": "Lidl GB grew revenue 10.8% to £13bn, driven partly by a 23% rise in Lidl Plus loyalty app users, with more than half of shoppers now using a loyalty coupon vs. a quarter the prior year. The retailer plans a 60% increase in personalized coupon funding in 2026 alongside continued physical expansion.",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://digiday.com/marketing/openai-moves-to-make-chatgpt-ads-more-measurable-and-more-visual/",
+    "title": "OpenAI moves to make ChatGPT ads more measurable — and more visual",
+    "topic": "Ad & Marketing",
+    "gist": "OpenAI is expanding ChatGPT's ad product with new image ad formats and improved measurement tools, addressing advertiser complaints about limited formats and inability to track performance since ads launched in February. Tests of image ads in the U.S. are planned for later this month.",
+    "date": "2026-10-05"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/from-influencers-to-ai-heres-what-gen-alpha-thinks-about-your-brand/",
+    "title": "From influencers to AI, here’s what Gen Alpha thinks about your brand",
+    "topic": "Consumer Trends",
+    "gist": "A panel of Gen Alpha shoppers at Shoptalk Fall revealed strong aversion to AI-generated ads and a preference for feeling 'unique,' with the cohort holding $100 billion in direct annual spending power and influencing nearly half of U.S. household spend in families with children ages 8–14. Amazon, Nike, and McDonald's are currently the top-ranked brands among Gen Alpha teens.",
+    "date": "2026-10-05"
   }
 ]
