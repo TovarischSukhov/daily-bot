@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://ecommercenews.eu/temu-ranks-first-in-four-european-ecommerce-markets/",
-    "title": "Temu ranks first in four European ecommerce markets",
-    "topic": "Marketplaces",
-    "gist": "Temu ranks first among online retailers in four European countries and has entered the top 10 in nearly every European market, according to ECDB 2025 data. The four countries where it leads share an absence of a local Amazon storefront or dominant domestic marketplace.",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://internetretailing.net/brits-most-likely-to-engage-in-refund-abuse-and-98-get-away-with-it/",
-    "title": "Brits most likely to engage in refund abuse – and 98% get away with it",
-    "topic": "Retail",
-    "gist": "Over a third of British consumers have committed or plan to commit refund abuse, the highest rate in Europe, and 98% of attempts succeed without consequence, per a Ravelin survey of 6,000 consumers across the UK, France, and Germany. AI tools are now being used by fraudsters to generate fake evidence, and the behavior is becoming more frequent and socially normalized.",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://digiday.com/media-buying/can-adland-realistically-reduce-its-reliance-on-googles-vertically-integrated-ad-stack/",
-    "title": "Can adland realistically reduce its reliance on Google’s vertically integrated ad stack?",
-    "topic": "Ad & Marketing",
-    "gist": "A US court ruled that Google does not need to divest parts of Google Ad Manager despite finding its sell-side ad tech monopolistic, leaving behavioral remedies as the only outcome. The decision has reignited debate about whether regulatory action can meaningfully check Big Tech's dominance in digital advertising.",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://digiday.com/marketing/the-case-for-and-against-retail-media-networks-as-brand-building-channels/",
-    "title": "The case for and against retail media networks as brand-building channels",
-    "topic": "Ad & Marketing",
-    "gist": "Retail media networks are pushing beyond lower-funnel, point-of-purchase ads to pitch themselves as brand-building channels, backed by partnerships with streaming and social platforms (e.g., Kroger x Disney, Walmart x TikTok/Meta). The argument is that retailers now own not just ad placements but apps, screens, content, and cultural moments.",
-    "date": "2026-09-21"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/test-your-products-for-ai-discovery",
-    "title": "Test Your Products for AI Discovery",
-    "topic": "AI & Tech",
-    "gist": "Generative AI shopping agents can miss products that match a shopper's needs if product data is incomplete — missing attributes like weight, width, or delivery timing cause mismatches even when the right product exists. The article outlines five practical tests merchants can run to check whether their listings are discoverable and matchable by AI shopping systems.",
-    "date": "2026-09-21"
-  },
-  {
     "url": "https://internetretailing.net/amazon-versus-meta-the-first-big-turf-war-of-agentic-shopping/",
     "title": "Amazon versus Meta: the first big turf war of agentic shopping",
     "topic": "Marketplaces",
@@ -873,5 +838,40 @@
     "topic": "Consumer Trends",
     "gist": "A panel of Gen Alpha shoppers at Shoptalk Fall revealed strong aversion to AI-generated ads and a preference for feeling 'unique,' with the cohort holding $100 billion in direct annual spending power and influencing nearly half of U.S. household spend in families with children ages 8–14. Amazon, Nike, and McDonald's are currently the top-ranked brands among Gen Alpha teens.",
     "date": "2026-10-05"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
+    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
+    "topic": "Marketplaces",
+    "gist": "TikTok is launching a conversational AI shopping assistant and a one-click checkout directly in the For You feed, built with partners including Shopify, Salesforce, and Stripe, expanding its commerce push beyond TikTok Shop.",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/shapermint-is-on-track-to-hit-10m-in-tiktok-shop-sales-by-targeting-women-ages-35-65/",
+    "title": "Shapermint is on track to hit $10M in TikTok Shop sales by targeting women ages 35-65",
+    "topic": "Marketplaces",
+    "gist": "Shaperwear brand Shapermint built a 5,000-creator affiliate network on TikTok Shop — 60% of its top creators are over 35 — driving 515% month-over-month growth and putting it on track for $10M in TikTok Shop sales this year.",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
+    "title": "ASOS app users receive push notifications apparently sent by hackers",
+    "topic": "Retail",
+    "gist": "ASOS users received push notifications apparently sent by hackers claiming to have compromised the retailer's Snowflake data instance, with the extortion message sent publicly through the app's own notification system.",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
+    "title": "OpenAI launches visual ads that appear alongside image generation results",
+    "topic": "Ad & Marketing",
+    "gist": "OpenAI is adding visual display ads to ChatGPT that appear alongside image generation results, with measurement partnerships including AppsFlyer, Triple Whale, and Northbeam among others, initially rolling out in the U.S.",
+    "date": "2026-10-06"
+  },
+  {
+    "url": "https://www.retaildive.com/news/what-the-super-el-nino-means-for-retail/831188/",
+    "title": "What the Super El Niño means for retail",
+    "topic": "Retail",
+    "gist": "A record-strength El Niño is expected to produce an unusually warm fall and winter in North America, putting pressure on seasonal inventory and margins for apparel and winter-gear retailers, while a cold snap is forecast for early next year.",
+    "date": "2026-10-06"
   }
 ]
