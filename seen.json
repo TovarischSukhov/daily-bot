@@ -1,54 +1,5 @@
 [
   {
-    "url": "https://stratechery.com/2026/more-on-muse-amazon-and-walmart-muse-and-expedia-whither-google/",
-    "title": "More on Muse, Amazon, and Walmart; Muse and Expedia; Whither Google?",
-    "topic": "Marketplaces",
-    "gist": "Stratechery is analyzing the strategic dynamics between Meta (Muse), Amazon, Walmart, and Expedia in the AI agent shopping era, with a paywalled deep dive into where Google fits. The piece frames Walmart as a key ally for Meta in competing against Amazon's dominance.",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://modernretail.co.uk/generative-engine-marketing-in-the-agentic-era-brands-must-all-be-machine-readable/",
-    "title": "Generative engine marketing: in the agentic era, brands must all be machine-readable",
-    "topic": "Ad & Marketing",
-    "gist": "A Jellyfish/Brandtech executive argues that brands need to optimize for AI systems as both gatekeepers and buyers in what he calls the 'agentic era,' proposing a Generative Engine Marketing (GEM) framework that treats LLM visibility as a core marketing discipline. Case studies cited include a 39% ROAS improvement for Gentle Monster using LLM-informed Performance Max campaigns.",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/spot-tango-is-making-a-3-5m-bet-on-brand-marketing-after-years-of-spending-0/",
-    "title": "Spot & Tango is making a $3.5M bet on brand marketing after years of spending $0",
-    "topic": "DTC & Brands",
-    "gist": "Spot & Tango, a DTC pet food brand, is investing $3.5M in top-of-funnel brand marketing in 2025 after spending zero on it in prior years, running OOH, CTV, and events alongside its existing performance channels. The shift reflects a broader strategy to build brand awareness ahead of new in-house labels and its 10th anniversary in 2028.",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-    "title": "GPT-6 Sol and Luna",
-    "topic": "AI & Tech",
-    "gist": "OpenAI announced GPT-6 Sol and Luna models, which generated significant discussion on Hacker News. No additional detail is available from the text.",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/22/openai-launches-gpt-6-sol-and-luna/",
-    "title": "OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes",
-    "topic": "AI & Tech",
-    "gist": "OpenAI released updated GPT-6 Sol and Luna models, offering API access at half the cost of the previous 5.6 series, with claimed improvements in factual accuracy and coding reliability. The release came 90 minutes after Anthropic released a new version of Opus 5.5, highlighting intense competition between the two labs.",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://digiday.com/sponsored/in-the-zero-click-era-visibility-alone-is-no-longer-enough-for-brands/",
-    "title": "In the zero-click era, visibility alone is no longer enough for brands",
-    "topic": "Ad & Marketing",
-    "gist": "As AI-driven search reduces click-throughs to brand websites, marketers are reassessing what visibility means — shifting focus toward trust signals, editorial authority, and third-party mentions that influence AI recommendations rather than traditional keyword rankings. The piece argues that word-of-mouth and consistent brand reputation across public sources are becoming the new ranking factors.",
-    "date": "2026-09-23"
-  },
-  {
-    "url": "https://www.retaildive.com/news/amazon-meta-muse-ai-agent-shopping-experience/831018/",
-    "title": "Amazon asks Meta to remove it from the Muse AI agent experience",
-    "topic": "Marketplaces",
-    "gist": "Amazon asked Meta to remove it from the Muse AI agent shopping experience, stating it was not given advance notice or authorization for Muse to access its site and make purchases on users' behalf. The situation mirrors Amazon's ongoing lawsuit against Perplexity over similar unauthorized agent access, while Amazon itself runs a 'Buy for Me' feature that accesses external sellers without prior consent.",
-    "date": "2026-09-23"
-  },
-  {
     "url": "https://digiday.com/media-buying/58-of-ad-execs-expect-agentic-buying-to-hit-scale-within-a-year-according-to-iab-europe-research/",
     "title": "58% of ad execs expect agentic buying to hit scale within a year, according to IAB Europe research",
     "topic": "Marketplaces",
@@ -838,5 +789,40 @@
     "topic": "DTC & Brands",
     "gist": "Brands including Crocs, David's Bridal, and StockX are increasing investment in episodic short-form content as a marketing channel, following examples from Dr. Pepper, Marc Jacobs, and Bob's Discount Furniture, which have produced original series to engage audiences.",
     "date": "2026-10-07"
+  },
+  {
+    "url": "https://internetretailing.net/ai-shopping-has-outrun-its-plumbing-says-payments-expert/",
+    "title": "AI shopping has outrun its plumbing, says payments expert",
+    "topic": "Marketplaces",
+    "gist": "AI shopping agents like Meta's Muse and OpenAI's Dots can now execute purchases on consumers' behalf via integrated payment rails, but a payments expert warns the commercial framework — fraud standards, agent identity verification, dispute resolution — is not yet in place to support this at scale.",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/desktop-habits-hide-mobile-friction",
+    "title": "Desktop Habits Hide Mobile Friction",
+    "topic": "Retail",
+    "gist": "A practical audit checklist for mobile e-commerce UX, covering pop-up sequencing, sticky header conflicts, in-app browser limitations, and touch-optimized interactions — all issues that arise because store operators typically review their sites on desktop rather than mobile.",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/fashion-briefing-how-3-fashion-brands-crossed-100-million-in-revenue-without-outside-investment/",
+    "title": "Fashion Briefing: How 3 fashion brands crossed $100 million in revenue without outside investment",
+    "topic": "DTC & Brands",
+    "gist": "Glossy interviewed three fashion brand founders who scaled past $100M in revenue without outside investment, framing self-funded growth as an increasingly critical skill as VC dollars dry up — full article behind a paywall.",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.retaildive.com/news/lululemon-ceo-heidi-oneill-overhauls-c-suite-first-move/832434/",
+    "title": "Lululemon’s Heidi O’Neill overhauls C-suite in first move as CEO",
+    "topic": "Retail",
+    "gist": "New Lululemon CEO Heidi O'Neill has restructured the C-suite one month into the role, creating chief product and chief operating officer positions and removing two existing executives, with the stated aim of putting product design and innovation at the company's operational center.",
+    "date": "2026-10-08"
+  },
+  {
+    "url": "https://www.modernretail.co/sponsored/how-agentic-commerce-helps-brands-like-willy-chavarria-optimize-for-bfcm/",
+    "title": "How agentic commerce helps brands like Willy Chavarria optimize for BFCM",
+    "topic": "Marketplaces",
+    "gist": "E-commerce brands are turning to agentic commerce tools — AI-powered storefronts and checkout experiences — to improve conversion during BFCM, with the argument that speed of answer, not depth of discount, determines who wins peak season.",
+    "date": "2026-10-08"
   }
 ]
