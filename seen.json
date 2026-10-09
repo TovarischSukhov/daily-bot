@@ -1,82 +1,5 @@
 [
   {
-    "url": "https://digiday.com/media-buying/58-of-ad-execs-expect-agentic-buying-to-hit-scale-within-a-year-according-to-iab-europe-research/",
-    "title": "58% of ad execs expect agentic buying to hit scale within a year, according to IAB Europe research",
-    "topic": "Marketplaces",
-    "gist": "A new IAB Europe survey of 50 ad execs across 44 European markets found 58% expect agentic ad buying to reach operational scale within a year, though adoption levels vary sharply by company size.",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://internetretailing.net/aldi-to-offer-online-delivery-through-new-deliveroo-partnership/",
-    "title": "Aldi to offer online delivery through new Deliveroo partnership",
-    "topic": "Fulfillment & Ops",
-    "gist": "Aldi is piloting on-demand grocery delivery through Deliveroo's new Shop & Deliver service in eight UK stores, reversing its longstanding resistance to online delivery by outsourcing last-mile fulfilment to avoid margin impact.",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://digiday.com/media/from-brand-deals-to-equity-deals-creators-want-a-stake-not-just-a-fee/",
-    "title": "From brand deals to equity deals: creators want a stake, not just a fee",
-    "topic": "DTC & Brands",
-    "gist": "Creators are increasingly moving beyond paid brand deals to taking equity stakes or angel positions in consumer brands, with infrastructure around this model expected to grow quickly in the coming months.",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://digiday.com/marketing/why-sephora-released-a-beauty-set-exclusively-on-tiktok-shop/",
-    "title": "Why Sephora released a beauty set exclusively on TikTok Shop",
-    "topic": "Marketplaces",
-    "gist": "Sephora launched on TikTok Shop with a live-streamed session hosted by Mikayla Nogueira, featuring an exclusive holiday set from her brand POV Beauty that is only available through TikTok Shop, not Sephora's own website.",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://www.modernretail.co/technology/why-instacart-is-focused-on-reducing-item-markups-to-grow-its-delivery-platform/",
-    "title": "Why Instacart is focused on reducing item markups to grow its delivery platform",
-    "topic": "Marketplaces",
-    "gist": "Instacart CEO Chris Rogers outlined a strategy to reduce item price markups by working more closely with retail partners, positioning the platform as a full-stack grocery operating system rather than just a delivery app.",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/how-sephora-used-mikayla-nogueira-and-pov-beauty-to-kickstart-its-tiktok-shop-launch/",
-    "title": "How Sephora used Mikayla Nogueira and POV Beauty to kickstart its TikTok Shop launch",
-    "topic": "Marketplaces",
-    "gist": "Sephora launched its TikTok Shop presence with a live-stream hosted by mega-influencer Mikayla Nogueira, using an exclusive product from her POV Beauty brand as the hook, with nearly 2,300 products sold at time of publication.",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse/",
-    "title": "Everything new coming to Meta’s AI agent Muse",
-    "topic": "Marketplaces",
-    "gist": "Meta expanded its Muse AI agent at its annual Connect event, adding a digital avatar, smart glasses integration, Mac computer control, a dedicated email address, and shopping partnerships with retailers including Shopify, Best Buy, Gap, Sephora, and Walmart.",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://www.retaildive.com/news/consumers-trust-ai-advise-do-not-consent-purchasing-them/830990/",
-    "title": "Consumers trust AI to advise, but don’t consent to it purchasing for them",
-    "topic": "Consumer Trends",
-    "gist": "An ACI Worldwide survey of over 3,300 U.S. and U.K. consumers found only 7% would allow an AI assistant to make purchases without approval, with shoppers most interested in AI tools for price comparisons and deal alerts rather than autonomous buying.",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://www.retaildive.com/news/lower-income-households-financially-vulnerable-financial-health-network/831129/",
-    "title": "More lower-income households feel financially vulnerable",
-    "topic": "Consumer Trends",
-    "gist": "A new survey found 17% of U.S. households now feel financially vulnerable, up from 15% last year, with low-income consumers having shifted over $10 billion from discretionary to essential spending since 2019 while higher-income consumers increased discretionary spending.",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://www.retaildive.com/news/shoppers-burned-bad-ai-purchase-recommendations/831013/",
-    "title": "Shoppers burned by bad AI recommendations",
-    "topic": "Consumer Trends",
-    "gist": "A SmartCustomer survey of nearly 1,200 U.S. consumers found that while 76% used AI for purchases in the past year, a third made a regrettable purchase based on an AI recommendation, with apparel and footwear accounting for 45% of bad purchases.",
-    "date": "2026-09-24"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/new-ecommerce-tools-september-23-2026",
-    "title": "New Ecommerce Tools: September 23, 2026",
-    "topic": "Retail",
-    "gist": "A roundup of new e-commerce tools this week covers OpenAI's sponsored AI agents in ChatGPT, Pinterest Visual Search Ads, Mastercard's agentic payment infrastructure, FedEx authenticated delivery, and a range of AI-powered CRM, logistics, and affiliate marketing releases.",
-    "date": "2026-09-24"
-  },
-  {
     "url": "https://www.retailgazette.co.uk/blog/2026/09/ai-shoppers-convert-20-better-than-traditional-traffic-as-retail-habits-shift/",
     "title": "AI shoppers convert 20% better than traditional traffic as retail habits shift",
     "topic": "AI & Tech",
@@ -824,5 +747,89 @@
     "topic": "Marketplaces",
     "gist": "E-commerce brands are turning to agentic commerce tools — AI-powered storefronts and checkout experiences — to improve conversion during BFCM, with the argument that speed of answer, not depth of discount, determines who wins peak season.",
     "date": "2026-10-08"
+  },
+  {
+    "url": "https://ecommercenews.eu/swedish-ecommerce-grew-8-in-q2/",
+    "title": "Swedish ecommerce grew 8% in Q2",
+    "topic": "Retail",
+    "gist": "Swedish e-commerce grew 8% year-over-year in Q2, with all online sectors contributing to the increase. Whether the trend holds through the rest of the year remains to be seen.",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://digiday.com/marketing/future-of-marketing-briefing-why-top-creators-are-taking-fewer-brand-deals/",
+    "title": "Future of Marketing Briefing: Why top creators are taking fewer brand deals",
+    "topic": "Ad & Marketing",
+    "gist": "Top creators are reducing the number of brand deals they take and demanding more from the partners they keep — including equity stakes, product input, and formal titles. The shift was a recurring theme at Advertising Week New York.",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/why-chatgpt-ads-wont-likely-impact-holiday-sales-in-a-major-way-this-year/",
+    "title": "Why ChatGPT ads won’t likely impact holiday sales in a major way this year",
+    "topic": "Ad & Marketing",
+    "gist": "Brands testing ChatGPT's ad platform don't expect it to materially move holiday sales, citing high cost-per-click rates, unproven conversion, and lack of trust as a product-recommendation source. Most advertisers still treat it as an experimental channel versus Meta or Google.",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.glossy.co/pop/pop-newsletter-college-aged-content-creators-are-embracing-amazon-and-shopmy-moving-away-from-shein-and-malls/",
+    "title": "Pop Newsletter: College-age creators are embracing Amazon and ShopMy, moving away from Shein and malls",
+    "topic": "Marketplaces",
+    "gist": "College-age creators at a Glossy roundtable report gravitating toward Amazon and ShopMy for affiliate revenue while moving away from Shein and mall-based shopping. Platform usability and payout reliability appear to be key deciding factors.",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/big-box-briefing-why-executive-turnover-has-been-a-consistent-theme-in-retail-media/",
+    "title": "Big-Box Briefing: Why executive turnover has been a consistent theme in retail media",
+    "topic": "Ad & Marketing",
+    "gist": "The departure of Albertsons Media Collective's head Brian Monahan highlights ongoing executive instability in retail media leadership. The pattern of turnover points to structural challenges facing retail media networks.",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.retaildive.com/news/levis-q3-wholesale-tariff-refunds-deliver/832468/",
+    "title": "Wholesale, tariff refunds deliver for Levi’s in rough Q3",
+    "topic": "DTC & Brands",
+    "gist": "Levi's Q3 net revenues rose 4% to $1.6B, but DTC growth was nearly flat while wholesale grew 6%; tariff refunds of ~$80M boosted gross margins and are being reinvested into marketing and supply chain ahead of Q4. A mismatch between the brand's fit emphasis and consumer demand also weighed on results.",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.retaildive.com/news/amazon-retail-stores-division-layoffs/832501/",
+    "title": "Amazon retail division hit by job cuts",
+    "topic": "Retail",
+    "gist": "Amazon is cutting an undisclosed number of roles in its retail stores division, framing it as a structural adjustment to better execute on priorities. The cuts follow broader corporate layoffs announced in 2025, even as online store sales grew 15% year-over-year in Q2.",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.retaildive.com/news/ai-walmart-sparky-CX-investment/832327/",
+    "title": "AI is ‘reshaping’ Walmart and Sparky is leading the charge",
+    "topic": "Retail",
+    "gist": "Walmart's US CEO credits AI — particularly its in-house assistant Sparky and integrations with ChatGPT and Gemini — with driving a 10th consecutive quarter of 20%+ e-commerce growth, 40% higher AOVs from Sparky, and strong conversion from third-party AI agent referrals. Walmart is notably open to external AI agents, in contrast to Amazon's blocking approach.",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.retaildive.com/news/walmart-one-hour-express-store-pickup-asl-service-holiday/832464/",
+    "title": "Walmart debuts 1-hour express pickup, ASL service ahead of holidays",
+    "topic": "Retail",
+    "gist": "Walmart is rolling out 1-hour express curbside pickup at 500 stores ahead of the holidays, alongside an in-store LED shelf-locator feature and American Sign Language interpreting at service desks. About 80% of Walmart's e-commerce deliveries already flow through stores.",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://internetretailing.net/tesco-doubles-down-on-digital-as-profits-and-guidance-climb/",
+    "title": "Tesco doubles down on digital as profits and guidance climb",
+    "topic": "Retail",
+    "gist": "Tesco raised its full-year profit guidance after H1 results showed 2% sales growth and 6.3% profit growth, with online sales up 8% and its rapid-delivery service Whoosh up 37%. The CEO pointed to AI-enabled personalization, retail media growth, and new delivery partnerships as key drivers.",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://internetretailing.net/ai-will-move-at-the-speed-of-customer-trust-not-technology-says-e-on-next/",
+    "title": "AI will move at the speed of customer trust, not technology, says E.ON Next",
+    "topic": "Consumer Trends",
+    "gist": "E.ON Next's digital AI lead argues that AI adoption by customers will be uneven and trust-dependent, not driven by technical capability, and that businesses should treat AI as a channel and product strategy rather than a one-off transformation project. He recommends funding outcomes — like sales or retention — rather than isolated AI features like chatbots.",
+    "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/your-next-product-could-be-a-new-brand",
+    "title": "Your Next Product Could Be a New Brand",
+    "topic": "DTC & Brands",
+    "gist": "Agency founder Rok Hladnik advises DTC merchants to consider launching a separate brand rather than extending an existing one when targeting new audiences, and warns against cutting product quality as a red flag for long-term brand health. He also notes that AI is pressuring traditional media-buying agencies by enabling ad platforms to disintermediate them.",
+    "date": "2026-10-09"
   }
 ]
