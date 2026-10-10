@@ -1,75 +1,5 @@
 [
   {
-    "url": "https://www.retailgazette.co.uk/blog/2026/09/ai-shoppers-convert-20-better-than-traditional-traffic-as-retail-habits-shift/",
-    "title": "AI shoppers convert 20% better than traditional traffic as retail habits shift",
-    "topic": "AI & Tech",
-    "gist": "Adobe data shows AI-referred shoppers in the UK are converting 20% better than traditional traffic as of August 2026, spending longer on-site and returning fewer products; AI referral traffic is up 1,439% year-on-year. 37% of UK consumers have used an AI assistant in their shopping journey, and 34% have completed a purchase directly inside an AI interface.",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/shopify-opens-to-meta-muse-amazon-balks",
-    "title": "Shopify Opens to Meta Muse; Amazon Balks",
-    "topic": "Marketplaces",
-    "gist": "Shopify has welcomed Meta's new Muse AI shopping agent as an official commerce channel, while Amazon has blocked it for accessing its marketplace without authorization. The opposing moves highlight a broader battle over who controls product discovery, customer relationships, and retail media in an agentic commerce world.",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/09/mcdonalds-pilots-retail-media/",
-    "title": "McDonald’s pilots retail media network in billion-dollar advertising push",
-    "topic": "Ad & Marketing",
-    "gist": "McDonald's has launched a pilot retail media network across 450 US restaurants, targeting a $1bn revenue opportunity by letting third-party brands advertise across its app, kiosks, menu boards, and in-store screens. The move extends the retail media model beyond traditional e-commerce into physical and digital quick-service restaurant touchpoints.",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/big-box-briefing-best-buy-puts-ctv-at-the-center-of-its-retail-media-pitch/",
-    "title": "Big-Box Briefing: Best Buy puts CTV at the center of its retail media pitch",
-    "topic": "Ad & Marketing",
-    "gist": "Best Buy held its annual retail media showcase, announcing a new connected TV advertising product branded Best Buy CTV as a central part of its retail media pitch. The move deepens Best Buy's strategy of leveraging its electronics retail positioning to sell premium advertising inventory.",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/costcos-digital-sales-hit-33-billion-in-2026-growing-more-than-20/",
-    "title": "Costco’s digital sales hit $33 billion in 2026, growing more than 20%",
-    "topic": "Retail",
-    "gist": "Costco reported digitally-enabled sales exceeding $33 billion in fiscal 2026, growing over 20% year-on-year, driven partly by new nationwide delivery partnerships with DoorDash and Uber Eats in the US. Members must enter their membership number at checkout to access delivery through these platforms.",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://ecommercenews.eu/marketplace-sellers-shift-focus-to-profitability/",
-    "title": "‘Marketplace sellers shift focus to profitability’",
-    "topic": "Marketplaces",
-    "gist": "A survey of marketplace sellers finds that profit margin has overtaken net sales volume as the primary success metric, reflecting a shift from growth-at-all-costs to profitability-first thinking. Despite this, nearly half of sellers expanded to two or three new marketplaces in the past year.",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.retaildive.com/news/tapestry-sell-via-google-gemini-app-ai-mode/830890/",
-    "title": "Tapestry to sell via Google’s Gemini app, AI Mode",
-    "topic": "Marketplaces",
-    "gist": "Tapestry is enabling direct checkout for Coach and Kate Spade products through Google Search, AI Mode, and the Gemini app via the Universal Commerce Protocol, allowing purchases via Google Pay without leaving the interface. The company says it receives the same customer data from these transactions as from purchases on its own e-commerce sites.",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://internetretailing.net/guest-comment-agentic-commerce-is-arriving-faster-than-the-consent-rules/",
-    "title": "GUEST COMMENT Agentic commerce is arriving faster than the consent rules",
-    "topic": "AI & Tech",
-    "gist": "Agentic commerce is rolling out faster than the legal frameworks governing data consent, with questions unresolved about whether an AI agent can legally give consent for data processing on a shopper's behalf under UK GDPR and PECR. UK regulators including the ICO and CMA have signaled that existing consumer and data law already applies to agents, placing accountability firmly on retailers.",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.retaildive.com/news/podcast-the-backroom-target-turnaround-progress/831241/",
-    "title": "The Backroom: A status check on Target’s turnaround",
-    "topic": "Retail",
-    "gist": "Retail Dive's podcast takes stock of Target's turnaround under CEO Michael Fiddelke, noting two quarters of meaningful sales and traffic growth alongside ongoing challenges in home and apparel categories ahead of the holiday season.",
-    "date": "2026-09-25"
-  },
-  {
-    "url": "https://www.retaildive.com/news/halloween-spending-surpass-2025-record/831239/",
-    "title": "Halloween spending expected to reach $13.5B",
-    "topic": "Consumer Trends",
-    "gist": "US Halloween spending is forecast to hit a record $13.5 billion in 2026, with nearly half of shoppers using AI to support their Halloween purchases, primarily for brainstorming and product research. Discount stores remain the top destination, but 27% of spending will go through online retailers.",
-    "date": "2026-09-25"
-  },
-  {
     "url": "https://internetretailing.net/key-player-profile-how-jlp-is-building-a-connected-retail-media-ecosystem-around-first-party-data/",
     "title": "KEY PLAYER PROFILE How JLP is building a connected retail media ecosystem around first-party data",
     "topic": "Ad & Marketing",
@@ -831,5 +761,47 @@
     "topic": "DTC & Brands",
     "gist": "Agency founder Rok Hladnik advises DTC merchants to consider launching a separate brand rather than extending an existing one when targeting new audiences, and warns against cutting product quality as a red flag for long-term brand health. He also notes that AI is pressuring traditional media-buying agencies by enabling ad platforms to disintermediate them.",
     "date": "2026-10-09"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/how-amazon-fall-prime-day-went-for-sellers/",
+    "title": "How Amazon Fall Prime Day went for sellers",
+    "topic": "Marketplaces",
+    "gist": "Amazon's fall Prime Big Deals Days (Oct 6–7) drove $9.86B in US online sales, up 8.5% year over year, with strong gains across electronics, apparel, beauty, and household essentials as price-sensitive shoppers pulled holiday spending forward.",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.retaildive.com/news/amazon-prime-big-deal-days-online-spend-nears-ten-billion/832604/",
+    "title": "Online spend during Amazon’s Prime Big Deal Days neared $10B in the US",
+    "topic": "Marketplaces",
+    "gist": "Adobe data shows Amazon's October Prime Big Deals Days generated $9.86B in US online sales, with mobile accounting for 52% of transactions ($5.1B, +12.8% YoY), BNPL at 6% of orders, and 74% of shoppers citing inflation as a key motivation to shop the event.",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.retaildive.com/news/shoppers-worried-affording-holidays-icsc/832615/",
+    "title": "Nearly half of shoppers are worried about affording holiday gifts this year",
+    "topic": "Consumer Trends",
+    "gist": "ICSC projects 2026 holiday retail sales to exceed $1.7 trillion (+4.3–4.9% YoY), but 49% of consumers worry about affording gifts, half say personal debt will weigh on budgets, and over 60% plan to use AI tools for holiday research — up from 47% last year.",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/how-brands-can-capitalize-on-post-fall-prime-day-momentum/",
+    "title": "How brands can capitalize on post-Fall Prime Day momentum",
+    "topic": "Marketplaces",
+    "gist": "Amazon's fall Prime Big Deals Days has reshaped the retail calendar, making October a key acquisition and testing window for sellers ahead of Black Friday, as inflation-driven consumers increasingly research and buy earlier each year.",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://ecommercenews.eu/eu-wants-to-introduce-another-parcel-tax/",
+    "title": "EU wants to introduce another parcel tax",
+    "topic": "Retail",
+    "gist": "The European Commission is developing a new surveillance fee on parcels entering the EU from outside, which would stack on top of an existing €3 import duty and a forthcoming €2 customs clearance fee.",
+    "date": "2026-10-10"
+  },
+  {
+    "url": "https://internetretailing.net/interview-hms-ian-macfarlane-on-ai-shoppers-geo-and-the-future-of-search/",
+    "title": "INTERVIEW: H&M’s Ian Macfarlane on AI shoppers, GEO and the future of search",
+    "topic": "Ad & Marketing",
+    "gist": "H&M's acting Global SEO lead argues that as AI agents move from product research to autonomous purchasing, brands must optimize for GEO alongside traditional SEO, with brand trust and reputation becoming key signals for AI-driven recommendation visibility.",
+    "date": "2026-10-10"
   }
 ]
