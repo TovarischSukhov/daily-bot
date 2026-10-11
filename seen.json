@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://internetretailing.net/key-player-profile-how-jlp-is-building-a-connected-retail-media-ecosystem-around-first-party-data/",
-    "title": "KEY PLAYER PROFILE How JLP is building a connected retail media ecosystem around first-party data",
-    "topic": "Ad & Marketing",
-    "gist": "John Lewis Partnership is building a retail media network anchored in first-party loyalty data from both John Lewis and Waitrose, using Epsilon for offsite targeting across CTV and streaming, and Kevel for AI-powered onsite ads with closed-loop measurement linking digital exposure to in-store purchases.",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/the-rise-of-the-ai-shelf/",
-    "title": "The rise of the AI shelf",
-    "topic": "Ad & Marketing",
-    "gist": "Brands are beginning to optimize for an 'AI shelf' — product recommendations surfaced by ChatGPT, Claude, and Gemini — and one experiment showed a completely fictional deodorant brand could be made recommendable by AI bots through deliberate positioning.",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://stratechery.com/2026/begun-the-aggregator-wars-have/",
-    "title": "2026.39: Begun, the Aggregator Wars Have",
-    "topic": "Marketplaces",
-    "gist": "Stratechery's weekly roundup covers Amazon blocking Meta's Muse AI agent from using its commerce infrastructure, framing it as an aggregator-vs-aggregator conflict where Meta may need Walmart as a physical-world partner to circumvent Amazon's moat.",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/25/meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off/",
-    "title": "Meta is putting its muscle behind Muse as the AI app takes off",
-    "topic": "Marketplaces",
-    "gist": "Meta's AI agent app Muse reached over 3.4 million downloads within weeks of launch, driven by cross-platform promotion across Meta's properties and strong organic growth, with daily active users climbing 27% after the Meta Connect conference.",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://www.retaildive.com/news/tjx-ceo-distribution-model-el-nino/831118/",
-    "title": "TJX CEO: Distribution model will help weather El Niño",
-    "topic": "Retail",
-    "gist": "TJX CEO credited the company's 'hold and flow' warehouse distribution model — staging inventory at distribution centers rather than pushing it straight to stores — as a key advantage in reacting to weather disruptions and other demand variability.",
-    "date": "2026-09-26"
-  },
-  {
-    "url": "https://ecommercenews.eu/asos-returns-to-growth-but-customer-base-is-still-smaller/",
-    "title": "ASOS returns to growth, but customer base is still smaller",
-    "topic": "DTC & Brands",
-    "gist": "ASOS returned to low single-digit growth in gross merchandise value in Q4 of its financial year ending August 30, and recorded its first quarter-on-quarter rise in active customer numbers since 2022, after a year in which GMV fell 12%.",
-    "date": "2026-09-26"
-  },
-  {
     "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
     "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
     "topic": "Marketplaces",
@@ -803,5 +761,26 @@
     "topic": "Ad & Marketing",
     "gist": "H&M's acting Global SEO lead argues that as AI agents move from product research to autonomous purchasing, brands must optimize for GEO alongside traditional SEO, with brand trust and reputation becoming key signals for AI-driven recommendation visibility.",
     "date": "2026-10-10"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/retail-medias-opportunity-cost",
+    "title": "Retail Media’s Opportunity Cost",
+    "topic": "Ad & Marketing",
+    "gist": "As retail media grows, sponsored placements increasingly dominate search and category pages, creating a structural conflict between merchandising teams (optimizing for conversion) and media teams (optimizing for ad revenue), with ad revenue winning by default because its costs are visible and immediate while lost organic placement value is diffuse and hard to measure.",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
+    "title": "AI is creating a 'human premium' for art created by people",
+    "topic": "AI & Tech",
+    "gist": "As AI-generated content floods platforms — Deezer reports 44% of uploaded tracks are AI-made — some observers argue a 'human premium' is emerging where audiences and consumers actively value and seek out work made by people, though it remains unclear whether this preference will persist as AI content becomes indistinguishable and algorithmically dominant.",
+    "date": "2026-10-11"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
+    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
+    "topic": "AI & Tech",
+    "gist": "Microsoft CEO Satya Nadella published a post calling for AI systems to have external controls, tamper-proof audit logs, and a built-in ability for authorized humans to pause or shut down a model mid-task, framing it as an 'emergency brake' against compromised AI behavior.",
+    "date": "2026-10-11"
   }
 ]
