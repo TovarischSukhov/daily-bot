@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india/",
-    "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-    "topic": "Marketplaces",
-    "gist": "Google is testing a 'Buy' button on Flipkart product listings inside Gemini and AI Mode in India, routing users directly to a Flipkart checkout without leaving the AI interface. The test covers a limited selection of electronics and is planned for broader rollout ahead of India's festive shopping season.",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://ecommercenews.eu/dhl-ecommerce-looks-for-more-acquisitions-in-eastern-europe/",
-    "title": "DHL eCommerce looks for more acquisitions in Eastern Europe",
-    "topic": "Fulfillment & Ops",
-    "gist": "DHL eCommerce is actively seeking parcel company acquisitions in Eastern Europe, with the planned purchase of Venipak in the Baltics being its latest move and CEO Pablo Ciano identifying the region as the division's primary European acquisition focus.",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://ecommercenews.eu/marketplace-sellers-shift-focus-to-profitability/",
-    "title": "‘Marketplace sellers shift focus to profitability’",
-    "topic": "Marketplaces",
-    "gist": "Marketplace sellers are now prioritizing profit margin over sales volume as their primary success metric, while nearly half added two or three new marketplace channels in the past year.",
-    "date": "2026-09-27"
-  },
-  {
-    "url": "https://ecommercenews.eu/asos-returns-to-growth-but-customer-base-is-still-smaller/",
-    "title": "ASOS returns to growth, but customer base is still smaller",
-    "topic": "DTC & Brands",
-    "gist": "ASOS posted low single-digit growth in gross merchandise value in Q4 FY2025 after a 12% decline the prior year, and recorded its first quarter-on-quarter customer count increase since 2022.",
-    "date": "2026-09-27"
-  },
-  {
     "url": "https://ecommercenews.eu/amazon-will-expand-gwd-to-europe/",
     "title": "Amazon will expand GWD to Europe",
     "topic": "Marketplaces",
@@ -782,5 +754,89 @@
     "topic": "AI & Tech",
     "gist": "Microsoft CEO Satya Nadella published a post calling for AI systems to have external controls, tamper-proof audit logs, and a built-in ability for authorized humans to pause or shut down a model mid-task, framing it as an 'emergency brake' against compromised AI behavior.",
     "date": "2026-10-11"
+  },
+  {
+    "url": "https://ecommercenews.eu/asian-marketplaces-lose-market-share-in-germany/",
+    "title": "Asian marketplaces lose market share in Germany",
+    "topic": "Marketplaces",
+    "gist": "German sales for Shein, Temu, and AliExpress dropped 35.5% in Q3 year-over-year to €566 million, cutting their combined market share from 5.3% to 3.1% in a single quarter.",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.retaildive.com/news/lowes-launches-black-friday-deals-in-october/832730/",
+    "title": "Lowe’s launches Black Friday deals in October",
+    "topic": "Retail",
+    "gist": "Lowe's is launching Black Friday deals from October 29, with loyalty-member early access to doorbuster deals and a multi-event discount calendar running through Christmas Eve.",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/hm-cyber-attack/",
+    "title": "H&M becomes latest retailer to investigate cyber attack",
+    "topic": "Retail",
+    "gist": "H&M Group is investigating claims of a cybersecurity incident involving a limited amount of company data, linked to the ShinyHunters group, following a similar social-engineering attack on ASOS weeks earlier.",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://ecommercenews.eu/ikea-expands-second-hand-marketplace/",
+    "title": "Ikea expands second-hand marketplace",
+    "topic": "Marketplaces",
+    "gist": "IKEA is expanding its pre-owned marketplace to the UK, Ireland, and Germany, bringing total active markets to nine, while also launching a buyback service in Portugal and Spain.",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.retaildive.com/news/tariffs-pushed-up-consumer-goods-prices-ny-fed-inflation-elections-tax-taxes/832701/",
+    "title": "Tariffs pushed up consumer goods prices by 2.9 percentage points: NY Fed",
+    "topic": "Macro",
+    "gist": "NY Fed researchers found Trump-era tariffs raised consumer goods prices by 2.9 percentage points through February, with full pass-through taking about a year; consumer inflation expectations are now at their highest since May.",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/supply-chain-stories-to-watch-this-holiday-season/",
+    "title": "Supply chain stories to watch this holiday season",
+    "topic": "Fulfillment & Ops",
+    "gist": "Modern Retail flags that this holiday season's supply chain faces heightened uncertainty due to volatile consumer sentiment and ongoing geopolitical disruption ahead of Black Friday.",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/the-new-rules-of-retail-media-from-selling-ads-to-shaping-decisions/",
+    "title": "The new rules of retail media: From selling ads to shaping decisions",
+    "topic": "Ad & Marketing",
+    "gist": "A Capgemini podcast episode explores how AI agents and agentic commerce are shifting retail media from sponsored placements toward algorithm-facing brand strategies, raising questions about ROAS measurement and the future of discovery.",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/shein-uk-revenue-hits-2-58bn/",
+    "title": "Shein UK revenue hits £2.58bn as it overtakes ASOS",
+    "topic": "DTC & Brands",
+    "gist": "Shein's UK revenue grew 26% to £2.58bn in 2025, surpassing ASOS's £2.48bn group revenue, though globally its quarterly profits fell 67% as freight costs rose and European and US sales declined.",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/could-a-marketplace-model-save-argos/",
+    "title": "Could a marketplace model save Argos?",
+    "topic": "Marketplaces",
+    "gist": "Argos is expanding its Trusted Sellers marketplace to over 130,000 products by end of 2026 as it prepares to separate from Sainsbury's following a £120m sale, betting a curated third-party model can drive growth without heavy inventory investment.",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://internetretailing.net/department-stores-gain-ground-as-digital-only-fashion-retailers-lose-share-ahead-of-golden-quarter/",
+    "title": "Department stores gain ground as digital-only fashion retailers lose share ahead of Golden Quarter",
+    "topic": "Retail",
+    "gist": "UK search data for July–September 2026 shows department stores (John Lewis, Harrods, Selfridges) gaining fashion search share while digital-only players ASOS, Shein, and Very all declined, with value retailers Primark and Vinted holding strong.",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://digiday.com/media/ad-industry-tallies-early-losses-from-apples-safari-tracking-block/",
+    "title": "Ad industry tallies early losses from Apple’s Safari tracking block",
+    "topic": "Ad & Marketing",
+    "gist": "Apple's latest Safari update has blocked several major ad-tracking companies from operating in the browser, echoing its 2017 and 2021 crackdowns that previously cost the industry billions, including $10 billion from Meta alone.",
+    "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/universal-standard-us-x-abisola-inclusive-sizing-glp-1/",
+    "title": "Universal Standard’s x Abisola collab makes a business case for size inclusion amid the GLP-1 boom",
+    "topic": "DTC & Brands",
+    "gist": "Universal Standard launched a size-inclusive capsule collection spanning sizes 00–40, with nearly 60% of first-week units selling in the first 48 hours and customers averaging 1.7 pieces per order, framing the GLP-1 body-change wave as a tailwind for inclusive sizing.",
+    "date": "2026-10-12"
   }
 ]
