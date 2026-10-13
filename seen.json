@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://ecommercenews.eu/amazon-will-expand-gwd-to-europe/",
-    "title": "Amazon will expand GWD to Europe",
-    "topic": "Marketplaces",
-    "gist": "Amazon is bringing its Global Warehousing and Distribution (GWD) service to Europe — Germany, France, Italy, Spain, and the UK — by end of 2025, allowing sellers to reach customers across those markets from a single Amazon-operated facility.",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://www.retaildive.com/news/store-concepts-launched-2026-target-foot-locker-dicks-michaels/831350/",
-    "title": "5 store concepts that launched in 2026",
-    "topic": "Retail",
-    "gist": "Retail Dive rounds up five notable store concepts launched in 2026, including Target's Beauty Studio, Foot Locker x Nike's community-focused Crenshaw Rec, Michaels' experiential format, Best Buy's Meta shop-in-shop, and Dick's Sporting Goods' Lids partnership — all pointing to physical retail evolving toward experience, discovery, and community over pure transaction.",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://stratechery.com/2026/apps-agents-and-aggregation/",
-    "title": "Apps, Agents, and Aggregation",
-    "topic": "AI & Tech",
-    "gist": "Stratechery argues that AI agents — given their own cloud computers by platforms like Meta (Muse) and Microsoft (Copilot) — are shifting the scarcity in tech from discovery to 'inspiration,' positioning agent interfaces to become the ultimate gatekeepers between users and every app or service.",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://internetretailing.net/hush-heads-to-the-high-street-with-first-stores-after-23-years-online-only/",
-    "title": "Hush heads to the high street with first stores after 23 years online-only",
-    "topic": "DTC & Brands",
-    "gist": "UK women's fashion brand Hush is opening its first physical stores after 23 years as an online-only retailer, joining a broader wave of DTC and digital-first brands — including Skims, Shein, and relaunched Topshop — moving into brick-and-mortar to deepen customer relationships and drive discovery.",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://www.retaildive.com/spons/black-friday-2026-ready-the-infrastructure-and-compliance-checklist-retail/831107/",
-    "title": "Black Friday 2026 ready: The infrastructure and compliance checklist retailers can’t afford to skip",
-    "topic": "Retail",
-    "gist": "A Sinch-sponsored checklist article outlines email infrastructure and compliance requirements for BFCM 2026, noting that major email providers have tightened spam protocols and that retailers must keep complaint rates below 0.1% to avoid throttling — with 2025 Cyber Week generating $44.2 billion in online sales.",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues/",
-    "title": "Can Muse overcome Meta’s trust issues?",
-    "topic": "Marketplaces",
-    "gist": "TechCrunch's Equity podcast crew discusses Meta's new consumer AI agent Muse, with reviewers finding it impressive in demos but skeptical about sustained utility and user trust, given that Meta's core business model is advertising.",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/multimodal-filter-in-sc-get-your-products-discovered-by-image-search",
-    "title": "New GSC Image Filter Aids Product Discovery",
-    "topic": "Ad & Marketing",
-    "gist": "Google Search Console has added a multimodal filter that shows which URLs users viewed or clicked through image search, giving e-commerce merchants a new way to track and optimize product image visibility in Google's visual search results.",
-    "date": "2026-09-28"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/18-months-31-prototypes-and-1700-hours-of-wear-testing-how-knix-brought-its-seamless-cotton-underwear-to-the-market/",
-    "title": "18 months, 31 prototypes and 1,700 hours of wear testing: How Knix brought its seamless cotton underwear to the market",
-    "topic": "DTC & Brands",
-    "gist": "Knix VP of design Jules Power describes the 18-month, 31-prototype, 1,700-hour wear-testing process behind the brand's seamless cotton underwear line, illustrating the hidden complexity in developing intimate apparel products.",
-    "date": "2026-09-28"
-  },
-  {
     "url": "https://digiday.com/media-buying/at-its-flagship-unboxed-conference-amazon-ads-collapses-buying-silos-as-ai-takes-a-bigger-role-in-media-decisions/",
     "title": "At its flagship unBoxed conference, Amazon Ads collapses buying silos as AI takes a bigger role in media decisions",
     "topic": "Ad & Marketing",
@@ -838,5 +782,54 @@
     "topic": "DTC & Brands",
     "gist": "Universal Standard launched a size-inclusive capsule collection spanning sizes 00–40, with nearly 60% of first-week units selling in the first 48 hours and customers averaging 1.7 pieces per order, framing the GLP-1 body-change wave as a tailwind for inclusive sizing.",
     "date": "2026-10-12"
+  },
+  {
+    "url": "https://www.retaildive.com/news/where-has-aspirational-luxury-consumer-gone/832365/",
+    "title": "Where has the aspirational luxury consumer gone?",
+    "topic": "Consumer Trends",
+    "gist": "Luxury sector growth is slowing sharply, with Q3 organic sales expected under 3% year-on-year as aspirational consumers — who spend less per visit but drive volume — have been priced out by post-pandemic price hikes and remain squeezed by weak sentiment, sluggish China demand, and geopolitical uncertainty.",
+    "date": "2026-10-13"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/brands-briefing-as-ai-reshapes-retail-brands-are-investing-even-more-in-stores/",
+    "title": "Brands Briefing: As AI reshapes retail, brands are investing even more in stores",
+    "topic": "Retail",
+    "gist": "Despite AI and digital shopping hype, Americans still spend 81% of retail dollars in physical stores, and this holiday season brick-and-mortar is expected to capture the largest single share of spending, including 93% of adults planning at least one store visit.",
+    "date": "2026-10-13"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
+    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
+    "topic": "Payments",
+    "gist": "American Express has introduced an 'Intent Intelligence Framework' that captures and authenticates a customer's purchase intent before an AI agent completes a transaction, creating a token-based system to prevent unauthorized purchases in agentic commerce.",
+    "date": "2026-10-13"
+  },
+  {
+    "url": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
+    "title": "Gen Z, Gen Alpha and the AI-ificiation of retail this holiday season",
+    "topic": "Consumer Trends",
+    "gist": "Gen Z and Gen Alpha shoppers are price-sensitive, digitally native, and expect hyper-personalized experiences, but research shows 45% of Gen Z feel online recommendations limit their self-expression, and both cohorts show strong appetite for physical retail as a space to discover outside the algorithm.",
+    "date": "2026-10-13"
+  },
+  {
+    "url": "https://internetretailing.net/retailers-still-waiting-for-ai-powered-shopping-revolution/",
+    "title": "Retailers still waiting for AI-powered shopping revolution",
+    "topic": "Retail",
+    "gist": "A YouGov survey of 2,000+ UK adults found 62% of online shoppers have never used AI product recommendations, with only 3% frequently using AI shopping assistants — signaling that despite industry buzz, mass consumer adoption of AI-powered shopping remains early-stage.",
+    "date": "2026-10-13"
+  },
+  {
+    "url": "https://internetretailing.net/tfg-hm-and-intermarche-all-targeted-by-cybercriminals-as-threat-to-retail-rockets/",
+    "title": "TFG, H&M and InterMarché all targeted by cybercriminals as threat to retail rockets",
+    "topic": "Retail",
+    "gist": "Multiple major retailers including TFG (Phase Eight, Whistles, Hobbs), H&M, and French grocery chains were hit by cybercriminals within days of each other, with ASOS also targeted via its Snowflake data instance, highlighting a growing wave of AI-assisted retail cyberattacks.",
+    "date": "2026-10-13"
+  },
+  {
+    "url": "https://digiday.com/podcasts/media-buys-and-mega-partnerships-how-the-creator-economy-is-splitting-in-two/",
+    "title": "Media buys and mega partnerships: How the creator economy is splitting in two",
+    "topic": "Ad & Marketing",
+    "gist": "The creator economy is splitting into two tiers: mega-creators like MrBeast functioning as full agencies with brand partnerships, while nano and micro creators are being treated as programmatic media buys in brand media mixes.",
+    "date": "2026-10-13"
   }
 ]
