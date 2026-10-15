@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://www.retaildive.com/news/best-buy-tiktok-shop-launch/831527/",
-    "title": "Best Buy to launch on TikTok Shop",
-    "topic": "Marketplaces",
-    "gist": "Best Buy is launching on TikTok Shop in late October with nearly 10,000 products, fulfilled by Best Buy and returnable in-store, as it pursues a broader transformation into a retail media and technology company.",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.retaildive.com/news/target-cuts-prices-consumer-sentiment-sours/831627/",
-    "title": "Target cuts prices as consumer sentiment sours",
-    "topic": "Retail",
-    "gist": "Target is cutting prices on roughly 2,000 home, apparel and accessories items as consumer sentiment hits a four-month low, part of a broader 10,000-price-cut push over the past year.",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.retaildive.com/news/inflation-slams-consumer-sentiment-four-month-low-fed-monetary-policy/831599/",
-    "title": "Inflation slams consumer sentiment to 4-month low",
-    "topic": "Consumer Trends",
-    "gist": "University of Michigan consumer sentiment dropped to a four-month low in September amid inflation and trade dispute concerns, yet retail sales jumped 1.2% in August, with e-commerce among the strongest-performing segments.",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/brands-briefing-hanna-andersson-is-joining-amazon-with-a-90-unique-assortment/",
-    "title": "Brands Briefing: Hanna Andersson is joining Amazon, with a 90% unique assortment",
-    "topic": "DTC & Brands",
-    "gist": "Hanna Andersson is launching an Amazon storefront on October 1, with 90% of its Amazon assortment being unique to the platform, drawn from archival best-sellers in matching sets, underwear and pajamas.",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://digiday.com/marketing/beauty-brand-cakes-wants-to-turn-its-tiktok-virality-into-an-owned-media-strategy/",
-    "title": "Beauty brand Cakes wants to turn its TikTok virality into an owned media strategy",
-    "topic": "DTC & Brands",
-    "gist": "Cakes Body, a TikTok-viral beauty brand that hit $100M in sales in three years through founder-led storytelling, launched its own entertainment company called Cakes Media to systematize virality and improve profitability.",
-    "date": "2026-09-30"
-  },
-  {
-    "url": "https://www.retaildive.com/news/sephora-marks-spencer-uk-beauty-retail-shop-in-shops/831603/",
-    "title": "Sephora furthers UK ambitions via M&S shop-in-shops",
-    "topic": "Retail",
-    "gist": "Sephora is partnering with Marks & Spencer to open shop-in-shop beauty spaces in 100 M&S UK stores and on M&S's website starting next spring, extending Sephora's UK footprint beyond its standalone locations.",
-    "date": "2026-09-30"
-  },
-  {
     "url": "https://ecommercenews.eu/industry-criticizes-national-parcel-levy-in-austria/",
     "title": "Industry criticizes national parcel levy in Austria",
     "topic": "Retail",
@@ -768,5 +726,89 @@
     "topic": "Retail",
     "gist": "This week's merchant tool roundup covers same-day delivery for Canadian Shopify stores, Meta's new AI ad and in-chat purchase capabilities, Shopify cart syncing across devices via the Shop app, Google's commerce audience sharing for retail media, and multiple agentic commerce launches including Constructor's Agentic Checkout powered by Stripe. Several tools target AI-driven product discovery, attribution, and checkout flows.",
     "date": "2026-10-14"
+  },
+  {
+    "url": "https://internetretailing.net/thg-upgrades-profit-outlook-as-myprotein-partnerships-drive-growth/",
+    "title": "THG upgrades profit outlook as Myprotein partnerships drive growth",
+    "topic": "DTC & Brands",
+    "gist": "THG raised its FY26 adjusted EBITDA guidance to £103m after Q3 beat expectations, driven by THG Nutrition (Myprotein), which grew unit volumes 36.2% and extended its reach through retail partnerships with Caffè Nero, Krispy Kreme, and Gold's Gym.",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://internetretailing.net/dunelms-digital-sales-reach-41-of-revenue-as-homewares-retailer-grows-q1-sales/",
+    "title": "Dunelm’s digital sales reach 41% of revenue as homewares retailer grows Q1 sales",
+    "topic": "Retail",
+    "gist": "Dunelm reported Q1 sales of £433m (+1.1% YoY) with digital channels reaching 41% of revenue, while rolling out RFID and AI-assisted customer service tools as part of its broader omnichannel investment.",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://ecommercenews.eu/80-of-marketplace-gmv-in-europe-come-from-cross-border-transactions/",
+    "title": "80% of marketplace GMV in Europe come from cross-border transactions",
+    "topic": "Marketplaces",
+    "gist": "Europe's top 100 marketplaces are projected to generate €175.8bn in GMV, with nearly 80% coming from cross-border transactions — a share expected to grow further.",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/marketplace-rulebook/",
+    "title": "The marketplace rulebook: what tougher regulation could mean for sellers and brands",
+    "topic": "Marketplaces",
+    "gist": "UK regulators are considering making online marketplaces responsible for collecting VAT from sellers above the £90k turnover threshold, while also tightening product safety and consumer protection rules — shifting marketplaces from neutral platforms toward active compliance enforcers.",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/wayfair-and-appliances-direct-hit-with-6m-fines-over-misleading-sales-tactics/",
+    "title": "Wayfair and Appliances Direct hit with £6m fines over ‘misleading’ sales tactics",
+    "topic": "Retail",
+    "gist": "The CMA fined Wayfair £4.8m and Appliances Direct £1.2m for fake urgency tactics — countdown timers, flash deals that weren't actually time-limited — under its new powers from the Digital Markets, Competition and Consumers Act 2024.",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/",
+    "title": "Brands turn to content series and Jimi Hendrix to improve AI search performance",
+    "topic": "Ad & Marketing",
+    "gist": "Brands like Fender and Marshall are investing in editorial website content and branded content series to give AI models more material to surface when consumers ask chatbots for product recommendations.",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/fashion-briefing-resale-platforms-and-buyers-are-embracing-auctions-as-a-source-of-deals-and-data/",
+    "title": "Fashion Briefing: Resale platforms and buyers are embracing auctions as a source of deals and data",
+    "topic": "Consumer Trends",
+    "gist": "Resale fashion platforms are increasingly adopting auction models, which offer gamification for buyers, higher returns for sellers, and valuable pricing data for the platforms themselves.",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
+    "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
+    "topic": "Retail",
+    "gist": "A cyberattack on internet-connected refrigeration controllers at around 700 French supermarkets caused mass food spoilage and fires, exploiting known, unpatched vulnerabilities in equipment from Danfoss, Dixell, and Copeland.",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://modernretail.co.uk/how-online-retailers-are-using-studio-space-to-power-social-selling/",
+    "title": "How online retailers are using studio space to power social selling",
+    "topic": "Marketplaces",
+    "gist": "UK online retailers are increasingly investing in dedicated in-house studio spaces to support the growing volume of TikTok Live sessions, product demos, and reactive content required by social commerce — with TikTok Shop LIVE Shopping sales up 55% year-on-year.",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.retaildive.com/news/toy-prices-jump-holiday-season-inflation/832955/",
+    "title": "Toy prices jump 4.2% ahead of the holidays",
+    "topic": "Consumer Trends",
+    "gist": "US toy prices rose 4.2% month-on-month and 6.6% year-on-year heading into the holiday season, even as consumer confidence is strained — yet the toy industry posted its best first-half in six years, driven partly by adult buyers trading up to higher price-point items.",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://www.retaildive.com/news/moodys-retail-apparel-outlook-boosted-tariff-refunds/832964/",
+    "title": "Moody’s upgrades retail and apparel outlook as tariffs ease",
+    "topic": "Macro",
+    "gist": "Moody's upgraded the global retail and apparel sector outlook to stable, forecasting 2–4% revenue growth over the next 12–18 months, citing eased tariffs and solid labor markets — while warning that consumer spending will increasingly bifurcate between upper-income and stressed lower-income households.",
+    "date": "2026-10-15"
+  },
+  {
+    "url": "https://internetretailing.net/how-poor-product-data-could-make-retailers-invisible-to-ai-shoppers/",
+    "title": "How poor product data could make retailers invisible to AI shoppers",
+    "topic": "Retail",
+    "gist": "AI shopping agents require 30+ structured product data attributes to evaluate and recommend products, but most retail product pages provide only 5–8 machine-readable fields — leaving products effectively invisible to agentic commerce, which has already grown 200% year-on-year.",
+    "date": "2026-10-15"
   }
 ]
