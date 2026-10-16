@@ -1,96 +1,5 @@
 [
   {
-    "url": "https://ecommercenews.eu/industry-criticizes-national-parcel-levy-in-austria/",
-    "title": "Industry criticizes national parcel levy in Austria",
-    "topic": "Retail",
-    "gist": "Austria has introduced a €2-per-parcel levy on online sellers and marketplaces with over €100M in annual Austrian sales, with industry groups strongly opposing the measure as it also affects thousands of smaller businesses indirectly.",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/ai-shopping-could-mean-fewer-returns",
-    "title": "AI Shopping Could Mean Fewer Returns",
-    "topic": "AI & Tech",
-    "gist": "Adobe Analytics data from over 1 trillion U.S. retail site visits shows AI-referred shoppers convert 60% more and generate 53% more revenue per visit, while 69% of AI-assisted shoppers report being less likely to return their purchases.",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://stratechery.com/2026/an-interview-with-jason-del-rey-about-muse-amazon-and-walmart/",
-    "title": "An Interview with Jason Del Rey About Muse, Amazon, and Walmart",
-    "topic": "Marketplaces",
-    "gist": "Stratechery's interview with Jason Del Rey covers Amazon vs. Meta's Muse and how it fits into the broader Amazon-Walmart rivalry, but the full content is behind a paywall.",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/10/retailers-pay-72p-in-tax-for-every-1-of-profit/",
-    "title": "Retailers pay 72p in tax for every £1 of profit as tax bill hits £62bn",
-    "topic": "Retail",
-    "gist": "UK retailers pay 72p in tax for every £1 of pre-tax profit, contributing to a combined £62bn tax bill for retail and hospitality in 2025/26, with retail employment falling 122,000 jobs over two years as a result of rising cost burdens.",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/10/two-thirds-of-retailers-plan-store-expansions-despite-economic-uncertainty/",
-    "title": "Two thirds of retailers plan store expansions despite economic uncertainty",
-    "topic": "Retail",
-    "gist": "A CBRE survey of 76 pan-European retailers finds 65% plan to expand their store estates despite economic uncertainty, with over 90% expecting physical locations to remain core to their business and AI adoption in retail having doubled since 2024.",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/10/weston-family-closes-in-on-7bn-boots-takeover/",
-    "title": "Weston family closes in on £7bn Boots takeover",
-    "topic": "Retail",
-    "gist": "The Weston family behind Primark is reportedly close to acquiring Boots from Sycamore Partners for approximately £6.7bn, which would end speculation about a London IPO and add one of Britain's largest pharmacy chains to the family's retail portfolio.",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://digiday.com/media-buying/amazon-wants-to-own-the-long-game-in-ad-measurement/",
-    "title": "Amazon wants to own the long game in ad measurement",
-    "topic": "Ad & Marketing",
-    "gist": "Amazon claims roughly 20% of a brand's sales value falls outside the standard 7–30 day attribution window, based on a study of over 2 million campaigns, and is now pushing for year-long measurement as competition from TikTok, Instagram, and YouTube intensifies.",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://digiday.com/marketing/openais-measurement-gaps-are-keeping-chatgpt-ads-budgets-at-test-level/",
-    "title": "OpenAI’s measurement gaps are keeping ChatGPT ads budgets at test level",
-    "topic": "Ad & Marketing",
-    "gist": "Seven months into selling ads on ChatGPT, OpenAI still lacks the measurement infrastructure marketers expect: agencies report conversion tracking failures, click-count discrepancies, delayed reporting, and no demographic or prompt-level data.",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://digiday.com/media/media-briefing-publishers-are-turning-geo-from-an-experiment-into-a-business/",
-    "title": "Media Briefing: Publishers are turning GEO from an experiment into a business",
-    "topic": "Ad & Marketing",
-    "gist": "Publishers are moving generative engine optimization (GEO) from experimental to a standard revenue line, with AI visibility in tools like ChatGPT and Google's AI Mode becoming a regular part of branded content deals.",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://digiday.com/marketing/in-graphic-detail-where-brands-stand-when-ai-agents-do-the-shopping/",
-    "title": "In Graphic Detail: Where brands stand when AI agents do the shopping",
-    "topic": "Marketplaces",
-    "gist": "Analysis across ChatGPT, Google AI Mode, and Alexa for Shopping shows that AI shopping assistants produce radically different brand and retailer recommendations depending on which assistant is used, with Alexa heavily favoring Amazon's own store and ChatGPT spreading recommendations across 24 retailers.",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/it-scared-the-hell-out-of-me-to-hand-over-the-keys-what-brands-have-learned-from-creator-partnerships/",
-    "title": "‘It scared the hell out of me to hand over the keys’: What brands have learned from creator partnerships",
-    "topic": "DTC & Brands",
-    "gist": "Major retailers including Target, Gap, Aerie, and Kohl's are scaling creator programs in 2025–26, with nearly half of brands reporting 3x or greater ROI and creator budgets up 33% year over year, pointing to $13.7B in projected U.S. influencer spend by 2027.",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://www.modernretail.co/ai-strategies/doordash-adds-new-retailers-texting-shopping-assistant/",
-    "title": "DoorDash adds new retailers, texting shopping assistant",
-    "topic": "Marketplaces",
-    "gist": "DoorDash added Macy's, Anthropologie, The North Face, Vans, and Timberland to its retail marketplace and launched Dasher Returns (Dashers picking up return items) alongside Text DoorDash, an AI-powered conversational ordering assistant via SMS.",
-    "date": "2026-10-01"
-  },
-  {
-    "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food/",
-    "title": "DoorDash launches an AI agent you can text to order food",
-    "topic": "Marketplaces",
-    "gist": "DoorDash launched an AI agent accessible via Apple Messages that lets users place food and retail orders through natural-language text prompts, handling group orders, dietary preferences, and recommendations without requiring the app.",
-    "date": "2026-10-01"
-  },
-  {
     "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
     "title": "ChatGPT can now virtually try on clothes for you",
     "topic": "AI & Tech",
@@ -810,5 +719,68 @@
     "topic": "Retail",
     "gist": "AI shopping agents require 30+ structured product data attributes to evaluate and recommend products, but most retail product pages provide only 5–8 machine-readable fields — leaving products effectively invisible to agentic commerce, which has already grown 200% year-on-year.",
     "date": "2026-10-15"
+  },
+  {
+    "url": "https://internetretailing.net/consumer-brands-increase-ad-spend-despite-slower-growth-as-retail-media-gains-ground/",
+    "title": "Consumer brands increase ad spend despite slower growth as retail media gains ground",
+    "topic": "Ad & Marketing",
+    "gist": "Consumer goods brands increased ad spend 36% between 2019 and 2025, outpacing their 29% revenue growth, with trade budgets shifting into measurable retail media channels driving the trend. WARC forecasts global ad spend will reach $1.34tn in 2025, with retail media among the top growth channels.",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://internetretailing.net/guest-comment-this-year-should-mark-the-end-of-black-friday-as-we-know-it/",
+    "title": "GUEST COMMENT This year should mark the end of Black Friday as we know it",
+    "topic": "Retail",
+    "gist": "A former Asda pricing lead argues Black Friday has become a margin-destroying industry-wide discount cycle where most deals are no cheaper than at other times of year, and calls for a shift to targeted, loyalty-based promotions instead of broad discounting. The piece proposes brands use the naturally elevated footfall period to reward loyal customers with genuine deals rather than running blanket sales.",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://digiday.com/marketing/ruggables-new-ad-spend-strategy-shifts-focus-to-shopmy-creators/",
+    "title": "Ruggable’s new ad spend strategy shifts focus to ShopMy creators",
+    "topic": "Ad & Marketing",
+    "gist": "DTC rug brand Ruggable has shifted about 10% of its budget away from Meta performance channels into brand channels like influencers and CTV over the past 18 months, with plans to grow that brand spend by another 15–20% next year. The CMO framed the move as recognizing that the performance-only playbook that built the brand will not sustain its next phase of growth.",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://digiday.com/media/social-commerce-edges-past-seo-at-the-independent-for-the-first-time/",
+    "title": "Social commerce edges past SEO at The Independent for the first time",
+    "topic": "Ad & Marketing",
+    "gist": "The Independent's social-commerce revenue narrowly surpassed its SEO-driven commerce revenue for the first time in September, signaling a structural shift in how publishers generate affiliate and commerce income. CEO Christian Broughton argued publishers should build revenue around trusted brands across platforms rather than relying on search traffic.",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/ruggables-new-ad-spend-strategy-shifts-focus-to-shopmy-creators/",
+    "title": "Ruggable’s new ad spend strategy shifts focus to ShopMy creators",
+    "topic": "Ad & Marketing",
+    "gist": "Ruggable has moved roughly 10% of its budget from Meta performance channels into brand channels including influencers and CTV over 18 months, with the CMO citing rising ad costs and declining performance as the drivers. The brand plans to increase brand-channel spend by a further 15–20% next year.",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/target-bets-on-buzzy-tiktok-brands-like-mellow-sleep-to-revamp-its-home-category/",
+    "title": "Target bets on buzzy TikTok brands like Mellow Sleep to revamp its home category",
+    "topic": "Marketplaces",
+    "gist": "Mellow Sleep, a brand launched in 2025 that became TikTok's top-selling sleep brand and hit $130M in first-year revenue, is making its physical retail debut at 550 Target stores starting October 18 as part of Target's strategy to revamp its home category with emerging social-native brands. The brand is on track for over $300M in sales in its second year.",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+    "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+    "topic": "DTC & Brands",
+    "gist": "Cal AI founder Zach Yadegari built a $30M-revenue calorie-tracking app in two years primarily through a scaled influencer strategy that tied payouts to minimum reach thresholds, before the company was acquired by MyFitnessPal in March 2025. He emphasized finding influencers with tight, quantifiable communities and negotiating performance-based rates as the key formula.",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/the-holiday-playbook-how-brands-are-navigating-launches-stock-and-promotions/",
+    "title": "The holiday playbook: How brands are navigating launches, stock and promotions",
+    "topic": "Retail",
+    "gist": "Consumer brands heading into the 2025 holiday season are managing launch timing, restock logistics, and promotional strategies with Q4 representing over 50% of annual sales for some. Brands that sold out new product lines at launch are racing to replenish inventory before the peak shopping window.",
+    "date": "2026-10-16"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us/",
+    "title": "Google’s Universal Cart shopping tool launches in the US",
+    "topic": "Marketplaces",
+    "gist": "Google has launched Universal Cart in the US, a tool that aggregates saved products from multiple retailers into a single hub within Search and the Gemini app, with price-drop and restock notifications and checkout tied to Google's Universal Commerce Protocol (UCP). The move is part of Google's broader push into AI-powered agentic commerce, where AI agents handle parts of the shopping journey on behalf of users.",
+    "date": "2026-10-16"
   }
 ]
