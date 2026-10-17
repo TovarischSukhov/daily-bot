@@ -1,75 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/",
-    "title": "ChatGPT can now virtually try on clothes for you",
-    "topic": "AI & Tech",
-    "gist": "OpenAI launched virtual try-on and a Favorites feature for ChatGPT globally, letting users upload photos to visualize clothing on themselves and save products for later. The features compete with Google and Pinterest in fashion discovery and could redirect shopping traffic away from traditional retail and search surfaces.",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/big-box-briefing-what-to-watch-for-as-amazon-target-and-walmart-host-their-fall-sales/",
-    "title": "Big-Box Briefing: What to watch for as Amazon, Target and Walmart host their fall sales",
-    "topic": "Retail",
-    "gist": "Amazon, Target, and Walmart are all running major fall sales events in the first week of October — Prime Big Deal Days, Walmart's Fall Deals Sale, and Target Circle Sale — serving as a key consumer demand signal ahead of the holiday season. This October sales cluster has grown into a significant retail period since Amazon introduced a second Prime Day in 2022.",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.retaildive.com/news/consumer-confidence-sags-12-year-low-eroded-inflation-job-anxiety-fed-federal-reserve/831783/",
-    "title": "Consumer confidence sags to 12-year low, eroded by inflation, job anxiety",
-    "topic": "Consumer Trends",
-    "gist": "Consumer confidence dropped to a 12-year low, driven by fuel prices, high borrowing costs, and weak hiring, with median inflation expectations rising to 5.1% over the next 12 months. Economists note consumers feel more financially stressed now than during the 2020 pandemic.",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/the-ai-powered-holiday-shopper-how-prompt-driven-curation-and-gen-alpha-algorithms-will-shape-consumer-behavior/",
-    "title": "The AI-powered holiday shopper: How prompt-driven curations and Gen Alpha algorithms will shape consumer behavior",
-    "topic": "Consumer Trends",
-    "gist": "PwC's 2026 Holiday Outlook highlights AI-driven gift curation, AI price tracking, and Gen Alpha's growing algorithmic influence on household spending as major forces shaping this holiday shopping season. Gen Z is also showing record in-store foot traffic alongside digital AI-assisted behaviors.",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/01/shopify-debuts-canvas-a-way-to-build-online-stores-by-chatting-with-ai/",
-    "title": "Shopify debuts Canvas, a way to build online stores by chatting with AI",
-    "topic": "Marketplaces",
-    "gist": "Shopify launched Canvas, a conversational AI site-builder that lets merchants design and build their entire store by chatting with the Sidekick AI agent, with changes rendered in real-time against the actual store code. Initial limitations include no third-party theme support, no app blocks, and desktop-only access.",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.retaildive.com/news/consumer-ai-use-boon-holidays-ai-traffic-doubles/831790/",
-    "title": "Consumer AI use a boon for the holidays as AI traffic doubles",
-    "topic": "Consumer Trends",
-    "gist": "Adobe forecasts AI-referred traffic to U.S. retail sites will more than double this holiday season (+130% YoY), and consumers arriving via AI assistants add items to carts at a 32% higher rate and generate 43% more revenue per visit compared to non-AI traffic. Adobe also found that shoppers using AI feel more confident in purchases and are less likely to return items.",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.retaildive.com/news/holiday-seasonal-retail-hiring-lower/831866/",
-    "title": "Holiday hiring is getting ‘smaller and more surgical’",
-    "topic": "Retail",
-    "gist": "Seasonal retail hiring in the U.S. is expected to fall 2.5% year-over-year to ~450,000 new Q4 jobs, continuing a multi-year trend toward smaller, more surgical staffing rather than large seasonal waves. Retailers are leaning on existing staff and on-demand pools, with major names like Amazon, Target, and Bath & Body Works yet to announce 2026 hiring plans.",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://modernretail.co.uk/ai-shopping-upends-the-rules-of-brand-leadership-price-positioning-competition-according-to-new-jellyfish-research/",
-    "title": "AI Shopping Upends the Rules of Brand Leadership, Price Positioning & Competition, According to New Jellyfish Research",
-    "topic": "Ad & Marketing",
-    "gist": "Jellyfish research found that AI shopping assistants (ChatGPT, Google AI Mode, Amazon Alexa) produce radically different product recommendations for identical queries, with no dominant 'AI shelf,' collapsed price tiers, and brand leadership often erased — ChatGPT alone accounted for ~80% of AI product recommendations across categories studied. The firm launched a 'Share of Model Shopping Optimization' tool to help brands measure and influence AI-level product visibility at the SKU level.",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.retaildive.com/news/meta-debuts-ai-agent-muse-small-businesses/831890/",
-    "title": "Meta debuts AI agent for small businesses",
-    "topic": "Marketplaces",
-    "gist": "Meta launched Muse for Small Business, an AI agent that integrates with Shopify, Stripe, QuickBooks, and other platforms to perform tasks on behalf of small businesses, priced at $20–$100/month after a free tier. Amazon has already asked Meta to remove its site from Muse's access, mirroring a prior legal dispute with Perplexity over unauthorized AI-agent purchases.",
-    "date": "2026-10-02"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/10/nike-plots-further-job-cuts-as-china-sales-plunge-26/",
-    "title": "Nike plots further job cuts as China sales plunge 26%",
-    "topic": "Retail",
-    "gist": "Nike reported a 4% revenue decline in Q1 to $11.21bn, with Greater China sales plunging 26% for the ninth consecutive quarter of decline, prompting restructuring plans and further job cuts expected to save ~£1.9bn by 2031. The company is simplifying its global structure from four regions to three and cutting Jordan retro launches to reduce discounting.",
-    "date": "2026-10-02"
-  },
-  {
     "url": "https://www.modernretail.co/operations/how-litter-robot-is-doing-tiktok-shop-without-the-deep-discounts/",
     "title": "How Litter Robot is doing TikTok Shop without the deep discounts",
     "topic": "Marketplaces",
@@ -782,5 +712,26 @@
     "topic": "Marketplaces",
     "gist": "Google has launched Universal Cart in the US, a tool that aggregates saved products from multiple retailers into a single hub within Search and the Gemini app, with price-drop and restock notifications and checkout tied to Google's Universal Commerce Protocol (UCP). The move is part of Google's broader push into AI-powered agentic commerce, where AI agents handle parts of the shopping journey on behalf of users.",
     "date": "2026-10-16"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/why-depop-is-putting-music-at-the-center-of-its-marketing-collaborating-with-zara-larsson-and-olivia-rodrigo/",
+    "title": "Why Depop is putting music at the center of its marketing, collaborating with Zara Larsson and Olivia Rodrigo",
+    "topic": "DTC & Brands",
+    "gist": "Depop is building its marketing strategy around music, using data showing 56% of its users attend live events to justify artist wardrobe 'shop drops' with names like Olivia Rodrigo and Zara Larsson.",
+    "date": "2026-10-17"
+  },
+  {
+    "url": "https://www.retaildive.com/news/halloween-without-candy-holiday-shoppers-cutting-budgets/833212/",
+    "title": "Halloween without candy? What shoppers are cutting from budgets this year",
+    "topic": "Consumer Trends",
+    "gist": "Average U.S. Halloween spending is projected to drop 16% to $162 this year, with 80% of consumers planning to shop at all (down from 90%), and nearly two-thirds of those shoppers planning to skip at least one category.",
+    "date": "2026-10-17"
+  },
+  {
+    "url": "https://www.glossy.co/pop/why-brands-are-turning-your-favorite-beauty-products-into-fashion-accessories/",
+    "title": "Why brands are turning your favorite beauty products into fashion accessories",
+    "topic": "DTC & Brands",
+    "gist": "Brands like Givenchy and Rhode are designing beauty products that double as visible fashion accessories, blurring the line between product utility and wearable branding.",
+    "date": "2026-10-17"
   }
 ]
