@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/operations/how-litter-robot-is-doing-tiktok-shop-without-the-deep-discounts/",
-    "title": "How Litter Robot is doing TikTok Shop without the deep discounts",
-    "topic": "Marketplaces",
-    "gist": "Whisker (maker of Litter Robot) joined TikTok Shop in the past year to capture early-mover advantage and reach Gen Z/Gen Alpha, without relying on the heavy discounting common on the platform.",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://ecommercenews.eu/over-90-of-purchases-abroad-made-on-temu-shein-or-aliexpress/",
-    "title": "Over 90% of purchases abroad made on Temu, Shein or AliExpress",
-    "topic": "Marketplaces",
-    "gist": "In 2025, over 90% of EU cross-border online spending on physical goods went to Temu, Shein, and AliExpress, totaling €49.7 billion out of €55.1 billion spent outside the EU.",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://www.retaildive.com/news/ikea-shutters-three-small-format-plan-and-order-stores/832021/",
-    "title": "Ikea to shutter 3 small-format plan and order stores",
-    "topic": "Retail",
-    "gist": "IKEA U.S. is closing three small-format plan-and-order stores in the D.C. area, pivoting investment toward home delivery, pickup services, and digital channels instead.",
-    "date": "2026-10-03"
-  },
-  {
-    "url": "https://www.retaildive.com/news/nike-turnaround-visibility-very-low-layoffs-sales-declines-q1-earnings/832015/",
-    "title": "Nike extends turnaround timeline amid more layoffs, sales declines",
-    "topic": "Retail",
-    "gist": "Nike reported Q1 revenue down 4% to $11.2 billion and announced a third restructuring plan called 'Pace,' with more layoffs ahead and executives warning the turnaround will extend well beyond fiscal 2026.",
-    "date": "2026-10-03"
-  },
-  {
     "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
     "title": "What Meta got right with Muse",
     "topic": "Marketplaces",
@@ -733,5 +705,19 @@
     "topic": "DTC & Brands",
     "gist": "Brands like Givenchy and Rhode are designing beauty products that double as visible fashion accessories, blurring the line between product utility and wearable branding.",
     "date": "2026-10-17"
+  },
+  {
+    "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+    "title": "Gold is now the top U.S. export",
+    "topic": "Macro",
+    "gist": "U.S. gold exports have surged to become the country's top export by value since late 2025, with the bulk flowing to Switzerland, Hong Kong (a gateway to China), and the UK. The author speculates this reflects foreign central banks, particularly China, shifting reserves away from U.S. Treasuries and dollars toward gold.",
+    "date": "2026-10-18"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "topic": "AI & Tech",
+    "gist": "Meta added language to its commercial terms of use that appeared to allow scraping any website linked to a business account for AI training, then removed the provision after public backlash, insisting it reflected no change in actual crawling practices.",
+    "date": "2026-10-18"
   }
 ]
