@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://metedata.substack.com/p/what-meta-got-right-with-muse",
-    "title": "What Meta got right with Muse",
-    "topic": "Marketplaces",
-    "gist": "Meta's Muse project is discussed on Hacker News, but no article text is available beyond the link.",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/5-content-marketing-ideas-for-november",
-    "title": "5 Content Marketing Ideas for November 2026",
-    "topic": "Ad & Marketing",
-    "gist": "Practical Ecommerce outlines five content marketing angles for November 2026, including Route 66's centennial, STEM Day product explainers, a 1976 retrospective, World Television Day tie-ins, and an 'anti-gift guide' format aimed at standing out in AI-assisted search.",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-    "title": "We're going to need default hard budget caps on pretty much everything",
-    "topic": "AI & Tech",
-    "gist": "The post argues that pay-per-use APIs and cloud services should default to hard spending caps that cut off service at a set dollar limit, rather than soft warnings, noting AWS and Google Cloud have recently launched early versions of this feature.",
-    "date": "2026-10-04"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
-    "title": "All the AI agents that can live in your text messages",
-    "topic": "AI & Tech",
-    "gist": "TechCrunch surveys over a dozen AI personal assistant products that operate via SMS/iMessage, capable of handling tasks like scheduling, shopping, reservations, and email management without requiring a separate app download.",
-    "date": "2026-10-04"
-  },
-  {
     "url": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/832070/",
     "title": "Gap unveils AI-assisted shopping, three decades after its first website",
     "topic": "Retail",
@@ -719,5 +691,47 @@
     "topic": "AI & Tech",
     "gist": "Meta added language to its commercial terms of use that appeared to allow scraping any website linked to a business account for AI training, then removed the provision after public backlash, insisting it reflected no change in actual crawling practices.",
     "date": "2026-10-18"
+  },
+  {
+    "url": "https://ecommercenews.eu/uk-plans-to-extend-vat-liability-for-marketplaces/",
+    "title": "UK plans to extend VAT liability for marketplaces",
+    "topic": "Marketplaces",
+    "gist": "The UK government is proposing to make online marketplaces liable for collecting VAT on sales by larger domestic sellers, a measure projected to raise up to £1 billion annually, with proceeds earmarked to fund tax relief for high-street businesses.",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.retaildive.com/news/nike-ceo-elliott-hill-problems-keep-growing-china-sportswear-jordan/832803/",
+    "title": "Nike hired Elliott Hill to fix a couple problems. They keep growing.",
+    "topic": "DTC & Brands",
+    "gist": "Nike's turnaround under CEO Elliott Hill is proving harder than expected, with Jordan Brand, Greater China, and the core sportswear segment all declining double-digits as the company continues restructuring around oversupply, channel reset, and product relevance.",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/matalan-app-orders-jump-28-as-digital-investment-pays-off/",
+    "title": "Matalan app orders jump 28% as digital investment pays off",
+    "topic": "Retail",
+    "gist": "Matalan's new native mobile app reached 1.76 million downloads in two months, driving a 28% jump in app orders and a 4.4% conversion rate — above its 3.4% target — with app shoppers spending 14% more per order than website shoppers.",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/the-entertainer-and-boodles-back-2-online-sales-levy-to-slash-business-rates/",
+    "title": "The Entertainer and Boodles back 2% online sales levy to slash business rates",
+    "topic": "Macro",
+    "gist": "Over 200 UK business leaders are calling on the Chancellor to introduce a 2% online sales levy to fund cuts to business rates, arguing the current property-based tax system unfairly burdens physical retailers relative to online commerce.",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/uk-profit-warnings-hit-near-two-year-high-as-retailers-brace-for-budget/",
+    "title": "UK profit warnings hit near two-year high as retailers brace for Budget",
+    "topic": "Macro",
+    "gist": "UK profit warnings hit a near two-year high in Q3, with 65 warnings issued as retailers cite policy uncertainty, rising costs, and weak consumer spending ahead of the autumn Budget.",
+    "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/discounting-is-a-hard-drug-to-come-off-but-retraining-customers-to-shop-full-price-is-a-must-brand-leaders-say/",
+    "title": "Discounting is ‘a hard drug to come off,’ but retraining customers to shop full price is a must, brand leaders say",
+    "topic": "DTC & Brands",
+    "gist": "Brand leaders are grappling with breaking customers' discount expectations ahead of the holiday season, describing heavy discounting as structurally damaging but difficult to reverse given competition from Amazon and major retailers.",
+    "date": "2026-10-19"
   }
 ]
