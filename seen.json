@@ -1,68 +1,5 @@
 [
   {
-    "url": "https://www.retaildive.com/news/gap-ai-assisted-shopping-three-decades-after-website/832070/",
-    "title": "Gap unveils AI-assisted shopping, three decades after its first website",
-    "topic": "Retail",
-    "gist": "Gap Inc. is launching AI-powered shopping tools across all four of its brands, partnering with platforms Alta Daily and Daydream for outfit discovery, plus adding conversational shopping agents to Old Navy and Banana Republic sites — 30 years after launching its first e-commerce website. The company acknowledges consumer skepticism, with 45% of AI-assisted apparel purchases resulting in regret according to one survey.",
-    "date": "2026-10-05"
-  },
-  {
-    "url": "https://ecommercenews.eu/tiktok-shop-still-much-bigger-in-the-uk-than-elsewhere-in-europe/",
-    "title": "TikTok Shop still much bigger in the UK than elsewhere in Europe",
-    "topic": "Marketplaces",
-    "gist": "TikTok Shop's UK gross merchandise value is projected to reach nearly €5 billion in 2025, far outpacing its performance in other European markets where the platform has also launched.",
-    "date": "2026-10-05"
-  },
-  {
-    "url": "https://www.retaildive.com/news/walmart-ohio-fulfillment-center-oversized-goods/831964/",
-    "title": "Walmart to build Ohio fulfillment center for oversized goods",
-    "topic": "Fulfillment & Ops",
-    "gist": "Walmart is investing $300 million in a new fulfillment center in Ohio dedicated to oversized, non-sortable goods like furniture and TVs, part of a broader network reshuffling that also includes robotics upgrades and some facility closures. Amazon and Costco are making similar moves in the big-and-bulky category.",
-    "date": "2026-10-05"
-  },
-  {
-    "url": "https://digiday.com/marketing/tiktoks-ad-network-bet-more-reach-more-budget/",
-    "title": "TikTok’s ad network bet: More reach, more budget",
-    "topic": "Ad & Marketing",
-    "gist": "TikTok has rebranded its Pangle ad network as the TikTok Ad Network (TTAN) and opened it to U.S. advertisers, allowing them to extend campaigns across nearly 400,000 apps beyond TikTok itself. The move is designed to capture more of advertisers' total budgets, though transparency about which apps are included remains limited.",
-    "date": "2026-10-05"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/pricing-tactics-come-under-scrutiny-in-the-age-of-ai/",
-    "title": "Pricing tactics come under scrutiny in the age of AI",
-    "topic": "Retail",
-    "gist": "Retailers are facing growing consumer and regulatory scrutiny over dynamic pricing practices, fueled by the spread of digital shelf labels and leaked screenshots of pricing algorithms. The pressure is putting more companies on the defensive about how customer data is used to set prices.",
-    "date": "2026-10-05"
-  },
-  {
-    "url": "https://www.retaildive.com/news/glp1-users-apparel-retailers-rethink-everything-returns-davids-bridal/831835/",
-    "title": "How GLP-1 users are forcing retailers to rethink everything",
-    "topic": "Consumer Trends",
-    "gist": "GLP-1 weight-loss drug adoption — now at 11% of U.S. adults — is driving measurable shifts in apparel retail: smaller average dress sizes, delayed purchases, higher return rates, and surge in bracketing behavior. Retailers like David's Bridal and DXL are adapting operations around sizing volatility, with 70% of GLP-1 users having dropped at least one clothing size.",
-    "date": "2026-10-05"
-  },
-  {
-    "url": "https://internetretailing.net/lidl-attracts-43m-extra-visits-as-lidl-plus-investment-fuels-growth/",
-    "title": "Lidl attracts 43m extra visits as Lidl Plus investment fuels growth",
-    "topic": "Retail",
-    "gist": "Lidl GB grew revenue 10.8% to £13bn, driven partly by a 23% rise in Lidl Plus loyalty app users, with more than half of shoppers now using a loyalty coupon vs. a quarter the prior year. The retailer plans a 60% increase in personalized coupon funding in 2026 alongside continued physical expansion.",
-    "date": "2026-10-05"
-  },
-  {
-    "url": "https://digiday.com/marketing/openai-moves-to-make-chatgpt-ads-more-measurable-and-more-visual/",
-    "title": "OpenAI moves to make ChatGPT ads more measurable — and more visual",
-    "topic": "Ad & Marketing",
-    "gist": "OpenAI is expanding ChatGPT's ad product with new image ad formats and improved measurement tools, addressing advertiser complaints about limited formats and inability to track performance since ads launched in February. Tests of image ads in the U.S. are planned for later this month.",
-    "date": "2026-10-05"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/from-influencers-to-ai-heres-what-gen-alpha-thinks-about-your-brand/",
-    "title": "From influencers to AI, here’s what Gen Alpha thinks about your brand",
-    "topic": "Consumer Trends",
-    "gist": "A panel of Gen Alpha shoppers at Shoptalk Fall revealed strong aversion to AI-generated ads and a preference for feeling 'unique,' with the cohort holding $100 billion in direct annual spending power and influencing nearly half of U.S. household spend in families with children ages 8–14. Amazon, Nike, and McDonald's are currently the top-ranked brands among Gen Alpha teens.",
-    "date": "2026-10-05"
-  },
-  {
     "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
     "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
     "topic": "Marketplaces",
@@ -733,5 +670,82 @@
     "topic": "DTC & Brands",
     "gist": "Brand leaders are grappling with breaking customers' discount expectations ahead of the holiday season, describing heavy discounting as structurally damaging but difficult to reverse given competition from Amazon and major retailers.",
     "date": "2026-10-19"
+  },
+  {
+    "url": "https://www.retaildive.com/news/holiday-season-retail-spending-sales-decline-outlook/832624/",
+    "title": "Shoppers expect less for more this holiday season. That could mean a sales decline.",
+    "topic": "Consumer Trends",
+    "gist": "Multiple forecasts for the 2026 holiday season are diverging: NRF projects 4.2% growth to ~$1 trillion, while Circana sees a possible 1% decline and Simon-Kucher projects a 5.5% drop, with 77% of consumers saying inflation has changed their shopping behavior and only 22% trusting advertised discounts. Shoppers are starting earlier, spreading spend across October events, and becoming more deliberate about where they spend.",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.retaildive.com/news/nrf-forecasts-2026-holiday-sales-growth-seasonal-hiring/833239/",
+    "title": "NRF forecasts 4.2% holiday sales growth, muted seasonal hiring",
+    "topic": "Consumer Trends",
+    "gist": "NRF forecasts 4.2% holiday retail sales growth to ~$1 trillion for November–December 2026, but notes that inflation accounts for a meaningful portion of nominal gains and last year's forecast was missed. Seasonal hiring is projected at 325,000–375,000 positions, reflecting a cautious 'low hire, low fire' labor environment.",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/nearly-30-of-holiday-budgets-expected-to-be-spent-by-the-end-of-october/",
+    "title": "Nearly 30% of holiday budgets expected to be spent by the end of October",
+    "topic": "Consumer Trends",
+    "gist": "Deloitte's 2026 holiday survey finds 28% of shoppers' budgets will be spent by end of October — the highest in six years — with 42% planning to shop October sales events and 1 in 4 having already bought holiday gifts during June promotions. The traditional Black Friday/Cyber Monday concentration is continuing to erode.",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/chatgpt-takes-on-fashions-fitting-rooms-as-openai-makes-major-play-for-shoppers/",
+    "title": "ChatGPT takes on fashion’s fitting rooms as OpenAI makes major play for shoppers",
+    "topic": "Retail",
+    "gist": "OpenAI has added a virtual try-on feature to ChatGPT's shopping results, letting users upload a photo to see how products look on them, alongside a Favorites tool to save and organize potential purchases — all without leaving ChatGPT. The move puts OpenAI in direct competition with Google, which launched similar try-on tech in the UK in December 2025, as both platforms deepen their role in the online shopping journey.",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/why-retailers-are-turning-to-klarna-as-shoppers-feel-the-squeeze/",
+    "title": "Why retailers are turning to Klarna as shoppers feel the squeeze",
+    "topic": "Retail",
+    "gist": "Major UK retailers including M&S, John Lewis, and Boots have adopted Klarna's BNPL service as consumer budgets remain under pressure, with BNPL expanding beyond e-commerce into physical stores via QR-code checkout. The trend reflects BNPL shifting from a differentiator to a standard checkout expectation, particularly among Gen Z and Millennial shoppers.",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.retaildive.com/news/dicks-sporting-goods-seasonal-hiring-down/833348/",
+    "title": "Dick’s Sporting Goods’ seasonal hiring slips",
+    "topic": "Retail",
+    "gist": "Dick's Sporting Goods plans to hire over 11,000 seasonal workers for holiday 2026, about 20% fewer than last year, in line with a broader industry trend of more conservative seasonal hiring. The company also lowered its full-year outlook for its recently acquired Foot Locker brand, projecting an operating loss of $40M–$80M against previous profit expectations.",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.retaildive.com/news/walmart-opens-next-gen-california-fulfillment-center-west-coast/832749/",
+    "title": "Walmart opens next-gen California facility to boost West Coast fulfillment",
+    "topic": "Fulfillment & Ops",
+    "gist": "Walmart opened its fifth 'next-generation' fulfillment center in Stockton, California, using automation and machine learning to cut its standard 12-step fulfillment process to five steps and increase daily order capacity. The retailer is also upgrading all 42 U.S. distribution centers with automation as part of a broader supply chain investment.",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://ecommercenews.eu/uk-plans-to-extend-vat-liability-for-marketplaces/",
+    "title": "UK plans to extend VAT liability for marketplaces",
+    "topic": "Marketplaces",
+    "gist": "The UK government is proposing to make online marketplaces liable for collecting VAT on sales by larger domestic sellers, a measure projected to raise up to £1 billion annually. The additional revenue is intended to fund tax relief for high street businesses.",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/debenhams-group-launches-faster-payment-scheme-for-30000-marketplace-partners/",
+    "title": "Debenhams Group launches faster payment scheme for 30,000 marketplace partners",
+    "topic": "Marketplaces",
+    "gist": "Debenhams Group has partnered with Storfund to offer its 30,000+ marketplace brand partners daily advance payments of up to 80% of shipped sales revenue, replacing the standard marketplace payment cycle. The service is live across Debenhams, boohoo, and PrettyLittleThing platforms with no subscription or setup fees.",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/tesco-launches-500-screen-advertising-blitz-across-bookers-uk-wholesale-estate/",
+    "title": "Tesco launches 500-screen advertising blitz across Booker’s UK wholesale estate",
+    "topic": "Ad & Marketing",
+    "gist": "Booker (owned by Tesco) has rolled out 500+ digital advertising screens across 100 UK wholesale sites in eight weeks, creating a retail media network targeting independent retailers and hospitality buyers at the point of purchase. Tesco's broader retail media operation now has over 7,500 digital screens and reported a 17% increase in active advertisers.",
+    "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/pinterests-head-of-beauty-reveals/",
+    "title": "Pinterest’s head of beauty reveals the rise of hyper-personalised trends",
+    "topic": "Consumer Trends",
+    "gist": "Pinterest's first Beauty Trend Report, based on search behavior analysis, shows consumers moving away from broad aesthetic searches toward highly specific combinations of color, texture, finish, and occasion — with searches like 'polka-dot cat-eye nails' up 1,585% and 'fragrance wardrobe' up 210%. The platform positions this granularity as a signal of purchase intent that brands and retailers can use for product development and merchandising.",
+    "date": "2026-10-20"
   }
 ]
