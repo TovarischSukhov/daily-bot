@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/10/05/tiktok-rolls-out-an-ai-shopping-assistant-and-one-click-checkout/",
-    "title": "TikTok rolls out an AI shopping assistant and one-click checkout",
-    "topic": "Marketplaces",
-    "gist": "TikTok is launching a conversational AI shopping assistant and a one-click checkout directly in the For You feed, built with partners including Shopify, Salesforce, and Stripe, expanding its commerce push beyond TikTok Shop.",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/shapermint-is-on-track-to-hit-10m-in-tiktok-shop-sales-by-targeting-women-ages-35-65/",
-    "title": "Shapermint is on track to hit $10M in TikTok Shop sales by targeting women ages 35-65",
-    "topic": "Marketplaces",
-    "gist": "Shaperwear brand Shapermint built a 5,000-creator affiliate network on TikTok Shop — 60% of its top creators are over 35 — driving 515% month-over-month growth and putting it on track for $10M in TikTok Shop sales this year.",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o",
-    "title": "ASOS app users receive push notifications apparently sent by hackers",
-    "topic": "Retail",
-    "gist": "ASOS users received push notifications apparently sent by hackers claiming to have compromised the retailer's Snowflake data instance, with the extortion message sent publicly through the app's own notification system.",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/05/openai-launches-visual-ads-that-appear-alongside-image-generation-results/",
-    "title": "OpenAI launches visual ads that appear alongside image generation results",
-    "topic": "Ad & Marketing",
-    "gist": "OpenAI is adding visual display ads to ChatGPT that appear alongside image generation results, with measurement partnerships including AppsFlyer, Triple Whale, and Northbeam among others, initially rolling out in the U.S.",
-    "date": "2026-10-06"
-  },
-  {
-    "url": "https://www.retaildive.com/news/what-the-super-el-nino-means-for-retail/831188/",
-    "title": "What the Super El Niño means for retail",
-    "topic": "Retail",
-    "gist": "A record-strength El Niño is expected to produce an unusually warm fall and winter in North America, putting pressure on seasonal inventory and margins for apparel and winter-gear retailers, while a cold snap is forecast for early next year.",
-    "date": "2026-10-06"
-  },
-  {
     "url": "https://ecommercenews.eu/amazon-holds-63-of-german-online-retail/",
     "title": "Amazon holds 63% of German online retail",
     "topic": "Marketplaces",
@@ -747,5 +712,54 @@
     "topic": "Consumer Trends",
     "gist": "Pinterest's first Beauty Trend Report, based on search behavior analysis, shows consumers moving away from broad aesthetic searches toward highly specific combinations of color, texture, finish, and occasion — with searches like 'polka-dot cat-eye nails' up 1,585% and 'fragrance wardrobe' up 210%. The platform positions this granularity as a signal of purchase intent that brands and retailers can use for product development and merchandising.",
     "date": "2026-10-20"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/targets-holiday-push-stresses-affordability-exclusives-and-an-ai-assistant/",
+    "title": "Target’s holiday push stresses affordability, exclusives and an AI assistant",
+    "topic": "Retail",
+    "gist": "Target is launching 8,000+ new holiday gifts (mostly under $20, half exclusive), daily deals from Nov. 1–Dec. 24, and a beta AI assistant called Ask Target to help shoppers build wishlists on its app and site.",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.retaildive.com/news/walmart-sams-club-membership-challenge-to-amazon-prime/833447/",
+    "title": "Walmart enlists Sam’s Club in latest challenge to Amazon Prime",
+    "topic": "Retail",
+    "gist": "Walmart is bundling Walmart+ and Sam's Club Plus memberships for $120/year, undercutting Amazon Prime's $139 fee while adding warehouse access, free delivery from both chains, streaming, and gas discounts.",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.retaildive.com/news/ups-happy-returns-tiktok-shop/833322/",
+    "title": "UPS’ Happy Returns comes to TikTok Shop",
+    "topic": "Fulfillment & Ops",
+    "gist": "UPS' Happy Returns is now directly integrated into TikTok Shop, giving sellers on the platform access to box- and label-free returns at 10,000 drop-off locations without per-retailer setup for platform-fulfilled orders.",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/shopify-vercel-arm-stores-for-ai-agents",
+    "title": "Shopify, Vercel Arm Stores for AI Agents",
+    "topic": "Marketplaces",
+    "gist": "Shopify and Vercel released a rebuilt Hydrogen SDK and an open-source storefront template (Vercel Shop) that exposes product data, cart, and checkout to both human shoppers and external AI agents via structured formats and the Model Context Protocol.",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/brands-briefing-how-brands-are-gearing-up-for-tiktok-shops-biggest-holiday-season-yet/",
+    "title": "Brands Briefing: How brands are gearing up for TikTok Shop’s biggest holiday season yet",
+    "topic": "Marketplaces",
+    "gist": "TikTok Shop's U.S. Black Friday/Cyber Monday campaign runs Nov. 11–30, starting a day earlier than last year, with livestreams and deals from brands including Beachwaver and Old Navy.",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://internetretailing.net/retailers-urged-to-rethink-holiday-media-spend-as-shoppers-start-buying-earlier/",
+    "title": "Retailers urged to rethink holiday media spend as shoppers start buying earlier",
+    "topic": "Ad & Marketing",
+    "gist": "Research shows 46% of shoppers start holiday buying before November, yet most retail ad budgets still concentrate around Black Friday/Cyber Monday, which Adobe forecasts will represent only 17.3% of the full Nov–Dec online spend.",
+    "date": "2026-10-21"
+  },
+  {
+    "url": "https://internetretailing.net/aliexpress-brings-creator-commerce-to-youtube/",
+    "title": "AliExpress brings creator commerce to YouTube",
+    "topic": "Marketplaces",
+    "gist": "AliExpress has joined YouTube's Shopping Affiliate Programme in the UK, US, Brazil, and Germany, letting creators tag AliExpress products in long-form videos, Shorts, and livestreams and earn commissions on resulting sales.",
+    "date": "2026-10-21"
   }
 ]
