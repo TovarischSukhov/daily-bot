@@ -1,68 +1,5 @@
 [
   {
-    "url": "https://ecommercenews.eu/amazon-holds-63-of-german-online-retail/",
-    "title": "Amazon holds 63% of German online retail",
-    "topic": "Marketplaces",
-    "gist": "Amazon holds a 63% share of Germany's online retail market, with nearly all German online shoppers using the platform, and the company directly or indirectly influencing 41% of German spending in studied product categories.",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://internetretailing.net/retail-media-hits-2bn-as-uk-ad-spend-jumps-32-in-h1/",
-    "title": "Retail media hits £2bn as UK ad spend jumps 32% in H1",
-    "topic": "Ad & Marketing",
-    "gist": "UK retail media advertising grew 32% year-on-year in H1 2026 to reach £2bn, making it the fastest-growing digital ad category and placing it ahead of gaming, digital out-of-home, and classified advertising.",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://digiday.com/media-buying/defensible-to-the-cfo-prime-day-catalyzes-amazon-video-and-dsp-spend-growth/",
-    "title": "‘Defensible to the CFO’: Prime Day catalyzes Amazon video and DSP spend growth",
-    "topic": "Ad & Marketing",
-    "gist": "Media buyers report Amazon Ads spend ahead of Prime Big Deal Days is up 15–40% year-on-year, with full-year growth projected at up to 33%, driven by both endemic and non-endemic advertisers.",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/06/how-to-find-out-if-amazon-thinks-you-have-flat-buttocks/",
-    "title": "How to find out if Amazon thinks you have ‘flat buttocks’",
-    "topic": "Consumer Trends",
-    "gist": "Amazon's 'Shopping Preferences' section reveals detailed inferences about customers based on purchase history, including physical and lifestyle characteristics, as highlighted by a viral Threads post showing an assumption about a shopper's body type.",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://internetretailing.net/hackers-target-asos-with-unusual-pop-up-extortion-attempt-2/",
-    "title": "ASOS admits that “basic personal information” may have been accessed in cyberattack",
-    "topic": "Retail",
-    "gist": "ASOS confirmed that 'basic personal information' may have been accessed in a cyberattack after hackers sent an unauthorized pop-up to customers claiming to have compromised its Snowflake data storage instance; the company said payment card data and passwords are not believed to have been accessed.",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/06/the-next-hurdle-for-ai-agents-getting-websites-to-let-them-in/",
-    "title": "The next hurdle for AI agents: getting websites to let them in",
-    "topic": "Marketplaces",
-    "gist": "Personal AI agents like Meta's Muse are being blocked by major retailers and websites — sometimes intentionally, sometimes accidentally — as existing anti-bot infrastructure cannot distinguish between malicious bots and AI agents acting on behalf of users, prompting an industry push for a new open standard for agent-to-commerce communication.",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.retaildive.com/news/walmart-defends-dynamic-pricing-practices-again/832248/",
-    "title": "Walmart defends pricing practices, again",
-    "topic": "Retail",
-    "gist": "Walmart is publicly denying it uses or plans to use digital shelf labels for dynamic or personalized pricing, while advocacy group Groundwork Collaborative points to granted patents describing such capabilities and argues the retailer's public and investor communications are inconsistent.",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://internetretailing.net/hackers-target-asos-with-unusual-pop-up-extortion-attempt/",
-    "title": "Hackers target ASOS with unusual pop-up extortion attempt",
-    "topic": "Retail",
-    "gist": "ASOS was targeted by hackers who sent an unauthorized pop-up extortion message to customers via its mobile app, claiming to have compromised its Snowflake cloud database instance and threatening to leak data unless ASOS engaged with them; shares fell 5% within minutes.",
-    "date": "2026-10-07"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/brands-briefing-why-crocs-davids-bridal-and-stockx-are-embracing-episodic-content/",
-    "title": "Brands Briefing: Why Crocs, David’s Bridal and StockX are embracing episodic content",
-    "topic": "DTC & Brands",
-    "gist": "Brands including Crocs, David's Bridal, and StockX are increasing investment in episodic short-form content as a marketing channel, following examples from Dr. Pepper, Marc Jacobs, and Bob's Discount Furniture, which have produced original series to engage audiences.",
-    "date": "2026-10-07"
-  },
-  {
     "url": "https://internetretailing.net/ai-shopping-has-outrun-its-plumbing-says-payments-expert/",
     "title": "AI shopping has outrun its plumbing, says payments expert",
     "topic": "Marketplaces",
@@ -761,5 +698,89 @@
     "topic": "Marketplaces",
     "gist": "AliExpress has joined YouTube's Shopping Affiliate Programme in the UK, US, Brazil, and Germany, letting creators tag AliExpress products in long-form videos, Shorts, and livestreams and earn commissions on resulting sales.",
     "date": "2026-10-21"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+    "topic": "Marketplaces",
+    "gist": "Walmart launched an Agent Gateway (MCP server) letting approved AI agents search inventory and make purchases on behalf of shoppers, while also introducing Agent Profiles giving customers spending controls and transaction visibility. This directly contrasts Amazon, which has been blocking AI agents from making purchases on its platform.",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://ecommercenews.eu/german-smes-generate-over-20-billion-euros-in-sales-on-amazon/",
+    "title": "German SMEs generate over 20 billion euros in sales on Amazon",
+    "topic": "Marketplaces",
+    "gist": "German SMEs generated over 20 billion euros in sales through Amazon last year, with 5.9 billion euros coming from cross-border exports primarily to France, Austria, Italy, the US, and Spain.",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.modernretail.co/ai-strategies/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/",
+    "title": "AI boosts discovery but reviews still seal the deal, new research shows",
+    "topic": "Consumer Trends",
+    "gist": "A Feedviser survey found that while 16% of shoppers start product searches on ChatGPT, only 9% go there to buy, and just 5% purchase immediately on an AI recommendation — the rest cross-check Google, Amazon, reviews, and retailer sites first.",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.retaildive.com/news/amazon-eyes-three-hundred-thousand-holiday-season-hires/833567/",
+    "title": "Amazon eyes 300K holiday hires",
+    "topic": "Retail",
+    "gist": "Amazon plans to hire over 300,000 seasonal, part-time, and full-time U.S. operations workers for the 2026 holiday season, a 20% increase from prior years, and will extend day-one healthcare coverage to qualifying seasonal employees starting January 1.",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.retaildive.com/news/adidas-record-q3-earnings-nike-turnaround/833592/",
+    "title": "Adidas’ record Q3 is salt in the wound for Nike",
+    "topic": "DTC & Brands",
+    "gist": "Adidas posted a record 7.3 billion euros in Q3 revenue (+9% YoY) and record quarterly operating income of 1 billion euros, prompting the company to raise its full-year profit guidance, while rival Nike continues to see declining revenue.",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.retaildive.com/news/teen-spending-grows-trade-athletic-apparel-fashion-piper-sandler/833565/",
+    "title": "Teen spending up 6% as they trade athletic apparel for fashion",
+    "topic": "Consumer Trends",
+    "gist": "Teen spending rose 6% YoY in fall 2026 per Piper Sandler's survey of ~9,000 teens, with athletic brand fashion share dropping to 29% from 32% while specialty retailers gained 8 points of mindshare; Amazon dominates online shopping at ~50% share, and secondhand shopping continues to grow among upper-income teens.",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/modern-retail-research-marketers-express-revenue-optimism-for-the-2026-holiday-season-despite-economic-pressures/",
+    "title": "Modern Retail+ Research: Marketers express revenue optimism for the 2026 holiday season despite economic pressures",
+    "topic": "Retail",
+    "gist": "76% of brand and retailer professionals surveyed by Modern Retail expect 2026 holiday revenue to increase 1–31% or more versus 2025, a notably more optimistic outlook than last year's conservative forecasts.",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://digiday.com/marketing/walmart-connect-pitches-brands-directly-as-it-pushes-lift-studies-ahead-of-holiday-ad-deals/",
+    "title": "Walmart Connect pitches brands directly as it pushes lift studies ahead of holiday ad deals",
+    "topic": "Ad & Marketing",
+    "gist": "Walmart Connect is bypassing agencies to pitch brand clients directly with on-site brand lift studies ahead of the holiday season, as brands grapple with the core retail media question of whether RMN campaigns drive incremental sales or just claim credit for purchases that would have happened anyway.",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
+    "title": "Meta says Muse has over 10M users, with shopping a top activity",
+    "topic": "Marketplaces",
+    "gist": "Meta reported Muse has 10 million users with 25% daily retention, and over a quarter of engaged shopping users had average purchase sizes above $200; Zuckerberg plans to monetize Muse by taking a cut of commerce and forecasts it will eventually generate more revenue per user than Meta's core social apps.",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/kohls-leans-into-clearer-pricing-gift-bundles-and-uber-eats-for-the-holidays/",
+    "title": "Kohl’s leans into clearer pricing, gift bundles and Uber Eats for the holidays",
+    "topic": "Retail",
+    "gist": "Kohl's is rolling out explicit percentage-off pricing labels, fixed $5–$20 pricing tiers, Klarna BNPL, bundled gift sets, and same-day delivery via DoorDash, Instacart, and Uber Eats to attract value-conscious holiday shoppers amid inflation and tariff pressures.",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.retaildive.com/news/target-holiday-bargains-consumer-stress-toys-ai/833564/",
+    "title": "Target touts holiday bargains as consumers stress out about their finances",
+    "topic": "Retail",
+    "gist": "Target is leading its 2026 holiday push with $5-or-less gift pricing, daily deals, over 8,000 new exclusive items, and new AI shopping tools including a beta 'Ask Target' assistant, as consumer financial stress shapes the season's competitive playbook.",
+    "date": "2026-10-22"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/new-ecommerce-tools-october-21-2026",
+    "title": "New Ecommerce Tools: October 21, 2026",
+    "topic": "Retail",
+    "gist": "This week's merchant tool releases include Algolia's native Shopify B2B search integration, Google's Universal Cart rolling out across Search and Gemini in the US, Walmart Connect brand lift studies, Nectar's Amazon Marketing Cloud audience-targeting tool, and several agentic commerce and AI marketing platforms.",
+    "date": "2026-10-22"
   }
 ]
