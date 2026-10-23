@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://internetretailing.net/ai-shopping-has-outrun-its-plumbing-says-payments-expert/",
-    "title": "AI shopping has outrun its plumbing, says payments expert",
-    "topic": "Marketplaces",
-    "gist": "AI shopping agents like Meta's Muse and OpenAI's Dots can now execute purchases on consumers' behalf via integrated payment rails, but a payments expert warns the commercial framework — fraud standards, agent identity verification, dispute resolution — is not yet in place to support this at scale.",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/desktop-habits-hide-mobile-friction",
-    "title": "Desktop Habits Hide Mobile Friction",
-    "topic": "Retail",
-    "gist": "A practical audit checklist for mobile e-commerce UX, covering pop-up sequencing, sticky header conflicts, in-app browser limitations, and touch-optimized interactions — all issues that arise because store operators typically review their sites on desktop rather than mobile.",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/fashion-briefing-how-3-fashion-brands-crossed-100-million-in-revenue-without-outside-investment/",
-    "title": "Fashion Briefing: How 3 fashion brands crossed $100 million in revenue without outside investment",
-    "topic": "DTC & Brands",
-    "gist": "Glossy interviewed three fashion brand founders who scaled past $100M in revenue without outside investment, framing self-funded growth as an increasingly critical skill as VC dollars dry up — full article behind a paywall.",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.retaildive.com/news/lululemon-ceo-heidi-oneill-overhauls-c-suite-first-move/832434/",
-    "title": "Lululemon’s Heidi O’Neill overhauls C-suite in first move as CEO",
-    "topic": "Retail",
-    "gist": "New Lululemon CEO Heidi O'Neill has restructured the C-suite one month into the role, creating chief product and chief operating officer positions and removing two existing executives, with the stated aim of putting product design and innovation at the company's operational center.",
-    "date": "2026-10-08"
-  },
-  {
-    "url": "https://www.modernretail.co/sponsored/how-agentic-commerce-helps-brands-like-willy-chavarria-optimize-for-bfcm/",
-    "title": "How agentic commerce helps brands like Willy Chavarria optimize for BFCM",
-    "topic": "Marketplaces",
-    "gist": "E-commerce brands are turning to agentic commerce tools — AI-powered storefronts and checkout experiences — to improve conversion during BFCM, with the argument that speed of answer, not depth of discount, determines who wins peak season.",
-    "date": "2026-10-08"
-  },
-  {
     "url": "https://ecommercenews.eu/swedish-ecommerce-grew-8-in-q2/",
     "title": "Swedish ecommerce grew 8% in Q2",
     "topic": "Retail",
@@ -782,5 +747,68 @@
     "topic": "Retail",
     "gist": "This week's merchant tool releases include Algolia's native Shopify B2B search integration, Google's Universal Cart rolling out across Search and Gemini in the US, Walmart Connect brand lift studies, Nectar's Amazon Marketing Cloud audience-targeting tool, and several agentic commerce and AI marketing platforms.",
     "date": "2026-10-22"
+  },
+  {
+    "url": "https://ecommercenews.eu/austrians-spent-16-of-retail-expenditure-online/",
+    "title": "Austrians spent 16% of retail expenditure online",
+    "topic": "Retail",
+    "gist": "Austria's e-commerce share of retail spending rose from 14.9% in 2024 to over 16% in 2025, bringing the total online market volume to approximately €12.4 billion.",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://internetretailing.net/online-retail-sales-volumes-decline-in-september-as-retailers-brace-for-a-muted-black-friday/",
+    "title": "Online retail sales volumes fell in September as retailers brace for a muted Black Friday",
+    "topic": "Retail",
+    "gist": "UK online retail sales volumes dropped in September 2026, with cautious consumers expected to spend less during Black Friday — forecasted at £165 per shopper versus £181 in 2025 — though experts see opportunity for retailers who communicate clear value and long-term loyalty.",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://www.glossy.co/pop/sharkninja-fans-beauty-creators-holiday-shopping/",
+    "title": "Glossy Pop Newsletter: SharkNinja is turning its fans into beauty sellers ahead of the holidays",
+    "topic": "Ad & Marketing",
+    "gist": "SharkNinja drove viral reach for its FacialPro Glow device by partnering with an unexpected creator — an offshore oil-field worker — whose video collected over 10 million views, illustrating the brand's strategy of finding authentic, non-obvious demonstrators.",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/target-unveils-its-revamped-soho-location-as-big-box-stores-seek-to-become-retail-destinations/",
+    "title": "Target unveils its revamped Soho location as big-box stores seek to become retail destinations",
+    "topic": "Retail",
+    "gist": "Target has redesigned its Soho store as a curation- and design-led retail destination, positioning it as a discovery space amid increased competition and ongoing boycott pressure.",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://www.glossy.co/sponsored/how-prescription-skincare-brand-musely-drove-1200-affiliate-revenue-growth/",
+    "title": "How prescription skincare brand Musely drove 1,200% affiliate revenue growth",
+    "topic": "Ad & Marketing",
+    "gist": "Prescription skincare brand Musely achieved 1,200% affiliate revenue growth by moving away from siloed, last-click attribution models that over-reward checkout coupon sites and misattribute 30–50% of affiliate spend.",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://www.retaildive.com/news/ebay-cuts-one-thousand-jobs-layoffs-downsizing/833668/",
+    "title": "EBay cuts 1K jobs, downsizing for the second time this year",
+    "topic": "Marketplaces",
+    "gist": "eBay is cutting 9% of its global workforce — over 1,000 jobs — for the second time in 2025, while strategically doubling down on collectibles, C2C, and pre-owned categories that accounted for over 70% of Q2 GMV.",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://internetretailing.net/pressure-mounts-to-increase-online-retail-tax-as-budget-looms/",
+    "title": "Pressure mounts to increase online retail tax as Budget looms",
+    "topic": "Macro",
+    "gist": "Former Bank of England chief economist Andy Haldane is urging UK government to rebalance taxes in favor of physical retail ahead of the Autumn Budget, with a tax crackdown on online marketplaces like Amazon and eBay widely expected.",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://www.retaildive.com/news/why-customers-fed-up-ai-chatbots/833488/",
+    "title": "Why customers are fed up with AI chatbots",
+    "topic": "Consumer Trends",
+    "gist": "Only 46% of consumers rated their most recent AI chatbot experience positively, compared to roughly two-thirds who rated live phone, email, or in-person support positively, with repeated misunderstandings cited as the top reason shoppers abandon bots.",
+    "date": "2026-10-23"
+  },
+  {
+    "url": "https://www.modernretail.co/retailers/big-box-briefing-how-brands-are-juggling-new-marketplaces-this-holiday-season/",
+    "title": "Big-Box Briefing: How brands are juggling new marketplaces this holiday season",
+    "topic": "Marketplaces",
+    "gist": "As major brick-and-mortar retailers launch their own third-party marketplaces, brands are navigating more sales channels than ever heading into the holiday season, each with different systems and requirements.",
+    "date": "2026-10-23"
   }
 ]
