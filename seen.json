@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/marketing/how-amazon-fall-prime-day-went-for-sellers/",
-    "title": "How Amazon Fall Prime Day went for sellers",
-    "topic": "Marketplaces",
-    "gist": "Amazon's fall Prime Big Deals Days (Oct 6–7) drove $9.86B in US online sales, up 8.5% year over year, with strong gains across electronics, apparel, beauty, and household essentials as price-sensitive shoppers pulled holiday spending forward.",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://www.retaildive.com/news/amazon-prime-big-deal-days-online-spend-nears-ten-billion/832604/",
-    "title": "Online spend during Amazon’s Prime Big Deal Days neared $10B in the US",
-    "topic": "Marketplaces",
-    "gist": "Adobe data shows Amazon's October Prime Big Deals Days generated $9.86B in US online sales, with mobile accounting for 52% of transactions ($5.1B, +12.8% YoY), BNPL at 6% of orders, and 74% of shoppers citing inflation as a key motivation to shop the event.",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://www.retaildive.com/news/shoppers-worried-affording-holidays-icsc/832615/",
-    "title": "Nearly half of shoppers are worried about affording holiday gifts this year",
-    "topic": "Consumer Trends",
-    "gist": "ICSC projects 2026 holiday retail sales to exceed $1.7 trillion (+4.3–4.9% YoY), but 49% of consumers worry about affording gifts, half say personal debt will weigh on budgets, and over 60% plan to use AI tools for holiday research — up from 47% last year.",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/how-brands-can-capitalize-on-post-fall-prime-day-momentum/",
-    "title": "How brands can capitalize on post-Fall Prime Day momentum",
-    "topic": "Marketplaces",
-    "gist": "Amazon's fall Prime Big Deals Days has reshaped the retail calendar, making October a key acquisition and testing window for sellers ahead of Black Friday, as inflation-driven consumers increasingly research and buy earlier each year.",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://ecommercenews.eu/eu-wants-to-introduce-another-parcel-tax/",
-    "title": "EU wants to introduce another parcel tax",
-    "topic": "Retail",
-    "gist": "The European Commission is developing a new surveillance fee on parcels entering the EU from outside, which would stack on top of an existing €3 import duty and a forthcoming €2 customs clearance fee.",
-    "date": "2026-10-10"
-  },
-  {
-    "url": "https://internetretailing.net/interview-hms-ian-macfarlane-on-ai-shoppers-geo-and-the-future-of-search/",
-    "title": "INTERVIEW: H&M’s Ian Macfarlane on AI shoppers, GEO and the future of search",
-    "topic": "Ad & Marketing",
-    "gist": "H&M's acting Global SEO lead argues that as AI agents move from product research to autonomous purchasing, brands must optimize for GEO alongside traditional SEO, with brand trust and reputation becoming key signals for AI-driven recommendation visibility.",
-    "date": "2026-10-10"
-  },
-  {
     "url": "https://www.practicalecommerce.com/retail-medias-opportunity-cost",
     "title": "Retail Media’s Opportunity Cost",
     "topic": "Ad & Marketing",
@@ -747,5 +705,33 @@
     "topic": "Retail",
     "gist": "Critical vulnerabilities in PHP, the runtime underlying platforms like Magento and WordPress, exposed e-commerce retailers to potential unauthenticated remote code execution before emergency patches were issued on October 21, with experts noting exploitation attempts began four days before public disclosure.",
     "date": "2026-10-24"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
+    "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
+    "topic": "Marketplaces",
+    "gist": "Instacart has hired an investment bank and held early-stage acquisition talks with both DoorDash and Uber, though Uber has reportedly withdrawn. The company's stock jumped over 9% on the news, while its market cap sits above $13 billion.",
+    "date": "2026-10-25"
+  },
+  {
+    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+    "topic": "AI & Tech",
+    "gist": "The US creative industries have shed over 200,000 jobs in four years, with losses spanning Hollywood, publishing, and graphic design, coinciding with the rise of generative AI — though isolating AI's exact contribution is difficult given simultaneous structural shifts like streaming competition and consolidation.",
+    "date": "2026-10-25"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
+    "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
+    "topic": "Retail",
+    "gist": "Two critical remote-code-execution vulnerabilities in PHP, which underpins roughly 70% of the web including WordPress and major e-commerce platforms, were publicly disclosed this week with patches released; some exploitation was detected before the patch embargo lifted, and many systems remain unpatched.",
+    "date": "2026-10-25"
+  },
+  {
+    "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
+    "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
+    "topic": "Macro",
+    "gist": "Brazilian advocacy groups submitted new evidence to the Superior Electoral Court alleging that Meta's Instagram and WhatsApp tools systematically favor one presidential candidate over another in search results and AI-generated answers, despite an existing court order requiring equal treatment. Meta faces daily fines that could double to roughly $198,000 if noncompliance continues.",
+    "date": "2026-10-25"
   }
 ]
