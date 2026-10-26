@@ -1,26 +1,5 @@
 [
   {
-    "url": "https://www.practicalecommerce.com/retail-medias-opportunity-cost",
-    "title": "Retail Media’s Opportunity Cost",
-    "topic": "Ad & Marketing",
-    "gist": "As retail media grows, sponsored placements increasingly dominate search and category pages, creating a structural conflict between merchandising teams (optimizing for conversion) and media teams (optimizing for ad revenue), with ad revenue winning by default because its costs are visible and immediate while lost organic placement value is diffuse and hard to measure.",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://www.bbc.com/news/articles/c5vgjm3gk7rzo",
-    "title": "AI is creating a 'human premium' for art created by people",
-    "topic": "AI & Tech",
-    "gist": "As AI-generated content floods platforms — Deezer reports 44% of uploaded tracks are AI-made — some observers argue a 'human premium' is emerging where audiences and consumers actively value and seek out work made by people, though it remains unclear whether this preference will persist as AI content becomes indistinguishable and algorithmically dominant.",
-    "date": "2026-10-11"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/",
-    "title": "Microsoft’s Satya Nadella says AI models need an ‘emergency brake’",
-    "topic": "AI & Tech",
-    "gist": "Microsoft CEO Satya Nadella published a post calling for AI systems to have external controls, tamper-proof audit logs, and a built-in ability for authorized humans to pause or shut down a model mid-task, framing it as an 'emergency brake' against compromised AI behavior.",
-    "date": "2026-10-11"
-  },
-  {
     "url": "https://ecommercenews.eu/asian-marketplaces-lose-market-share-in-germany/",
     "title": "Asian marketplaces lose market share in Germany",
     "topic": "Marketplaces",
@@ -733,5 +712,61 @@
     "topic": "Macro",
     "gist": "Brazilian advocacy groups submitted new evidence to the Superior Electoral Court alleging that Meta's Instagram and WhatsApp tools systematically favor one presidential candidate over another in search results and AI-generated answers, despite an existing court order requiring equal treatment. Meta faces daily fines that could double to roughly $198,000 if noncompliance continues.",
     "date": "2026-10-25"
+  },
+  {
+    "url": "https://ecommercenews.eu/record-number-of-counterfeit-products-intercepted-in-eu/",
+    "title": "Record number of counterfeit products intercepted in EU",
+    "topic": "Marketplaces",
+    "gist": "EU customs agencies intercepted a record 196 million suspected counterfeit items in 2024, valued at €6.3 billion — a 67% increase over the prior year.",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/usps-can-bill-sellers-for-foreign-duties",
+    "title": "USPS Can Bill Sellers for Foreign Duties",
+    "topic": "Fulfillment & Ops",
+    "gist": "A new USPS rule effective October 19 makes U.S. merchants financially liable for unpaid foreign customs duties, taxes, and fees on international shipments — including on returned or lost parcels — with interest accruing on overdue invoices.",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/agentic-commerce-the-infrastructure-is-ready-for-ai-agents-is-your-store/833313/",
+    "title": "Agentic commerce: The infrastructure is ready for AI agents. Is your store?",
+    "topic": "Retail",
+    "gist": "AI-referred traffic to U.S. retail sites converted 60% higher and generated 53% more revenue per visit than non-AI traffic in July, and Google's Universal Commerce Protocol is already live on millions of Shopify storefronts by default, making basic AI discoverability available to most merchants without extra setup.",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://digiday.com/media-buying/midterm-political-spending-throws-spanner-into-regional-advertiser-holiday-plans/",
+    "title": "Midterm political spending throws spanner into regional advertiser holiday plans",
+    "topic": "Ad & Marketing",
+    "gist": "Midterm election political spending is driving up TV and streaming ad prices in key battleground states during Q4, forcing retail advertisers to choose between going dark, shifting to premium streaming, or absorbing higher costs during their most important sales period.",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://digiday.com/marketing/salesforces-5-7-billion-braze-deal-puts-marketers-at-an-ecosystem-crossroads/",
+    "title": "Salesforce’s $5.7 billion Braze deal puts marketers at an ecosystem crossroads",
+    "topic": "Ad & Marketing",
+    "gist": "Salesforce has agreed to acquire customer engagement platform Braze for approximately $5.66 billion, with the goal of integrating Braze's real-time engagement and AI decisioning into its Marketing Cloud and Data 360 ecosystem.",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/how-qvc-is-building-a-flywheel-across-tiktok-and-tv-ahead-of-the-holidays/",
+    "title": "How QVC is building a flywheel across TikTok and TV ahead of the holidays",
+    "topic": "Marketplaces",
+    "gist": "QVC launched 24/7 TikTok streaming in April 2025 and acquired nearly 1 million new U.S. customers via TikTok Shop that year, and is now building its 40th holiday season around a combined TV, TikTok, and creator strategy.",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://www.glossy.co/research/glossy-research-brands-focus-on-owned-channels-wavers-for-the-2026-holiday-season/",
+    "title": "Glossy+ Research: Brands’ focus on owned channels wavers for the 2026 holiday season",
+    "topic": "Ad & Marketing",
+    "gist": "A Glossy survey of 90 brand and retailer professionals found that brands are less focused on owned physical retail and owned e-commerce sites for the 2026 holiday season compared to 2025, even though both channels become more important during holidays.",
+    "date": "2026-10-26"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+    "topic": "AI & Tech",
+    "gist": "Apollo Global's chief economist analyzed the S&P 493 (S&P 500 minus the seven largest tech companies) and found flat profit margins and no productivity gains attributable to AI investment, concluding that AI has delivered 'zero financial payoff' to non-tech corporate America.",
+    "date": "2026-10-26"
   }
 ]
