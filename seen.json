@@ -1,54 +1,5 @@
 [
   {
-    "url": "https://www.retaildive.com/news/where-has-aspirational-luxury-consumer-gone/832365/",
-    "title": "Where has the aspirational luxury consumer gone?",
-    "topic": "Consumer Trends",
-    "gist": "Luxury sector growth is slowing sharply, with Q3 organic sales expected under 3% year-on-year as aspirational consumers — who spend less per visit but drive volume — have been priced out by post-pandemic price hikes and remain squeezed by weak sentiment, sluggish China demand, and geopolitical uncertainty.",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/brands-briefing-as-ai-reshapes-retail-brands-are-investing-even-more-in-stores/",
-    "title": "Brands Briefing: As AI reshapes retail, brands are investing even more in stores",
-    "topic": "Retail",
-    "gist": "Despite AI and digital shopping hype, Americans still spend 81% of retail dollars in physical stores, and this holiday season brick-and-mortar is expected to capture the largest single share of spending, including 93% of adults planning at least one store visit.",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/13/amex-introduces-a-framework-to-prevent-ai-agents-from-making-unauthorized-purchases/",
-    "title": "Amex introduces a framework to prevent AI agents from making unauthorized purchases",
-    "topic": "Payments",
-    "gist": "American Express has introduced an 'Intent Intelligence Framework' that captures and authenticates a customer's purchase intent before an AI agent completes a transaction, creating a token-based system to prevent unauthorized purchases in agentic commerce.",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://www.retaildive.com/news/gen-z-gen-alpha-holiday-shopping-retail-trends/831838/",
-    "title": "Gen Z, Gen Alpha and the AI-ificiation of retail this holiday season",
-    "topic": "Consumer Trends",
-    "gist": "Gen Z and Gen Alpha shoppers are price-sensitive, digitally native, and expect hyper-personalized experiences, but research shows 45% of Gen Z feel online recommendations limit their self-expression, and both cohorts show strong appetite for physical retail as a space to discover outside the algorithm.",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://internetretailing.net/retailers-still-waiting-for-ai-powered-shopping-revolution/",
-    "title": "Retailers still waiting for AI-powered shopping revolution",
-    "topic": "Retail",
-    "gist": "A YouGov survey of 2,000+ UK adults found 62% of online shoppers have never used AI product recommendations, with only 3% frequently using AI shopping assistants — signaling that despite industry buzz, mass consumer adoption of AI-powered shopping remains early-stage.",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://internetretailing.net/tfg-hm-and-intermarche-all-targeted-by-cybercriminals-as-threat-to-retail-rockets/",
-    "title": "TFG, H&M and InterMarché all targeted by cybercriminals as threat to retail rockets",
-    "topic": "Retail",
-    "gist": "Multiple major retailers including TFG (Phase Eight, Whistles, Hobbs), H&M, and French grocery chains were hit by cybercriminals within days of each other, with ASOS also targeted via its Snowflake data instance, highlighting a growing wave of AI-assisted retail cyberattacks.",
-    "date": "2026-10-13"
-  },
-  {
-    "url": "https://digiday.com/podcasts/media-buys-and-mega-partnerships-how-the-creator-economy-is-splitting-in-two/",
-    "title": "Media buys and mega partnerships: How the creator economy is splitting in two",
-    "topic": "Ad & Marketing",
-    "gist": "The creator economy is splitting into two tiers: mega-creators like MrBeast functioning as full agencies with brand partnerships, while nano and micro creators are being treated as programmatic media buys in brand media mixes.",
-    "date": "2026-10-13"
-  },
-  {
     "url": "https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/",
     "title": "Amazon pushes up prices across the Internet",
     "topic": "Marketplaces",
@@ -740,5 +691,61 @@
     "topic": "Retail",
     "gist": "The FTC and 20 U.S. states have sued Dollar General for allegedly charging customers higher prices at the register than those displayed on shelf tags and in advertising, with undercover investigations finding pricing discrepancies in every store visited. The retailer has received over 29,000 consumer complaints about the issue since January 2023 but allegedly failed to fix it.",
     "date": "2026-10-27"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/prada-chatgpt-tool/",
+    "title": "Prada launches ChatGPT tool to help shoppers discover luxury products",
+    "topic": "Retail",
+    "gist": "Prada has launched a ChatGPT-powered conversational tool in the UK, US, and Italy that lets shoppers discover products and find store information through AI dialogue, developed with Accenture Song and DaVinci Commerce.",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://internetretailing.net/guest-comment-proving-that-retail-media-sales-are-truly-incremental/",
+    "title": "GUEST COMMENT Proving that retail media sales are truly incremental",
+    "topic": "Ad & Marketing",
+    "gist": "A Decentriq executive argues that retail media's attributed sales figures systematically overstate real impact because they count high-intent shoppers who would have bought anyway, and lays out how randomised holdouts and privacy-preserving data clean rooms can measure true incrementality.",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/83-of-uk-consumers-fear-rising-prices-ahead-of-budget/",
+    "title": "83% of UK consumers fear rising prices ahead of Budget",
+    "topic": "Macro",
+    "gist": "Over 80% of UK consumers are worried about rising food prices and inflation ahead of the Budget, as shop price inflation hit 2.1% in October — its highest since February 2024 — with UK retailers collectively facing a £41bn tax bill for 2026/27.",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://digiday.com/marketing/how-lush-quit-social-media-ads-and-still-drove-growth/",
+    "title": "How Lush quit social media ads and still drove growth",
+    "topic": "DTC & Brands",
+    "gist": "Lush quit paid social advertising on Instagram, Facebook, TikTok, and Snapchat in 2021 over data privacy and algorithm concerns, and has since maintained only a token presence on those platforms while still driving brand growth.",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.retaildive.com/news/target-overhauls-threshold-home-goods-brand/872851/",
+    "title": "Target overhauls Threshold home goods brand",
+    "topic": "Retail",
+    "gist": "Target has overhauled its Threshold home goods private label — its largest, at nearly $3 billion annually — by cutting prices on select items, adding 800+ new products, and improving in-store merchandising to help shoppers visualize complementary items together.",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.retaildive.com/news/these-department-stores-need-a-good-holiday-kohls-penney-saks/833912/",
+    "title": "These 3 department stores need a good holiday",
+    "topic": "Retail",
+    "gist": "Kohl's, J.C. Penney, and Saks Fifth Avenue (now Exemplar Luxury Group, post-bankruptcy) each face a critical holiday season test in 2026, with analysts scrutinizing their ability to convert holiday traffic into profitable sales and cash flow amid ongoing turnaround struggles.",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://internetretailing.net/poundland-faces-growing-insolvency-risk-as-major-shareholder-rejects-solvent-rescue-proposal/",
+    "title": "Poundland faces growing insolvency risk as major shareholder rejects solvent rescue proposal",
+    "topic": "Retail",
+    "gist": "Poundland faces potential insolvency after its controlling shareholder Gordon Brothers rejected a solvent takeover bid, with three sale-process directors reportedly ready to resign amid concerns the shareholder is steering the retailer toward a break-up.",
+    "date": "2026-10-28"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/brands-briefing-shoulder-bags-and-tiktok-shop-are-powering-vera-bradleys-latest-turnaround/",
+    "title": "Brands Briefing: Shoulder bags and TikTok Shop are powering Vera Bradley’s latest turnaround",
+    "topic": "DTC & Brands",
+    "gist": "Vera Bradley reported its first quarterly revenue growth in nearly five years after refocusing on shoulder bags, personalized bag charms, and investment in TikTok and Instagram as part of its 'Project Sunshine' turnaround plan.",
+    "date": "2026-10-28"
   }
 ]
