@@ -1,89 +1,5 @@
 [
   {
-    "url": "https://internetretailing.net/thg-upgrades-profit-outlook-as-myprotein-partnerships-drive-growth/",
-    "title": "THG upgrades profit outlook as Myprotein partnerships drive growth",
-    "topic": "DTC & Brands",
-    "gist": "THG raised its FY26 adjusted EBITDA guidance to £103m after Q3 beat expectations, driven by THG Nutrition (Myprotein), which grew unit volumes 36.2% and extended its reach through retail partnerships with Caffè Nero, Krispy Kreme, and Gold's Gym.",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://internetretailing.net/dunelms-digital-sales-reach-41-of-revenue-as-homewares-retailer-grows-q1-sales/",
-    "title": "Dunelm’s digital sales reach 41% of revenue as homewares retailer grows Q1 sales",
-    "topic": "Retail",
-    "gist": "Dunelm reported Q1 sales of £433m (+1.1% YoY) with digital channels reaching 41% of revenue, while rolling out RFID and AI-assisted customer service tools as part of its broader omnichannel investment.",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://ecommercenews.eu/80-of-marketplace-gmv-in-europe-come-from-cross-border-transactions/",
-    "title": "80% of marketplace GMV in Europe come from cross-border transactions",
-    "topic": "Marketplaces",
-    "gist": "Europe's top 100 marketplaces are projected to generate €175.8bn in GMV, with nearly 80% coming from cross-border transactions — a share expected to grow further.",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/10/marketplace-rulebook/",
-    "title": "The marketplace rulebook: what tougher regulation could mean for sellers and brands",
-    "topic": "Marketplaces",
-    "gist": "UK regulators are considering making online marketplaces responsible for collecting VAT from sellers above the £90k turnover threshold, while also tightening product safety and consumer protection rules — shifting marketplaces from neutral platforms toward active compliance enforcers.",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/10/wayfair-and-appliances-direct-hit-with-6m-fines-over-misleading-sales-tactics/",
-    "title": "Wayfair and Appliances Direct hit with £6m fines over ‘misleading’ sales tactics",
-    "topic": "Retail",
-    "gist": "The CMA fined Wayfair £4.8m and Appliances Direct £1.2m for fake urgency tactics — countdown timers, flash deals that weren't actually time-limited — under its new powers from the Digital Markets, Competition and Consumers Act 2024.",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://digiday.com/marketing/brands-turn-to-content-series-and-jimi-hendrix-to-improve-ai-search-performance/",
-    "title": "Brands turn to content series and Jimi Hendrix to improve AI search performance",
-    "topic": "Ad & Marketing",
-    "gist": "Brands like Fender and Marshall are investing in editorial website content and branded content series to give AI models more material to surface when consumers ask chatbots for product recommendations.",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/fashion-briefing-resale-platforms-and-buyers-are-embracing-auctions-as-a-source-of-deals-and-data/",
-    "title": "Fashion Briefing: Resale platforms and buyers are embracing auctions as a source of deals and data",
-    "topic": "Consumer Trends",
-    "gist": "Resale fashion platforms are increasingly adopting auction models, which offer gamification for buyers, higher returns for sellers, and valuable pricing data for the platforms themselves.",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://arstechnica.com/security/2026/10/fridge-hack-costing-millions-and-sparking-fires-stemmed-from-poor-security/",
-    "title": "Fridge hack costing millions and sparking fires stemmed from poor security",
-    "topic": "Retail",
-    "gist": "A cyberattack on internet-connected refrigeration controllers at around 700 French supermarkets caused mass food spoilage and fires, exploiting known, unpatched vulnerabilities in equipment from Danfoss, Dixell, and Copeland.",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://modernretail.co.uk/how-online-retailers-are-using-studio-space-to-power-social-selling/",
-    "title": "How online retailers are using studio space to power social selling",
-    "topic": "Marketplaces",
-    "gist": "UK online retailers are increasingly investing in dedicated in-house studio spaces to support the growing volume of TikTok Live sessions, product demos, and reactive content required by social commerce — with TikTok Shop LIVE Shopping sales up 55% year-on-year.",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://www.retaildive.com/news/toy-prices-jump-holiday-season-inflation/832955/",
-    "title": "Toy prices jump 4.2% ahead of the holidays",
-    "topic": "Consumer Trends",
-    "gist": "US toy prices rose 4.2% month-on-month and 6.6% year-on-year heading into the holiday season, even as consumer confidence is strained — yet the toy industry posted its best first-half in six years, driven partly by adult buyers trading up to higher price-point items.",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://www.retaildive.com/news/moodys-retail-apparel-outlook-boosted-tariff-refunds/832964/",
-    "title": "Moody’s upgrades retail and apparel outlook as tariffs ease",
-    "topic": "Macro",
-    "gist": "Moody's upgraded the global retail and apparel sector outlook to stable, forecasting 2–4% revenue growth over the next 12–18 months, citing eased tariffs and solid labor markets — while warning that consumer spending will increasingly bifurcate between upper-income and stressed lower-income households.",
-    "date": "2026-10-15"
-  },
-  {
-    "url": "https://internetretailing.net/how-poor-product-data-could-make-retailers-invisible-to-ai-shoppers/",
-    "title": "How poor product data could make retailers invisible to AI shoppers",
-    "topic": "Retail",
-    "gist": "AI shopping agents require 30+ structured product data attributes to evaluate and recommend products, but most retail product pages provide only 5–8 machine-readable fields — leaving products effectively invisible to agentic commerce, which has already grown 200% year-on-year.",
-    "date": "2026-10-15"
-  },
-  {
     "url": "https://internetretailing.net/consumer-brands-increase-ad-spend-despite-slower-growth-as-retail-media-gains-ground/",
     "title": "Consumer brands increase ad spend despite slower growth as retail media gains ground",
     "topic": "Ad & Marketing",
@@ -782,5 +698,117 @@
     "topic": "Retail",
     "gist": "TFG London, owner of Phase Eight, Hobbs and Whistles, confirmed that customer personal data including contact details, order information, and limited payment data was accessed in a cyber attack identified on 11 October. Full payment card details and login credentials were not compromised.",
     "date": "2026-10-29"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/amazon-sales-rise-12/",
+    "title": "Amazon sales rise 12% as AWS growth drives profits",
+    "topic": "Marketplaces",
+    "gist": "Amazon reported Q3 2026 net sales of $201.9bn, up 12% year-on-year, with operating income rising 61% to $28.1bn and AWS growing 39% to $46bn. North American retail sales grew 6%, with grocery and ultra-fast delivery (Amazon Now) flagged as standout operational performers.",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://digiday.com/media-buying/amazons-ads-nears-20-billion-in-q3-as-it-bets-on-agentic-ai-to-fuel-further-growth/",
+    "title": "Amazon’s Ads nears $20 billion in Q3 as it bets on agentic AI to fuel further growth",
+    "topic": "Ad & Marketing",
+    "gist": "Amazon's advertising business generated nearly $20 billion in Q3 2026, up 12% year-on-year, making it one of the company's fastest-growing units, with agentic AI flagged as a key lever for future ad growth.",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.modernretail.co/technology/amazon-says-more-than-400m-customers-have-used-alexa-for-shopping-in-the-last-12-months/",
+    "title": "Amazon says more than 400M customers have used Alexa for Shopping in the last 12 months",
+    "topic": "Marketplaces",
+    "gist": "Amazon reported that over 400 million customers used Alexa for Shopping in the last 12 months, up from 350 million in July, with those users spending 50% more than non-users.",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://ecommercenews.eu/amazon-introduces-returnless-refunds-in-europe/",
+    "title": "Amazon introduces returnless refunds in Europe",
+    "topic": "Fulfillment & Ops",
+    "gist": "Amazon has launched its FBA Returnless Resolutions programme across five European markets (UK, Germany, Italy, France, Spain), allowing sellers to refund customers on items priced up to €75 without requiring the product's return. Sellers bear the inventory loss and returns still count toward their return rate, prompting criticism from some merchants.",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.retaildive.com/news/ftc-orders-target-walmart-personalized-pricing-inquiry/873173/",
+    "title": "FTC orders Target, Walmart to provide details in personalized pricing inquiry",
+    "topic": "Retail",
+    "gist": "The FTC has issued orders to Walmart, Target, airlines, and other companies requiring them to detail how personal data and AI are used to set individualized prices, as part of a broader investigation into personalized pricing practices. Companies have 45 days to respond.",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.retaildive.com/news/podcast-the-backroom-dynamic-pricing-walmart-consumer-sentiment-holidays/873172/",
+    "title": "The Backroom: Dynamic pricing and the anxious consumer",
+    "topic": "Consumer Trends",
+    "gist": "Retail Dive's podcast episode examines how consumer anxiety about dynamic and personalized pricing — amplified by Walmart's use of digital shelf labels and progressive advocacy — is shaping the pre-holiday retail environment alongside already-fragile consumer confidence.",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/10/uk-retail-sales-jump-in-october-as-shoppers-return-to-winter-wardrobes/",
+    "title": "UK retail sales jump in October as shoppers return to winter wardrobes",
+    "topic": "Retail",
+    "gist": "UK like-for-like retail sales grew 4.6% in October — the strongest since January 2025 — driven primarily by online sales rising 10.1%, while in-store growth was just 2.2%, well below inflation. Analysts caution that the uplift was largely weather-driven catch-up spending.",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://internetretailing.net/online-sales-help-october-deliver-strongest-retail-sales-growth-since-january-2025/",
+    "title": "Online sales help October deliver strongest retail sales growth since January 2025",
+    "topic": "Retail",
+    "gist": "UK October retail sales in discretionary categories rose 4.6% year-on-year — the strongest BDO has recorded since January 2025 — with online up 10.1% versus just 2.2% for physical stores, following an unusually weak September. Analysts attribute the rebound largely to delayed seasonal purchases and promotions activity.",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.retaildive.com/news/most-consumers-arent-using-ai-for-product-discovery-yet/833604/",
+    "title": "Most consumers aren’t using AI for product discovery, yet",
+    "topic": "Retail",
+    "gist": "Only 10% of U.S. consumers currently start product discovery with AI, though adoption is higher among Gen Z, millennials, and high-income shoppers, according to an AlixPartners survey of 9,000+ consumers. The report warns that poor product metadata will make brands invisible as AI agents grow as a discovery channel.",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/cotopaxi-adopts-a-drop-strategy-to-build-buzz-ahead-of-bfcm/",
+    "title": "Cotopaxi adopts a drop strategy to build buzz ahead of BFCM",
+    "topic": "DTC & Brands",
+    "gist": "Outdoor brand Cotopaxi is launching 'Cotodays,' a drop-a-product-every-other-day campaign from Nov. 1–11 featuring limited-edition items, deliberately positioning it before the BFCM promotional window to drive engagement without competing on discounts.",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/big-box-briefing-what-to-watch-this-holiday-season-as-target-walmart-and-more-battle-for-sales/",
+    "title": "Big-Box Briefing: What to watch this holiday season as Target, Walmart and more battle for sales",
+    "topic": "Retail",
+    "gist": "Major brick-and-mortar retailers including Target, Walmart, Kohl's, Best Buy and Macy's have announced their Black Friday and Cyber Monday plans for 2026, signaling the start of the holiday sales battle.",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.retaildive.com/news/fanatics-openai-outfit-curation-tool/873180/",
+    "title": "Fanatics revamps outfit curation tool with OpenAI",
+    "topic": "Retail",
+    "gist": "Fanatics has rebuilt its 'Shop the Look' outfit-curation tool in partnership with OpenAI, using team, inventory, and product data to generate daily-refreshed coordinated outfit suggestions on product pages. The revamped tool has driven 10% higher engagement than its predecessor.",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.retaildive.com/news/doordash-buys-instacart-delivery-seventeen-billion/873151/",
+    "title": "DoorDash to buy Instacart for $17B",
+    "topic": "Marketplaces",
+    "gist": "DoorDash has announced plans to acquire Instacart for approximately $17 billion, combining DoorDash's delivery network with Instacart's grocery partnerships, e-commerce technology, and retail media business. The deal is expected to close in late 2027 or early 2028.",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://internetretailing.net/poundland-moves-closer-to-administration-after-major-shareholder-rejects-rescue-bid/",
+    "title": "Poundland moves closer to administration after major shareholder rejects rescue bid",
+    "topic": "Retail",
+    "gist": "Poundland has filed a Notice of Intention to appoint administrators after its major shareholder Gordon Brothers rejected a solvent takeover proposal from Martin Property Group, giving the 600-store, 12,000-employee retailer a 10-working-day window to find a rescue deal.",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.retaildive.com/news/nike-jordan-retro-pullback-foot-locker-impact/873154/",
+    "title": "What Nike’s Jordan pullback means for Foot Locker",
+    "topic": "Retail",
+    "gist": "Nike is pulling back on retro Jordan product launches to correct oversupply, a move analysts estimate will hit Foot Locker — whose largest wholesale partner is Jordan at ~$1.85bn in sales — with up to $550 million in lost revenue from spring 2027. Foot Locker's parent Dick's Sporting Goods has already lowered the retailer's full-year outlook.",
+    "date": "2026-10-30"
+  },
+  {
+    "url": "https://www.retaildive.com/news/consumer-confidence-edges-up-decline-gas-prices-conference-board-inflation-fed-federal-reserve-warsh/873161/",
+    "title": "Consumer confidence edges up on decline in gas prices: Conference Board",
+    "topic": "Macro",
+    "gist": "U.S. consumer confidence rose 7.5 points in October to 91.7, the highest since June, driven by a slight decline in gasoline prices, though it remains on a long-term downward trend with consumers still expecting 5.8% inflation in 12 months.",
+    "date": "2026-10-30"
   }
 ]
