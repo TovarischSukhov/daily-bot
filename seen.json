@@ -1,26 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/operations/why-depop-is-putting-music-at-the-center-of-its-marketing-collaborating-with-zara-larsson-and-olivia-rodrigo/",
-    "title": "Why Depop is putting music at the center of its marketing, collaborating with Zara Larsson and Olivia Rodrigo",
-    "topic": "DTC & Brands",
-    "gist": "Depop is building its marketing strategy around music, using data showing 56% of its users attend live events to justify artist wardrobe 'shop drops' with names like Olivia Rodrigo and Zara Larsson.",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://www.retaildive.com/news/halloween-without-candy-holiday-shoppers-cutting-budgets/833212/",
-    "title": "Halloween without candy? What shoppers are cutting from budgets this year",
-    "topic": "Consumer Trends",
-    "gist": "Average U.S. Halloween spending is projected to drop 16% to $162 this year, with 80% of consumers planning to shop at all (down from 90%), and nearly two-thirds of those shoppers planning to skip at least one category.",
-    "date": "2026-10-17"
-  },
-  {
-    "url": "https://www.glossy.co/pop/why-brands-are-turning-your-favorite-beauty-products-into-fashion-accessories/",
-    "title": "Why brands are turning your favorite beauty products into fashion accessories",
-    "topic": "DTC & Brands",
-    "gist": "Brands like Givenchy and Rhode are designing beauty products that double as visible fashion accessories, blurring the line between product utility and wearable branding.",
-    "date": "2026-10-17"
-  },
-  {
     "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
     "title": "Gold is now the top U.S. export",
     "topic": "Macro",
@@ -782,5 +761,33 @@
     "topic": "Ad & Marketing",
     "gist": "Ouai, a P&G-owned hair care brand, produced a three-part cinematic slasher-comedy web series over nearly a year, framing the investment as a response to consumer appetite for trustworthy, high-craft content amid the rise of AI-generated material.",
     "date": "2026-10-31"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/argos-enlists-richard-ayoade-for-2026-christmas-advert/",
+    "title": "Argos enlists Richard Ayoade for 2026 Christmas advert",
+    "topic": "Ad & Marketing",
+    "gist": "Argos has launched its 2026 Christmas campaign featuring Richard Ayoade in a Dickens-inspired ad designed to shift consumer perception of the retailer beyond toys toward tech, beauty, and homeware. The campaign uses nostalgia — pairing catalogue-era products with modern equivalents — to broaden awareness of Argos's current range.",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/watch-tesco-2026-christmas-advert/",
+    "title": "WATCH Tesco reunites old friends in 2026 Christmas advert",
+    "topic": "Ad & Marketing",
+    "gist": "Tesco's 2026 Christmas ad centers on a story of two old friends reuniting after a grocery delivery mishap, reinforcing its home delivery proposition and 'Every Little Helps' brand platform. The campaign spans TV, social, and in-store experiences including the return of Santa's Grottos.",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://noyb.eu/en/noyb-win-french-electronics-retailer-fnac-darty-fined-eu7-million",
+    "title": "noyb win: French electronics retailer Fnac Darty fined €7M",
+    "topic": "Retail",
+    "gist": "France's data regulator CNIL fined Fnac Darty €7 million for activating third-party tracking on its mobile app without user consent, confirming the trackers were used to collect browsing history for product recommendations and algorithm training. The fine follows a 2023 noyb complaint and reinforces that consent is a legal prerequisite for personalized advertising, not an optional step.",
+    "date": "2026-11-01"
+  },
+  {
+    "url": "https://techcrunch.com/2026/10/31/tiktoks-road-to-becoming-a-super-app/",
+    "title": "From restaurant guides to payments, here’s how TikTok is building a super app",
+    "topic": "Marketplaces",
+    "gist": "TikTok is systematically expanding beyond short-form video into restaurant guides, peer-to-peer payments, hotel booking, sports hubs, and casual games, following the 'super app' model pioneered in China by WeChat. TikTok Shop has already reached $15.82B in U.S. sales in 2025, accounting for 18.2% of social commerce, with projections putting it at 24.1% by 2027.",
+    "date": "2026-11-01"
   }
 ]
