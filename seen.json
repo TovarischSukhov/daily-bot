@@ -1,19 +1,5 @@
 [
   {
-    "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-    "title": "Gold is now the top U.S. export",
-    "topic": "Macro",
-    "gist": "U.S. gold exports have surged to become the country's top export by value since late 2025, with the bulk flowing to Switzerland, Hong Kong (a gateway to China), and the UK. The author speculates this reflects foreign central banks, particularly China, shifting reserves away from U.S. Treasuries and dollars toward gold.",
-    "date": "2026-10-18"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "topic": "AI & Tech",
-    "gist": "Meta added language to its commercial terms of use that appeared to allow scraping any website linked to a business account for AI training, then removed the provision after public backlash, insisting it reflected no change in actual crawling practices.",
-    "date": "2026-10-18"
-  },
-  {
     "url": "https://ecommercenews.eu/uk-plans-to-extend-vat-liability-for-marketplaces/",
     "title": "UK plans to extend VAT liability for marketplaces",
     "topic": "Marketplaces",
@@ -789,5 +775,47 @@
     "topic": "Marketplaces",
     "gist": "TikTok is systematically expanding beyond short-form video into restaurant guides, peer-to-peer payments, hotel booking, sports hubs, and casual games, following the 'super app' model pioneered in China by WeChat. TikTok Shop has already reached $15.82B in U.S. sales in 2025, accounting for 18.2% of social commerce, with projections putting it at 24.1% by 2027.",
     "date": "2026-11-01"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/what-doordashs-proposed-acquisition-of-instacart-means-for-uber-amazon-and-the-rest-of-the-quick-commerce-space/",
+    "title": "What DoorDash’s proposed acquisition of Instacart means for Uber, Amazon and the rest of the quick commerce space",
+    "topic": "Marketplaces",
+    "gist": "DoorDash has proposed a $17 billion acquisition of Instacart, which would combine two platforms that together account for 77% of U.S. consumer spending on delivery platforms, intensifying competition in quick commerce.",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/your-catalog-may-already-be-visible-to-ai-agents-making-it-trustworthy-is/872994/",
+    "title": "Your catalog may already be visible to AI agents. Making it trustworthy is the next step.",
+    "topic": "AI & Tech",
+    "gist": "Retailers whose product catalogs are discoverable by AI agents still face gaps in catalog data quality, real-time inventory sync, and pricing consistency that reduce the likelihood of AI agents actually recommending their products. Salesforce data shows 41% of multichannel retailers have inconsistent pricing across channels and 40% lack real-time inventory sync.",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://internetretailing.net/guest-comment-boxing-day-boxes-clever-are-retailers-missing-the-bigger-q4-sales-opportunity/",
+    "title": "GUEST COMMENT Boxing Day boxes clever: are retailers missing the bigger Q4 sales opportunity?",
+    "topic": "Ad & Marketing",
+    "gist": "A Brave Ads analysis argues UK retailers over-concentrate Q4 budgets on Black Friday while underinvesting in Boxing Day and post-Christmas search demand, with Adobe reporting £500M+ in UK online spend on 26 December 2025 alone.",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/ms-asos-and-topshop-turn-to-celebrity-partnerships-and-ai-in-high-street-fashion-revival/",
+    "title": "M&S, Asos and Topshop turn to celebrity partnerships and AI in high street fashion revival",
+    "topic": "DTC & Brands",
+    "gist": "M&S, Asos, and Topshop are using celebrity partnerships, AI styling tools, and accessible luxury collections to attract younger shoppers, with M&S reporting a 16% year-on-year increase in under-35 customers since adopting more fashion-led ranges.",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://ecommercenews.eu/brussels-approves-temus-action-plan/",
+    "title": "Brussels approves Temu’s action plan",
+    "topic": "Marketplaces",
+    "gist": "The European Commission has approved Temu's action plan to address illegal product listings, requiring five corrective measures, while a previously imposed fine remains in force.",
+    "date": "2026-11-02"
+  },
+  {
+    "url": "https://digiday.com/marketing/google-search-loses-its-free-pass-with-buyers/",
+    "title": "Google search loses its free pass with buyers",
+    "topic": "Ad & Marketing",
+    "gist": "Google's AI Overviews are reducing click-through rates on search results, shrinking available ad inventory and pushing up CPCs, leading media buyers to scrutinize Google search ROI more closely heading into Q4.",
+    "date": "2026-11-02"
   }
 ]
