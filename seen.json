@@ -1,47 +1,5 @@
 [
   {
-    "url": "https://ecommercenews.eu/uk-plans-to-extend-vat-liability-for-marketplaces/",
-    "title": "UK plans to extend VAT liability for marketplaces",
-    "topic": "Marketplaces",
-    "gist": "The UK government is proposing to make online marketplaces liable for collecting VAT on sales by larger domestic sellers, a measure projected to raise up to £1 billion annually, with proceeds earmarked to fund tax relief for high-street businesses.",
-    "date": "2026-10-19"
-  },
-  {
-    "url": "https://www.retaildive.com/news/nike-ceo-elliott-hill-problems-keep-growing-china-sportswear-jordan/832803/",
-    "title": "Nike hired Elliott Hill to fix a couple problems. They keep growing.",
-    "topic": "DTC & Brands",
-    "gist": "Nike's turnaround under CEO Elliott Hill is proving harder than expected, with Jordan Brand, Greater China, and the core sportswear segment all declining double-digits as the company continues restructuring around oversupply, channel reset, and product relevance.",
-    "date": "2026-10-19"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/10/matalan-app-orders-jump-28-as-digital-investment-pays-off/",
-    "title": "Matalan app orders jump 28% as digital investment pays off",
-    "topic": "Retail",
-    "gist": "Matalan's new native mobile app reached 1.76 million downloads in two months, driving a 28% jump in app orders and a 4.4% conversion rate — above its 3.4% target — with app shoppers spending 14% more per order than website shoppers.",
-    "date": "2026-10-19"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/10/the-entertainer-and-boodles-back-2-online-sales-levy-to-slash-business-rates/",
-    "title": "The Entertainer and Boodles back 2% online sales levy to slash business rates",
-    "topic": "Macro",
-    "gist": "Over 200 UK business leaders are calling on the Chancellor to introduce a 2% online sales levy to fund cuts to business rates, arguing the current property-based tax system unfairly burdens physical retailers relative to online commerce.",
-    "date": "2026-10-19"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/10/uk-profit-warnings-hit-near-two-year-high-as-retailers-brace-for-budget/",
-    "title": "UK profit warnings hit near two-year high as retailers brace for Budget",
-    "topic": "Macro",
-    "gist": "UK profit warnings hit a near two-year high in Q3, with 65 warnings issued as retailers cite policy uncertainty, rising costs, and weak consumer spending ahead of the autumn Budget.",
-    "date": "2026-10-19"
-  },
-  {
-    "url": "https://www.glossy.co/fashion/discounting-is-a-hard-drug-to-come-off-but-retraining-customers-to-shop-full-price-is-a-must-brand-leaders-say/",
-    "title": "Discounting is ‘a hard drug to come off,’ but retraining customers to shop full price is a must, brand leaders say",
-    "topic": "DTC & Brands",
-    "gist": "Brand leaders are grappling with breaking customers' discount expectations ahead of the holiday season, describing heavy discounting as structurally damaging but difficult to reverse given competition from Amazon and major retailers.",
-    "date": "2026-10-19"
-  },
-  {
     "url": "https://www.retaildive.com/news/holiday-season-retail-spending-sales-decline-outlook/832624/",
     "title": "Shoppers expect less for more this holiday season. That could mean a sales decline.",
     "topic": "Consumer Trends",
@@ -817,5 +775,75 @@
     "topic": "Ad & Marketing",
     "gist": "Google's AI Overviews are reducing click-through rates on search results, shrinking available ad inventory and pushing up CPCs, leading media buyers to scrutinize Google search ROI more closely heading into Q4.",
     "date": "2026-11-02"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/christmas-campaigns-2026-shoppers-want-lower-prices-so-why-are-retailers-betting-big-on-festive-storytelling/",
+    "title": "Christmas campaigns 2026: Shoppers want lower prices, so why are retailers betting big on festive storytelling?",
+    "topic": "Ad & Marketing",
+    "gist": "UK retailers are launching high-budget Christmas campaigns ranging from emotional storytelling (John Lewis, Sainsbury's) to value-focused spectacle (Asda), even as research shows 57% of shoppers would prefer the money spent on lower prices — and purchase intent from adverts remains hard to prove.",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/asda-appoints-former-morrisons-boss-david-potts-as-group-ceo/",
+    "title": "Asda appoints former Morrisons boss David Potts as group CEO",
+    "topic": "Retail",
+    "gist": "Asda has appointed former Morrisons CEO David Potts as its new group chief executive, with Allan Leighton moving to non-executive group chairman; Potts says improving shopping experience and keeping prices low are his immediate priorities.",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.retaildive.com/news/holiday-shoppers-only-want-a-dash-of-ai-for-the-gift-hunt/873317/",
+    "title": "Holiday shoppers only want a dash of AI for the gift hunt",
+    "topic": "Consumer Trends",
+    "gist": "Shoppers are beginning to use AI tools for holiday gift inspiration and price comparison, but most are unwilling to let AI finalize purchases — particularly because of trust concerns around data security and a desire to retain personal control over gifting decisions.",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://ecommercenews.eu/dhl-introduces-fee-for-second-delivery-attempt/",
+    "title": "DHL introduces fee for second delivery attempt",
+    "topic": "Fulfillment & Ops",
+    "gist": "DHL is introducing a €2.99 fee for second parcel delivery attempts, a change from its previous policy of including re-delivery in the standard service.",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/could-your-existing-in-store-network-become-a-retail-media-channel/",
+    "title": "Could your existing in-store network become a retail media channel?",
+    "topic": "Ad & Marketing",
+    "gist": "Retailers with existing in-store digital screen networks can potentially monetize them as retail media channels by layering advertiser campaign management, measurement, and content rules onto infrastructure already in place, rather than building from scratch.",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/black-friday-discount/",
+    "title": "Black Friday discount war risks backfiring as UK shoppers cut budgets by a third",
+    "topic": "Retail",
+    "gist": "UK Black Friday and Cyber Monday spending is forecast to drop 32% to £9.9bn in 2026, with average spend per shopper falling from £390 to £267, while high-spending shoppers retreat significantly — pushing experts to warn against blanket discounts in favor of targeted, margin-conscious promotions.",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://digiday.com/media-buying/ad-tech-briefing-googles-ai-reckoning/",
+    "title": "Ad Tech Briefing: Google’s AI-reckoning",
+    "topic": "Ad & Marketing",
+    "gist": "Google's Q3 earnings reportedly showed unexpected weakness tied to the rise of its own AI products, raising questions about how AI cannibalizes the digital advertising revenue that funds Big Tech.",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/doordash-instacart-acquisition-delivery-platform/",
+    "title": "What DoorDash’s Instacart acquisition says about the modern delivery platform pitch",
+    "topic": "Marketplaces",
+    "gist": "DoorDash's announced $17 billion acquisition of Instacart reflects how delivery platforms are competing on breadth of services — advertising, AI, and in-store B2B tools — rather than delivery alone.",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://internetretailing.net/poundland-moves-closer-to-administration-after-major-shareholder-rejects-rescue-bid-2/",
+    "title": "Poundland rescue row intensifies as founder and ministers pile pressure on Gordon Brothers",
+    "topic": "Retail",
+    "gist": "Poundland is on the verge of administration after owner Gordon Brothers rejected a solvent rescue bid, with the chain's co-founder and UK government ministers publicly pressuring the firm to accept a deal that could protect 11,000 jobs across roughly 600 stores.",
+    "date": "2026-11-03"
+  },
+  {
+    "url": "https://www.retaildive.com/news/consumers-want-holiday-spirit-store-experience-can-help/873162/",
+    "title": "Consumers want to feel the holiday spirit. A good store experience can help.",
+    "topic": "Consumer Trends",
+    "gist": "With consumers under financial pressure this holiday season, retail experts say the winning in-store strategy is helping shoppers achieve their existing traditions rather than trying to change their behavior — prioritizing fast problem resolution, localized assortments, and motivated store associates.",
+    "date": "2026-11-03"
   }
 ]
