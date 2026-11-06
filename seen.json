@@ -1,138 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/marketing/targets-holiday-push-stresses-affordability-exclusives-and-an-ai-assistant/",
-    "title": "Target’s holiday push stresses affordability, exclusives and an AI assistant",
-    "topic": "Retail",
-    "gist": "Target is launching 8,000+ new holiday gifts (mostly under $20, half exclusive), daily deals from Nov. 1–Dec. 24, and a beta AI assistant called Ask Target to help shoppers build wishlists on its app and site.",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.retaildive.com/news/walmart-sams-club-membership-challenge-to-amazon-prime/833447/",
-    "title": "Walmart enlists Sam’s Club in latest challenge to Amazon Prime",
-    "topic": "Retail",
-    "gist": "Walmart is bundling Walmart+ and Sam's Club Plus memberships for $120/year, undercutting Amazon Prime's $139 fee while adding warehouse access, free delivery from both chains, streaming, and gas discounts.",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.retaildive.com/news/ups-happy-returns-tiktok-shop/833322/",
-    "title": "UPS’ Happy Returns comes to TikTok Shop",
-    "topic": "Fulfillment & Ops",
-    "gist": "UPS' Happy Returns is now directly integrated into TikTok Shop, giving sellers on the platform access to box- and label-free returns at 10,000 drop-off locations without per-retailer setup for platform-fulfilled orders.",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/shopify-vercel-arm-stores-for-ai-agents",
-    "title": "Shopify, Vercel Arm Stores for AI Agents",
-    "topic": "Marketplaces",
-    "gist": "Shopify and Vercel released a rebuilt Hydrogen SDK and an open-source storefront template (Vercel Shop) that exposes product data, cart, and checkout to both human shoppers and external AI agents via structured formats and the Model Context Protocol.",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/brands-briefing-how-brands-are-gearing-up-for-tiktok-shops-biggest-holiday-season-yet/",
-    "title": "Brands Briefing: How brands are gearing up for TikTok Shop’s biggest holiday season yet",
-    "topic": "Marketplaces",
-    "gist": "TikTok Shop's U.S. Black Friday/Cyber Monday campaign runs Nov. 11–30, starting a day earlier than last year, with livestreams and deals from brands including Beachwaver and Old Navy.",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://internetretailing.net/retailers-urged-to-rethink-holiday-media-spend-as-shoppers-start-buying-earlier/",
-    "title": "Retailers urged to rethink holiday media spend as shoppers start buying earlier",
-    "topic": "Ad & Marketing",
-    "gist": "Research shows 46% of shoppers start holiday buying before November, yet most retail ad budgets still concentrate around Black Friday/Cyber Monday, which Adobe forecasts will represent only 17.3% of the full Nov–Dec online spend.",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://internetretailing.net/aliexpress-brings-creator-commerce-to-youtube/",
-    "title": "AliExpress brings creator commerce to YouTube",
-    "topic": "Marketplaces",
-    "gist": "AliExpress has joined YouTube's Shopping Affiliate Programme in the UK, US, Brazil, and Germany, letting creators tag AliExpress products in long-form videos, Shorts, and livestreams and earn commissions on resulting sales.",
-    "date": "2026-10-21"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
-    "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
-    "topic": "Marketplaces",
-    "gist": "Walmart launched an Agent Gateway (MCP server) letting approved AI agents search inventory and make purchases on behalf of shoppers, while also introducing Agent Profiles giving customers spending controls and transaction visibility. This directly contrasts Amazon, which has been blocking AI agents from making purchases on its platform.",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://ecommercenews.eu/german-smes-generate-over-20-billion-euros-in-sales-on-amazon/",
-    "title": "German SMEs generate over 20 billion euros in sales on Amazon",
-    "topic": "Marketplaces",
-    "gist": "German SMEs generated over 20 billion euros in sales through Amazon last year, with 5.9 billion euros coming from cross-border exports primarily to France, Austria, Italy, the US, and Spain.",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.modernretail.co/ai-strategies/ai-boosts-discovery-but-reviews-still-seal-the-deal-new-research-shows/",
-    "title": "AI boosts discovery but reviews still seal the deal, new research shows",
-    "topic": "Consumer Trends",
-    "gist": "A Feedviser survey found that while 16% of shoppers start product searches on ChatGPT, only 9% go there to buy, and just 5% purchase immediately on an AI recommendation — the rest cross-check Google, Amazon, reviews, and retailer sites first.",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.retaildive.com/news/amazon-eyes-three-hundred-thousand-holiday-season-hires/833567/",
-    "title": "Amazon eyes 300K holiday hires",
-    "topic": "Retail",
-    "gist": "Amazon plans to hire over 300,000 seasonal, part-time, and full-time U.S. operations workers for the 2026 holiday season, a 20% increase from prior years, and will extend day-one healthcare coverage to qualifying seasonal employees starting January 1.",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.retaildive.com/news/adidas-record-q3-earnings-nike-turnaround/833592/",
-    "title": "Adidas’ record Q3 is salt in the wound for Nike",
-    "topic": "DTC & Brands",
-    "gist": "Adidas posted a record 7.3 billion euros in Q3 revenue (+9% YoY) and record quarterly operating income of 1 billion euros, prompting the company to raise its full-year profit guidance, while rival Nike continues to see declining revenue.",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.retaildive.com/news/teen-spending-grows-trade-athletic-apparel-fashion-piper-sandler/833565/",
-    "title": "Teen spending up 6% as they trade athletic apparel for fashion",
-    "topic": "Consumer Trends",
-    "gist": "Teen spending rose 6% YoY in fall 2026 per Piper Sandler's survey of ~9,000 teens, with athletic brand fashion share dropping to 29% from 32% while specialty retailers gained 8 points of mindshare; Amazon dominates online shopping at ~50% share, and secondhand shopping continues to grow among upper-income teens.",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/modern-retail-research-marketers-express-revenue-optimism-for-the-2026-holiday-season-despite-economic-pressures/",
-    "title": "Modern Retail+ Research: Marketers express revenue optimism for the 2026 holiday season despite economic pressures",
-    "topic": "Retail",
-    "gist": "76% of brand and retailer professionals surveyed by Modern Retail expect 2026 holiday revenue to increase 1–31% or more versus 2025, a notably more optimistic outlook than last year's conservative forecasts.",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://digiday.com/marketing/walmart-connect-pitches-brands-directly-as-it-pushes-lift-studies-ahead-of-holiday-ad-deals/",
-    "title": "Walmart Connect pitches brands directly as it pushes lift studies ahead of holiday ad deals",
-    "topic": "Ad & Marketing",
-    "gist": "Walmart Connect is bypassing agencies to pitch brand clients directly with on-site brand lift studies ahead of the holiday season, as brands grapple with the core retail media question of whether RMN campaigns drive incremental sales or just claim credit for purchases that would have happened anyway.",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-    "title": "Meta says Muse has over 10M users, with shopping a top activity",
-    "topic": "Marketplaces",
-    "gist": "Meta reported Muse has 10 million users with 25% daily retention, and over a quarter of engaged shopping users had average purchase sizes above $200; Zuckerberg plans to monetize Muse by taking a cut of commerce and forecasts it will eventually generate more revenue per user than Meta's core social apps.",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/kohls-leans-into-clearer-pricing-gift-bundles-and-uber-eats-for-the-holidays/",
-    "title": "Kohl’s leans into clearer pricing, gift bundles and Uber Eats for the holidays",
-    "topic": "Retail",
-    "gist": "Kohl's is rolling out explicit percentage-off pricing labels, fixed $5–$20 pricing tiers, Klarna BNPL, bundled gift sets, and same-day delivery via DoorDash, Instacart, and Uber Eats to attract value-conscious holiday shoppers amid inflation and tariff pressures.",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.retaildive.com/news/target-holiday-bargains-consumer-stress-toys-ai/833564/",
-    "title": "Target touts holiday bargains as consumers stress out about their finances",
-    "topic": "Retail",
-    "gist": "Target is leading its 2026 holiday push with $5-or-less gift pricing, daily deals, over 8,000 new exclusive items, and new AI shopping tools including a beta 'Ask Target' assistant, as consumer financial stress shapes the season's competitive playbook.",
-    "date": "2026-10-22"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/new-ecommerce-tools-october-21-2026",
-    "title": "New Ecommerce Tools: October 21, 2026",
-    "topic": "Retail",
-    "gist": "This week's merchant tool releases include Algolia's native Shopify B2B search integration, Google's Universal Cart rolling out across Search and Gemini in the US, Walmart Connect brand lift studies, Nectar's Amazon Marketing Cloud audience-targeting tool, and several agentic commerce and AI marketing platforms.",
-    "date": "2026-10-22"
-  },
-  {
     "url": "https://ecommercenews.eu/austrians-spent-16-of-retail-expenditure-online/",
     "title": "Austrians spent 16% of retail expenditure online",
     "topic": "Retail",
@@ -803,5 +670,103 @@
     "topic": "Retail",
     "gist": "M&S reported a 17.5% sales rise in its Fashion, Home & Beauty division for H1 2026, but profit and margins remain well below pre-cyber attack levels due to lingering stock availability issues and rising online returns and fulfilment costs.",
     "date": "2026-11-04"
+  },
+  {
+    "url": "https://digiday.com/media-buying/amazons-shopping-agent-now-takes-orders-by-text-with-sponsored-product-ads-in-the-replies/",
+    "title": "Amazon’s shopping agent now takes orders by text, with Sponsored Product ads in the replies",
+    "topic": "Marketplaces",
+    "gist": "Amazon's Alexa shopping agent now accepts orders via SMS for an invite-only group of U.S. customers, with Sponsored Product ads appearing inside those text conversations — though purchases the agent completes autonomously remain ad-free.",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.retaildive.com/news/amazon-adds-alexa-ai-shopping-functions/873602/",
+    "title": "Amazon adds over 100 Alexa for Shopping functions",
+    "topic": "Marketplaces",
+    "gist": "Amazon has added over 100 new capabilities to Alexa for Shopping, covering registries, subscriptions, delivery, and billing; Amazon's CEO noted that users of the tool spend 50% more per order than non-users.",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/",
+    "title": "Walmart ramps up Sparky features in time for the holidays",
+    "topic": "Retail",
+    "gist": "Walmart's AI assistant Sparky added features including shopping-list-to-cart conversion, visual recognition, and recipe generation ahead of the holidays; Walmart says Sparky users spend 40% more per order and usage is up 70% since launch.",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://ecommercenews.eu/zalando-sees-new-revenue-potential-in-external-shops/",
+    "title": "Zalando sees new revenue potential in external shops",
+    "topic": "Marketplaces",
+    "gist": "Zalando is expanding its platform to surface products from external shops like Westwing, with an AI shopping agent eventually placing orders on those external sites directly from within the Zalando app.",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://ecommercenews.eu/eu-commission-approves-takeover-ceconomy-by-jd-com/",
+    "title": "EU Commission approves takeover Ceconomy by JD.com",
+    "topic": "Marketplaces",
+    "gist": "The European Commission has approved JD.com's acquisition of Ceconomy, owner of MediaMarkt and Saturn, with conditions requiring JD.com to offer warehousing and logistics services to third-party retailers.",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/jd-sports-rolls-out-stock-tracking-technology-across-414-stores-to-tackle-availability-and-theft/",
+    "title": "JD Sports rolls out stock-tracking technology across 414 stores to tackle availability and theft",
+    "topic": "Fulfillment & Ops",
+    "gist": "JD Sports deployed RFID inventory tracking across 414 UK and Ireland stores in roughly three months, achieving 98% on-shelf availability and cutting replenishment times by 20%.",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://internetretailing.net/guest-comment-lidl-is-winning-the-high-street-can-it-win-the-agentic-shopping-era/",
+    "title": "GUEST COMMENT Lidl is winning the high street. Can it win the agentic shopping era?",
+    "topic": "Retail",
+    "gist": "A strategy piece examines how Lidl's physical-first, discount model may fare as AI shopping agents increasingly handle purchase decisions, arguing the retailer must choose between optimizing for agent-driven price comparison or investing in direct consumer relationships that agents can't easily replicate.",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://digiday.com/sponsored/in-store-grocery-media/",
+    "title": "How TF is the grocery store a media channel?",
+    "topic": "Ad & Marketing",
+    "gist": "A sponsored guide from Grocery TV argues the physical grocery store remains a critical purchase-decision environment, citing that 95% of grocery shoppers make at least half their decisions in-store.",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/hush-opens-first-three-standalone-stores/",
+    "title": "Hush opens first three standalone stores as it moves onto the high street",
+    "topic": "DTC & Brands",
+    "gist": "UK womenswear brand Hush has opened its first three standalone stores after building its business primarily online, selecting three distinct retail environments to test different customer profiles.",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://digiday.com/marketing/future-of-marketing-briefing-creators-had-a-big-year-christmas-still-went-to-the-celebrities/",
+    "title": "Future of Marketing Briefing: Creators had a big year. Christmas still went to the celebrities",
+    "topic": "Ad & Marketing",
+    "gist": "Analysis of early holiday ad campaigns finds that despite creator marketing dominating brand strategies throughout the year, major Christmas campaigns from brands like John Lewis and Burberry are still led by celebrities rather than creators.",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.glossy.co/pop/glossy-pop-newsletter-depop-is-hosting-over-2000-campus-events-this-fall/",
+    "title": "Glossy Pop Newsletter: Depop is hosting over 2,000 campus events this fall",
+    "topic": "Marketplaces",
+    "gist": "Depop has tripled its campus presence to over 300 colleges and is running more than 2,000 in-person events this fall through its Campus Manager ambassador program, targeting Gen Z sellers and buyers.",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/big-box-briefing-the-themes-that-will-dominate-jason-bonfigs-tenure-as-best-buys-new-ceo/",
+    "title": "Big-Box Briefing: The themes that will dominate Jason Bonfig’s tenure as Best Buy’s new CEO",
+    "topic": "Retail",
+    "gist": "Jason Bonfig, a 27-year Best Buy veteran, became CEO on November 1, succeeding Corie Barry, with his tenure expected to focus on accelerating the company's existing strategy.",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/russia-denies-involvement-in-cyberattacks-on-supermarket-fridges-across-europe/",
+    "title": "Russia denies involvement in cyberattacks on supermarket fridges across Europe",
+    "topic": "Retail",
+    "gist": "A wave of cyberattacks on supermarket refrigeration systems across Belgium, Sweden, Ireland, France, and the UK has forced retailers to discard large quantities of perishable food; Russia denied involvement despite two pro-Russian groups claiming responsibility.",
+    "date": "2026-11-06"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
+    "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
+    "topic": "Retail",
+    "gist": "CISA, the FBI, and multiple U.S. federal agencies issued a joint warning about an ongoing cyber threat targeting internet-connected industrial refrigeration systems at grocery stores, cold storage facilities, military bases, and a blood bank, with attacks attributed broadly to Iran by security researchers.",
+    "date": "2026-11-06"
   }
 ]
