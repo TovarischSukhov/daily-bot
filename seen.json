@@ -1,26 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/marketing/the-rise-of-adultoween-and-how-adults-are-driving-halloween-spending/",
-    "title": "The rise of ‘Adultoween’ and how adults are driving Halloween spending",
-    "topic": "Consumer Trends",
-    "gist": "Adults are increasingly driving Halloween spending, turning the holiday into a multi-billion-dollar retail season beyond its traditional child-focused roots, a trend analysts are calling 'Adultoween'.",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "https://www.retaildive.com/news/etsy-updates-ai-use-policies-emphasize-craftsmanship/833838/",
-    "title": "Etsy updates AI use policies to emphasize craftsmanship",
-    "topic": "Marketplaces",
-    "gist": "Etsy has updated its policies to require at least one unedited real-background photo per listing, ban AI-generated functional guides, and remove bot-generated listings, while simultaneously investing in AI for its own discovery and personalization infrastructure.",
-    "date": "2026-10-24"
-  },
-  {
-    "url": "https://internetretailing.net/the-vulnerability-beneath-the-checkout-why-the-php-scare-was-a-wake-up-call-for-retail/",
-    "title": "The vulnerability beneath the checkout: why the PHP scare was a wake-up call for retail",
-    "topic": "Retail",
-    "gist": "Critical vulnerabilities in PHP, the runtime underlying platforms like Magento and WordPress, exposed e-commerce retailers to potential unauthenticated remote code execution before emergency patches were issued on October 21, with experts noting exploitation attempts began four days before public disclosure.",
-    "date": "2026-10-24"
-  },
-  {
     "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
     "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
     "topic": "Marketplaces",
@@ -754,5 +733,26 @@
     "topic": "AI & Tech",
     "gist": "Ramp's spending data shows AI token volumes are rising but dollar spend flatlined in August–September, as price competition from OpenAI, Anthropic, and open-source models makes AI usage cheaper even as consumption grows.",
     "date": "2026-11-07"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/inside-oner-actives-tequila-scented-new-flagship-in-nyc/",
+    "title": "Inside Oner Active’s tequila-scented new flagship in NYC",
+    "topic": "DTC & Brands",
+    "gist": "Oner Active is opening its first NYC flagship store, with founder Krissy Cela deliberately positioning the brand away from wellness clichés — including a custom tequila-scented store fragrance — to create a distinct in-store identity.",
+    "date": "2026-11-08"
+  },
+  {
+    "url": "https://github.com/hedgerow-dev/coldframe",
+    "title": "Show HN: Coldframe, a honeypot that poses as a supermarket fridge controller",
+    "topic": "Retail",
+    "gist": "A developer released an open-source Python honeypot that impersonates internet-exposed supermarket refrigeration controllers to log attacker behavior, credentials, and exploit attempts targeting real CVEs in Danfoss and Dixell systems.",
+    "date": "2026-11-08"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+    "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+    "topic": "Macro",
+    "gist": "Following a Democratic wave in U.S. midterm elections, nearly all ballot measures restricting data center construction passed, and newly elected officials in states like Texas have campaigned on limiting hyperscaler projects, while companies like OpenAI are already adjusting their community engagement policies in response.",
+    "date": "2026-11-08"
   }
 ]
