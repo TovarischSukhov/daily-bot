@@ -1,33 +1,5 @@
 [
   {
-    "url": "https://techcrunch.com/2026/10/24/instacart-reportedly-discussed-selling-itself-with-doordash-and-uber/",
-    "title": "Instacart reportedly discussed selling itself with DoorDash and Uber",
-    "topic": "Marketplaces",
-    "gist": "Instacart has hired an investment bank and held early-stage acquisition talks with both DoorDash and Uber, though Uber has reportedly withdrawn. The company's stock jumped over 9% on the news, while its market cap sits above $13 billion.",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-    "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-    "topic": "AI & Tech",
-    "gist": "The US creative industries have shed over 200,000 jobs in four years, with losses spanning Hollywood, publishing, and graphic design, coinciding with the rise of generative AI — though isolating AI's exact contribution is difficult given simultaneous structural shifts like streaming competition and consolidation.",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/24/php-ocalypse-how-two-critical-web-bugs-almost-broke-the-internet/",
-    "title": "PHP-ocalypse: How two critical web bugs almost broke the internet",
-    "topic": "Retail",
-    "gist": "Two critical remote-code-execution vulnerabilities in PHP, which underpins roughly 70% of the web including WordPress and major e-commerce platforms, were publicly disclosed this week with patches released; some exploitation was detected before the patch embargo lifted, and many systems remain unpatched.",
-    "date": "2026-10-25"
-  },
-  {
-    "url": "https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order",
-    "title": "Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism",
-    "topic": "Macro",
-    "gist": "Brazilian advocacy groups submitted new evidence to the Superior Electoral Court alleging that Meta's Instagram and WhatsApp tools systematically favor one presidential candidate over another in search results and AI-generated answers, despite an existing court order requiring equal treatment. Meta faces daily fines that could double to roughly $198,000 if noncompliance continues.",
-    "date": "2026-10-25"
-  },
-  {
     "url": "https://ecommercenews.eu/record-number-of-counterfeit-products-intercepted-in-eu/",
     "title": "Record number of counterfeit products intercepted in EU",
     "topic": "Marketplaces",
@@ -754,5 +726,117 @@
     "topic": "Macro",
     "gist": "Following a Democratic wave in U.S. midterm elections, nearly all ballot measures restricting data center construction passed, and newly elected officials in states like Texas have campaigned on limiting hyperscaler projects, while companies like OpenAI are already adjusting their community engagement policies in response.",
     "date": "2026-11-08"
+  },
+  {
+    "url": "https://www.retaildive.com/news/thredup-revenue-growth-slows-despite-record-buyers/874081/",
+    "title": "ThredUp revenue growth slows despite record number of buyers",
+    "topic": "Marketplaces",
+    "gist": "ThredUp posted 7% revenue growth to $88.2M in Q3 but cut Q4 guidance sharply as average item prices fell from $21 to $18 and competitors ramped up promotions. Record buyer counts and order volumes couldn't offset lower spend-per-item and intensifying pressure from peer-to-peer rivals like Depop.",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://www.retaildive.com/news/amazon-deploys-thousands-of-smart-glasses-to-delivery-drivers/873762/",
+    "title": "Amazon deploys thousands of smart glasses to delivery drivers",
+    "topic": "Fulfillment & Ops",
+    "gist": "Amazon is deploying 5,000 smart glasses to delivery drivers in 2026, expanding to 20,000+ by end of 2027, with the glasses surfacing navigation, delivery preferences, and proof-of-capture without drivers needing to check a handheld device.",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://www.retaildive.com/news/amazon-text-to-shop-ai-agent/874085/",
+    "title": "Amazon debuts text-to-shop AI agent feature",
+    "topic": "Marketplaces",
+    "gist": "Amazon is rolling out a text-based shopping feature for Alexa for Shopping that lets customers add items to cart and complete purchases via SMS, including photo-based product discovery and price tracking. Consumer trust in AI-led purchase completion remains low despite growing usage for research.",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/how-azunas-strong-supply-chain-fuels-its-9-figure-sales/",
+    "title": "How Azuna’s strong supply chain fuels its 9-figure sales",
+    "topic": "DTC & Brands",
+    "gist": "DTC air-freshener brand Azuna has reached nine-figure annual online revenue by building supply chain resilience through long-term raw material contracts, owned manufacturing, and multi-tiered fulfillment rather than relying on third-party logistics.",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/shopping-or-social/",
+    "title": "Shopping or social? What an under-16 ban could mean for resale",
+    "topic": "Marketplaces",
+    "gist": "The UK government is weighing whether its proposed under-16 social media ban should extend to online marketplaces like eBay, Vinted, and Depop, whose social features — feeds, messaging, following — blur the line between commerce and social networking. Inclusion could affect both buyer demand and seller supply on resale platforms, and would likely trigger mandatory age verification requirements.",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/ai-christmas-ecommerce/",
+    "title": "AI joins the Christmas ecommerce rush — but will recommendations turn into sales?",
+    "topic": "Retail",
+    "gist": "Adobe forecasts UK festive online spending to hit £28.52bn, with AI-referred traffic to retail sites up 214% year-on-year during November–December. Consumer research shows AI is primarily used for gift inspiration and price comparison rather than autonomous purchasing, with only 8–19% willing to let AI complete purchases on their behalf.",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://internetretailing.net/black-friday-spending-set-to-hit-9-8bn-as-shoppers-plan-christmas-bargains/",
+    "title": "Black Friday spending set to hit £9.8bn as shoppers plan Christmas bargains",
+    "topic": "Retail",
+    "gist": "UK Black Friday spending is forecast to reach £9.8bn, up 3% year-on-year, with online retail capturing £5.29bn of that. Shopper sentiment has shifted sharply toward viewing Black Friday as a genuine savings event, with 63% calling it a good way to save versus 35% last year.",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://www.glossy.co/beauty/wellness/ulta-beauty-oura-ring-health-tracking/",
+    "title": "Exclusive: Ulta Beauty bets on health tracking with Oura in 1,000 stores",
+    "topic": "Retail",
+    "gist": "Ulta Beauty is launching the Oura Ring 5 health tracker across 1,000 U.S. stores and online from mid-November, marking its first foray into wearable health tech. The move is driven by data showing 72% of Ulta's customer base already prioritizes daily wellness.",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/how-enterprise-brands-are-retooling-commerce-platforms-to-capture-ai-shoppe/873905/",
+    "title": "How enterprise brands are retooling commerce platforms to capture AI shoppers",
+    "topic": "Retail",
+    "gist": "Shopify reports AI-referred traffic to its merchant storefronts up 2.6x year-on-year in Q3, with AI-referred orders up 3.3x and conversion rates 64% higher than organic search. The article argues that winning in agentic commerce requires three things from retailers: structured product data legibility, multi-channel reach, and preserved customer identity through checkout.",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://www.retaildive.com/spons/beyond-the-ai-shortlist-how-brands-can-inspire-the-next-purchase/873681/",
+    "title": "Beyond the AI shortlist: How brands can inspire the next purchase",
+    "topic": "Ad & Marketing",
+    "gist": "As AI agents increasingly build shopping shortlists from structured product data, brands face two distinct challenges: winning the AI recommendation through machine-readable, semantically rich product attributes, and then converting the AI-referred shopper on the product page through visualization, fit confidence, and consistent information. Only 46% of consumers fully trust AI recommendations and 89% double-check before buying.",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/peak-season-2026-whats-changed-and-how-do-you-win/",
+    "title": "Peak season 2026: What’s changed, and how do you win?",
+    "topic": "Fulfillment & Ops",
+    "gist": "Research from Cardlytics shows UK shoppers are managing budgets tightly even during the festive season, trading down and breaking brand loyalties, but still spending when prompted by relevant, timely offers. The article frames peak 2026 success as a relevance and timing challenge rather than a demand problem.",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/poundland-blocked-from-buying-new-stock-despite-86m-turnaround/",
+    "title": "Poundland blocked from buying new stock despite £86m turnaround",
+    "topic": "Retail",
+    "gist": "Poundland has been blocked from ordering new stock by owner Gordon Brothers, which restricted cash access despite the retailer swinging from an EBITDA loss of £68.1m to a profit of £18.1m in the past year. The company faces administration if a rescue deal isn't secured before its notice of intention to appoint administrators expires on 13 November.",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/ikea-sales-fall-for-third-year-as-it-slashes-prices-to-revive-growth/",
+    "title": "Ikea sales fall for third year as it slashes prices to revive growth",
+    "topic": "Retail",
+    "gist": "Ikea reported a third consecutive year of declining global sales, down 2% to €43.8bn, and is responding with a €1.2bn investment in price cuts of up to 25% across 1,000+ products in Europe alongside a push to open smaller city-centre stores. Weak consumer confidence in China and the Middle East, plus rising freight and energy costs, are cited as ongoing headwinds.",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/amazon-text-messages-agentic-commerce/",
+    "title": "Amazon launches AI shopping through text messages in agentic push",
+    "topic": "Marketplaces",
+    "gist": "Amazon has launched text-based AI shopping through Alexa for Shopping, allowing US customers to search, compare, and purchase products via SMS with the assistant remembering preferences and previous orders. The rollout is part of Amazon's broader agentic commerce push, with agentic feature usage up eightfold since the start of the year.",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://digiday.com/media/as-publishers-await-click-data-googles-ai-visibility-push-complicates-the-opt-out-decision/",
+    "title": "As publishers await click data, Google’s AI visibility push complicates the opt-out decision",
+    "topic": "Ad & Marketing",
+    "gist": "Google is developing a Search Console opt-out that lets publishers exclude their content from AI Overviews, following a UK CMA requirement, while simultaneously enhancing AI Overviews to make opting out less commercially attractive. Publishers are waiting for click data to understand the traffic impact before deciding.",
+    "date": "2026-11-09"
+  },
+  {
+    "url": "https://digiday.com/marketing/chatgpt-is-about-to-show-brands-their-mention-count/",
+    "title": "ChatGPT is about to show brands their mention count",
+    "topic": "Ad & Marketing",
+    "gist": "OpenAI is testing an analytics dashboard inside ChatGPT that lets businesses track how often they appear in ChatGPT answers and how many clicks those mentions generate, with a Shopify store connection as one verification route. The tool is part of an unreleased Business Hub that also includes a business agent feature.",
+    "date": "2026-11-09"
   }
 ]
