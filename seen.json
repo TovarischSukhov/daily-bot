@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://ecommercenews.eu/record-number-of-counterfeit-products-intercepted-in-eu/",
-    "title": "Record number of counterfeit products intercepted in EU",
-    "topic": "Marketplaces",
-    "gist": "EU customs agencies intercepted a record 196 million suspected counterfeit items in 2024, valued at €6.3 billion — a 67% increase over the prior year.",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/usps-can-bill-sellers-for-foreign-duties",
-    "title": "USPS Can Bill Sellers for Foreign Duties",
-    "topic": "Fulfillment & Ops",
-    "gist": "A new USPS rule effective October 19 makes U.S. merchants financially liable for unpaid foreign customs duties, taxes, and fees on international shipments — including on returned or lost parcels — with interest accruing on overdue invoices.",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://www.retaildive.com/spons/agentic-commerce-the-infrastructure-is-ready-for-ai-agents-is-your-store/833313/",
-    "title": "Agentic commerce: The infrastructure is ready for AI agents. Is your store?",
-    "topic": "Retail",
-    "gist": "AI-referred traffic to U.S. retail sites converted 60% higher and generated 53% more revenue per visit than non-AI traffic in July, and Google's Universal Commerce Protocol is already live on millions of Shopify storefronts by default, making basic AI discoverability available to most merchants without extra setup.",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://digiday.com/media-buying/midterm-political-spending-throws-spanner-into-regional-advertiser-holiday-plans/",
-    "title": "Midterm political spending throws spanner into regional advertiser holiday plans",
-    "topic": "Ad & Marketing",
-    "gist": "Midterm election political spending is driving up TV and streaming ad prices in key battleground states during Q4, forcing retail advertisers to choose between going dark, shifting to premium streaming, or absorbing higher costs during their most important sales period.",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://digiday.com/marketing/salesforces-5-7-billion-braze-deal-puts-marketers-at-an-ecosystem-crossroads/",
-    "title": "Salesforce’s $5.7 billion Braze deal puts marketers at an ecosystem crossroads",
-    "topic": "Ad & Marketing",
-    "gist": "Salesforce has agreed to acquire customer engagement platform Braze for approximately $5.66 billion, with the goal of integrating Braze's real-time engagement and AI decisioning into its Marketing Cloud and Data 360 ecosystem.",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://www.modernretail.co/marketing/how-qvc-is-building-a-flywheel-across-tiktok-and-tv-ahead-of-the-holidays/",
-    "title": "How QVC is building a flywheel across TikTok and TV ahead of the holidays",
-    "topic": "Marketplaces",
-    "gist": "QVC launched 24/7 TikTok streaming in April 2025 and acquired nearly 1 million new U.S. customers via TikTok Shop that year, and is now building its 40th holiday season around a combined TV, TikTok, and creator strategy.",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://www.glossy.co/research/glossy-research-brands-focus-on-owned-channels-wavers-for-the-2026-holiday-season/",
-    "title": "Glossy+ Research: Brands’ focus on owned channels wavers for the 2026 holiday season",
-    "topic": "Ad & Marketing",
-    "gist": "A Glossy survey of 90 brand and retailer professionals found that brands are less focused on owned physical retail and owned e-commerce sites for the 2026 holiday season compared to 2025, even though both channels become more important during holidays.",
-    "date": "2026-10-26"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-    "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-    "topic": "AI & Tech",
-    "gist": "Apollo Global's chief economist analyzed the S&P 493 (S&P 500 minus the seven largest tech companies) and found flat profit margins and no productivity gains attributable to AI investment, concluding that AI has delivered 'zero financial payoff' to non-tech corporate America.",
-    "date": "2026-10-26"
-  },
-  {
     "url": "https://internetretailing.net/retailers-warn-of-price-rises-if-autumn-budget-fails-to-deliver/",
     "title": "Retailers warn of price rises if Autumn Budget fails to deliver",
     "topic": "Macro",
@@ -838,5 +782,47 @@
     "topic": "Ad & Marketing",
     "gist": "OpenAI is testing an analytics dashboard inside ChatGPT that lets businesses track how often they appear in ChatGPT answers and how many clicks those mentions generate, with a Shopify store connection as one verification route. The tool is part of an unreleased Business Hub that also includes a business agent feature.",
     "date": "2026-11-09"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/exclusive-tiktok-shop-launches-a-paid-premium-tier-for-1m-of-its-top-us-shoppers/",
+    "title": "Exclusive: TikTok Shop launches a paid premium tier for 1M of its top US shoppers",
+    "topic": "Marketplaces",
+    "gist": "TikTok Shop launched a paid membership pilot called TikTok Shop Plus, offering free shipping, exclusive discounts, and instant refunds for $9.99/month to over 1 million of its most loyal U.S. customers. The move mirrors Amazon Prime and Walmart+ and signals TikTok Shop's push to deepen loyalty as it holds roughly 20% of the U.S. social-commerce market.",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/10/reddit-is-turning-user-conversations-into-ai-powered-product-reviews/",
+    "title": "Reddit is turning user conversations into AI-powered product reviews",
+    "topic": "Retail",
+    "gist": "Reddit launched 'Reddit Reviews,' an AI-powered feature that aggregates and summarizes user conversations about products into structured review pages covering ~10,000 products, now live for all U.S. users. The feature is designed to position Reddit as a product research destination ahead of the holiday season, though it may also attract brand astroturfing.",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://internetretailing.net/singles-day-spend-set-to-top-2-2bn-as-uk-shoppers-embrace-global-retail-event/",
+    "title": "Singles Day spend set to top £2.2bn as UK shoppers embrace global retail event",
+    "topic": "Retail",
+    "gist": "UK consumers are forecast to spend over £2.2bn during Singles Day 2025, up roughly 10% year over year, as the event grows beyond its Chinese origins and increasingly marks the start of the UK peak shopping season. Retailers including ASOS, AliExpress, and Temu are extending promotions beyond November 11 into multi-week campaigns.",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://www.retaildive.com/news/target-vs-walmart-holiday-marketings-stakes-feel-higher-this-year/873764/",
+    "title": "Target vs. Walmart: Holiday marketing’s stakes feel higher this year",
+    "topic": "Retail",
+    "gist": "Walmart and Target are both anchoring their 2025 holiday campaigns around narrative storytelling rather than pure price messaging, as both retailers compete for the same value-conscious but higher-income shopper. Analysts note Target is leaning into personalization and a unified creator/influencer strategy as its key differentiator against Walmart's scale.",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://www.retaildive.com/news/why-retail-holiday-hiring-looks-different-2026/873988/",
+    "title": "Holiday hiring looks different this year. Here’s why.",
+    "topic": "Retail",
+    "gist": "Retailers are quietly scaling back large seasonal hiring announcements, instead relying on existing staff, on-demand pools, and part-time roles — with Amazon as the notable outlier, planning to hire 300,000+ seasonal workers, up 20% from recent years. The shift from seasonal to part-time labels suggests some employers expect demand to persist well beyond Q4.",
+    "date": "2026-11-10"
+  },
+  {
+    "url": "https://www.retaildive.com/news/the-childrens-place-in-search-of-new-ownership-files-for-bankruptcy/874078/",
+    "title": "The Children’s Place, in search of new ownership, files for bankruptcy",
+    "topic": "DTC & Brands",
+    "gist": "The Children's Place filed for Chapter 11 bankruptcy with over $881 million in debts, citing declining demand, inflation, tariffs, and intensifying competition from Target, Walmart, and Amazon in value-priced children's apparel. The company is running store-closing sales while seeking a buyer by year-end, with bids due December 9.",
+    "date": "2026-11-10"
   }
 ]
