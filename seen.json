@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://internetretailing.net/retailers-warn-of-price-rises-if-autumn-budget-fails-to-deliver/",
-    "title": "Retailers warn of price rises if Autumn Budget fails to deliver",
-    "topic": "Macro",
-    "gist": "The British Retail Consortium warns that UK shop price inflation rose to 2.1% in October and will continue rising unless the Chancellor cuts business rates, employment costs, and packaging taxes in the Autumn Budget. Financial distress among British businesses has hit a 20-year high, with 86% of small businesses saying the Budget could further damage their finances.",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/10/shop-price-inflation-two-year-high/",
-    "title": "Shop price inflation hits two year high, BRC calls for action ahead of Budget",
-    "topic": "Macro",
-    "gist": "BRC and NielsenIQ data show UK shop price inflation hit 2.1% YoY in October, a near two-year high, driven by non-food categories like furniture, flooring and DIY, with food ambient inflation also accelerating. The BRC is urging the Chancellor to cancel a 3.5% business rates increase and reduce employment costs ahead of the Autumn Budget.",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://internetretailing.net/online-retailers-not-ready-for-black-friday-expert-warns/",
-    "title": "Online retailers not ready for Black Friday, expert warns",
-    "topic": "Retail",
-    "gist": "An SEO expert warns that e-commerce retailers risk missing Black Friday sales by failing to optimise for AI shopping agents, which are producing 30–40% higher order values among users who rely on them. Key actions include enriching product data, maintaining accurate pricing feeds, implementing structured data, and building third-party credibility signals.",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://modernretail.co.uk/why-are-brands-still-discounting-blind/",
-    "title": "Why are brands still discounting blind?",
-    "topic": "Ad & Marketing",
-    "gist": "An op-ed by Particular Audience's CEO argues that while retail media has made advertising measurable and adjustable, trade promotions and discounting remain opaque and preset — brands commit to fixed discounts without knowing the minimum needed to convert, giving away unnecessary margin. The piece proposes real-time, SKU-level, contextual discount logic as a direct parallel to retail media's targeting model.",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://www.retaildive.com/news/walmart-longer-black-friday-cyber-monday-sales-events/872747/",
-    "title": "Walmart debuts longer Black Friday, Cyber Monday sales events",
-    "topic": "Retail",
-    "gist": "Walmart is extending its Black Friday and Cyber Monday sales events to 14 days total in 2026, up from 10 days in 2025, spread across three distinct sales windows in November and December. Walmart+ members will get tiered early access to deals, and the retailer has also launched a bundled Walmart+/Sam's Club membership at $120/year.",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/why-returns-are-becoming-a-bigger-focus-for-tiktok-shop-and-doordash/",
-    "title": "Why returns are becoming a bigger focus for TikTok Shop and DoorDash",
-    "topic": "Fulfillment & Ops",
-    "gist": "TikTok Shop and DoorDash are both investing in frictionless returns as a conversion lever, with DoorDash launching a $7.99 on-demand pickup returns service dispatching drivers within 30 minutes. The trend reflects marketplaces treating easy returns as a competitive differentiator to drive purchase confidence.",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://www.glossy.co/research/glossy-research-brands-holiday-marketing-tactics-shift-in-2026/",
-    "title": "Glossy+ Research: Brands’ holiday marketing tactics shift in 2026",
-    "topic": "Ad & Marketing",
-    "gist": "A Glossy+ Research survey of 90 brand and retailer professionals found that marketing tactics for the 2026 holiday season are shifting compared to 2025, with commerce channel priorities among marketers changing. Full details are behind a paywall.",
-    "date": "2026-10-27"
-  },
-  {
-    "url": "https://www.retaildive.com/news/dollar-general-sued-ftc-alleged-deceptive-pricing/872790/",
-    "title": "Dollar General sued by FTC over ‘deceptive pricing practices’",
-    "topic": "Retail",
-    "gist": "The FTC and 20 U.S. states have sued Dollar General for allegedly charging customers higher prices at the register than those displayed on shelf tags and in advertising, with undercover investigations finding pricing discrepancies in every store visited. The retailer has received over 29,000 consumer complaints about the issue since January 2023 but allegedly failed to fix it.",
-    "date": "2026-10-27"
-  },
-  {
     "url": "https://www.retailgazette.co.uk/blog/2026/10/prada-chatgpt-tool/",
     "title": "Prada launches ChatGPT tool to help shoppers discover luxury products",
     "topic": "Retail",
@@ -824,5 +768,54 @@
     "topic": "DTC & Brands",
     "gist": "The Children's Place filed for Chapter 11 bankruptcy with over $881 million in debts, citing declining demand, inflation, tariffs, and intensifying competition from Target, Walmart, and Amazon in value-priced children's apparel. The company is running store-closing sales while seeking a buyer by year-end, with bids due December 9.",
     "date": "2026-11-10"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/hurr-reaches-profitability-for-the-first-time/",
+    "title": "HURR reaches profitability for the first time",
+    "topic": "DTC & Brands",
+    "gist": "Fashion rental marketplace HURR has reached profitability for the first time after 18 months of operational restructuring, cost scrutiny, and strategic changes led by founder Lauren Roberts. The milestone is being framed as proof that circular fashion business models can be commercially viable, not just mission-driven.",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/asda-turnaround-falters-as-market-share-slips-to-11-3/",
+    "title": "Asda turnaround falters as market share slips to 11.3%",
+    "topic": "Retail",
+    "gist": "Asda is the only major UK grocer to report falling sales in the latest 12-week period, with revenue down 0.5% year-on-year and market share dropping from 11.6% to 11.3%, while rivals including Lidl, Morrisons, and Ocado all grew. Newly appointed CEO David Potts faces the task of reversing the decline under Asda's Formula for Growth strategy.",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://digiday.com/marketing/mars-wants-to-future-proof-impulse-buys-as-ai-poised-to-take-over-more-grocery-runs/",
+    "title": "Mars wants to future proof impulse buys as AI is poised to take over more grocery runs",
+    "topic": "Retail",
+    "gist": "Mars is actively strategizing around agentic AI shopping assistants potentially replacing impulse-driven grocery runs, working to ensure its snack brands remain discoverable and purchasable when AI agents, rather than humans, make routine buying decisions. The company published a future-of-shopping report with Kantar and Synthesis to map the shift.",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/mattel-brings-barbie-hot-wheels-to-tiktok-shop/",
+    "title": "Mattel brings Barbie, Hot Wheels to TikTok Shop",
+    "topic": "Marketplaces",
+    "gist": "Mattel is launching a branded storefront on TikTok Shop with around 20 products across its major toy properties, marking its first direct sales on the platform as it aims to convert existing community engagement into commerce. The company plans to expand to over 40 products and sees TikTok Shop as a channel for discovery and education alongside traditional retail.",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/",
+    "title": "OpenAI’s new business agents give brands a free way into the conversation it’s also selling as an ad",
+    "topic": "AI & Tech",
+    "gist": "OpenAI has launched a Business Hub where brands can claim a verified profile and, for U.S. e-commerce and online services businesses, publish a free 'business agent' — a branded chat within ChatGPT — alongside a paid ad version of the same format. The free organic option gives brands a way into AI-driven conversations before the paid product fully rolls out.",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://ecommercenews.eu/european-council-approves-vat-simplification-for-online-sales/",
+    "title": "European Council approves VAT simplification for online sales",
+    "topic": "Macro",
+    "gist": "The European Council has approved an expansion of the digital VAT Import One Stop Shop (IOSS) to cover high-value goods sold online, simplifying VAT compliance for platforms and suppliers operating across EU markets. The move is part of broader EU efforts to streamline VAT collection on cross-border e-commerce.",
+    "date": "2026-11-11"
+  },
+  {
+    "url": "https://internetretailing.net/almost-half-of-shoppers-plan-black-friday-purchases-in-advance-with-ai-and-social-media-having-limited-influence-on-buying-behaviour/",
+    "title": "Almost half of shoppers plan Black Friday purchases in advance, with AI and social media having limited influence on buying behaviour",
+    "topic": "Consumer Trends",
+    "gist": "YouGov research of 2,000+ UK online shoppers finds that 47% already know what they intend to buy before major events like Black Friday, while only 9% say social media and 5% say AI recommendations meaningfully drive additional unplanned purchases. The findings suggest retailers should focus on capturing pre-formed intent rather than relying on promotions or digital channels to generate new demand.",
+    "date": "2026-11-11"
   }
 ]
