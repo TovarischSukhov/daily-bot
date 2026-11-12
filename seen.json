@@ -1,61 +1,5 @@
 [
   {
-    "url": "https://www.retailgazette.co.uk/blog/2026/10/prada-chatgpt-tool/",
-    "title": "Prada launches ChatGPT tool to help shoppers discover luxury products",
-    "topic": "Retail",
-    "gist": "Prada has launched a ChatGPT-powered conversational tool in the UK, US, and Italy that lets shoppers discover products and find store information through AI dialogue, developed with Accenture Song and DaVinci Commerce.",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://internetretailing.net/guest-comment-proving-that-retail-media-sales-are-truly-incremental/",
-    "title": "GUEST COMMENT Proving that retail media sales are truly incremental",
-    "topic": "Ad & Marketing",
-    "gist": "A Decentriq executive argues that retail media's attributed sales figures systematically overstate real impact because they count high-intent shoppers who would have bought anyway, and lays out how randomised holdouts and privacy-preserving data clean rooms can measure true incrementality.",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/10/83-of-uk-consumers-fear-rising-prices-ahead-of-budget/",
-    "title": "83% of UK consumers fear rising prices ahead of Budget",
-    "topic": "Macro",
-    "gist": "Over 80% of UK consumers are worried about rising food prices and inflation ahead of the Budget, as shop price inflation hit 2.1% in October — its highest since February 2024 — with UK retailers collectively facing a £41bn tax bill for 2026/27.",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://digiday.com/marketing/how-lush-quit-social-media-ads-and-still-drove-growth/",
-    "title": "How Lush quit social media ads and still drove growth",
-    "topic": "DTC & Brands",
-    "gist": "Lush quit paid social advertising on Instagram, Facebook, TikTok, and Snapchat in 2021 over data privacy and algorithm concerns, and has since maintained only a token presence on those platforms while still driving brand growth.",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.retaildive.com/news/target-overhauls-threshold-home-goods-brand/872851/",
-    "title": "Target overhauls Threshold home goods brand",
-    "topic": "Retail",
-    "gist": "Target has overhauled its Threshold home goods private label — its largest, at nearly $3 billion annually — by cutting prices on select items, adding 800+ new products, and improving in-store merchandising to help shoppers visualize complementary items together.",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.retaildive.com/news/these-department-stores-need-a-good-holiday-kohls-penney-saks/833912/",
-    "title": "These 3 department stores need a good holiday",
-    "topic": "Retail",
-    "gist": "Kohl's, J.C. Penney, and Saks Fifth Avenue (now Exemplar Luxury Group, post-bankruptcy) each face a critical holiday season test in 2026, with analysts scrutinizing their ability to convert holiday traffic into profitable sales and cash flow amid ongoing turnaround struggles.",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://internetretailing.net/poundland-faces-growing-insolvency-risk-as-major-shareholder-rejects-solvent-rescue-proposal/",
-    "title": "Poundland faces growing insolvency risk as major shareholder rejects solvent rescue proposal",
-    "topic": "Retail",
-    "gist": "Poundland faces potential insolvency after its controlling shareholder Gordon Brothers rejected a solvent takeover bid, with three sale-process directors reportedly ready to resign amid concerns the shareholder is steering the retailer toward a break-up.",
-    "date": "2026-10-28"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/brands-briefing-shoulder-bags-and-tiktok-shop-are-powering-vera-bradleys-latest-turnaround/",
-    "title": "Brands Briefing: Shoulder bags and TikTok Shop are powering Vera Bradley’s latest turnaround",
-    "topic": "DTC & Brands",
-    "gist": "Vera Bradley reported its first quarterly revenue growth in nearly five years after refocusing on shoulder bags, personalized bag charms, and investment in TikTok and Instagram as part of its 'Project Sunshine' turnaround plan.",
-    "date": "2026-10-28"
-  },
-  {
     "url": "https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx",
     "title": "DoorDash to Acquire Instacart",
     "topic": "Marketplaces",
@@ -817,5 +761,40 @@
     "topic": "Consumer Trends",
     "gist": "YouGov research of 2,000+ UK online shoppers finds that 47% already know what they intend to buy before major events like Black Friday, while only 9% say social media and 5% say AI recommendations meaningfully drive additional unplanned purchases. The findings suggest retailers should focus on capturing pre-formed intent rather than relying on promotions or digital channels to generate new demand.",
     "date": "2026-11-11"
+  },
+  {
+    "url": "https://ecommercenews.eu/eu-targets-online-sales-tricks-with-digital-fairness-act/",
+    "title": "EU targets online sales tricks with Digital Fairness Act",
+    "topic": "Retail",
+    "gist": "The European Commission has proposed the Digital Fairness Act to ban dark patterns, addictive design, and deceptive influencer marketing in online sales across the EU.",
+    "date": "2026-11-12"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/usps-service-cuts-could-impact-merchants",
+    "title": "USPS Service Cuts Could Impact Merchants",
+    "topic": "Fulfillment & Ops",
+    "gist": "USPS posted a $6.5B net loss in fiscal 2026 and its Postmaster General warned of potential post office closures and reduced Marketing Mail service levels, with formal proposals expected in Q1 2027.",
+    "date": "2026-11-12"
+  },
+  {
+    "url": "https://ecommercenews.eu/sheins-total-investment-in-poland-reaches-1-billion-euros/",
+    "title": "Shein’s total investment in Poland reaches 1 billion euros",
+    "topic": "Fulfillment & Ops",
+    "gist": "Shein has committed an additional €500M to expand its logistics center in Poland, bringing its total investment in the country to €1B since 2022.",
+    "date": "2026-11-12"
+  },
+  {
+    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
+    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
+    "topic": "AI & Tech",
+    "gist": "United Airlines is banning third-party AI agents from booking flights on its platforms, citing security risks, potential regulatory violations, and the desire to avoid adding powerful new intermediaries to its sales funnel.",
+    "date": "2026-11-12"
+  },
+  {
+    "url": "https://www.retaildive.com/news/amazon-black-friday-cyber-monday-holiday-deals/874359/",
+    "title": "Amazon’s Black Friday, Cyber Monday deals boast record exclusives",
+    "topic": "Marketplaces",
+    "gist": "Amazon's Black Friday and Cyber Monday events (Nov. 19–30) will feature a record number of Amazon-exclusive deals and lean heavily on AI-powered personalization through Alexa for Shopping, including price tracking and auto-buy features.",
+    "date": "2026-11-12"
   }
 ]
