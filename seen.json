@@ -1,75 +1,5 @@
 [
   {
-    "url": "https://ir.doordash.com/news/news-details/2026/DoorDash-to-Acquire-Instacart-to-Help-Local-Stores-Win/default.aspx",
-    "title": "DoorDash to Acquire Instacart",
-    "topic": "Marketplaces",
-    "gist": "DoorDash has announced a deal to acquire Instacart, combining the two largest US on-demand delivery platforms into a single entity. The move would give DoorDash significant reach into grocery and local retail delivery.",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/10/budget-2026-retailers/",
-    "title": "Budget 2026: What does it mean for UK retailers?",
-    "topic": "Macro",
-    "gist": "The UK's 2026 Autumn Budget offers retailers some relief through expanded business rates support and lower energy and fuel costs, but a 3.9% National Living Wage rise and frozen National Insurance thresholds keep labour costs high. A notable e-commerce measure makes online marketplaces responsible for collecting VAT on qualifying seller transactions from October 2027.",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://internetretailing.net/autumn-budget-review-business-rates-relief-is-welcome-but-will-it-save-britains-struggling-high-streets/",
-    "title": "Autumn Budget review: Business rates relief is welcome, but will it save Britain’s struggling high streets?",
-    "topic": "Macro",
-    "gist": "The UK Autumn Budget raised the Small Business Rates Relief threshold to £18,000, removing around 70,000 businesses from rates, but experts warn that rising minimum wage and frozen National Insurance thresholds could wipe out those savings for most retailers. The OBR forecasts no real earnings growth next year, with inflation expected to offset minimum wage gains.",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://internetretailing.net/smoke-and-mirrors-retail-reacts-to-the-autumn-budget/",
-    "title": "“Smoke and mirrors”: retail reacts to the Autumn Budget",
-    "topic": "Macro",
-    "gist": "Retail industry bodies gave a mixed-to-negative reaction to the UK Budget, with the British Retail Consortium calling the business rates freeze \"smoke and mirrors\" and warning it adds £250m to retailers' bills. The VAT enforcement measure targeting marketplace sellers was one of the few broadly welcomed announcements.",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://modernretail.co.uk/retail-medias-ai-gap-88-use-ai-for-analysis-but-just-16-for-product-and-ad-ranking/",
-    "title": "Retail media’s AI gap: 88% use AI for analysis, but just 16% for product and ad ranking",
-    "topic": "Ad & Marketing",
-    "gist": "Live polling at IAB Europe's Retail Media Impact Summit found that while 88% of retail media professionals use AI for data analysis and reporting, only 16% use it to determine product or ad rankings, with trust and control cited as the main barriers. Research by Particular Audience showed AI-driven search identified 80% of the relevant product catalogue within the first 120 results, versus 48.5% for traditional keyword search.",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.retaildive.com/news/etsy-ceo-ai-human-creativity-earnings/873009/",
-    "title": "Etsy CEO addresses friction of AI vs. human creativity",
-    "topic": "Marketplaces",
-    "gist": "Etsy CEO Kruti Patel Goyal said AI is being used to improve product discovery while the company simultaneously tightens rules on AI-generated listings, banning AI-produced functional guides and requiring at least one real product image. Q3 GMS rose 8.8% year-over-year to $2.6bn and active buyers grew 1% — the first increase in two years.",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://digiday.com/marketing/retailers-are-still-figuring-out-how-to-tie-ai-goals-to-executive-compensation/",
-    "title": "Retailers are still figuring out how to tie AI goals to executive compensation",
-    "topic": "Retail",
-    "gist": "Ralph Lauren has added AI performance metrics as a factor in executive annual incentive payouts, a change surfaced in an SEC filing, reflecting a broader retail industry shift toward formalizing AI adoption goals at the leadership level.",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/10/fabletics-vp-of-media-growth/",
-    "title": "Fabletics VP of Media & Growth Europe Daniel Klarkowski on why authenticity, AI and influencers are reshaping growth",
-    "topic": "Ad & Marketing",
-    "gist": "Fabletics VP of Media & Growth Europe Daniel Klarkowski describes the brand's shift toward micro-influencer networks (1,500+ in Europe), multi-touch attribution, and cautious AI use focused on analytics rather than creative, as CAC rises and platform algorithms make follower counts less predictive of reach. He also flags growing interest in physical retail and offline brand experiences as a counterweight to pure digital dependency.",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/10/facetheory-bricks-and-mortar/",
-    "title": "Why Facetheory is betting on Boots, bricks and mortar and British beauty",
-    "topic": "DTC & Brands",
-    "gist": "Skincare brand Facetheory, acquired out of distress in mid-2025, has launched into 224 Boots stores as its first UK physical retail presence, after building a 700,000-strong DTC customer base entirely online over 12 years. Founder Suraj Lalvani frames the move as a deliberate pivot to omnichannel, arguing that no single channel is strong enough and that physical retail drives discovery, trust, and experience that digital cannot replicate.",
-    "date": "2026-10-29"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/10/phase-eight-cyber-attack/",
-    "title": "Phase Eight owner confirms customer data accessed in cyber attack",
-    "topic": "Retail",
-    "gist": "TFG London, owner of Phase Eight, Hobbs and Whistles, confirmed that customer personal data including contact details, order information, and limited payment data was accessed in a cyber attack identified on 11 October. Full payment card details and login credentials were not compromised.",
-    "date": "2026-10-29"
-  },
-  {
     "url": "https://www.retailgazette.co.uk/blog/2026/10/amazon-sales-rise-12/",
     "title": "Amazon sales rise 12% as AWS growth drives profits",
     "topic": "Marketplaces",
@@ -796,5 +726,82 @@
     "topic": "Marketplaces",
     "gist": "Amazon's Black Friday and Cyber Monday events (Nov. 19–30) will feature a record number of Amazon-exclusive deals and lean heavily on AI-powered personalization through Alexa for Shopping, including price tracking and auto-buy features.",
     "date": "2026-11-12"
+  },
+  {
+    "url": "https://www.modernretail.co/operations/big-box-briefing-how-targets-and-walmarts-beauty-department-makeovers-are-reshaping-brand-strategies/",
+    "title": "Big Box Briefing: How Target’s and Walmart’s beauty department makeovers are reshaping brand strategies",
+    "topic": "Retail",
+    "gist": "Target and Walmart are overhauling their beauty and wellness aisles to compete with specialty retailers, forcing both large CPG companies and independent brands to rethink their distribution, media spend, and in-store presentation strategies.",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/vinted-looks-to-cash-in-on-us-expansion-with-new-advertising-push/",
+    "title": "Vinted looks to cash in on US expansion with new advertising push",
+    "topic": "Marketplaces",
+    "gist": "Vinted is expanding its post-purchase advertising business to the US via a partnership with Rokt, serving third-party brand offers immediately after checkout, replicating a model it has run across European markets since 2024 with a reported 4% average customer engagement rate.",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/dr-martens-faces-make-or-break-christmas-as-uk-sales-plunge-21/",
+    "title": "Dr Martens faces make-or-break Christmas as UK sales plunge 21%",
+    "topic": "DTC & Brands",
+    "gist": "Dr Martens reported a 9.2% revenue decline and a widened adjusted pre-tax loss for H1, with UK sales falling 21.3%, blaming weak boot demand, a hot summer, and planned DTC operational changes, while warning that full-year results hinge heavily on Christmas trading.",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/jd-com-eyes-european-electronics-dominance-as-2-5bn-takeover-completes/",
+    "title": "JD.com eyes European electronics dominance as $2.5bn takeover completes",
+    "topic": "Marketplaces",
+    "gist": "JD.com has completed its $2.5bn acquisition of Ceconomy, gaining control of MediaMarkt and Saturn across 11 European markets, with plans for next-day and 90-minute delivery and integration with its Joybuy e-commerce platform.",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://digiday.com/marketing/d-research-marketers-express-revenue-optimism-for-2026-holiday-season-despite-economic-pressures/",
+    "title": "D+ Research: Marketers express revenue optimism for 2026 holiday season despite economic pressures",
+    "topic": "Ad & Marketing",
+    "gist": "A Digiday+ survey of 90 brand and retailer professionals found that 76% expect their 2026 holiday revenue to increase compared to 2025, a notably more optimistic outlook than last year's conservative forecasts.",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://internetretailing.net/guest-comment-retailers-have-work-to-do-earning-customer-trust-in-ai/",
+    "title": "GUEST COMMENT Retailers have work to do earning customer trust in AI",
+    "topic": "Retail",
+    "gist": "Research from Sinch finds that while 81% of consumers trust AI for order tracking, only 62% are comfortable with AI handling payment or billing changes, and just 43% believe AI will make shopping easier overall, with 69% of retail organizations having rolled back AI agents due to governance failures.",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://modernretail.co.uk/67-of-shoppers-will-trade-delivery-speed-for-lower-costs/",
+    "title": "67% of shoppers will trade delivery speed for lower costs",
+    "topic": "Fulfillment & Ops",
+    "gist": "New UK research from Scurri finds that 67% of shoppers will accept slower delivery in exchange for free or cheaper shipping during Peak, while 61% prioritize free delivery versus just 29% prioritizing next-day — suggesting the holiday fulfillment battle is shifting from speed to cost and delivery certainty.",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://modernretail.co.uk/the-q4-playbook-assumes-shoppers-start-with-search-many-no-longer-do/",
+    "title": "The Q4 playbook assumes shoppers start with search. Many no longer do.",
+    "topic": "Ad & Marketing",
+    "gist": "Salesforce data shows that between August 2025 and May 2026, discovery through brand-owned properties fell 7% and traditional search fell 15%, while discovery via AI assistants and social channels grew 38%, fundamentally disrupting the standard Q4 search-and-retargeting playbook.",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://www.retaildive.com/news/bnpl-bolsters-holiday-budgets/874425/",
+    "title": "BNPL bolsters holiday budgets",
+    "topic": "Consumer Trends",
+    "gist": "A survey by ETA and TSG found that 20% of consumers plan to increase BNPL use this holiday season, while 47% don't plan to use it at all; tap-to-pay (53%) and digital wallets (31%) saw far higher adoption trial rates over the past year than BNPL (9%).",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://www.retaildive.com/news/walmart-more-than-doubles-planned-drone-delivery-sites-zipline/874378/",
+    "title": "Walmart more than doubles planned drone delivery sites",
+    "topic": "Fulfillment & Ops",
+    "gist": "Walmart is adding 300 new drone delivery sites through an expanded partnership with Zipline, bringing its total planned drone locations to at least 570 — nearly nine times its current footprint — with deliveries possible in 30 minutes or less.",
+    "date": "2026-11-13"
+  },
+  {
+    "url": "https://www.glossy.co/beauty/the-holiday-playbook-how-brands-are-banking-on-live-shopping-this-holiday-season/",
+    "title": "Brands are banking on live shopping this holiday season",
+    "topic": "Ad & Marketing",
+    "gist": "Brands are increasing investment in live shopping for the 2026 holiday season, with US livestream retail sales projected to reach nearly $20 billion this year and annual spend per buyer growing 23% to an average of $339.",
+    "date": "2026-11-13"
   }
 ]
