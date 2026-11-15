@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://www.glossy.co/fashion/michael-kors-tiktok-shop-sales-gen-z/",
-    "title": "Michael Kors finds a new audience on TikTok Shop ahead of Black Friday",
-    "topic": "Marketplaces",
-    "gist": "Michael Kors launched on TikTok Shop and is seeing sales nearly four times initial expectations, with the channel serving as a discovery and purchase path for Gen Z shoppers who had little prior awareness of the brand.",
-    "date": "2026-10-31"
-  },
-  {
-    "url": "https://www.retaildive.com/news/amazon-ceo-retail-business-important-q3-earnings/873316/",
-    "title": "Amazon CEO says retail business is being slept on",
-    "topic": "Marketplaces",
-    "gist": "Amazon's retail business grew online store sales 2% YoY to $68.5B in Q3, with CEO Andy Jassy highlighting that grocery and everyday essentials are growing three times faster than the rest of the store business, making Amazon stickier for Prime members.",
-    "date": "2026-10-31"
-  },
-  {
-    "url": "https://arstechnica.com/ai/2026/10/doordash-says-outside-ai-agents-have-only-led-to-hundreds-of-orders-so-far/",
-    "title": "Basically no one is using AI agents for their DoorDash orders",
-    "topic": "AI & Tech",
-    "gist": "DoorDash CEO Tony Xu disclosed that AI agents have generated only 'several hundred' orders total on the platform, compared to nearly 1 billion orders in Q3 alone, suggesting agentic commerce is far from mainstream for simple, habitual purchases.",
-    "date": "2026-10-31"
-  },
-  {
-    "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents/",
-    "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
-    "topic": "AI & Tech",
-    "gist": "DoorDash confirmed only several hundred total orders have come through third-party AI agents, while the company is building its own agentic ordering tools and exploring advertising opportunities within third-party agents.",
-    "date": "2026-10-31"
-  },
-  {
-    "url": "https://www.glossy.co/pop/ouai-launches-cinematic-web-series-as-long-form-content-trends-people-are-craving-a-new-version-of-authenticity/",
-    "title": "Ouai launches cinematic web series as long-form content trends: ‘People are craving a new version of authenticity’",
-    "topic": "Ad & Marketing",
-    "gist": "Ouai, a P&G-owned hair care brand, produced a three-part cinematic slasher-comedy web series over nearly a year, framing the investment as a response to consumer appetite for trustworthy, high-craft content amid the rise of AI-generated material.",
-    "date": "2026-10-31"
-  },
-  {
     "url": "https://www.retailgazette.co.uk/blog/2026/11/argos-enlists-richard-ayoade-for-2026-christmas-advert/",
     "title": "Argos enlists Richard Ayoade for 2026 Christmas advert",
     "topic": "Ad & Marketing",
@@ -712,5 +677,33 @@
     "topic": "Retail",
     "gist": "A practical guide showing how online merchants can communicate product texture and physical properties through photography — using light, in-use shots, and transformation imagery — since shoppers can't touch products online.",
     "date": "2026-11-14"
+  },
+  {
+    "url": "https://www.nytimes.com/2026/11/15/us/politics/lutnick-pushed-to-weaken-chip-rules-that-overlap-with-his-family-business.html",
+    "title": "Lutnick Pushed to Weaken Chip Rules That Overlap with His Family Business",
+    "topic": "Macro",
+    "gist": "Commerce Secretary Howard Lutnick is accused of advocating for weaker chip export controls affecting Southeast Asian data centers, some of which are clients of Cantor Fitzgerald — the firm his sons now lead. Critics say he is using his regulatory role to protect business interests tied to his family.",
+    "date": "2026-11-15"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/14/where-was-nvidias-security-team/",
+    "title": "Where was Nvidia’s security team?",
+    "topic": "Macro",
+    "gist": "Following Jensen Huang's exit from Nvidia over an affair with an executive at a Singapore data center company under U.S. investigation for chip smuggling, questions are emerging about what Nvidia's security team knew and whether it could have flagged the espionage risk. Corporate security experts say most U.S. companies are dangerously unprepared for China's long-horizon intelligence tactics.",
+    "date": "2026-11-15"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+    "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
+    "topic": "Macro",
+    "gist": "A petition signed by over 115,000 people — including Elon Musk, Garry Tan, and thousands of Nvidia employees and shareholders — is calling on Nvidia's board to reinstate Jensen Huang pending an independent investigation into the circumstances of his removal. Huang resigned after admitting to an affair with a chip executive suspected by U.S. intelligence of being a Chinese spy.",
+    "date": "2026-11-15"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+    "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+    "topic": "Macro",
+    "gist": "Governments across Asia — including South Korea, Taiwan, Japan, Singapore, and China — are responding to Jensen Huang's Nvidia exit by seeking reassurance on chip supply commitments and monitoring implications for local AI projects. Singapore's investigation into Megaspeed and related individuals remains ongoing, while China rejected espionage allegations as groundless.",
+    "date": "2026-11-15"
   }
 ]
