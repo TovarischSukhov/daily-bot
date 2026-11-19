@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://www.retaildive.com/news/ai-recommendations-returns/873075/",
-    "title": "AI recommendations are leading to returns",
-    "topic": "Retail",
-    "gist": "A Blue Yonder survey of 2,000 U.S. shoppers found that 46% of those who bought an AI-recommended product returned it, most often because the item didn't match its description — a problem the CEO attributes to poor product data, not the AI itself.",
-    "date": "2026-11-04"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/how-stitch-fix-is-using-ai-and-customer-feedback-to-build-its-private-brands/",
-    "title": "How Stitch Fix is using AI and customer feedback to build its private brands",
-    "topic": "DTC & Brands",
-    "gist": "Stitch Fix consolidated its private-label portfolio from 16 to 10 brands and expanded each into adjacent categories like footwear and bags, using customer feedback and AI to build brands around actual lifestyle needs rather than product categories.",
-    "date": "2026-11-04"
-  },
-  {
-    "url": "https://digiday.com/marketing/here-are-the-questions-on-advertisers-minds-after-the-doordash-instacart-deal/",
-    "title": "Here are the questions on advertisers’ minds after the DoorDash-Instacart deal",
-    "topic": "Ad & Marketing",
-    "gist": "DoorDash's $17 billion planned acquisition of Instacart has media buyers questioning the long-term impact on retail media, though the deal isn't expected to close until late 2027 or early 2028.",
-    "date": "2026-11-04"
-  },
-  {
-    "url": "https://internetretailing.net/omnicom-media-joins-rmx-retail-media-pilot/",
-    "title": "Omnicom Media joins RMX retail media pilot",
-    "topic": "Ad & Marketing",
-    "gist": "SMG has launched RMX, a retail media exchange platform, with Omnicom Media as its beta agency partner, aiming to unify campaign discovery, planning, and reporting across fragmented retail media networks in the UK.",
-    "date": "2026-11-04"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/11/ms-fashion-and-home-sales/",
-    "title": "M&S fashion and home sales recover but profits remain below pre-cyber attack levels",
-    "topic": "Retail",
-    "gist": "M&S reported a 17.5% sales rise in its Fashion, Home & Beauty division for H1 2026, but profit and margins remain well below pre-cyber attack levels due to lingering stock availability issues and rising online returns and fulfilment costs.",
-    "date": "2026-11-04"
-  },
-  {
     "url": "https://digiday.com/media-buying/amazons-shopping-agent-now-takes-orders-by-text-with-sponsored-product-ads-in-the-replies/",
     "title": "Amazon’s shopping agent now takes orders by text, with Sponsored Product ads in the replies",
     "topic": "Marketplaces",
@@ -719,5 +684,61 @@
     "topic": "Retail",
     "gist": "Target's Black Friday sale will include in-store gift card giveaways and early deal access for paid membership customers, targeting budget-conscious shoppers.",
     "date": "2026-11-18"
+  },
+  {
+    "url": "https://digiday.com/marketing/in-graphic-detail-welcome-to-the-agentic-commerce-quarter/",
+    "title": "In Graphic Detail: Welcome to the agentic commerce quarter",
+    "topic": "Marketplaces",
+    "gist": "AI-powered shopping agents are moving from experiment to infrastructure: OpenAI launched a ChatGPT wallet for agent purchases, Google is rolling out checkout via AI Mode in Canada, Walmart added agent spending caps, and Bain estimates one in four shoppers plan to start holiday shopping on an AI platform.",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://stratechery.com/2026/an-interview-with-eric-seufert-about-agentic-commerce/",
+    "title": "An Interview With Eric Seufert About Agentic Commerce",
+    "topic": "AI & Tech",
+    "gist": "Paywalled Stratechery interview with Eric Seufert on agentic commerce, touching on why advertising may win in the agent era and what it means for retailers to cater to AI agents rather than human browsers.",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://modernretail.co.uk/the-ai-agent-boom-is-creating-a-new-product-data-challenge-for-retailers/",
+    "title": "The AI agent boom is creating a new product data challenge for retailers",
+    "topic": "Retail",
+    "gist": "A whitepaper from Akeneo warns that deploying multiple AI agents across the product lifecycle is fundamentally different from deploying one, and that competitive advantage will come not from the agents themselves but from having governed, structured, and trustworthy product data underneath them.",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://www.retaildive.com/news/target-ai-shopping-assistant-drives-sales-q3/875106/",
+    "title": "Target’s AI shopping assistant is driving sales",
+    "topic": "Retail",
+    "gist": "Target's CEO says its beta AI shopping assistant, Ask Target, is showing early signs of driving sales in initial testing.",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://www.retaildive.com/news/home-depot-lowes-digital-sales-boost-q3-ecommerce/875054/",
+    "title": "E-commerce boosts Home Depot, Lowe’s in Q3",
+    "topic": "Retail",
+    "gist": "Home Depot and Lowe's both reported double-digit e-commerce growth in Q3, crediting continued investments in their digital shopping experiences.",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://www.retaildive.com/news/traffic-recovery-tj-maxx-marshalls-boost-tjx-q3/875025/",
+    "title": "Traffic recovery at T.J. Maxx, Marshalls boost TJX in Q3 as pressures mount",
+    "topic": "Retail",
+    "gist": "TJX (T.J. Maxx, Marshalls) posted modest Q3 gains on recovering store traffic, but faces mounting competition from resale platforms, department store promotions, and Ross.",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://www.retaildive.com/news/economic-optimism-plunges-lowest-level-great-recession-gallup-inflation/875058/",
+    "title": "Economic optimism plunges to lowest level since Great Recession",
+    "topic": "Macro",
+    "gist": "Gallup data shows public economic optimism has fallen to its lowest level since the Great Recession, with consumer perception increasingly diverging from GDP since the 2022 inflation spike.",
+    "date": "2026-11-19"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+    "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+    "topic": "AI & Tech",
+    "gist": "Microsoft CEO Satya Nadella argued at DealBook that the rise of AI agents will reshuffle internet economics, shifting revenue models from ad-driven human traffic toward transactional payments, and that platforms like Amazon blocking agents risk ceding ground to those that embrace them.",
+    "date": "2026-11-19"
   }
 ]
