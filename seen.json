@@ -1,103 +1,5 @@
 [
   {
-    "url": "https://digiday.com/media-buying/amazons-shopping-agent-now-takes-orders-by-text-with-sponsored-product-ads-in-the-replies/",
-    "title": "Amazon’s shopping agent now takes orders by text, with Sponsored Product ads in the replies",
-    "topic": "Marketplaces",
-    "gist": "Amazon's Alexa shopping agent now accepts orders via SMS for an invite-only group of U.S. customers, with Sponsored Product ads appearing inside those text conversations — though purchases the agent completes autonomously remain ad-free.",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.retaildive.com/news/amazon-adds-alexa-ai-shopping-functions/873602/",
-    "title": "Amazon adds over 100 Alexa for Shopping functions",
-    "topic": "Marketplaces",
-    "gist": "Amazon has added over 100 new capabilities to Alexa for Shopping, covering registries, subscriptions, delivery, and billing; Amazon's CEO noted that users of the tool spend 50% more per order than non-users.",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.retaildive.com/news/walmart-sparky-features-AI-holidays/873718/",
-    "title": "Walmart ramps up Sparky features in time for the holidays",
-    "topic": "Retail",
-    "gist": "Walmart's AI assistant Sparky added features including shopping-list-to-cart conversion, visual recognition, and recipe generation ahead of the holidays; Walmart says Sparky users spend 40% more per order and usage is up 70% since launch.",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://ecommercenews.eu/zalando-sees-new-revenue-potential-in-external-shops/",
-    "title": "Zalando sees new revenue potential in external shops",
-    "topic": "Marketplaces",
-    "gist": "Zalando is expanding its platform to surface products from external shops like Westwing, with an AI shopping agent eventually placing orders on those external sites directly from within the Zalando app.",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://ecommercenews.eu/eu-commission-approves-takeover-ceconomy-by-jd-com/",
-    "title": "EU Commission approves takeover Ceconomy by JD.com",
-    "topic": "Marketplaces",
-    "gist": "The European Commission has approved JD.com's acquisition of Ceconomy, owner of MediaMarkt and Saturn, with conditions requiring JD.com to offer warehousing and logistics services to third-party retailers.",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/11/jd-sports-rolls-out-stock-tracking-technology-across-414-stores-to-tackle-availability-and-theft/",
-    "title": "JD Sports rolls out stock-tracking technology across 414 stores to tackle availability and theft",
-    "topic": "Fulfillment & Ops",
-    "gist": "JD Sports deployed RFID inventory tracking across 414 UK and Ireland stores in roughly three months, achieving 98% on-shelf availability and cutting replenishment times by 20%.",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://internetretailing.net/guest-comment-lidl-is-winning-the-high-street-can-it-win-the-agentic-shopping-era/",
-    "title": "GUEST COMMENT Lidl is winning the high street. Can it win the agentic shopping era?",
-    "topic": "Retail",
-    "gist": "A strategy piece examines how Lidl's physical-first, discount model may fare as AI shopping agents increasingly handle purchase decisions, arguing the retailer must choose between optimizing for agent-driven price comparison or investing in direct consumer relationships that agents can't easily replicate.",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://digiday.com/sponsored/in-store-grocery-media/",
-    "title": "How TF is the grocery store a media channel?",
-    "topic": "Ad & Marketing",
-    "gist": "A sponsored guide from Grocery TV argues the physical grocery store remains a critical purchase-decision environment, citing that 95% of grocery shoppers make at least half their decisions in-store.",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/11/hush-opens-first-three-standalone-stores/",
-    "title": "Hush opens first three standalone stores as it moves onto the high street",
-    "topic": "DTC & Brands",
-    "gist": "UK womenswear brand Hush has opened its first three standalone stores after building its business primarily online, selecting three distinct retail environments to test different customer profiles.",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://digiday.com/marketing/future-of-marketing-briefing-creators-had-a-big-year-christmas-still-went-to-the-celebrities/",
-    "title": "Future of Marketing Briefing: Creators had a big year. Christmas still went to the celebrities",
-    "topic": "Ad & Marketing",
-    "gist": "Analysis of early holiday ad campaigns finds that despite creator marketing dominating brand strategies throughout the year, major Christmas campaigns from brands like John Lewis and Burberry are still led by celebrities rather than creators.",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.glossy.co/pop/glossy-pop-newsletter-depop-is-hosting-over-2000-campus-events-this-fall/",
-    "title": "Glossy Pop Newsletter: Depop is hosting over 2,000 campus events this fall",
-    "topic": "Marketplaces",
-    "gist": "Depop has tripled its campus presence to over 300 colleges and is running more than 2,000 in-person events this fall through its Campus Manager ambassador program, targeting Gen Z sellers and buyers.",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/big-box-briefing-the-themes-that-will-dominate-jason-bonfigs-tenure-as-best-buys-new-ceo/",
-    "title": "Big-Box Briefing: The themes that will dominate Jason Bonfig’s tenure as Best Buy’s new CEO",
-    "topic": "Retail",
-    "gist": "Jason Bonfig, a 27-year Best Buy veteran, became CEO on November 1, succeeding Corie Barry, with his tenure expected to focus on accelerating the company's existing strategy.",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/11/russia-denies-involvement-in-cyberattacks-on-supermarket-fridges-across-europe/",
-    "title": "Russia denies involvement in cyberattacks on supermarket fridges across Europe",
-    "topic": "Retail",
-    "gist": "A wave of cyberattacks on supermarket refrigeration systems across Belgium, Sweden, Ireland, France, and the UK has forced retailers to discard large quantities of perishable food; Russia denied involvement despite two pro-Russian groups claiming responsibility.",
-    "date": "2026-11-06"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/05/u-s-government-warns-of-ongoing-cyber-threat-amid-mass-hacks-of-industrial-retail-and-military-freezers/",
-    "title": "US government warns of ‘ongoing cyber threat’ amid mass hacks of industrial retail and military freezers",
-    "topic": "Retail",
-    "gist": "CISA, the FBI, and multiple U.S. federal agencies issued a joint warning about an ongoing cyber threat targeting internet-connected industrial refrigeration systems at grocery stores, cold storage facilities, military bases, and a blood bank, with attacks attributed broadly to Iran by security researchers.",
-    "date": "2026-11-06"
-  },
-  {
     "url": "https://www.modernretail.co/podcasts/how-delivery-apps-came-to-be-discovery-platforms/",
     "title": "How delivery apps came to be ‘discovery platforms’",
     "topic": "Marketplaces",
@@ -824,5 +726,40 @@
     "topic": "Retail",
     "gist": "Target posted 5.6% comparable sales growth in Q3 under new CEO Michael Fiddelke, though analysts note the result is more modest when stacked against weaker 2024 comparisons following a difficult 2025.",
     "date": "2026-11-20"
+  },
+  {
+    "url": "https://www.bloomberg.com/news/articles/2026-11-18/jellycats-squishmallows-and-lego-sets-for-adults-drive-holiday-traffic",
+    "title": "Adult-only households accounted for 55% of toy sales in the first half of 2026",
+    "topic": "Consumer Trends",
+    "gist": "Adult-only households now account for 55% of toy sales in the first half of 2026, driven by products like Jellycats, Squishmallows, and Lego sets marketed to grown-ups.",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.retaildive.com/news/container-store-neighborhood-intelligence-cybersecurity-incident/875342/",
+    "title": "The Container Store is back online after cybersecurity incident",
+    "topic": "Retail",
+    "gist": "The Container Store has come back online following a cybersecurity incident, with the company stating that customer financial data was not compromised.",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.retaildive.com/news/old-navy-recovery-gap-shines-q3-earnings-warm-weather/875291/",
+    "title": "Warm weather thwarts Old Navy recovery, as Gap continues to shine",
+    "topic": "DTC & Brands",
+    "gist": "Old Navy's recovery stalled due to warm weather hurting seasonal apparel sales, while Gap brand posted its 12th consecutive quarter of comparable sales growth.",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.retaildive.com/news/vuori-exec-ceo-athleta-sales-declines-q3-earnings/875279/",
+    "title": "Vuori exec to lead struggling Athleta",
+    "topic": "DTC & Brands",
+    "gist": "Ashley Kechter, a veteran of Vuori, Fabletics, and Gap Inc., has been appointed to lead Athleta, which recently reported another quarter of double-digit sales declines.",
+    "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.retaildive.com/news/nyc-surveillance-pricing-ban-fabfitfun-walmart/875277/",
+    "title": "The Weekly Closeout: NYC bans surveillance pricing, FabFitFun lands in Walmart",
+    "topic": "Retail",
+    "gist": "New York City has banned surveillance pricing — the practice of using personal data to set individualized prices — while FabFitFun is expanding into 3,000 Walmart stores with a physical beauty box offering.",
+    "date": "2026-11-21"
   }
 ]
