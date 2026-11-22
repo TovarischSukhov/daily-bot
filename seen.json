@@ -1,54 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/podcasts/how-delivery-apps-came-to-be-discovery-platforms/",
-    "title": "How delivery apps came to be ‘discovery platforms’",
-    "topic": "Marketplaces",
-    "gist": "DoorDash is acquiring Instacart for $17 billion, a move that signals delivery apps like DoorDash, Uber, and Instacart are repositioning themselves as retail discovery platforms rather than pure logistics providers.",
-    "date": "2026-11-07"
-  },
-  {
-    "url": "https://www.retaildive.com/news/bed-bath-beyonds-new-concept-original-store-format-earnings/874012/",
-    "title": "Bed Bath & Beyond’s new concept takes a page from original format",
-    "topic": "Retail",
-    "gist": "Neighborhood Intelligence (parent of Bed Bath & Beyond, The Container Store, Kirkland's) is opening a standalone Bed Bath & Beyond store in Arizona, closing underperforming locations, and shifting focus to organic growth and global sourcing to improve margins. E-commerce revenue grew 9%, led by 75% growth from Overstock.com.",
-    "date": "2026-11-07"
-  },
-  {
-    "url": "https://www.retaildive.com/news/the-childrens-place-leadership-shakeup-bankruptcy-rumors/874004/",
-    "title": "The Children’s Place shakes up leadership amid bankruptcy rumors",
-    "topic": "Retail",
-    "gist": "The Children's Place is reportedly considering bankruptcy and possible liquidation, with four senior executives including the interim CEO departing amid declining sales and widening losses.",
-    "date": "2026-11-07"
-  },
-  {
-    "url": "https://www.retaildive.com/news/under-armour-q2-earnings-sales-declines-licensed-youth-sports/873996/",
-    "title": "Under Armour to sell more full-price product at outlet stores",
-    "topic": "DTC & Brands",
-    "gist": "Under Armour is restructuring its retail and product strategy—cutting SKUs by another 25%, adding full-price products to outlet stores, and licensing its youth sports category—as revenue fell 7% and analysts question whether the brand has a relevance problem beyond cyclical softness.",
-    "date": "2026-11-07"
-  },
-  {
-    "url": "https://www.retaildive.com/news/reformation-q3-earnings-sales-growth-ai-planning-tool-in-stock-rates/873991/",
-    "title": "Reformation implements new AI planning tool, helping in-stock rates",
-    "topic": "Retail",
-    "gist": "Reformation implemented an AI-backed demand-forecasting and planning tool that improved in-stock rates and full-price selling, contributing to 19% revenue growth in Q3 and an expansion of its active customer base by 23%.",
-    "date": "2026-11-07"
-  },
-  {
-    "url": "https://www.retaildive.com/news/mattel-cuts-forecast-holidays-barbie-problem/873960/",
-    "title": "As Barbie stumbles, Mattel cuts forecast ahead of the holidays",
-    "topic": "Retail",
-    "gist": "Mattel posted 4% net sales growth in Q3 but cut its full-year guidance, citing underperformance of the Barbie brand and tariff uncertainty, as its new CEO faces pressure from investors to turn the business around.",
-    "date": "2026-11-07"
-  },
-  {
-    "url": "https://techcrunch.com/2026/11/06/ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo/",
-    "title": "Ramp data shows AI spending stalling just as Anthropic nears its IPO",
-    "topic": "AI & Tech",
-    "gist": "Ramp's spending data shows AI token volumes are rising but dollar spend flatlined in August–September, as price competition from OpenAI, Anthropic, and open-source models makes AI usage cheaper even as consumption grows.",
-    "date": "2026-11-07"
-  },
-  {
     "url": "https://www.glossy.co/fashion/inside-oner-actives-tequila-scented-new-flagship-in-nyc/",
     "title": "Inside Oner Active’s tequila-scented new flagship in NYC",
     "topic": "DTC & Brands",
@@ -761,5 +712,26 @@
     "topic": "Retail",
     "gist": "New York City has banned surveillance pricing — the practice of using personal data to set individualized prices — while FabFitFun is expanding into 3,000 Walmart stores with a physical beauty box offering.",
     "date": "2026-11-21"
+  },
+  {
+    "url": "https://www.pandex.io",
+    "title": "Pandex – Official European Law for AI Agents, over MCP",
+    "topic": "AI & Tech",
+    "gist": "Pandex는 EU 및 7개 유럽 국가의 법령과 최고법원 판결을 하나의 API와 MCP 서버로 제공하는 서비스로, AI 에이전트 및 법률 컴플라이언스 도구에 활용할 수 있다.",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
+    "title": "A tale of two Nvidias",
+    "topic": "Macro",
+    "gist": "Nvidia는 최근 분기 실적에서 강한 매출과 가이던스를 기록했지만, 중국에 대한 H200 칩 판매 중단과 Jensen Huang 전 CEO 복귀 논란이 동시에 불거지며 복잡한 국면을 맞고 있다.",
+    "date": "2026-11-22"
+  },
+  {
+    "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
+    "title": "Here are the top AI agents that can live in your text messages",
+    "topic": "AI & Tech",
+    "gist": "앱 설치 없이 문자 메시지로 작동하는 AI 개인 에이전트들이 급증하고 있으며, 일정 관리·쇼핑·예약·이메일 등 일상 업무를 대신 처리하는 20여 개 서비스가 현재 베타 또는 출시 단계에 있다.",
+    "date": "2026-11-22"
   }
 ]
