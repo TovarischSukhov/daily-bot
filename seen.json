@@ -1,54 +1,5 @@
 [
   {
-    "url": "https://www.retailgazette.co.uk/blog/2026/11/hurr-reaches-profitability-for-the-first-time/",
-    "title": "HURR reaches profitability for the first time",
-    "topic": "DTC & Brands",
-    "gist": "Fashion rental marketplace HURR has reached profitability for the first time after 18 months of operational restructuring, cost scrutiny, and strategic changes led by founder Lauren Roberts. The milestone is being framed as proof that circular fashion business models can be commercially viable, not just mission-driven.",
-    "date": "2026-11-11"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/11/asda-turnaround-falters-as-market-share-slips-to-11-3/",
-    "title": "Asda turnaround falters as market share slips to 11.3%",
-    "topic": "Retail",
-    "gist": "Asda is the only major UK grocer to report falling sales in the latest 12-week period, with revenue down 0.5% year-on-year and market share dropping from 11.6% to 11.3%, while rivals including Lidl, Morrisons, and Ocado all grew. Newly appointed CEO David Potts faces the task of reversing the decline under Asda's Formula for Growth strategy.",
-    "date": "2026-11-11"
-  },
-  {
-    "url": "https://digiday.com/marketing/mars-wants-to-future-proof-impulse-buys-as-ai-poised-to-take-over-more-grocery-runs/",
-    "title": "Mars wants to future proof impulse buys as AI is poised to take over more grocery runs",
-    "topic": "Retail",
-    "gist": "Mars is actively strategizing around agentic AI shopping assistants potentially replacing impulse-driven grocery runs, working to ensure its snack brands remain discoverable and purchasable when AI agents, rather than humans, make routine buying decisions. The company published a future-of-shopping report with Kantar and Synthesis to map the shift.",
-    "date": "2026-11-11"
-  },
-  {
-    "url": "https://www.modernretail.co/operations/mattel-brings-barbie-hot-wheels-to-tiktok-shop/",
-    "title": "Mattel brings Barbie, Hot Wheels to TikTok Shop",
-    "topic": "Marketplaces",
-    "gist": "Mattel is launching a branded storefront on TikTok Shop with around 20 products across its major toy properties, marking its first direct sales on the platform as it aims to convert existing community engagement into commerce. The company plans to expand to over 40 products and sees TikTok Shop as a channel for discovery and education alongside traditional retail.",
-    "date": "2026-11-11"
-  },
-  {
-    "url": "https://digiday.com/marketing/openais-new-business-agents-give-brands-a-free-way-into-the-conversation-its-also-selling-as-an-ad/",
-    "title": "OpenAI’s new business agents give brands a free way into the conversation it’s also selling as an ad",
-    "topic": "AI & Tech",
-    "gist": "OpenAI has launched a Business Hub where brands can claim a verified profile and, for U.S. e-commerce and online services businesses, publish a free 'business agent' — a branded chat within ChatGPT — alongside a paid ad version of the same format. The free organic option gives brands a way into AI-driven conversations before the paid product fully rolls out.",
-    "date": "2026-11-11"
-  },
-  {
-    "url": "https://ecommercenews.eu/european-council-approves-vat-simplification-for-online-sales/",
-    "title": "European Council approves VAT simplification for online sales",
-    "topic": "Macro",
-    "gist": "The European Council has approved an expansion of the digital VAT Import One Stop Shop (IOSS) to cover high-value goods sold online, simplifying VAT compliance for platforms and suppliers operating across EU markets. The move is part of broader EU efforts to streamline VAT collection on cross-border e-commerce.",
-    "date": "2026-11-11"
-  },
-  {
-    "url": "https://internetretailing.net/almost-half-of-shoppers-plan-black-friday-purchases-in-advance-with-ai-and-social-media-having-limited-influence-on-buying-behaviour/",
-    "title": "Almost half of shoppers plan Black Friday purchases in advance, with AI and social media having limited influence on buying behaviour",
-    "topic": "Consumer Trends",
-    "gist": "YouGov research of 2,000+ UK online shoppers finds that 47% already know what they intend to buy before major events like Black Friday, while only 9% say social media and 5% say AI recommendations meaningfully drive additional unplanned purchases. The findings suggest retailers should focus on capturing pre-formed intent rather than relying on promotions or digital channels to generate new demand.",
-    "date": "2026-11-11"
-  },
-  {
     "url": "https://ecommercenews.eu/eu-targets-online-sales-tricks-with-digital-fairness-act/",
     "title": "EU targets online sales tricks with Digital Fairness Act",
     "topic": "Retail",
@@ -698,5 +649,40 @@
     "topic": "Marketplaces",
     "gist": "Walmart partnered with Meta to let customers shop its Black Friday deals through the Muse AI agent, using a new 'Agent Gateway' system that Walmart plans to open to additional AI platforms while keeping customer data siloed from the agent.",
     "date": "2026-11-25"
+  },
+  {
+    "url": "https://ecommercenews.eu/72-of-german-tiktok-shop-merchants-sell-across-borders/",
+    "title": "‘72% of German TikTok Shop merchants sell across borders’",
+    "topic": "Marketplaces",
+    "gist": "Research commissioned by TikTok Shop shows that 72% of German merchants on the platform have sold to customers in other European markets, indicating strong cross-border adoption among its seller base.",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://internetretailing.net/guest-comment-how-real-time-data-can-help-retailers-handle-the-black-friday-rush/",
+    "title": "GUEST COMMENT How real-time data can help retailers handle the Black Friday rush",
+    "topic": "Retail",
+    "gist": "A Confluent executive outlines how real-time data streaming helps retailers like Victoria's Secret synchronize inventory, fulfillment, and demand signals during peak periods like Black Friday, reducing the lag between events and business decisions.",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://www.retailgazette.co.uk/blog/2026/11/shoppers-to-spend-40-per-cent-of-christmas-gift-budgets-on-black-friday-boots-finds/",
+    "title": "Shoppers to spend 40 per cent of Christmas gift budgets on Black Friday, Boots finds",
+    "topic": "Consumer Trends",
+    "gist": "YouGov research commissioned by Boots finds UK shoppers plan to spend roughly 40% of their Christmas gift budgets during Black Friday, with 29% already holding items in baskets awaiting price drops and loyalty rewards growing in importance especially among 18–24-year-olds.",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://digiday.com/marketing/brands-race-to-systematize-how-to-know-what-makes-creator-content-worth-paying-for/",
+    "title": "Brands race to systematize how to know what makes creator content worth paying for",
+    "topic": "Ad & Marketing",
+    "gist": "Brands like General Mills are building internal scoring frameworks — such as a 'talkability score' — to systematically evaluate whether creator-driven organic content outperforms paid ads, aiming to make influencer ROI repeatable and scalable.",
+    "date": "2026-11-26"
+  },
+  {
+    "url": "https://digiday.com/marketing/dicks-sporting-goods-is-turning-youth-sports-into-a-premium-ad-business/",
+    "title": "Dick’s Sporting Goods is turning youth sports into a premium ad business",
+    "topic": "Ad & Marketing",
+    "gist": "Dick's Sporting Goods more than doubled its Q3 net income year-over-year, with executives crediting its Dick's Media Network and youth sports app GameChanger as key contributors to growth.",
+    "date": "2026-11-26"
   }
 ]
