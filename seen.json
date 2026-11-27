@@ -1,40 +1,5 @@
 [
   {
-    "url": "https://ecommercenews.eu/eu-targets-online-sales-tricks-with-digital-fairness-act/",
-    "title": "EU targets online sales tricks with Digital Fairness Act",
-    "topic": "Retail",
-    "gist": "The European Commission has proposed the Digital Fairness Act to ban dark patterns, addictive design, and deceptive influencer marketing in online sales across the EU.",
-    "date": "2026-11-12"
-  },
-  {
-    "url": "https://www.practicalecommerce.com/usps-service-cuts-could-impact-merchants",
-    "title": "USPS Service Cuts Could Impact Merchants",
-    "topic": "Fulfillment & Ops",
-    "gist": "USPS posted a $6.5B net loss in fiscal 2026 and its Postmaster General warned of potential post office closures and reduced Marketing Mail service levels, with formal proposals expected in Q1 2027.",
-    "date": "2026-11-12"
-  },
-  {
-    "url": "https://ecommercenews.eu/sheins-total-investment-in-poland-reaches-1-billion-euros/",
-    "title": "Shein’s total investment in Poland reaches 1 billion euros",
-    "topic": "Fulfillment & Ops",
-    "gist": "Shein has committed an additional €500M to expand its logistics center in Poland, bringing its total investment in the country to €1B since 2022.",
-    "date": "2026-11-12"
-  },
-  {
-    "url": "https://www.cbsnews.com/news/united-airlines-bans-ai-agents-booking-flights/",
-    "title": "United Airlines bans AI agents from booking flights on behalf of travelers",
-    "topic": "AI & Tech",
-    "gist": "United Airlines is banning third-party AI agents from booking flights on its platforms, citing security risks, potential regulatory violations, and the desire to avoid adding powerful new intermediaries to its sales funnel.",
-    "date": "2026-11-12"
-  },
-  {
-    "url": "https://www.retaildive.com/news/amazon-black-friday-cyber-monday-holiday-deals/874359/",
-    "title": "Amazon’s Black Friday, Cyber Monday deals boast record exclusives",
-    "topic": "Marketplaces",
-    "gist": "Amazon's Black Friday and Cyber Monday events (Nov. 19–30) will feature a record number of Amazon-exclusive deals and lean heavily on AI-powered personalization through Alexa for Shopping, including price tracking and auto-buy features.",
-    "date": "2026-11-12"
-  },
-  {
     "url": "https://www.modernretail.co/operations/big-box-briefing-how-targets-and-walmarts-beauty-department-makeovers-are-reshaping-brand-strategies/",
     "title": "Big Box Briefing: How Target’s and Walmart’s beauty department makeovers are reshaping brand strategies",
     "topic": "Retail",
@@ -684,5 +649,47 @@
     "topic": "Ad & Marketing",
     "gist": "Dick's Sporting Goods more than doubled its Q3 net income year-over-year, with executives crediting its Dick's Media Network and youth sports app GameChanger as key contributors to growth.",
     "date": "2026-11-26"
+  },
+  {
+    "url": "https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer",
+    "title": "Credit card skimming scripts using WebRTC found on popular shopping sites",
+    "topic": "Retail",
+    "gist": "Researchers found card-skimming scripts using WebRTC planted on the checkout pages of Lascana, Samsonite, Revolve, and two other retailers just before Black Friday, stealing payment details before the transaction was processed. The attack exploited third-party marketing pixels and cookie-consent banners to inject code that evaded standard security monitoring by routing stolen data through WebRTC channels.",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://www.practicalecommerce.com/future-commerce-ceo-on-ai-brands-trust",
+    "title": "Future Commerce CEO on AI, Brands, Trust",
+    "topic": "AI & Tech",
+    "gist": "Future Commerce CEO Phillip Jackson shares predictions that AI agents will increasingly handle consumer purchases, celebrity brands are losing trust, and ultra-niche brands are gaining traction — and describes how he replaced hundreds of thousands in marketing spend by optimizing for AI answer engines instead of search. He also notes that 70% of consumers still refuse to let an agent buy on their behalf, but expects that to shift quickly.",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://internetretailing.net/agentic-shopping-falls-short-as-ai-recommends-out-of-stock-products/",
+    "title": "Agentic shopping falls short as AI recommends out-of-stock products",
+    "topic": "AI & Tech",
+    "gist": "Research by ob.session found that ChatGPT, Gemini, and Claude recommended out-of-stock products nearly 65% of the time across 400+ tested links, with ChatGPT performing best at a 45% success rate. The main failure cause was size-level stock unavailability, and the research argues that the future of agentic commerce depends on retailers exposing accurate, structured product data rather than AI model improvements alone.",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://www.modernretail.co/marketing/brands-and-retailers-are-taking-a-full-funnel-approach-to-reddit-holiday-advertising-this-bfcm/",
+    "title": "Brands and retailers are taking a full-funnel approach to Reddit holiday advertising this BFCM",
+    "topic": "Ad & Marketing",
+    "gist": "Major retailers including Levi's, Sephora, Target, and Dick's Sporting Goods are running full-funnel holiday ad campaigns on Reddit, using a mix of shoppable posts, video, and interactive formats to reach shoppers across discovery, consideration, and purchase stages. Reddit is positioning itself as a platform where shoppers actively seek product reviews and gift ideas.",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://www.glossy.co/fashion/luxury/luxury-briefing-black-friday-luxury-sales/",
+    "title": "Luxury Briefing: Why luxury retailers keep going back on sale",
+    "topic": "Retail",
+    "gist": "Several luxury brands, including Khaite and Toteme via Net-a-Porter and Mytheresa, are running Black Friday discounts or private sales, raising questions about what repeated discounting does to brand positioning and whether luxury shoppers learn to wait for sales. The piece also covers executive moves at Dior and Isabel Marant.",
+    "date": "2026-11-27"
+  },
+  {
+    "url": "https://modernretail.co.uk/retailers-target-the-cost-of-returns-as-60-of-shoppers-demand-they-remain-free/",
+    "title": "Retailers target the cost of returns as 60% of shoppers demand they remain free",
+    "topic": "Fulfillment & Ops",
+    "gist": "New Scurri research of 150 UK enterprise retailers and 1,028 consumers shows returns are the top operational improvement priority for retailers, yet 60% of consumers still expect returns to remain free and 39% prioritize fast refunds. Retailers are exploring automation and AI to reduce handling costs without passing them on to customers.",
+    "date": "2026-11-27"
   }
 ]
