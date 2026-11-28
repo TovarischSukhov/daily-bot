@@ -1,82 +1,5 @@
 [
   {
-    "url": "https://www.modernretail.co/operations/big-box-briefing-how-targets-and-walmarts-beauty-department-makeovers-are-reshaping-brand-strategies/",
-    "title": "Big Box Briefing: How Target’s and Walmart’s beauty department makeovers are reshaping brand strategies",
-    "topic": "Retail",
-    "gist": "Target and Walmart are overhauling their beauty and wellness aisles to compete with specialty retailers, forcing both large CPG companies and independent brands to rethink their distribution, media spend, and in-store presentation strategies.",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/11/vinted-looks-to-cash-in-on-us-expansion-with-new-advertising-push/",
-    "title": "Vinted looks to cash in on US expansion with new advertising push",
-    "topic": "Marketplaces",
-    "gist": "Vinted is expanding its post-purchase advertising business to the US via a partnership with Rokt, serving third-party brand offers immediately after checkout, replicating a model it has run across European markets since 2024 with a reported 4% average customer engagement rate.",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/11/dr-martens-faces-make-or-break-christmas-as-uk-sales-plunge-21/",
-    "title": "Dr Martens faces make-or-break Christmas as UK sales plunge 21%",
-    "topic": "DTC & Brands",
-    "gist": "Dr Martens reported a 9.2% revenue decline and a widened adjusted pre-tax loss for H1, with UK sales falling 21.3%, blaming weak boot demand, a hot summer, and planned DTC operational changes, while warning that full-year results hinge heavily on Christmas trading.",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://www.retailgazette.co.uk/blog/2026/11/jd-com-eyes-european-electronics-dominance-as-2-5bn-takeover-completes/",
-    "title": "JD.com eyes European electronics dominance as $2.5bn takeover completes",
-    "topic": "Marketplaces",
-    "gist": "JD.com has completed its $2.5bn acquisition of Ceconomy, gaining control of MediaMarkt and Saturn across 11 European markets, with plans for next-day and 90-minute delivery and integration with its Joybuy e-commerce platform.",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://digiday.com/marketing/d-research-marketers-express-revenue-optimism-for-2026-holiday-season-despite-economic-pressures/",
-    "title": "D+ Research: Marketers express revenue optimism for 2026 holiday season despite economic pressures",
-    "topic": "Ad & Marketing",
-    "gist": "A Digiday+ survey of 90 brand and retailer professionals found that 76% expect their 2026 holiday revenue to increase compared to 2025, a notably more optimistic outlook than last year's conservative forecasts.",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://internetretailing.net/guest-comment-retailers-have-work-to-do-earning-customer-trust-in-ai/",
-    "title": "GUEST COMMENT Retailers have work to do earning customer trust in AI",
-    "topic": "Retail",
-    "gist": "Research from Sinch finds that while 81% of consumers trust AI for order tracking, only 62% are comfortable with AI handling payment or billing changes, and just 43% believe AI will make shopping easier overall, with 69% of retail organizations having rolled back AI agents due to governance failures.",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://modernretail.co.uk/67-of-shoppers-will-trade-delivery-speed-for-lower-costs/",
-    "title": "67% of shoppers will trade delivery speed for lower costs",
-    "topic": "Fulfillment & Ops",
-    "gist": "New UK research from Scurri finds that 67% of shoppers will accept slower delivery in exchange for free or cheaper shipping during Peak, while 61% prioritize free delivery versus just 29% prioritizing next-day — suggesting the holiday fulfillment battle is shifting from speed to cost and delivery certainty.",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://modernretail.co.uk/the-q4-playbook-assumes-shoppers-start-with-search-many-no-longer-do/",
-    "title": "The Q4 playbook assumes shoppers start with search. Many no longer do.",
-    "topic": "Ad & Marketing",
-    "gist": "Salesforce data shows that between August 2025 and May 2026, discovery through brand-owned properties fell 7% and traditional search fell 15%, while discovery via AI assistants and social channels grew 38%, fundamentally disrupting the standard Q4 search-and-retargeting playbook.",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://www.retaildive.com/news/bnpl-bolsters-holiday-budgets/874425/",
-    "title": "BNPL bolsters holiday budgets",
-    "topic": "Consumer Trends",
-    "gist": "A survey by ETA and TSG found that 20% of consumers plan to increase BNPL use this holiday season, while 47% don't plan to use it at all; tap-to-pay (53%) and digital wallets (31%) saw far higher adoption trial rates over the past year than BNPL (9%).",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://www.retaildive.com/news/walmart-more-than-doubles-planned-drone-delivery-sites-zipline/874378/",
-    "title": "Walmart more than doubles planned drone delivery sites",
-    "topic": "Fulfillment & Ops",
-    "gist": "Walmart is adding 300 new drone delivery sites through an expanded partnership with Zipline, bringing its total planned drone locations to at least 570 — nearly nine times its current footprint — with deliveries possible in 30 minutes or less.",
-    "date": "2026-11-13"
-  },
-  {
-    "url": "https://www.glossy.co/beauty/the-holiday-playbook-how-brands-are-banking-on-live-shopping-this-holiday-season/",
-    "title": "Brands are banking on live shopping this holiday season",
-    "topic": "Ad & Marketing",
-    "gist": "Brands are increasing investment in live shopping for the 2026 holiday season, with US livestream retail sales projected to reach nearly $20 billion this year and annual spend per buyer growing 23% to an average of $339.",
-    "date": "2026-11-13"
-  },
-  {
     "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
     "title": "ChatGPT’s new Wallet lets AI agents shop and check out for you",
     "topic": "AI & Tech",
@@ -691,5 +614,26 @@
     "topic": "Fulfillment & Ops",
     "gist": "New Scurri research of 150 UK enterprise retailers and 1,028 consumers shows returns are the top operational improvement priority for retailers, yet 60% of consumers still expect returns to remain free and 39% prioritize fast refunds. Retailers are exploring automation and AI to reduce handling costs without passing them on to customers.",
     "date": "2026-11-27"
+  },
+  {
+    "url": "https://www.modernretail.co/podcasts/holiday-shopping-trends-tiktok-shop-ai-search-and-glitzy-celebrity-ads/",
+    "title": "Holiday shopping trends: TikTok Shop, AI search and glitzy celebrity ads",
+    "topic": "Marketplaces",
+    "gist": "Modern Retail's podcast breaks down key holiday shopping trends for Black Friday weekend, spotlighting TikTok Shop's growing role, AI-powered search behavior, and celebrity-driven ad campaigns.",
+    "date": "2026-11-28"
+  },
+  {
+    "url": "https://consumerrights.wiki/w/Audible_removes_download_option_for_purchased_audiobooks",
+    "title": "Audible removes download option for purchased audiobooks",
+    "topic": "Retail",
+    "gist": "Audible has removed the direct download option for purchased audiobooks from its US desktop website, limiting listeners to streaming via Cloud Player or the Windows-only AudibleSync app, raising questions about what 'ownership' of digital purchases actually means.",
+    "date": "2026-11-28"
+  },
+  {
+    "url": "https://arstechnica.com/shopping/2026/11/the-best-black-friday-deals-ars-could-find/",
+    "title": "The best Black Friday deals Ars could find",
+    "topic": "Consumer Trends",
+    "gist": "Ars Technica's Black Friday deals article opens with a satirical retelling of the 1986 Transformers movie as the fictional origin of Black Friday, before presumably listing deals.",
+    "date": "2026-11-28"
   }
 ]
